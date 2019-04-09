@@ -1,0 +1,66 @@
+{
+  "id": 1209425365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.15,-15.71667,47.15,-15.71667",
+    "geom:latitude":-15.71667,
+    "geom:longitude":47.15,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsimiasana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054637,
+    "gn:latitude":-15.71667,
+    "gn:longitude":47.15,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsimiasana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsimiasara",
+        "Tsimiasana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054637
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7338a6a9f533df8942e3a66e6db3a538",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425365
+        }
+    ],
+    "wof:id":1209425365,
+    "wof:lastmodified":1537664573,
+    "wof:name":"Tsimiasana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.15,
+    -15.71667,
+    47.15,
+    -15.71667
+],
+  "geometry": {"coordinates":[47.15,-15.71667],"type":"Point"}
+}

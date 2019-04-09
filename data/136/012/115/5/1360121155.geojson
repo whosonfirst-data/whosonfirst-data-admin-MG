@@ -1,0 +1,71 @@
+{
+  "id": 1360121155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5,-17.06667,48.5,-17.06667",
+    "geom:latitude":-17.06667,
+    "geom:longitude":48.5,
+    "gn:admin1_code":"7670851",
+    "gn:asciiname":"Bemaitso",
+    "gn:country_code":"MG",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067487,
+    "gn:latitude":-17.06667,
+    "gn:longitude":48.5,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Bemaitso",
+    "gn:population":8000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067487,
+        "wk:page":"Bemaitso"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f201e3ea6acd47d60d720c5328188830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1360121155,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1360121155,
+    "wof:lastmodified":1537568356,
+    "wof:name":"Bemaitso",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:population":8000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5,
+    -17.06667,
+    48.5,
+    -17.06667
+],
+  "geometry": {"coordinates":[48.5,-17.06667],"type":"Point"}
+}

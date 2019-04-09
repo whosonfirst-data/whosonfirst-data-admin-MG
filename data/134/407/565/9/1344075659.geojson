@@ -1,0 +1,68 @@
+{
+  "id": 1344075659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0,-21.06667,48.0,-21.06667",
+    "geom:latitude":-21.06667,
+    "geom:longitude":48.0,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohilava",
+    "gn:country_code":"MG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053944,
+    "gn:latitude":-21.06667,
+    "gn:longitude":48.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohilava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053944,
+        "wk:page":"Vohilava%2C_Mananjary"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e58f465a712e11ee5eaf6827bfbfdd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1344075659,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1344075659,
+    "wof:lastmodified":1537568334,
+    "wof:name":"Vohilava",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0,
+    -21.06667,
+    48.0,
+    -21.06667
+],
+  "geometry": {"coordinates":[48.0,-21.06667],"type":"Point"}
+}

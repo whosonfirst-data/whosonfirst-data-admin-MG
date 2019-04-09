@@ -1,0 +1,67 @@
+{
+  "id": 1309916365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33333,-17.26667,48.33333,-17.26667",
+    "geom:latitude":-17.26667,
+    "geom:longitude":48.33333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Marangidroa",
+    "gn:country_code":"MG",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060490,
+    "gn:latitude":-17.26667,
+    "gn:longitude":48.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marangidroa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060490
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8236ac05c537e5587dcf08795d061086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801091,
+            "locality_id":1309916365,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1309916365,
+    "wof:lastmodified":1536772201,
+    "wof:name":"Marangidroa",
+    "wof:parent_id":1108801091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33333,
+    -17.26667,
+    48.33333,
+    -17.26667
+],
+  "geometry": {"coordinates":[48.33333,-17.26667],"type":"Point"}
+}

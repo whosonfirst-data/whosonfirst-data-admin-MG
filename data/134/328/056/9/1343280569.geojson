@@ -1,0 +1,73 @@
+{
+  "id": 1343280569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.06667,-16.55,49.06667,-16.55",
+    "geom:latitude":-16.55,
+    "geom:longitude":49.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tsararapaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055110,
+    "gn:latitude":-16.55,
+    "gn:longitude":49.06667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsararapaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sararapaka",
+        "Tsaranapaka",
+        "Tsararapaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055110
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fc729a2de83077dc71dc6945e2ceeaaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801207,
+            "locality_id":1343280569,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1343280569,
+    "wof:lastmodified":1537664577,
+    "wof:name":"Tsararapaka",
+    "wof:parent_id":1108801207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.06667,
+    -16.55,
+    49.06667,
+    -16.55
+],
+  "geometry": {"coordinates":[49.06667,-16.55],"type":"Point"}
+}

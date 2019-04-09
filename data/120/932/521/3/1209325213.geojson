@@ -1,0 +1,61 @@
+{
+  "id": 1209325213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.81667,-15.33333,49.81667,-15.33333",
+    "geom:latitude":-15.33333,
+    "geom:longitude":49.81667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampoafamboay",
+    "gn:country_code":"MG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077641,
+    "gn:latitude":-15.33333,
+    "gn:longitude":49.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampoafamboay",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077641
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6e1a255e8837c8b42b4b0481793a6b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209325213
+        }
+    ],
+    "wof:id":1209325213,
+    "wof:lastmodified":1536290553,
+    "wof:name":"Ampoafamboay",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.81667,
+    -15.333329999999998,
+    49.81667,
+    -15.333329999999998
+],
+  "geometry": {"coordinates":[49.81667,-15.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293604341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.86667,-21.11667,47.86667,-21.11667",
+    "geom:latitude":-21.11667,
+    "geom:longitude":47.86667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambodiramiavona",
+    "gn:country_code":"MG",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081086,
+    "gn:latitude":-21.11667,
+    "gn:longitude":47.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodiramiavona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081086
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"aadffac2c9e06d52bd2608fb370a5a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1293604341,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1293604341,
+    "wof:lastmodified":1536616319,
+    "wof:name":"Ambodiramiavona",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.86667,
+    -21.11667000000001,
+    47.86667,
+    -21.11667000000001
+],
+  "geometry": {"coordinates":[47.86667,-21.11667000000001],"type":"Point"}
+}

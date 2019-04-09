@@ -1,0 +1,72 @@
+{
+  "id": 1326645033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.23333,-19.78333,47.23333,-19.78333",
+    "geom:latitude":-19.78333,
+    "geom:longitude":47.23333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tsarafierena",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055236,
+    "gn:latitude":-19.78333,
+    "gn:longitude":47.23333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsarafierena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsarafierana",
+        "Tsarafierena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421184621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055236
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f657f9ae07b0a1b4ee13a447c6cec80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184621,
+            "locality_id":1326645033,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1326645033,
+    "wof:lastmodified":1537664578,
+    "wof:name":"Tsarafierena",
+    "wof:parent_id":421184621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.23333,
+    -19.78333,
+    47.23333,
+    -19.78333
+],
+  "geometry": {"coordinates":[47.23333,-19.78333],"type":"Point"}
+}

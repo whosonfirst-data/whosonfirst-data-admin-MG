@@ -1,0 +1,67 @@
+{
+  "id": 1276351127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13333,-23.03333,44.13333,-23.03333",
+    "geom:latitude":-23.03333,
+    "geom:longitude":44.13333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samboindefo",
+    "gn:country_code":"MG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056884,
+    "gn:latitude":-23.03333,
+    "gn:longitude":44.13333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Samboindefo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056884
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"01eb680c598a8417d1efb79bec83bde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1276351127,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1276351127,
+    "wof:lastmodified":1536754632,
+    "wof:name":"Samboindefo",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13333,
+    -23.03333,
+    44.13333,
+    -23.03333
+],
+  "geometry": {"coordinates":[44.13333,-23.03333],"type":"Point"}
+}

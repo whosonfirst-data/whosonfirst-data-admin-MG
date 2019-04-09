@@ -1,0 +1,67 @@
+{
+  "id": 1226352903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.03333,-17.3,49.03333,-17.3",
+    "geom:latitude":-17.3,
+    "geom:longitude":49.03333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sakana",
+    "gn:country_code":"MG",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057111,
+    "gn:latitude":-17.3,
+    "gn:longitude":49.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sakana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057111
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6f92457d8b217d082a711ac79a9e4505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801217,
+            "locality_id":1226352903,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1226352903,
+    "wof:lastmodified":1536779571,
+    "wof:name":"Sakana",
+    "wof:parent_id":1108801217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.03333,
+    -17.3,
+    49.03333,
+    -17.3
+],
+  "geometry": {"coordinates":[49.03333,-17.3],"type":"Point"}
+}

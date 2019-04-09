@@ -1,0 +1,67 @@
+{
+  "id": 1327144947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.41667,-22.66667,47.41667,-22.66667",
+    "geom:latitude":-22.66667,
+    "geom:longitude":47.41667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohibe",
+    "gn:country_code":"MG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054044,
+    "gn:latitude":-22.66667,
+    "gn:longitude":47.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohibe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054044
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d7252b72d654f48b15c22079e1028b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801221,
+            "locality_id":1327144947,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1327144947,
+    "wof:lastmodified":1537092529,
+    "wof:name":"Vohibe",
+    "wof:parent_id":1108801221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.41667,
+    -22.66667,
+    47.41667,
+    -22.66667
+],
+  "geometry": {"coordinates":[47.41667,-22.66667],"type":"Point"}
+}

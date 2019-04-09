@@ -1,0 +1,67 @@
+{
+  "id": 1344272393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.08333,-18.21667,49.08333,-18.21667",
+    "geom:latitude":-18.21667,
+    "geom:longitude":49.08333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Maroseranana",
+    "gn:country_code":"MG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059733,
+    "gn:latitude":-18.21667,
+    "gn:longitude":49.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maroseranana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059733
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"94366b133f3ccd1a979a3ff5539231b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1344272393,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1344272393,
+    "wof:lastmodified":1537063987,
+    "wof:name":"Maroseranana",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.08333,
+    -18.21667,
+    49.08333,
+    -18.21667
+],
+  "geometry": {"coordinates":[49.08333,-18.21667],"type":"Point"}
+}

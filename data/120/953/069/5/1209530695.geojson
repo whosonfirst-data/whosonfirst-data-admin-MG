@@ -1,0 +1,61 @@
+{
+  "id": 1209530695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65,-19.3,47.65,-19.3",
+    "geom:latitude":-19.3,
+    "geom:longitude":47.65,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohimahavony",
+    "gn:country_code":"MG",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080409,
+    "gn:latitude":-19.3,
+    "gn:longitude":47.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohimahavony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080409
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bf0c002d9b3b21cdafa9d924d7f43d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209530695
+        }
+    ],
+    "wof:id":1209530695,
+    "wof:lastmodified":1536284289,
+    "wof:name":"Ambohimahavony",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65,
+    -19.3,
+    47.65,
+    -19.3
+],
+  "geometry": {"coordinates":[47.65,-19.3],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293405127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.35,-16.68333,47.35,-16.68333",
+    "geom:latitude":-16.68333,
+    "geom:longitude":47.35,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mandiameva",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061102,
+    "gn:latitude":-16.68333,
+    "gn:longitude":47.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mandiameva",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandiamavo",
+        "Mandiameva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061102
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"133474e2553a605303746fa4a6bc9e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801211,
+            "locality_id":1293405127,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1293405127,
+    "wof:lastmodified":1537664630,
+    "wof:name":"Mandiameva",
+    "wof:parent_id":1108801211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.35,
+    -16.68333,
+    47.35,
+    -16.68333
+],
+  "geometry": {"coordinates":[47.35,-16.68333],"type":"Point"}
+}

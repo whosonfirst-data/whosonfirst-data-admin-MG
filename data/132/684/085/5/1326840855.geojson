@@ -1,0 +1,67 @@
+{
+  "id": 1326840855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.21667,-17.05,49.21667,-17.05",
+    "geom:latitude":-17.05,
+    "geom:longitude":49.21667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambohimarina",
+    "gn:country_code":"MG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080208,
+    "gn:latitude":-17.05,
+    "gn:longitude":49.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohimarina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080208
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"721ea67fd6fc692a27d71ddfe956e265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801149,
+            "locality_id":1326840855,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1326840855,
+    "wof:lastmodified":1537034725,
+    "wof:name":"Ambohimarina",
+    "wof:parent_id":1108801149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.21667,
+    -17.05,
+    49.21667,
+    -17.05
+],
+  "geometry": {"coordinates":[49.21667,-17.05],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309814075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8,-22.01667,43.8,-22.01667",
+    "geom:latitude":-22.01667,
+    "geom:longitude":43.8,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Manoy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060532,
+    "gn:latitude":-22.01667,
+    "gn:longitude":43.8,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manoy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahanohy",
+        "Manoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060532
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"213c9d2689df8b2d5d74557f440a1d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1309814075,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1309814075,
+    "wof:lastmodified":1537664625,
+    "wof:name":"Manoy",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8,
+    -22.01667,
+    43.8,
+    -22.01667
+],
+  "geometry": {"coordinates":[43.8,-22.01667],"type":"Point"}
+}

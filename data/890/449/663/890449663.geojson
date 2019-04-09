@@ -1,0 +1,63 @@
+{
+  "id": 890449663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.84497,-16.988502,49.84497,-16.988502",
+    "geom:latitude":-16.988502,
+    "geom:longitude":49.84497,
+    "gn:country":"MG",
+    "gp:adm0":23424883,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Ste. Marie",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toamasina",
+    "qs:photos":136,
+    "qs:photos_1k":28,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1151,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23706578,
+        "qs:id":1087806
+    },
+    "wof:country":"MG",
+    "wof:created":1469052702,
+    "wof:geomhash":"e97513f4914c6830c4fe67c63d3652e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "county_id":890449663
+        }
+    ],
+    "wof:id":890449663,
+    "wof:lastmodified":1484698082,
+    "wof:name":"Ste. Marie",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.84497,
+    -16.988502,
+    49.84497,
+    -16.988502
+],
+  "geometry": {"coordinates":[49.84497,-16.988502],"type":"Point"}
+}

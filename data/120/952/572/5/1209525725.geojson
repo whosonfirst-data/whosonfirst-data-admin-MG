@@ -1,0 +1,61 @@
+{
+  "id": 1209525725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25,-21.68333,45.25,-21.68333",
+    "geom:latitude":-21.68333,
+    "geom:longitude":45.25,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dangovato",
+    "gn:country_code":"MG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065554,
+    "gn:latitude":-21.68333,
+    "gn:longitude":45.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Dangovato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065554
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bf79bcb14f48728ba51289ec57b4fee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209525725
+        }
+    ],
+    "wof:id":1209525725,
+    "wof:lastmodified":1536284437,
+    "wof:name":"Dangovato",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25,
+    -21.68333,
+    45.25,
+    -21.68333
+],
+  "geometry": {"coordinates":[45.25,-21.68333],"type":"Point"}
+}

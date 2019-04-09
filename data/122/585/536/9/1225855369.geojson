@@ -1,0 +1,67 @@
+{
+  "id": 1225855369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.81667,-13.38333,49.81667,-13.38333",
+    "geom:latitude":-13.38333,
+    "geom:longitude":49.81667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vindranina",
+    "gn:country_code":"MG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054124,
+    "gn:latitude":-13.38333,
+    "gn:longitude":49.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vindranina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054124
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"79784e3fc7f4b3d2f0adc3c1760c5437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1225855369,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1225855369,
+    "wof:lastmodified":1536998940,
+    "wof:name":"Vindranina",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.81667,
+    -13.38333,
+    49.81667,
+    -13.38333
+],
+  "geometry": {"coordinates":[49.81667,-13.38333],"type":"Point"}
+}

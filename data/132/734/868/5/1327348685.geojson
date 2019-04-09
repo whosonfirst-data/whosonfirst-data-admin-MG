@@ -1,0 +1,67 @@
+{
+  "id": 1327348685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.16667,-18.95,48.16667,-18.95",
+    "geom:latitude":-18.95,
+    "geom:longitude":48.16667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lahimena",
+    "gn:country_code":"MG",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063325,
+    "gn:latitude":-18.95,
+    "gn:longitude":48.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Lahimena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063325
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"94201a5ca670122ab5b79a6d187eb615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1327348685,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1327348685,
+    "wof:lastmodified":1536801652,
+    "wof:name":"Lahimena",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.16667,
+    -18.95,
+    48.16667,
+    -18.95
+],
+  "geometry": {"coordinates":[48.16667,-18.95],"type":"Point"}
+}

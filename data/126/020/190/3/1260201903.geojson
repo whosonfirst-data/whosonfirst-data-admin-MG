@@ -1,0 +1,72 @@
+{
+  "id": 1260201903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.68333,-24.11667,45.68333,-24.11667",
+    "geom:latitude":-24.11667,
+    "geom:longitude":45.68333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsakotsoa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069589,
+    "gn:latitude":-24.11667,
+    "gn:longitude":45.68333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsakotsoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atsakotsoa",
+        "Antsakotsoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069589
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a60161e174fa834e76132380ce84cf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801131,
+            "locality_id":1260201903,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1260201903,
+    "wof:lastmodified":1537664708,
+    "wof:name":"Antsakotsoa",
+    "wof:parent_id":1108801131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.68333,
+    -24.11667000000001,
+    45.68333,
+    -24.11667000000001
+],
+  "geometry": {"coordinates":[45.68333,-24.11667000000001],"type":"Point"}
+}

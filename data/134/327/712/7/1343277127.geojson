@@ -1,0 +1,74 @@
+{
+  "id": 1343277127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58333,-22.9,43.58333,-22.9",
+    "geom:latitude":-22.9,
+    "geom:longitude":43.58333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsianisiha",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054857,
+    "gn:latitude":-22.9,
+    "gn:longitude":43.58333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsianisiha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsanisiha",
+        "Tsanisiha",
+        "Tsianisiha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054857,
+        "wk:page":"Tsianisiha"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b3c898f5f8ba3abb0c0ee46cc8eec958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1343277127,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1343277127,
+    "wof:lastmodified":1537664575,
+    "wof:name":"Tsianisiha",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58333,
+    -22.9,
+    43.58333,
+    -22.9
+],
+  "geometry": {"coordinates":[43.58333,-22.9],"type":"Point"}
+}

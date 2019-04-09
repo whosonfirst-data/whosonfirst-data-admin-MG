@@ -1,0 +1,67 @@
+{
+  "id": 1225855137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01667,-25.05,46.01667,-25.05",
+    "geom:latitude":-25.05,
+    "geom:longitude":46.01667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tranotsiefa",
+    "gn:country_code":"MG",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055318,
+    "gn:latitude":-25.05,
+    "gn:longitude":46.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tranotsiefa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055318
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cb2a89d8c55d86a777f153c37f72742e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1225855137,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1225855137,
+    "wof:lastmodified":1536999288,
+    "wof:name":"Tranotsiefa",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01667,
+    -25.05,
+    46.01667,
+    -25.05
+],
+  "geometry": {"coordinates":[46.01667,-25.05],"type":"Point"}
+}

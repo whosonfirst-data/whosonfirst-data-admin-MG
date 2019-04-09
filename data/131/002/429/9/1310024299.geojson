@@ -1,0 +1,67 @@
+{
+  "id": 1310024299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.81667,-12.9,49.81667,-12.9",
+    "geom:latitude":-12.9,
+    "geom:longitude":49.81667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rangahia",
+    "gn:country_code":"MG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057960,
+    "gn:latitude":-12.9,
+    "gn:longitude":49.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Rangahia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057960
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7de3b1f192dd9b886dd747bf9da554c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1310024299,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1310024299,
+    "wof:lastmodified":1536613829,
+    "wof:name":"Rangahia",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.81667,
+    -12.9,
+    49.81667,
+    -12.9
+],
+  "geometry": {"coordinates":[49.81667,-12.9],"type":"Point"}
+}

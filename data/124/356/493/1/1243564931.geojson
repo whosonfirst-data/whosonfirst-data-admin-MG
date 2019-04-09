@@ -1,0 +1,67 @@
+{
+  "id": 1243564931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.61667,-13.4,49.61667,-13.4",
+    "geom:latitude":-13.4,
+    "geom:longitude":49.61667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampotakalanana-Anandray",
+    "gn:country_code":"MG",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077469,
+    "gn:latitude":-13.4,
+    "gn:longitude":49.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampotakalanana-Anandray",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077469
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"10abf71eb9e64fc3b919438073f01f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1243564931,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1243564931,
+    "wof:lastmodified":1536633305,
+    "wof:name":"Ampotakalanana-Anandray",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.61667,
+    -13.4,
+    49.61667,
+    -13.4
+],
+  "geometry": {"coordinates":[49.61667,-13.4],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276134029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.01667,-13.76667,50.01667,-13.76667",
+    "geom:latitude":-13.76667,
+    "geom:longitude":50.01667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Amboditsoba",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080899,
+    "gn:latitude":-13.76667,
+    "gn:longitude":50.01667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Amboditsoba",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amboditsoha",
+        "Amboditsoa",
+        "Amboditsoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080899
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4931b1aa4e3ee4d2bb3bf5db85ff03e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1276134029,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1276134029,
+    "wof:lastmodified":1537664800,
+    "wof:name":"Amboditsoba",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.01667,
+    -13.76667,
+    50.01667,
+    -13.76667
+],
+  "geometry": {"coordinates":[50.01667,-13.76667],"type":"Point"}
+}

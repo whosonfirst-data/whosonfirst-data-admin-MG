@@ -1,0 +1,72 @@
+{
+  "id": 1310215463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.13333,-15.0,50.13333,-15.0",
+    "geom:latitude":-15.0,
+    "geom:longitude":50.13333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maromandia",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059948,
+    "gn:latitude":-15.0,
+    "gn:longitude":50.13333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Maromandia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maromanda",
+        "Maromandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421196875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059948
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2fb9776f9690c368240cb0667e77424d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421196875,
+            "locality_id":1310215463,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1310215463,
+    "wof:lastmodified":1537664620,
+    "wof:name":"Maromandia",
+    "wof:parent_id":421196875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.13333,
+    -15.0,
+    50.13333,
+    -15.0
+],
+  "geometry": {"coordinates":[50.13333,-15.0],"type":"Point"}
+}

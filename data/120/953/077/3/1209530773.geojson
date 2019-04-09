@@ -1,0 +1,61 @@
+{
+  "id": 1209530773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95,-24.03333,46.95,-24.03333",
+    "geom:latitude":-24.03333,
+    "geom:longitude":46.95,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fenoarivo",
+    "gn:country_code":"MG",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064993,
+    "gn:latitude":-24.03333,
+    "gn:longitude":46.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Fenoarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064993
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f35b824525f42e6e4fcd5ce74687f1a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209530773
+        }
+    ],
+    "wof:id":1209530773,
+    "wof:lastmodified":1536284287,
+    "wof:name":"Fenoarivo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95,
+    -24.03333,
+    46.95,
+    -24.03333
+],
+  "geometry": {"coordinates":[46.95,-24.03333],"type":"Point"}
+}

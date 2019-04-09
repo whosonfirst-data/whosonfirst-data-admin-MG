@@ -1,0 +1,67 @@
+{
+  "id": 1259994835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,-21.41667,48.03333,-21.41667",
+    "geom:latitude":-21.41667,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sanafotahina",
+    "gn:country_code":"MG",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056870,
+    "gn:latitude":-21.41667,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sanafotahina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056870
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fba77c67dd3f24f57b73bab7cd1a0bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1259994835,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1259994835,
+    "wof:lastmodified":1536616430,
+    "wof:name":"Sanafotahina",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    -21.41667,
+    48.03333,
+    -21.41667
+],
+  "geometry": {"coordinates":[48.03333,-21.41667],"type":"Point"}
+}

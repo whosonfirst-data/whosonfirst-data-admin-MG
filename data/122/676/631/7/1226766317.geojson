@@ -1,0 +1,67 @@
+{
+  "id": 1226766317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93333,-20.53333,44.93333,-20.53333",
+    "geom:latitude":-20.53333,
+    "geom:longitude":44.93333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bepia",
+    "gn:country_code":"MG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067050,
+    "gn:latitude":-20.53333,
+    "gn:longitude":44.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bepia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067050
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c39f779f7f994a5e74dee95fc279eac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801165,
+            "locality_id":1226766317,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1226766317,
+    "wof:lastmodified":1536685928,
+    "wof:name":"Bepia",
+    "wof:parent_id":1108801165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93333,
+    -20.53333,
+    44.93333,
+    -20.53333
+],
+  "geometry": {"coordinates":[44.93333,-20.53333],"type":"Point"}
+}

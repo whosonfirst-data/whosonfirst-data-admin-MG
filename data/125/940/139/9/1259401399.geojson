@@ -1,0 +1,72 @@
+{
+  "id": 1259401399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1,-18.15,49.1,-18.15",
+    "geom:latitude":-18.15,
+    "geom:longitude":49.1,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sahantsaro",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057398,
+    "gn:latitude":-18.15,
+    "gn:longitude":49.1,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sahantsaro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahantsro",
+        "Sahantsaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057398
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1f30b898762d265cfb86f62eb19f52bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1259401399,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1259401399,
+    "wof:lastmodified":1537664600,
+    "wof:name":"Sahantsaro",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1,
+    -18.15,
+    49.1,
+    -18.15
+],
+  "geometry": {"coordinates":[49.1,-18.15],"type":"Point"}
+}

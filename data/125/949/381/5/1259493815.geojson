@@ -1,0 +1,67 @@
+{
+  "id": 1259493815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55,-23.3,47.55,-23.3",
+    "geom:latitude":-23.3,
+    "geom:longitude":47.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fonilaza",
+    "gn:country_code":"MG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064750,
+    "gn:latitude":-23.3,
+    "gn:longitude":47.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Fonilaza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064750
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"88c3af641a261ee1d11cbe32a4ced5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1259493815,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1259493815,
+    "wof:lastmodified":1536842803,
+    "wof:name":"Fonilaza",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55,
+    -23.3,
+    47.55,
+    -23.3
+],
+  "geometry": {"coordinates":[47.55,-23.3],"type":"Point"}
+}

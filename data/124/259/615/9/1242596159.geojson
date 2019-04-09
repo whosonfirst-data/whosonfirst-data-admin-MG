@@ -1,0 +1,67 @@
+{
+  "id": 1242596159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21667,-23.7,45.21667,-23.7",
+    "geom:latitude":-23.7,
+    "geom:longitude":45.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andranolava",
+    "gn:country_code":"MG",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075260,
+    "gn:latitude":-23.7,
+    "gn:longitude":45.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranolava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075260
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5fba579f123e8a6c989f7785d7a4d0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801135,
+            "locality_id":1242596159,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1242596159,
+    "wof:lastmodified":1537035358,
+    "wof:name":"Andranolava",
+    "wof:parent_id":1108801135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21667,
+    -23.7,
+    45.21667,
+    -23.7
+],
+  "geometry": {"coordinates":[45.21667,-23.7],"type":"Point"}
+}

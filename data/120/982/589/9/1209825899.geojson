@@ -1,0 +1,72 @@
+{
+  "id": 1209825899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.05,-23.41667,46.05,-23.41667",
+    "geom:latitude":-23.41667,
+    "geom:longitude":46.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambatobe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083276,
+    "gn:latitude":-23.41667,
+    "gn:longitude":46.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambatobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambatobe Ambony",
+        "Ambatobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083276
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1a72b03adec468b899826c1bb3e7b40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1209825899,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1209825899,
+    "wof:lastmodified":1537664818,
+    "wof:name":"Ambatobe",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.05,
+    -23.41667,
+    46.05,
+    -23.41667
+],
+  "geometry": {"coordinates":[46.05,-23.41667],"type":"Point"}
+}

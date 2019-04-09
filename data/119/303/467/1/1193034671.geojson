@@ -1,0 +1,67 @@
+{
+  "id": 1193034671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35,-20.6,44.35,-20.6",
+    "geom:latitude":-20.6,
+    "geom:longitude":44.35,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anadabo",
+    "gn:country_code":"MG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077404,
+    "gn:latitude":-20.6,
+    "gn:longitude":44.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anadabo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421190797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077404
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"42802c0bfd106ee128fe2341fafb4f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190797,
+            "locality_id":1193034671,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1193034671,
+    "wof:lastmodified":1536382317,
+    "wof:name":"Anadabo",
+    "wof:parent_id":421190797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35,
+    -20.6,
+    44.35,
+    -20.6
+],
+  "geometry": {"coordinates":[44.35,-20.6],"type":"Point"}
+}

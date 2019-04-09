@@ -1,0 +1,61 @@
+{
+  "id": 1209116599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48333,-25.18333,44.48333,-25.18333",
+    "geom:latitude":-25.18333,
+    "geom:longitude":44.48333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tananimarokamby",
+    "gn:country_code":"MG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055636,
+    "gn:latitude":-25.18333,
+    "gn:longitude":44.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tananimarokamby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055636
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ead1a729cf24de4c5e2a67a15f6366e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116599
+        }
+    ],
+    "wof:id":1209116599,
+    "wof:lastmodified":1536297233,
+    "wof:name":"Tananimarokamby",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48333,
+    -25.18333,
+    44.48333,
+    -25.18333
+],
+  "geometry": {"coordinates":[44.48333,-25.18333],"type":"Point"}
+}

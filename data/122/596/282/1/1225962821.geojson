@@ -1,0 +1,72 @@
+{
+  "id": 1225962821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.11667,-14.48333,50.11667,-14.48333",
+    "geom:latitude":-14.48333,
+    "geom:longitude":50.11667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antafononana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071334,
+    "gn:latitude":-14.48333,
+    "gn:longitude":50.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antafononana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antafianonamasina",
+        "Antafononana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071334
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a5c59c78256eb35d8efce923332ee495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1225962821,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1225962821,
+    "wof:lastmodified":1537664725,
+    "wof:name":"Antafononana",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.11667,
+    -14.48333,
+    50.11667,
+    -14.48333
+],
+  "geometry": {"coordinates":[50.11667,-14.48333],"type":"Point"}
+}

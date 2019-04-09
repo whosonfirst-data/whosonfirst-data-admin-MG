@@ -1,0 +1,72 @@
+{
+  "id": 1226664791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.8,-13.51667,49.8,-13.51667",
+    "geom:latitude":-13.51667,
+    "geom:longitude":49.8,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mosoro",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058368,
+    "gn:latitude":-13.51667,
+    "gn:longitude":49.8,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mosoro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misoro",
+        "Mosoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058368
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dc491709bfaa1750a899bead9b9575c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1226664791,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1226664791,
+    "wof:lastmodified":1537664607,
+    "wof:name":"Mosoro",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.8,
+    -13.51667,
+    49.8,
+    -13.51667
+],
+  "geometry": {"coordinates":[49.8,-13.51667],"type":"Point"}
+}

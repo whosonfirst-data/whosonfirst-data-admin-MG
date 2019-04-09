@@ -1,0 +1,73 @@
+{
+  "id": 1292918513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55,-22.25,47.55,-22.25",
+    "geom:latitude":-22.25,
+    "geom:longitude":47.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manjavelo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060655,
+    "gn:latitude":-22.25,
+    "gn:longitude":47.55,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manjavelo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazavola",
+        "Manjavela",
+        "Manjavelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421184623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060655
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a17c060b0215db2fc31bbe21fe672bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184623,
+            "locality_id":1292918513,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1292918513,
+    "wof:lastmodified":1537664627,
+    "wof:name":"Manjavelo",
+    "wof:parent_id":421184623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55,
+    -22.25,
+    47.55,
+    -22.25
+],
+  "geometry": {"coordinates":[47.55,-22.25],"type":"Point"}
+}

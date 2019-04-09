@@ -1,0 +1,67 @@
+{
+  "id": 1293311467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95,-20.81667,46.95,-20.81667",
+    "geom:latitude":-20.81667,
+    "geom:longitude":46.95,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antoby",
+    "gn:country_code":"MG",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070155,
+    "gn:latitude":-20.81667,
+    "gn:longitude":46.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antoby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        1108801177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070155
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7be4d39a0bea754cabcfc1eab2801f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801177,
+            "locality_id":1293311467,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1293311467,
+    "wof:lastmodified":1537039138,
+    "wof:name":"Antoby",
+    "wof:parent_id":1108801177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95,
+    -20.81667,
+    46.95,
+    -20.81667
+],
+  "geometry": {"coordinates":[46.95,-20.81667],"type":"Point"}
+}

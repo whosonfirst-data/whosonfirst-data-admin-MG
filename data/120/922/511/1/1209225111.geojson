@@ -1,0 +1,66 @@
+{
+  "id": 1209225111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25,-24.95,46.25,-24.95",
+    "geom:latitude":-24.95,
+    "geom:longitude":46.25,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsilebo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054732,
+    "gn:latitude":-24.95,
+    "gn:longitude":46.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsilebo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsileha",
+        "Tsilebo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054732
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7d3b36632882ef8ad2a912e5e3ad7cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209225111
+        }
+    ],
+    "wof:id":1209225111,
+    "wof:lastmodified":1537664574,
+    "wof:name":"Tsilebo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25,
+    -24.95,
+    46.25,
+    -24.95
+],
+  "geometry": {"coordinates":[46.25,-24.95],"type":"Point"}
+}

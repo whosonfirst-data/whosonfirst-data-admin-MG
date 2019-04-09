@@ -1,0 +1,73 @@
+{
+  "id": 1343676995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,-17.26667,47.66667,-17.26667",
+    "geom:latitude":-17.26667,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Keliloha",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063586,
+    "gn:latitude":-17.26667,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Keliloha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikeliloha",
+        "Keliloha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063586,
+        "wk:page":"Keliloha"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d2d9e9f393cf95848ac8f0ca04c8cbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801211,
+            "locality_id":1343676995,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1343676995,
+    "wof:lastmodified":1537664648,
+    "wof:name":"Keliloha",
+    "wof:parent_id":1108801211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    -17.26667,
+    47.66667,
+    -17.26667
+],
+  "geometry": {"coordinates":[47.66667,-17.26667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293799177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66667,-24.85,45.66667,-24.85",
+    "geom:latitude":-24.85,
+    "geom:longitude":45.66667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsira Avaratra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069190,
+    "gn:latitude":-24.85,
+    "gn:longitude":45.66667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsira Avaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsira Nord",
+        "Antsira Avaratra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069190
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c869b52b3cf245c162d3dd4fcd28dd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1293799177,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1293799177,
+    "wof:lastmodified":1537664704,
+    "wof:name":"Antsira Avaratra",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66667,
+    -24.85,
+    45.66667,
+    -24.85
+],
+  "geometry": {"coordinates":[45.66667,-24.85],"type":"Point"}
+}

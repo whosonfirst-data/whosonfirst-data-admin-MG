@@ -1,0 +1,67 @@
+{
+  "id": 1310712143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75,-21.81667,43.75,-21.81667",
+    "geom:latitude":-21.81667,
+    "geom:longitude":43.75,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Satrambondro",
+    "gn:country_code":"MG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056650,
+    "gn:latitude":-21.81667,
+    "gn:longitude":43.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Satrambondro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056650
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"eda42b6f81ca406d3d318a66b7cc0f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1310712143,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310712143,
+    "wof:lastmodified":1536616408,
+    "wof:name":"Satrambondro",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75,
+    -21.81667,
+    43.75,
+    -21.81667
+],
+  "geometry": {"coordinates":[43.75,-21.81667],"type":"Point"}
+}

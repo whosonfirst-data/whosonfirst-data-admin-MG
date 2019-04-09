@@ -1,0 +1,67 @@
+{
+  "id": 1276676867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38333,-21.4,44.38333,-21.4",
+    "geom:latitude":-21.4,
+    "geom:longitude":44.38333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antanimainty",
+    "gn:country_code":"MG",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070631,
+    "gn:latitude":-21.4,
+    "gn:longitude":44.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanimainty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070631
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dc46b0719fff85f1d43a9d7d3b75a102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1276676867,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1276676867,
+    "wof:lastmodified":1536814674,
+    "wof:name":"Antanimainty",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38333,
+    -21.4,
+    44.38333,
+    -21.4
+],
+  "geometry": {"coordinates":[44.38333,-21.4],"type":"Point"}
+}

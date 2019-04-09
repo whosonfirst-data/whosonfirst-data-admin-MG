@@ -1,0 +1,67 @@
+{
+  "id": 1209630305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03333,-22.6,44.03333,-22.6",
+    "geom:latitude":-22.6,
+    "geom:longitude":44.03333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankomaka Atsimo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071798,
+    "gn:latitude":-22.6,
+    "gn:longitude":44.03333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankomaka Atsimo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankomaka",
+        "Ankomaka Sud",
+        "Ankomaka Atsimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071798
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e687b183622943ec4abdd06080142f01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209630305
+        }
+    ],
+    "wof:id":1209630305,
+    "wof:lastmodified":1537664729,
+    "wof:name":"Ankomaka Atsimo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03333,
+    -22.6,
+    44.03333,
+    -22.6
+],
+  "geometry": {"coordinates":[44.03333,-22.6],"type":"Point"}
+}

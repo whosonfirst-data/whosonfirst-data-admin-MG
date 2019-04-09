@@ -1,0 +1,67 @@
+{
+  "id": 1293502553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58333,-20.65,44.58333,-20.65",
+    "geom:latitude":-20.65,
+    "geom:longitude":44.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampozatokana",
+    "gn:country_code":"MG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077428,
+    "gn:latitude":-20.65,
+    "gn:longitude":44.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampozatokana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421190797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077428
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a2f2670f26b7665d0f2334e74205ae8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190797,
+            "locality_id":1293502553,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1293502553,
+    "wof:lastmodified":1536765621,
+    "wof:name":"Ampozatokana",
+    "wof:parent_id":421190797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58333,
+    -20.65,
+    44.58333,
+    -20.65
+],
+  "geometry": {"coordinates":[44.58333,-20.65],"type":"Point"}
+}

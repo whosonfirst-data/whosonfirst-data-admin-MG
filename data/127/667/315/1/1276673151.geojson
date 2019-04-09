@@ -1,0 +1,67 @@
+{
+  "id": 1276673151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58333,-22.48333,46.58333,-22.48333",
+    "geom:latitude":-22.48333,
+    "geom:longitude":46.58333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mahavelo",
+    "gn:country_code":"MG",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062159,
+    "gn:latitude":-22.48333,
+    "gn:longitude":46.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahavelo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062159
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8c87091d311216d39c35d5d040d3d9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1276673151,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1276673151,
+    "wof:lastmodified":1536819425,
+    "wof:name":"Mahavelo",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58333,
+    -22.48333,
+    46.58333,
+    -22.48333
+],
+  "geometry": {"coordinates":[46.58333,-22.48333],"type":"Point"}
+}

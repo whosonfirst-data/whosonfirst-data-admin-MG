@@ -1,0 +1,67 @@
+{
+  "id": 1293498071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.28333,-23.76667,46.28333,-23.76667",
+    "geom:latitude":-23.76667,
+    "geom:longitude":46.28333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beamalona",
+    "gn:country_code":"MG",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068650,
+    "gn:latitude":-23.76667,
+    "gn:longitude":46.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beamalona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068650
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"63b3d030a7dd7d87fa0f98ff5ae9196a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1293498071,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1293498071,
+    "wof:lastmodified":1536772299,
+    "wof:name":"Beamalona",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.28333,
+    -23.76667,
+    46.28333,
+    -23.76667
+],
+  "geometry": {"coordinates":[46.28333,-23.76667],"type":"Point"}
+}

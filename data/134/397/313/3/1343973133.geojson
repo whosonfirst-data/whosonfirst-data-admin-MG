@@ -1,0 +1,67 @@
+{
+  "id": 1343973133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2,-24.03333,45.2,-24.03333",
+    "geom:latitude":-24.03333,
+    "geom:longitude":45.2,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankaratsy",
+    "gn:country_code":"MG",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073068,
+    "gn:latitude":-24.03333,
+    "gn:longitude":45.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankaratsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073068
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3257eb240cb2a9f0f511deb9151b1251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801131,
+            "locality_id":1343973133,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1343973133,
+    "wof:lastmodified":1537000893,
+    "wof:name":"Ankaratsy",
+    "wof:parent_id":1108801131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2,
+    -24.03333,
+    45.2,
+    -24.03333
+],
+  "geometry": {"coordinates":[45.2,-24.03333],"type":"Point"}
+}

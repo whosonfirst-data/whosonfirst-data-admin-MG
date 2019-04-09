@@ -1,0 +1,67 @@
+{
+  "id": 1276883989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16667,-18.53333,47.16667,-18.53333",
+    "geom:latitude":-18.53333,
+    "geom:longitude":47.16667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohitrifamoly",
+    "gn:country_code":"MG",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079811,
+    "gn:latitude":-18.53333,
+    "gn:longitude":47.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohitrifamoly",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079811
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d46a6eef5b5a91d7d2ef4f4ba4dbe917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1276883989,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1276883989,
+    "wof:lastmodified":1537034037,
+    "wof:name":"Ambohitrifamoly",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16667,
+    -18.53333,
+    47.16667,
+    -18.53333
+],
+  "geometry": {"coordinates":[47.16667,-18.53333],"type":"Point"}
+}

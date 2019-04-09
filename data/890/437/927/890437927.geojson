@@ -1,0 +1,103 @@
+{
+  "id": 890437927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.76667,-16.16667,49.76667,-16.16667",
+    "geom:latitude":-16.16667,
+    "geom:longitude":49.76667,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":41209,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5317\u99ac\u7d0d\u7d0d\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Mananara Nord"
+    ],
+    "name:eng_x_preferred":[
+        "Mananara"
+    ],
+    "name:fre_x_preferred":[
+        "Mananara Nord"
+    ],
+    "name:hrv_x_preferred":[
+        "Mananara Avaratra"
+    ],
+    "name:ita_x_preferred":[
+        "Mananara Nord"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ca\u30ca\u30e9\u30fb\u30ce\u30eb\u30c9"
+    ],
+    "name:mlg_x_preferred":[
+        "Mananara Nord"
+    ],
+    "name:pol_x_preferred":[
+        "Mananara Avaratra"
+    ],
+    "name:por_x_preferred":[
+        "Mananara Nord"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u043d\u0430\u0440\u0430 \u041d\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Mananara"
+    ],
+    "qs:name":"Mananara Avaratra",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        421189045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061412,
+        "gp:id":12514700,
+        "qs:id":1029615,
+        "wd:id":"Q657286"
+    },
+    "wof:country":"MG",
+    "wof:created":1469052172,
+    "wof:geomhash":"5365597d196e9e6d2ed2b3b2efd615ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421189045,
+            "locality_id":890437927,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":890437927,
+    "wof:lastmodified":1514484661,
+    "wof:name":"Mananara Avaratra",
+    "wof:parent_id":421189045,
+    "wof:placetype":"locality",
+    "wof:population":41209,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.76667,
+    -16.16667,
+    49.76667,
+    -16.16667
+],
+  "geometry": {"coordinates":[49.76667,-16.16667],"type":"Point"}
+}

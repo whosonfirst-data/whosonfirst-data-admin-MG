@@ -1,0 +1,72 @@
+{
+  "id": 1226656457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8,-24.65,46.8,-24.65",
+    "geom:latitude":-24.65,
+    "geom:longitude":46.8,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Elapa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065442,
+    "gn:latitude":-24.65,
+    "gn:longitude":46.8,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Elapa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elaba",
+        "Elapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065442
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f611395b332ab222ea1cc040d5358a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1226656457,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1226656457,
+    "wof:lastmodified":1537664667,
+    "wof:name":"Elapa",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8,
+    -24.65,
+    46.8,
+    -24.65
+],
+  "geometry": {"coordinates":[46.8,-24.65],"type":"Point"}
+}

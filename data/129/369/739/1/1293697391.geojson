@@ -1,0 +1,67 @@
+{
+  "id": 1293697391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.58333,-24.53333,45.58333,-24.53333",
+    "geom:latitude":-24.53333,
+    "geom:longitude":45.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Maranaoha",
+    "gn:country_code":"MG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060500,
+    "gn:latitude":-24.53333,
+    "gn:longitude":45.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maranaoha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060500
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9f0b193afb39a59cbce457f33c9e0f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1293697391,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1293697391,
+    "wof:lastmodified":1536980990,
+    "wof:name":"Maranaoha",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.58333,
+    -24.53333,
+    45.58333,
+    -24.53333
+],
+  "geometry": {"coordinates":[45.58333,-24.53333],"type":"Point"}
+}

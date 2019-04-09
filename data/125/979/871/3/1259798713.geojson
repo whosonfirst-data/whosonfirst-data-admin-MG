@@ -1,0 +1,67 @@
+{
+  "id": 1259798713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75,-21.71667,43.75,-21.71667",
+    "geom:latitude":-21.71667,
+    "geom:longitude":43.75,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tanandava",
+    "gn:country_code":"MG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055674,
+    "gn:latitude":-21.71667,
+    "gn:longitude":43.75,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Tanandava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055674
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"171c245ec6be49a6228e56d83406ad5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1259798713,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259798713,
+    "wof:lastmodified":1536901264,
+    "wof:name":"Tanandava",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75,
+    -21.71667,
+    43.75,
+    -21.71667
+],
+  "geometry": {"coordinates":[43.75,-21.71667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310116371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35,-15.0,48.35,-15.0",
+    "geom:latitude":-15.0,
+    "geom:longitude":48.35,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ampondrangodona",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077524,
+    "gn:latitude":-15.0,
+    "gn:longitude":48.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampondrangodona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampomboragodona",
+        "Ampondrangodona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077524
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1a8f2d1aa493927f241abd50a090b598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1310116371,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1310116371,
+    "wof:lastmodified":1537664774,
+    "wof:name":"Ampondrangodona",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35,
+    -15.0,
+    48.35,
+    -15.0
+],
+  "geometry": {"coordinates":[48.35,-15.0],"type":"Point"}
+}

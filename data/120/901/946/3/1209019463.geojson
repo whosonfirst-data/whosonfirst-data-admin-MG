@@ -1,0 +1,61 @@
+{
+  "id": 1209019463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0,-24.46667,47.0,-24.46667",
+    "geom:latitude":-24.46667,
+    "geom:longitude":47.0,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambatomaneka",
+    "gn:country_code":"MG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082831,
+    "gn:latitude":-24.46667,
+    "gn:longitude":47.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatomaneka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082831
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1079d848eb9160bf3e6bd42f5f0c8837",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209019463
+        }
+    ],
+    "wof:id":1209019463,
+    "wof:lastmodified":1536300190,
+    "wof:name":"Ambatomaneka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0,
+    -24.46667,
+    47.0,
+    -24.46667
+],
+  "geometry": {"coordinates":[47.0,-24.46667],"type":"Point"}
+}

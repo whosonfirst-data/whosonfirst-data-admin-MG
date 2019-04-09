@@ -1,0 +1,71 @@
+{
+  "id": 1209746847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.71667,-18.85,47.71667,-18.85",
+    "geom:latitude":-18.85,
+    "geom:longitude":47.71667,
+    "gn:admin1_code":"7670856",
+    "gn:asciiname":"Anjepy",
+    "gn:country_code":"MG",
+    "gn:dem":1550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073665,
+    "gn:latitude":-18.85,
+    "gn:longitude":47.71667,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Anjepy",
+    "gn:population":6000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421190795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073665,
+        "wk:page":"Anjepy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6c41a201a8c68b0a7f58359df2ed7e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190795,
+            "locality_id":1209746847,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1209746847,
+    "wof:lastmodified":1537568365,
+    "wof:name":"Anjepy",
+    "wof:parent_id":421190795,
+    "wof:placetype":"locality",
+    "wof:population":6000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.71667,
+    -18.85,
+    47.71667,
+    -18.85
+],
+  "geometry": {"coordinates":[47.71667,-18.85],"type":"Point"}
+}

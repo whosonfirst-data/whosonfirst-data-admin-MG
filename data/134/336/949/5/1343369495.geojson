@@ -1,0 +1,67 @@
+{
+  "id": 1343369495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.16667,-14.68333,48.16667,-14.68333",
+    "geom:latitude":-14.68333,
+    "geom:longitude":48.16667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antanimora",
+    "gn:country_code":"MG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070478,
+    "gn:latitude":-14.68333,
+    "gn:longitude":48.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanimora",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070478
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"01ecf4598d42c0761c3dc681c8890bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801119,
+            "locality_id":1343369495,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1343369495,
+    "wof:lastmodified":1536876503,
+    "wof:name":"Antanimora",
+    "wof:parent_id":1108801119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.16667,
+    -14.68333,
+    48.16667,
+    -14.68333
+],
+  "geometry": {"coordinates":[48.16667,-14.68333],"type":"Point"}
+}

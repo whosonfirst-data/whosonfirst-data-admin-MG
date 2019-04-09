@@ -1,0 +1,72 @@
+{
+  "id": 1310516669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33333,-13.78333,48.33333,-13.78333",
+    "geom:latitude":-13.78333,
+    "geom:longitude":48.33333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antranotelo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069966,
+    "gn:latitude":-13.78333,
+    "gn:longitude":48.33333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antranotelo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranotelo",
+        "Antranotelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069966
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d3580e1645471704c02bdc4895477d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801077,
+            "locality_id":1310516669,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1310516669,
+    "wof:lastmodified":1537664712,
+    "wof:name":"Antranotelo",
+    "wof:parent_id":1108801077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33333,
+    -13.78333,
+    48.33333,
+    -13.78333
+],
+  "geometry": {"coordinates":[48.33333,-13.78333],"type":"Point"}
+}

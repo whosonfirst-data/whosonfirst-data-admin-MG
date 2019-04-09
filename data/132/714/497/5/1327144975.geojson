@@ -1,0 +1,73 @@
+{
+  "id": 1327144975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.68333,-16.85,49.68333,-16.85",
+    "geom:latitude":-16.85,
+    "geom:longitude":49.68333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antanambao-Andrangazaha",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071041,
+    "gn:latitude":-16.85,
+    "gn:longitude":49.68333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antanambao-Andrangazaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andrangazava",
+        "Andrangazaha",
+        "Antanambao-Andrangazaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071041
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8c3e084a2f2bf59415fa704c84d2e534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801207,
+            "locality_id":1327144975,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1327144975,
+    "wof:lastmodified":1537664723,
+    "wof:name":"Antanambao-Andrangazaha",
+    "wof:parent_id":1108801207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.68333,
+    -16.85,
+    49.68333,
+    -16.85
+],
+  "geometry": {"coordinates":[49.68333,-16.85],"type":"Point"}
+}

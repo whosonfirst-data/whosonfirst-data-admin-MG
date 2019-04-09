@@ -1,0 +1,67 @@
+{
+  "id": 1292913831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93333,-23.95,44.93333,-23.95",
+    "geom:latitude":-23.95,
+    "geom:longitude":44.93333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Betaly",
+    "gn:country_code":"MG",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066445,
+    "gn:latitude":-23.95,
+    "gn:longitude":44.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betaly",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066445
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"51d4d64e04caba31d2ce31cb60fc7679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1292913831,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1292913831,
+    "wof:lastmodified":1536617692,
+    "wof:name":"Betaly",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93333,
+    -23.95,
+    44.93333,
+    -23.95
+],
+  "geometry": {"coordinates":[44.93333,-23.95],"type":"Point"}
+}

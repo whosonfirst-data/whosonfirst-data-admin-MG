@@ -1,0 +1,72 @@
+{
+  "id": 890433577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38333,-25.03333,46.38333,-25.03333",
+    "geom:latitude":-25.03333,
+    "geom:longitude":46.38333,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":36082,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Amboasary Sud"
+    ],
+    "qs:name":"Amboasary",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081790,
+        "gp:id":1354461,
+        "qs:id":130471,
+        "wd:id":"Q988775",
+        "wk:page":"Amboasary"
+    },
+    "wof:country":"MG",
+    "wof:created":1469051986,
+    "wof:geomhash":"fd17997abeac133e837bf856cb6867db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":890433577,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":890433577,
+    "wof:lastmodified":1527792958,
+    "wof:name":"Amboasary",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:population":36082,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38333,
+    -25.03333,
+    46.38333,
+    -25.03333
+],
+  "geometry": {"coordinates":[46.38333,-25.03333],"type":"Point"}
+}

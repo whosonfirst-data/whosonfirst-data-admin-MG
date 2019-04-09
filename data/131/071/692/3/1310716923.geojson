@@ -1,0 +1,68 @@
+{
+  "id": 1310716923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41667,-16.46667,48.41667,-16.46667",
+    "geom:latitude":-16.46667,
+    "geom:longitude":48.41667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Marovato",
+    "gn:country_code":"MG",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059605,
+    "gn:latitude":-16.46667,
+    "gn:longitude":48.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marovato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059605,
+        "wk:page":"Marovato%2C_Andilamena"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5755eb2dad8bd5b9f49d92c0d037a465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1310716923,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1310716923,
+    "wof:lastmodified":1537568343,
+    "wof:name":"Marovato",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41667,
+    -16.46667,
+    48.41667,
+    -16.46667
+],
+  "geometry": {"coordinates":[48.41667,-16.46667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209430095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-19.55,47.05,-19.55",
+    "geom:latitude":-19.55,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mandritsara",
+    "gn:country_code":"MG",
+    "gn:dem":2020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061026,
+    "gn:latitude":-19.55,
+    "gn:longitude":47.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mandritsara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061026,
+        "wk:page":"Mandritsara%2C_Betafo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8e0d01b2bfba27c3bf89f56941a05688",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209430095
+        }
+    ],
+    "wof:id":1209430095,
+    "wof:lastmodified":1537568345,
+    "wof:name":"Mandritsara",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -19.55,
+    47.05,
+    -19.55
+],
+  "geometry": {"coordinates":[47.05,-19.55],"type":"Point"}
+}

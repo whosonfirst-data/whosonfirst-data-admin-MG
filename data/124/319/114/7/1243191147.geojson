@@ -1,0 +1,67 @@
+{
+  "id": 1243191147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16667,-17.58333,49.16667,-17.58333",
+    "geom:latitude":-17.58333,
+    "geom:longitude":49.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tsangambato",
+    "gn:country_code":"MG",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055277,
+    "gn:latitude":-17.58333,
+    "gn:longitude":49.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsangambato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055277
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e87c9f68d448fbe05baa6cfa63c0a685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801217,
+            "locality_id":1243191147,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1243191147,
+    "wof:lastmodified":1536676604,
+    "wof:name":"Tsangambato",
+    "wof:parent_id":1108801217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16667,
+    -17.58333,
+    49.16667,
+    -17.58333
+],
+  "geometry": {"coordinates":[49.16667,-17.58333],"type":"Point"}
+}

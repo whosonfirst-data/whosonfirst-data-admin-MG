@@ -1,0 +1,73 @@
+{
+  "id": 1276243565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61667,-22.51667,44.61667,-22.51667",
+    "geom:latitude":-22.51667,
+    "geom:longitude":44.61667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vanoaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054324,
+    "gn:latitude":-22.51667,
+    "gn:longitude":44.61667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Vanoaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vanaoka",
+        "Yanoaka",
+        "Vanoaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054324
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0aa530f79ef52273f21a3a6f3b6d3494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1276243565,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1276243565,
+    "wof:lastmodified":1537664570,
+    "wof:name":"Vanoaka",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61667,
+    -22.51667,
+    44.61667,
+    -22.51667
+],
+  "geometry": {"coordinates":[44.61667,-22.51667],"type":"Point"}
+}

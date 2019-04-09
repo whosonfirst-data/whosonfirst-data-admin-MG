@@ -1,0 +1,72 @@
+{
+  "id": 1209924741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.03333,-19.1,49.03333,-19.1",
+    "geom:latitude":-19.1,
+    "geom:longitude":49.03333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampitabe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077738,
+    "gn:latitude":-19.1,
+    "gn:longitude":49.03333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampitabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petabe",
+        "Ampitabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077738
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"78b4e793bb3e55e743f5f5172ad5da2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801145,
+            "locality_id":1209924741,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1209924741,
+    "wof:lastmodified":1537664777,
+    "wof:name":"Ampitabe",
+    "wof:parent_id":1108801145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.03333,
+    -19.1,
+    49.03333,
+    -19.1
+],
+  "geometry": {"coordinates":[49.03333,-19.1],"type":"Point"}
+}

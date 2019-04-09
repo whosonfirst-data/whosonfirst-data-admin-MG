@@ -1,0 +1,61 @@
+{
+  "id": 1209116713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.03333,-14.3,50.03333,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":50.03333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampanantanana",
+    "gn:country_code":"MG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078808,
+    "gn:latitude":-14.3,
+    "gn:longitude":50.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampanantanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078808
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"aefe57431fbec40d4f7672565e360e52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116713
+        }
+    ],
+    "wof:id":1209116713,
+    "wof:lastmodified":1536297229,
+    "wof:name":"Ampanantanana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.03333,
+    -14.3,
+    50.03333,
+    -14.3
+],
+  "geometry": {"coordinates":[50.03333,-14.3],"type":"Point"}
+}

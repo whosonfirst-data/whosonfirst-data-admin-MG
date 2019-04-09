@@ -1,0 +1,72 @@
+{
+  "id": 1344075619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5,-17.56667,44.5,-17.56667",
+    "geom:latitude":-17.56667,
+    "geom:longitude":44.5,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Betabobo Avaratra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066520,
+    "gn:latitude":-17.56667,
+    "gn:longitude":44.5,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Betabobo Avaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Betabobo",
+        "Betabobo Avaratra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066520
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"635af3044b1edc1de00b080fff803d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801171,
+            "locality_id":1344075619,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1344075619,
+    "wof:lastmodified":1537664677,
+    "wof:name":"Betabobo Avaratra",
+    "wof:parent_id":1108801171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5,
+    -17.56667,
+    44.5,
+    -17.56667
+],
+  "geometry": {"coordinates":[44.5,-17.56667],"type":"Point"}
+}

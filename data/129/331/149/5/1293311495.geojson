@@ -1,0 +1,67 @@
+{
+  "id": 1293311495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23333,-19.0,44.23333,-19.0",
+    "geom:latitude":-19.0,
+    "geom:longitude":44.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Benjavilo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067133,
+    "gn:latitude":-19.0,
+    "gn:longitude":44.23333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Benjavilo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Behenjavilo",
+        "Beanjavily",
+        "Benjavilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067133
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e8e10280547c513525dc4de21c8964ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293311495,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293311495,
+    "wof:lastmodified":1537664685,
+    "wof:name":"Benjavilo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23333,
+    -19.0,
+    44.23333,
+    -19.0
+],
+  "geometry": {"coordinates":[44.23333,-19.0],"type":"Point"}
+}

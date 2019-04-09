@@ -1,0 +1,67 @@
+{
+  "id": 1276567437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1,-24.85,47.1,-24.85",
+    "geom:latitude":-24.85,
+    "geom:longitude":47.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anena",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074024,
+    "gn:latitude":-24.85,
+    "gn:longitude":47.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074024
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a4d9666e0cde054424fd1ba39dae2234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1276567437,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1276567437,
+    "wof:lastmodified":1536962376,
+    "wof:name":"Anena",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1,
+    -24.85,
+    47.1,
+    -24.85
+],
+  "geometry": {"coordinates":[47.1,-24.85],"type":"Point"}
+}

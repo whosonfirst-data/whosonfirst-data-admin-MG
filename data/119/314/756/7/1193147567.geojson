@@ -1,0 +1,67 @@
+{
+  "id": 1193147567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.45,-15.6,47.45,-15.6",
+    "geom:latitude":-15.6,
+    "geom:longitude":47.45,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mahiadokotra",
+    "gn:country_code":"MG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061995,
+    "gn:latitude":-15.6,
+    "gn:longitude":47.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahiadokotra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061995
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"27ae0b5670ceb0e85a5797e19ad7dd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801201,
+            "locality_id":1193147567,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1193147567,
+    "wof:lastmodified":1536381737,
+    "wof:name":"Mahiadokotra",
+    "wof:parent_id":1108801201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.45,
+    -15.6,
+    47.45,
+    -15.6
+],
+  "geometry": {"coordinates":[47.45,-15.6],"type":"Point"}
+}

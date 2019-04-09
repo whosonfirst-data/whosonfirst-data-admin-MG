@@ -1,0 +1,72 @@
+{
+  "id": 1360004461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58333,-24.6,46.58333,-24.6",
+    "geom:latitude":-24.6,
+    "geom:longitude":46.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Berohanga",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066875,
+    "gn:latitude":-24.6,
+    "gn:longitude":46.58333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Berohanga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beroranga",
+        "Berohanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066875
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"49a6236ed3522a1d3d98850d455a9b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1360004461,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1360004461,
+    "wof:lastmodified":1537664680,
+    "wof:name":"Berohanga",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58333,
+    -24.6,
+    46.58333,
+    -24.6
+],
+  "geometry": {"coordinates":[46.58333,-24.6],"type":"Point"}
+}

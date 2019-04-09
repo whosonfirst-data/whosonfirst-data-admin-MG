@@ -1,0 +1,61 @@
+{
+  "id": 1209019447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5,-22.33333,45.5,-22.33333",
+    "geom:latitude":-22.33333,
+    "geom:longitude":45.5,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nanarena",
+    "gn:country_code":"MG",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058266,
+    "gn:latitude":-22.33333,
+    "gn:longitude":45.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nanarena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058266
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ee1af5ed7b0648c4a784218792c0ed2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209019447
+        }
+    ],
+    "wof:id":1209019447,
+    "wof:lastmodified":1536300190,
+    "wof:name":"Nanarena",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5,
+    -22.33333,
+    45.5,
+    -22.33333
+],
+  "geometry": {"coordinates":[45.5,-22.33333],"type":"Point"}
+}

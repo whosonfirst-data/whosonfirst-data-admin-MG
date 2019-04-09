@@ -1,0 +1,72 @@
+{
+  "id": 1293210835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2,-15.5,48.2,-15.5",
+    "geom:latitude":-15.5,
+    "geom:longitude":48.2,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambendra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082405,
+    "gn:latitude":-15.5,
+    "gn:longitude":48.2,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambendra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambandrana",
+        "Ambendra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082405
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2a2a32a046344ac7fda6cfa75d45dad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1293210835,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1293210835,
+    "wof:lastmodified":1537664812,
+    "wof:name":"Ambendra",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2,
+    -15.5,
+    48.2,
+    -15.5
+],
+  "geometry": {"coordinates":[48.2,-15.5],"type":"Point"}
+}

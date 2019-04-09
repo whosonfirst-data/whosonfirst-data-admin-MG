@@ -1,0 +1,66 @@
+{
+  "id": 1209425423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.78333,-16.41667,46.78333,-16.41667",
+    "geom:latitude":-16.41667,
+    "geom:longitude":46.78333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Malaiboka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061839,
+    "gn:latitude":-16.41667,
+    "gn:longitude":46.78333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Malaiboka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malaihoka",
+        "Malaiboka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061839
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ea6e1ffa7754f925c824a9e32acf4d3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425423
+        }
+    ],
+    "wof:id":1209425423,
+    "wof:lastmodified":1537664637,
+    "wof:name":"Malaiboka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.78333,
+    -16.41667,
+    46.78333,
+    -16.41667
+],
+  "geometry": {"coordinates":[46.78333,-16.41667],"type":"Point"}
+}

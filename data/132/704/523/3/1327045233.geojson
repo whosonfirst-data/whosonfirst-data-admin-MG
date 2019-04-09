@@ -1,0 +1,67 @@
+{
+  "id": 1327045233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05,-24.68333,45.05,-24.68333",
+    "geom:latitude":-24.68333,
+    "geom:longitude":45.05,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sihanadava",
+    "gn:country_code":"MG",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056577,
+    "gn:latitude":-24.68333,
+    "gn:longitude":45.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sihanadava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056577
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9db364a808a19a196e6418dbcb7f19a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1327045233,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1327045233,
+    "wof:lastmodified":1536741654,
+    "wof:name":"Sihanadava",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05,
+    -24.68333,
+    45.05,
+    -24.68333
+],
+  "geometry": {"coordinates":[45.05,-24.68333],"type":"Point"}
+}

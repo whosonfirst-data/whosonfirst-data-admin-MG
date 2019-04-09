@@ -1,0 +1,67 @@
+{
+  "id": 1327450261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85,-21.75,46.85,-21.75",
+    "geom:latitude":-21.75,
+    "geom:longitude":46.85,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Iomindry",
+    "gn:country_code":"MG",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064070,
+    "gn:latitude":-21.75,
+    "gn:longitude":46.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Iomindry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064070
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a20a4519f4aaed7cebf04ccb0a2a1d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171625,
+            "locality_id":1327450261,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1327450261,
+    "wof:lastmodified":1536654968,
+    "wof:name":"Iomindry",
+    "wof:parent_id":421171625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85,
+    -21.75,
+    46.85,
+    -21.75
+],
+  "geometry": {"coordinates":[46.85,-21.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242981291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.65,-13.6,49.65,-13.6",
+    "geom:latitude":-13.6,
+    "geom:longitude":49.65,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Betakilotra",
+    "gn:country_code":"MG",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066464,
+    "gn:latitude":-13.6,
+    "gn:longitude":49.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betakilotra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066464
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3be7c3350f0d58cd668cdc9ff28149a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1242981291,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1242981291,
+    "wof:lastmodified":1536978476,
+    "wof:name":"Betakilotra",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.65,
+    -13.6,
+    49.65,
+    -13.6
+],
+  "geometry": {"coordinates":[49.65,-13.6],"type":"Point"}
+}

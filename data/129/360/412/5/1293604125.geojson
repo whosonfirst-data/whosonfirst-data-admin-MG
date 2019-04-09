@@ -1,0 +1,68 @@
+{
+  "id": 1293604125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.81667,-22.28333,47.81667,-22.28333",
+    "geom:latitude":-22.28333,
+    "geom:longitude":47.81667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lanivo",
+    "gn:country_code":"MG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063213,
+    "gn:latitude":-22.28333,
+    "gn:longitude":47.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Lanivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421184623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063213,
+        "wk:page":"Lanivo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"24b0bb116c58e1b6210ed5ef4c160c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184623,
+            "locality_id":1293604125,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1293604125,
+    "wof:lastmodified":1537568348,
+    "wof:name":"Lanivo",
+    "wof:parent_id":421184623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.81667,
+    -22.28333,
+    47.81667,
+    -22.28333
+],
+  "geometry": {"coordinates":[47.81667,-22.28333],"type":"Point"}
+}

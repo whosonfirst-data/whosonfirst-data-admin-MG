@@ -1,0 +1,67 @@
+{
+  "id": 1343377653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5,-19.08333,44.5,-19.08333",
+    "geom:latitude":-19.08333,
+    "geom:longitude":44.5,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bejea",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068104,
+    "gn:latitude":-19.08333,
+    "gn:longitude":44.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bejea",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        421199279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068104
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2002550ac6032ebac953f75d1a4fd872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199279,
+            "locality_id":1343377653,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1343377653,
+    "wof:lastmodified":1536864348,
+    "wof:name":"Bejea",
+    "wof:parent_id":421199279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5,
+    -19.08333,
+    44.5,
+    -19.08333
+],
+  "geometry": {"coordinates":[44.5,-19.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242788079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-20.66667,47.05,-20.66667",
+    "geom:latitude":-20.66667,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Masitaho",
+    "gn:country_code":"MG",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059393,
+    "gn:latitude":-20.66667,
+    "gn:longitude":47.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Masitaho",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        1108801177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059393
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0a4ee91021ce160b88d95f64a85ff802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801177,
+            "locality_id":1242788079,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1242788079,
+    "wof:lastmodified":1536760587,
+    "wof:name":"Masitaho",
+    "wof:parent_id":1108801177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -20.66667,
+    47.05,
+    -20.66667
+],
+  "geometry": {"coordinates":[47.05,-20.66667],"type":"Point"}
+}

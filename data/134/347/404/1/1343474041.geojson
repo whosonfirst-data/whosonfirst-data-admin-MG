@@ -1,0 +1,67 @@
+{
+  "id": 1343474041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.68333,-14.01667,49.68333,-14.01667",
+    "geom:latitude":-14.01667,
+    "geom:longitude":49.68333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Marojala",
+    "gn:country_code":"MG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060072,
+    "gn:latitude":-14.01667,
+    "gn:longitude":49.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marojala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060072
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c9c3fd6aab609fab8dc1b224b4e584fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1343474041,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1343474041,
+    "wof:lastmodified":1536726832,
+    "wof:name":"Marojala",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.68333,
+    -14.01667,
+    49.68333,
+    -14.01667
+],
+  "geometry": {"coordinates":[49.68333,-14.01667],"type":"Point"}
+}

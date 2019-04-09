@@ -1,0 +1,67 @@
+{
+  "id": 1225954643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3,-19.81667,48.3,-19.81667",
+    "geom:latitude":-19.81667,
+    "geom:longitude":48.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampatsy",
+    "gn:country_code":"MG",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077905,
+    "gn:latitude":-19.81667,
+    "gn:longitude":48.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampatsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077905
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c245944b378d107113bb791bb6acc3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801109,
+            "locality_id":1225954643,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1225954643,
+    "wof:lastmodified":1536855182,
+    "wof:name":"Ampatsy",
+    "wof:parent_id":1108801109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3,
+    -19.81667,
+    48.3,
+    -19.81667
+],
+  "geometry": {"coordinates":[48.3,-19.81667],"type":"Point"}
+}

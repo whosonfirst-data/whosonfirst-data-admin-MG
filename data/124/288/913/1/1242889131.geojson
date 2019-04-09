@@ -1,0 +1,67 @@
+{
+  "id": 1242889131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.86667,-20.48333,46.86667,-20.48333",
+    "geom:latitude":-20.48333,
+    "geom:longitude":46.86667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marosahona",
+    "gn:country_code":"MG",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059783,
+    "gn:latitude":-20.48333,
+    "gn:longitude":46.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marosahona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059783
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a09e9a72ad0adc832f4ea4f0f8d07ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1242889131,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1242889131,
+    "wof:lastmodified":1536612386,
+    "wof:name":"Marosahona",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.86667,
+    -20.48333,
+    46.86667,
+    -20.48333
+],
+  "geometry": {"coordinates":[46.86667,-20.48333],"type":"Point"}
+}

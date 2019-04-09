@@ -1,0 +1,67 @@
+{
+  "id": 1310616205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6,-23.8,44.6,-23.8",
+    "geom:latitude":-23.8,
+    "geom:longitude":44.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andolomahery",
+    "gn:country_code":"MG",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075883,
+    "gn:latitude":-23.8,
+    "gn:longitude":44.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andolomahery",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075883
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c194633e001a4fd4de90c9be08aadce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1310616205,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310616205,
+    "wof:lastmodified":1536757290,
+    "wof:name":"Andolomahery",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6,
+    -23.8,
+    44.6,
+    -23.8
+],
+  "geometry": {"coordinates":[44.6,-23.8],"type":"Point"}
+}

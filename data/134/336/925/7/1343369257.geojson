@@ -1,0 +1,67 @@
+{
+  "id": 1343369257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85,-20.96667,46.85,-20.96667",
+    "geom:latitude":-20.96667,
+    "geom:longitude":46.85,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Androimanga",
+    "gn:country_code":"MG",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074232,
+    "gn:latitude":-20.96667,
+    "gn:longitude":46.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Androimanga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074232
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8cc0b6eeca8934d4c5a50a207439e153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1343369257,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1343369257,
+    "wof:lastmodified":1536876859,
+    "wof:name":"Androimanga",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85,
+    -20.96667,
+    46.85,
+    -20.96667
+],
+  "geometry": {"coordinates":[46.85,-20.96667],"type":"Point"}
+}

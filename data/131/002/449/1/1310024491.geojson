@@ -1,0 +1,67 @@
+{
+  "id": 1310024491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8,-23.98333,44.8,-23.98333",
+    "geom:latitude":-23.98333,
+    "geom:longitude":44.8,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Besaroa",
+    "gn:country_code":"MG",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066656,
+    "gn:latitude":-23.98333,
+    "gn:longitude":44.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Besaroa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066656
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3bb92be80ea9c468a3c49ed0a9ea413d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1310024491,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310024491,
+    "wof:lastmodified":1536613536,
+    "wof:name":"Besaroa",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8,
+    -23.98333,
+    44.8,
+    -23.98333
+],
+  "geometry": {"coordinates":[44.8,-23.98333],"type":"Point"}
+}

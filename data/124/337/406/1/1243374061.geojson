@@ -1,0 +1,67 @@
+{
+  "id": 1243374061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7,-23.56667,46.7,-23.56667",
+    "geom:latitude":-23.56667,
+    "geom:longitude":46.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antamenaka",
+    "gn:country_code":"MG",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071224,
+    "gn:latitude":-23.56667,
+    "gn:longitude":46.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antamenaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421184613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071224
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fb449530a72f4c711f84ae6c0135c52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184613,
+            "locality_id":1243374061,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1243374061,
+    "wof:lastmodified":1536910207,
+    "wof:name":"Antamenaka",
+    "wof:parent_id":421184613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7,
+    -23.56667,
+    46.7,
+    -23.56667
+],
+  "geometry": {"coordinates":[46.7,-23.56667],"type":"Point"}
+}

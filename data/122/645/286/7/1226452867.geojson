@@ -1,0 +1,67 @@
+{
+  "id": 1226452867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95,-20.95,46.95,-20.95",
+    "geom:latitude":-20.95,
+    "geom:longitude":46.95,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsiangalarina",
+    "gn:country_code":"MG",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054864,
+    "gn:latitude":-20.95,
+    "gn:longitude":46.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsiangalarina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        1108801177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054864
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a9579fbfccbe40188d37576a5b1ed128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801177,
+            "locality_id":1226452867,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1226452867,
+    "wof:lastmodified":1536633758,
+    "wof:name":"Tsiangalarina",
+    "wof:parent_id":1108801177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95,
+    -20.95,
+    46.95,
+    -20.95
+],
+  "geometry": {"coordinates":[46.95,-20.95],"type":"Point"}
+}

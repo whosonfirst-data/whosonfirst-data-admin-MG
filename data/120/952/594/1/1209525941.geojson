@@ -1,0 +1,61 @@
+{
+  "id": 1209525941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46667,-20.5,48.46667,-20.5",
+    "geom:latitude":-20.5,
+    "geom:longitude":48.46667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambodivakoana",
+    "gn:country_code":"MG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080891,
+    "gn:latitude":-20.5,
+    "gn:longitude":48.46667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodivakoana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080891
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"63fd73c2e2c1fe82e01bc3f6c22a9fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209525941
+        }
+    ],
+    "wof:id":1209525941,
+    "wof:lastmodified":1536284430,
+    "wof:name":"Ambodivakoana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46667,
+    -20.5,
+    48.46667,
+    -20.5
+],
+  "geometry": {"coordinates":[48.46667,-20.5],"type":"Point"}
+}

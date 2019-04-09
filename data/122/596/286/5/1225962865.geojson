@@ -1,0 +1,67 @@
+{
+  "id": 1225962865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.93333,-18.58333,47.93333,-18.58333",
+    "geom:latitude":-18.58333,
+    "geom:longitude":47.93333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vodivato",
+    "gn:country_code":"MG",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054095,
+    "gn:latitude":-18.58333,
+    "gn:longitude":47.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vodivato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054095
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"46d3b9f2d6680d1a21a41ffb011cc479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1225962865,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1225962865,
+    "wof:lastmodified":1536843540,
+    "wof:name":"Vodivato",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.93333,
+    -18.58333,
+    47.93333,
+    -18.58333
+],
+  "geometry": {"coordinates":[47.93333,-18.58333],"type":"Point"}
+}

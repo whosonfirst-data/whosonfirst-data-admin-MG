@@ -1,0 +1,67 @@
+{
+  "id": 1259794039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.53333,-16.93333,49.53333,-16.93333",
+    "geom:latitude":-16.93333,
+    "geom:longitude":49.53333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andilankely",
+    "gn:country_code":"MG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076173,
+    "gn:latitude":-16.93333,
+    "gn:longitude":49.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andilankely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076173
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3bea7fd9cc0853c170b5b00673f9a5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801207,
+            "locality_id":1259794039,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1259794039,
+    "wof:lastmodified":1536908157,
+    "wof:name":"Andilankely",
+    "wof:parent_id":1108801207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.53333,
+    -16.93333,
+    49.53333,
+    -16.93333
+],
+  "geometry": {"coordinates":[49.53333,-16.93333],"type":"Point"}
+}

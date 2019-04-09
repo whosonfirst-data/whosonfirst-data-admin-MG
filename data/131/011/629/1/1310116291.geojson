@@ -1,0 +1,67 @@
+{
+  "id": 1310116291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65,-16.68333,44.65,-16.68333",
+    "geom:latitude":-16.68333,
+    "geom:longitude":44.65,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Belobaka",
+    "gn:country_code":"MG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067581,
+    "gn:latitude":-16.68333,
+    "gn:longitude":44.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Belobaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067581
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"53ee616d10f0de9b40cb4481f9c457b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1310116291,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1310116291,
+    "wof:lastmodified":1536980163,
+    "wof:name":"Belobaka",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65,
+    -16.68333,
+    44.65,
+    -16.68333
+],
+  "geometry": {"coordinates":[44.65,-16.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309920847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2,-12.35,49.2,-12.35",
+    "geom:latitude":-12.35,
+    "geom:longitude":49.2,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antananitombo",
+    "gn:country_code":"MG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070852,
+    "gn:latitude":-12.35,
+    "gn:longitude":49.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antananitombo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070852
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a9e38651b9090f3600faab4cd46e1baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1309920847,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1309920847,
+    "wof:lastmodified":1536765539,
+    "wof:name":"Antananitombo",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2,
+    -12.35,
+    49.2,
+    -12.35
+],
+  "geometry": {"coordinates":[49.2,-12.35],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226361137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5,-15.03333,47.5,-15.03333",
+    "geom:latitude":-15.03333,
+    "geom:longitude":47.5,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Andengo",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076236,
+    "gn:latitude":-15.03333,
+    "gn:longitude":47.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andengo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076236
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"95e4dc06ad468f7215260e00635897bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1226361137,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1226361137,
+    "wof:lastmodified":1536767801,
+    "wof:name":"Andengo",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5,
+    -15.03333,
+    47.5,
+    -15.03333
+],
+  "geometry": {"coordinates":[47.5,-15.03333],"type":"Point"}
+}

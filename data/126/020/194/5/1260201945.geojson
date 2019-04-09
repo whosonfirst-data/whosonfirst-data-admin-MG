@@ -1,0 +1,67 @@
+{
+  "id": 1260201945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9,-22.43333,47.9,-22.43333",
+    "geom:latitude":-22.43333,
+    "geom:longitude":47.9,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anosivelo",
+    "gn:country_code":"MG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071430,
+    "gn:latitude":-22.43333,
+    "gn:longitude":47.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anosivelo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421184623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071430
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a103d54f067aa63e7c6667dde8056721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184623,
+            "locality_id":1260201945,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1260201945,
+    "wof:lastmodified":1536821762,
+    "wof:name":"Anosivelo",
+    "wof:parent_id":421184623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9,
+    -22.43333,
+    47.9,
+    -22.43333
+],
+  "geometry": {"coordinates":[47.9,-22.43333],"type":"Point"}
+}

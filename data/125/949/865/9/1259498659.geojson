@@ -1,0 +1,67 @@
+{
+  "id": 1259498659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43333,-23.65,44.43333,-23.65",
+    "geom:latitude":-23.65,
+    "geom:longitude":44.43333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsiafantoka",
+    "gn:country_code":"MG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054955,
+    "gn:latitude":-23.65,
+    "gn:longitude":44.43333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsiafantoka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054955
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2f425a4ff229ac3c31aca1d01056c88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1259498659,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259498659,
+    "wof:lastmodified":1536835886,
+    "wof:name":"Tsiafantoka",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43333,
+    -23.65,
+    44.43333,
+    -23.65
+],
+  "geometry": {"coordinates":[44.43333,-23.65],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259401503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35,-13.48333,48.35,-13.48333",
+    "geom:latitude":-13.48333,
+    "geom:longitude":48.35,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Anjiabe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073650,
+    "gn:latitude":-13.48333,
+    "gn:longitude":48.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anjiabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anjiaba",
+        "Anjiabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073650
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cd3fc57d525ade83783805ed9826a1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259401503,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259401503,
+    "wof:lastmodified":1537664745,
+    "wof:name":"Anjiabe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35,
+    -13.48333,
+    48.35,
+    -13.48333
+],
+  "geometry": {"coordinates":[48.35,-13.48333],"type":"Point"}
+}

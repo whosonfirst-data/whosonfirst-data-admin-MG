@@ -1,0 +1,66 @@
+{
+  "id": 1293799053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.35,-12.2,49.35,-12.2",
+    "geom:latitude":-12.2,
+    "geom:longitude":49.35,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Andavakonko",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076316,
+    "gn:latitude":-12.2,
+    "gn:longitude":49.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andavakonko",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andovokonko",
+        "Andavakonko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076316
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"124ec83f08e4b5256764d6ef946eb038",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293799053,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293799053,
+    "wof:lastmodified":1537664765,
+    "wof:name":"Andavakonko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35,
+    -12.2,
+    49.35,
+    -12.2
+],
+  "geometry": {"coordinates":[49.35,-12.2],"type":"Point"}
+}

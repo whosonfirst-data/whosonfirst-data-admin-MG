@@ -1,0 +1,67 @@
+{
+  "id": 1243086173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96667,-24.4,45.96667,-24.4",
+    "geom:latitude":-24.4,
+    "geom:longitude":45.96667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Finday",
+    "gn:country_code":"MG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064818,
+    "gn:latitude":-24.4,
+    "gn:longitude":45.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Finday",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064818
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"427407a871538f71db71740378f7133f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1243086173,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1243086173,
+    "wof:lastmodified":1536826921,
+    "wof:name":"Finday",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96667,
+    -24.4,
+    45.96667,
+    -24.4
+],
+  "geometry": {"coordinates":[45.96667,-24.4],"type":"Point"}
+}

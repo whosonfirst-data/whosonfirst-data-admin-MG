@@ -1,0 +1,67 @@
+{
+  "id": 1309920773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21667,-19.01667,46.21667,-19.01667",
+    "geom:latitude":-19.01667,
+    "geom:longitude":46.21667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambahitra Ouest",
+    "gn:country_code":"MG",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084629,
+    "gn:latitude":-19.01667,
+    "gn:longitude":46.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambahitra Ouest",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084629
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6cf37e855ed0a9ad780c500dc3eb9000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1309920773,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1309920773,
+    "wof:lastmodified":1536765652,
+    "wof:name":"Ambahitra Ouest",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21667,
+    -19.01667,
+    46.21667,
+    -19.01667
+],
+  "geometry": {"coordinates":[46.21667,-19.01667],"type":"Point"}
+}

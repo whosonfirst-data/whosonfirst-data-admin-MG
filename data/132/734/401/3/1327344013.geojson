@@ -1,0 +1,67 @@
+{
+  "id": 1327344013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.63333,-21.16667,47.63333,-21.16667",
+    "geom:latitude":-21.16667,
+    "geom:longitude":47.63333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marosava",
+    "gn:country_code":"MG",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059747,
+    "gn:latitude":-21.16667,
+    "gn:longitude":47.63333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marosava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421197047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059747
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"49127ef49984f0ade4361c5bd827b917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421197047,
+            "locality_id":1327344013,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1327344013,
+    "wof:lastmodified":1536808019,
+    "wof:name":"Marosava",
+    "wof:parent_id":421197047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.63333,
+    -21.16667,
+    47.63333,
+    -21.16667
+],
+  "geometry": {"coordinates":[47.63333,-21.16667],"type":"Point"}
+}

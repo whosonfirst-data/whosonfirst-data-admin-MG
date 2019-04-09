@@ -1,0 +1,72 @@
+{
+  "id": 1310619765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71667,-19.85,48.71667,-19.85",
+    "geom:latitude":-19.85,
+    "geom:longitude":48.71667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambalafatsy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084422,
+    "gn:latitude":-19.85,
+    "gn:longitude":48.71667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambalafatsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambalafantsy",
+        "Ambalafatsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084422
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e8f93b276bfbb508dced83be874fa62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801169,
+            "locality_id":1310619765,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1310619765,
+    "wof:lastmodified":1537664827,
+    "wof:name":"Ambalafatsy",
+    "wof:parent_id":1108801169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71667,
+    -19.85,
+    48.71667,
+    -19.85
+],
+  "geometry": {"coordinates":[48.71667,-19.85],"type":"Point"}
+}

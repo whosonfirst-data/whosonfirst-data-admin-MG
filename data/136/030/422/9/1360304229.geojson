@@ -1,0 +1,67 @@
+{
+  "id": 1360304229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3,-23.46667,47.3,-23.46667",
+    "geom:latitude":-23.46667,
+    "geom:longitude":47.3,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Befarara",
+    "gn:country_code":"MG",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068366,
+    "gn:latitude":-23.46667,
+    "gn:longitude":47.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Befarara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068366
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"782418c10a4332687140a772cb348bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1360304229,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1360304229,
+    "wof:lastmodified":1536627741,
+    "wof:name":"Befarara",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3,
+    -23.46667,
+    47.3,
+    -23.46667
+],
+  "geometry": {"coordinates":[47.3,-23.46667],"type":"Point"}
+}

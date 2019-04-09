@@ -1,0 +1,72 @@
+{
+  "id": 1293701781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.98333,-18.06667,48.98333,-18.06667",
+    "geom:latitude":-18.06667,
+    "geom:longitude":48.98333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kitromba",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063407,
+    "gn:latitude":-18.06667,
+    "gn:longitude":48.98333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Kitromba",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitraomba",
+        "Kitromba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063407
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"26651c66d354886fc3d87737ed1df728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1293701781,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1293701781,
+    "wof:lastmodified":1537664647,
+    "wof:name":"Kitromba",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.98333,
+    -18.06667,
+    48.98333,
+    -18.06667
+],
+  "geometry": {"coordinates":[48.98333,-18.06667],"type":"Point"}
+}

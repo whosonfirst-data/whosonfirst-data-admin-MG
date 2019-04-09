@@ -1,0 +1,67 @@
+{
+  "id": 1243274555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.83333,-23.81667,46.83333,-23.81667",
+    "geom:latitude":-23.81667,
+    "geom:longitude":46.83333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amparambatomalama",
+    "gn:country_code":"MG",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078435,
+    "gn:latitude":-23.81667,
+    "gn:longitude":46.83333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amparambatomalama",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078435
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"707aafa929a75363a74fc577990a0d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1243274555,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1243274555,
+    "wof:lastmodified":1537051092,
+    "wof:name":"Amparambatomalama",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.83333,
+    -23.81667,
+    46.83333,
+    -23.81667
+],
+  "geometry": {"coordinates":[46.83333,-23.81667],"type":"Point"}
+}

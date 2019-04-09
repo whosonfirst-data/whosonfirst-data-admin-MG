@@ -1,0 +1,74 @@
+{
+  "id": 1343973245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55,-23.8,47.55,-23.8",
+    "geom:latitude":-23.8,
+    "geom:longitude":47.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manambondro",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061491,
+    "gn:latitude":-23.8,
+    "gn:longitude":47.55,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manambondro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antokonosy",
+        "Antokonosy Manambondro",
+        "Manambondro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061491,
+        "wk:page":"Manambondro"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"df55e274732a0d3cd5b6f9a997022d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1343973245,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1343973245,
+    "wof:lastmodified":1537664634,
+    "wof:name":"Manambondro",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55,
+    -23.8,
+    47.55,
+    -23.8
+],
+  "geometry": {"coordinates":[47.55,-23.8],"type":"Point"}
+}

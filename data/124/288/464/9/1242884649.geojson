@@ -1,0 +1,67 @@
+{
+  "id": 1242884649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.63333,-17.1,46.63333,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":46.63333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsaratananakely",
+    "gn:country_code":"MG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055036,
+    "gn:latitude":-17.1,
+    "gn:longitude":46.63333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsaratananakely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055036
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"91aa4a7210fde4d63c222c891ec13d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1242884649,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1242884649,
+    "wof:lastmodified":1536619184,
+    "wof:name":"Tsaratananakely",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.63333,
+    -17.1,
+    46.63333,
+    -17.1
+],
+  "geometry": {"coordinates":[46.63333,-17.1],"type":"Point"}
+}

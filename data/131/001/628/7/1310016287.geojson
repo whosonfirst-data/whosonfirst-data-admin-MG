@@ -1,0 +1,67 @@
+{
+  "id": 1310016287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.28333,-21.23333,47.28333,-21.23333",
+    "geom:latitude":-21.23333,
+    "geom:longitude":47.28333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsiananatondro",
+    "gn:country_code":"MG",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054897,
+    "gn:latitude":-21.23333,
+    "gn:longitude":47.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsiananatondro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054897
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2ac51f8a777523e10c87824c4a912d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171619,
+            "locality_id":1310016287,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1310016287,
+    "wof:lastmodified":1536625785,
+    "wof:name":"Tsiananatondro",
+    "wof:parent_id":421171619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28333,
+    -21.23333,
+    47.28333,
+    -21.23333
+],
+  "geometry": {"coordinates":[47.28333,-21.23333],"type":"Point"}
+}

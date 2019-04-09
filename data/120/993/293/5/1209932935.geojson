@@ -1,0 +1,72 @@
+{
+  "id": 1209932935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.81667,-17.1,46.81667,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":46.81667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ampanataovana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078771,
+    "gn:latitude":-17.1,
+    "gn:longitude":46.81667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampanataovana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampanotaovana",
+        "Ampanataovana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078771
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f6791afec07db491b7949d2906aec879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1209932935,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1209932935,
+    "wof:lastmodified":1537664784,
+    "wof:name":"Ampanataovana",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.81667,
+    -17.1,
+    46.81667,
+    -17.1
+],
+  "geometry": {"coordinates":[46.81667,-17.1],"type":"Point"}
+}

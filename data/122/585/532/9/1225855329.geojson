@@ -1,0 +1,68 @@
+{
+  "id": 1225855329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51667,-21.68333,47.51667,-21.68333",
+    "geom:latitude":-21.68333,
+    "geom:longitude":47.51667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Maromiandra",
+    "gn:country_code":"MG",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059883,
+    "gn:latitude":-21.68333,
+    "gn:longitude":47.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maromiandra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421198091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059883,
+        "wk:page":"Maromiandra%2C_Ikongo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bf4e6ccdb59876bae4dbe38d7fa1bb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421198091,
+            "locality_id":1225855329,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1225855329,
+    "wof:lastmodified":1537568343,
+    "wof:name":"Maromiandra",
+    "wof:parent_id":421198091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51667,
+    -21.68333,
+    47.51667,
+    -21.68333
+],
+  "geometry": {"coordinates":[47.51667,-21.68333],"type":"Point"}
+}

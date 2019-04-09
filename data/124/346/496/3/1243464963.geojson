@@ -1,0 +1,67 @@
+{
+  "id": 1243464963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.06667,-24.65,47.06667,-24.65",
+    "geom:latitude":-24.65,
+    "geom:longitude":47.06667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Volobe",
+    "gn:country_code":"MG",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053557,
+    "gn:latitude":-24.65,
+    "gn:longitude":47.06667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Volobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053557
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a5c9c7b6f218068e9924a98e0b1c39d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1243464963,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1243464963,
+    "wof:lastmodified":1536779254,
+    "wof:name":"Volobe",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.06667,
+    -24.65,
+    47.06667,
+    -24.65
+],
+  "geometry": {"coordinates":[47.06667,-24.65],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343780837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.38333,-17.68333,49.38333,-17.68333",
+    "geom:latitude":-17.68333,
+    "geom:longitude":49.38333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Analabemazava",
+    "gn:country_code":"MG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077278,
+    "gn:latitude":-17.68333,
+    "gn:longitude":49.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Analabemazava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077278
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"99d5a5abcd0e6f3d5534ab0392e6c194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1343780837,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1343780837,
+    "wof:lastmodified":1536782082,
+    "wof:name":"Analabemazava",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.38333,
+    -17.68332999999999,
+    49.38333,
+    -17.68332999999999
+],
+  "geometry": {"coordinates":[49.38333,-17.68332999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259498627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91667,-12.76667,48.91667,-12.76667",
+    "geom:latitude":-12.76667,
+    "geom:longitude":48.91667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fandriana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065223,
+    "gn:latitude":-12.76667,
+    "gn:longitude":48.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Fandriana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fadrina",
+        "Fandrina",
+        "Fandriana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065223
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ae8b69b26a5acddcddcd543414719518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1259498627,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1259498627,
+    "wof:lastmodified":1537664664,
+    "wof:name":"Fandriana",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91667,
+    -12.76667,
+    48.91667,
+    -12.76667
+],
+  "geometry": {"coordinates":[48.91667,-12.76667],"type":"Point"}
+}

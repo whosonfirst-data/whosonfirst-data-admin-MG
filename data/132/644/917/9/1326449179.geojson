@@ -1,0 +1,67 @@
+{
+  "id": 1326449179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38333,-18.4,48.38333,-18.4",
+    "geom:latitude":-18.4,
+    "geom:longitude":48.38333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tsarahalana",
+    "gn:country_code":"MG",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055229,
+    "gn:latitude":-18.4,
+    "gn:longitude":48.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsarahalana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055229
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a0ebaf25b028dd0a908bd93b1f2bcb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1326449179,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1326449179,
+    "wof:lastmodified":1536603663,
+    "wof:name":"Tsarahalana",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38333,
+    -18.4,
+    48.38333,
+    -18.4
+],
+  "geometry": {"coordinates":[48.38333,-18.4],"type":"Point"}
+}

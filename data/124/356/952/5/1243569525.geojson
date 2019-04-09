@@ -1,0 +1,67 @@
+{
+  "id": 1243569525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55,-23.83333,44.55,-23.83333",
+    "geom:latitude":-23.83333,
+    "geom:longitude":44.55,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sarodrano",
+    "gn:country_code":"MG",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056700,
+    "gn:latitude":-23.83333,
+    "gn:longitude":44.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sarodrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056700
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0c3805b37dda4cac5ef143df7597be15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1243569525,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243569525,
+    "wof:lastmodified":1536626259,
+    "wof:name":"Sarodrano",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55,
+    -23.83333,
+    44.55,
+    -23.83333
+],
+  "geometry": {"coordinates":[44.55,-23.83333],"type":"Point"}
+}

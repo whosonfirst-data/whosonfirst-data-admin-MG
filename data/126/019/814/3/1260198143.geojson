@@ -1,0 +1,67 @@
+{
+  "id": 1260198143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85,-19.4,48.85,-19.4",
+    "geom:latitude":-19.4,
+    "geom:longitude":48.85,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mangiboka",
+    "gn:country_code":"MG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060812,
+    "gn:latitude":-19.4,
+    "gn:longitude":48.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mangiboka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        421184617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060812
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"617859112e71aec135f5943e55445b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184617,
+            "locality_id":1260198143,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1260198143,
+    "wof:lastmodified":1536826777,
+    "wof:name":"Mangiboka",
+    "wof:parent_id":421184617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85,
+    -19.4,
+    48.85,
+    -19.4
+],
+  "geometry": {"coordinates":[48.85,-19.4],"type":"Point"}
+}

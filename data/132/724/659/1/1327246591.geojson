@@ -1,0 +1,63 @@
+{
+  "id": 1327246591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01667,-18.06667,44.01667,-18.06667",
+    "geom:latitude":-18.06667,
+    "geom:longitude":44.01667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ampasimandroro",
+    "gn:country_code":"MG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078185,
+    "gn:latitude":-18.06667,
+    "gn:longitude":44.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasimandroro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078185
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"02c5efe59a7e49407d1d6547f9b92ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327246591,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327246591,
+    "wof:lastmodified":1536949251,
+    "wof:name":"Ampasimandroro",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01667,
+    -18.06667,
+    44.01667,
+    -18.06667
+],
+  "geometry": {"coordinates":[44.01667,-18.06667],"type":"Point"}
+}

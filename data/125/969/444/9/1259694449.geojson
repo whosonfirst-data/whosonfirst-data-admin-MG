@@ -1,0 +1,67 @@
+{
+  "id": 1259694449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.76667,-21.85,46.76667,-21.85",
+    "geom:latitude":-21.85,
+    "geom:longitude":46.76667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akondro",
+    "gn:country_code":"MG",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084770,
+    "gn:latitude":-21.85,
+    "gn:longitude":46.76667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Akondro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084770
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3f1937f18e92053a5159337826291c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171625,
+            "locality_id":1259694449,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1259694449,
+    "wof:lastmodified":1537049054,
+    "wof:name":"Akondro",
+    "wof:parent_id":421171625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.76667,
+    -21.85,
+    46.76667,
+    -21.85
+],
+  "geometry": {"coordinates":[46.76667,-21.85],"type":"Point"}
+}

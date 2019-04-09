@@ -1,0 +1,61 @@
+{
+  "id": 1209433433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.58333,-15.0,47.58333,-15.0",
+    "geom:latitude":-15.0,
+    "geom:longitude":47.58333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Belinta",
+    "gn:country_code":"MG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067620,
+    "gn:latitude":-15.0,
+    "gn:longitude":47.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Belinta",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067620
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1b5bc27dbc108bd48ed5173d72a6d61c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209433433
+        }
+    ],
+    "wof:id":1209433433,
+    "wof:lastmodified":1536287170,
+    "wof:name":"Belinta",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.58333,
+    -15.0,
+    47.58333,
+    -15.0
+],
+  "geometry": {"coordinates":[47.58333,-15.0],"type":"Point"}
+}

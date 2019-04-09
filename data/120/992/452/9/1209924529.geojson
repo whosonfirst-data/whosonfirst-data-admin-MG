@@ -1,0 +1,67 @@
+{
+  "id": 1209924529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2,-21.6,45.2,-21.6",
+    "geom:latitude":-21.6,
+    "geom:longitude":45.2,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mahabe",
+    "gn:country_code":"MG",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062812,
+    "gn:latitude":-21.6,
+    "gn:longitude":45.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062812
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"57544d080ba12b0cda71f2b95fbd769c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801137,
+            "locality_id":1209924529,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1209924529,
+    "wof:lastmodified":1536395493,
+    "wof:name":"Mahabe",
+    "wof:parent_id":1108801137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2,
+    -21.6,
+    45.2,
+    -21.6
+],
+  "geometry": {"coordinates":[45.2,-21.6],"type":"Point"}
+}

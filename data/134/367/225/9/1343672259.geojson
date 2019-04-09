@@ -1,0 +1,67 @@
+{
+  "id": 1343672259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.81667,-14.45,47.81667,-14.45",
+    "geom:latitude":-14.45,
+    "geom:longitude":47.81667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankaibe",
+    "gn:country_code":"MG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073325,
+    "gn:latitude":-14.45,
+    "gn:longitude":47.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankaibe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073325
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5b79d0cba16f658e235136d26b847590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1343672259,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1343672259,
+    "wof:lastmodified":1536938688,
+    "wof:name":"Ankaibe",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.81667,
+    -14.45,
+    47.81667,
+    -14.45
+],
+  "geometry": {"coordinates":[47.81667,-14.45],"type":"Point"}
+}

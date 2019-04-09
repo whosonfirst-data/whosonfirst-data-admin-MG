@@ -1,0 +1,114 @@
+{
+  "id": 890443545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.40826,-17.38095,49.40826,-17.38095",
+    "geom:latitude":-17.38095,
+    "geom:longitude":49.40826,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":21036,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8cbb\u52aa\u963f\u91cc\u6b66-\u963f\u9f4a\u7d0d\u7d0d\u7d0d"
+    ],
+    "name:dan_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:dut_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:eng_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:fre_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:ger_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:hrv_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:ita_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30ce\u30a2\u30ea\u30f4\u30a9\u30fb\u30a2\u30c4\u30a3\u30ca\u30ca\u30ca"
+    ],
+    "name:mlg_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:pol_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:por_x_preferred":[
+        "F\u00e9n\u00e9rive Est"
+    ],
+    "name:swe_x_preferred":[
+        "Fenoarivo Atsinanana"
+    ],
+    "name:unk_x_variant":[
+        "F\u00e9n\u00e9rive-Est"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0646\u0648\u0627\u0631\u06cc\u0648\u0648 \u0622\u062a\u0633\u06cc\u0646\u0627\u0646\u0627\u0646\u0627"
+    ],
+    "qs:name":"Fenoarivo Atsinanana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":154,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064980,
+        "gp:id":1360971,
+        "qs:id":1029629,
+        "wd:id":"Q1404813",
+        "wk:page":"Fenoarivo Atsinanana"
+    },
+    "wof:country":"MG",
+    "wof:created":1469052428,
+    "wof:geomhash":"6cac259af0e1d8c15c71bfc96612f22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801149,
+            "locality_id":890443545,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":890443545,
+    "wof:lastmodified":1527787063,
+    "wof:name":"Fenoarivo Atsinanana",
+    "wof:parent_id":1108801149,
+    "wof:placetype":"locality",
+    "wof:population":21036,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.40826,
+    -17.38095,
+    49.40826,
+    -17.38095
+],
+  "geometry": {"coordinates":[49.40826,-17.38095],"type":"Point"}
+}

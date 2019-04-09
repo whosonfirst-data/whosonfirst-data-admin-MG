@@ -1,0 +1,67 @@
+{
+  "id": 1293604187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48333,-25.08333,44.48333,-25.08333",
+    "geom:latitude":-25.08333,
+    "geom:longitude":44.48333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tamaintsoa",
+    "gn:country_code":"MG",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055980,
+    "gn:latitude":-25.08333,
+    "gn:longitude":44.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tamaintsoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055980
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2347a9b028d900ae08037840ec7c2fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1293604187,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293604187,
+    "wof:lastmodified":1536616558,
+    "wof:name":"Tamaintsoa",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48333,
+    -25.08333,
+    44.48333,
+    -25.08333
+],
+  "geometry": {"coordinates":[44.48333,-25.08333],"type":"Point"}
+}

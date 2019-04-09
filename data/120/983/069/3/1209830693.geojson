@@ -1,0 +1,67 @@
+{
+  "id": 1209830693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65,-21.63333,43.65,-21.63333",
+    "geom:latitude":-21.63333,
+    "geom:longitude":43.65,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambinda",
+    "gn:country_code":"MG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082014,
+    "gn:latitude":-21.63333,
+    "gn:longitude":43.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambinda",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082014
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b2a7a6494201f18c4771943f4cd0d435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1209830693,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1209830693,
+    "wof:lastmodified":1536368647,
+    "wof:name":"Ambinda",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65,
+    -21.63333,
+    43.65,
+    -21.63333
+],
+  "geometry": {"coordinates":[43.65,-21.63333],"type":"Point"}
+}

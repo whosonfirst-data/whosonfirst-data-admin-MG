@@ -1,0 +1,67 @@
+{
+  "id": 1276351037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9,-24.03333,44.9,-24.03333",
+    "geom:latitude":-24.03333,
+    "geom:longitude":44.9,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mandabe",
+    "gn:country_code":"MG",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061180,
+    "gn:latitude":-24.03333,
+    "gn:longitude":44.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mandabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061180
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"74616349d4b9f55d5f04a76595b47e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1276351037,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1276351037,
+    "wof:lastmodified":1536754763,
+    "wof:name":"Mandabe",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9,
+    -24.03333,
+    44.9,
+    -24.03333
+],
+  "geometry": {"coordinates":[44.9,-24.03333],"type":"Point"}
+}

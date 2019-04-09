@@ -1,0 +1,67 @@
+{
+  "id": 1242788133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86667,-23.53333,44.86667,-23.53333",
+    "geom:latitude":-23.53333,
+    "geom:longitude":44.86667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bebakaka",
+    "gn:country_code":"MG",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068512,
+    "gn:latitude":-23.53333,
+    "gn:longitude":44.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bebakaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068512
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9e2b312c40e34bad17e9ab35e45c4d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1242788133,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1242788133,
+    "wof:lastmodified":1536760509,
+    "wof:name":"Bebakaka",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86667,
+    -23.53333,
+    44.86667,
+    -23.53333
+],
+  "geometry": {"coordinates":[44.86667,-23.53333],"type":"Point"}
+}

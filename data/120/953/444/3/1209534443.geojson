@@ -1,0 +1,61 @@
+{
+  "id": 1209534443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25,-18.23333,46.25,-18.23333",
+    "geom:latitude":-18.23333,
+    "geom:longitude":46.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambatabe",
+    "gn:country_code":"MG",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083371,
+    "gn:latitude":-18.23333,
+    "gn:longitude":46.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083371
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cb5a94a829c4767a6fb32fd2d834dcab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209534443
+        }
+    ],
+    "wof:id":1209534443,
+    "wof:lastmodified":1536284182,
+    "wof:name":"Ambatabe",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25,
+    -18.23333,
+    46.25,
+    -18.23333
+],
+  "geometry": {"coordinates":[46.25,-18.23333],"type":"Point"}
+}

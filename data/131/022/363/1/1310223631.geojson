@@ -1,0 +1,67 @@
+{
+  "id": 1310223631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43333,-19.41667,46.43333,-19.41667",
+    "geom:latitude":-19.41667,
+    "geom:longitude":46.43333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohimamory",
+    "gn:country_code":"MG",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080378,
+    "gn:latitude":-19.41667,
+    "gn:longitude":46.43333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohimamory",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        1108801183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080378
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3b0b2769d402eb9af2710d0188437677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801183,
+            "locality_id":1310223631,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1310223631,
+    "wof:lastmodified":1536825151,
+    "wof:name":"Ambohimamory",
+    "wof:parent_id":1108801183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43333,
+    -19.41667,
+    46.43333,
+    -19.41667
+],
+  "geometry": {"coordinates":[46.43333,-19.41667],"type":"Point"}
+}

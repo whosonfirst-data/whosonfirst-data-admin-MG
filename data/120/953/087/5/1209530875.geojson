@@ -1,0 +1,66 @@
+{
+  "id": 1209530875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-18.58333,47.05,-18.58333",
+    "geom:latitude":-18.58333,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antanetilava",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070727,
+    "gn:latitude":-18.58333,
+    "gn:longitude":47.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antanetilava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antanetilavav",
+        "Antanetilava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070727
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e9ce15ac4c33b33ec537533a1cfe0278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209530875
+        }
+    ],
+    "wof:id":1209530875,
+    "wof:lastmodified":1537664719,
+    "wof:name":"Antanetilava",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -18.58333,
+    47.05,
+    -18.58333
+],
+  "geometry": {"coordinates":[47.05,-18.58333],"type":"Point"}
+}

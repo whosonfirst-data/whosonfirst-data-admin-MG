@@ -1,0 +1,72 @@
+{
+  "id": 1226061381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.98333,-17.96667,45.98333,-17.96667",
+    "geom:latitude":-17.96667,
+    "geom:longitude":45.98333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambohimena",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080144,
+    "gn:latitude":-17.96667,
+    "gn:longitude":45.98333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambohimena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambatomena",
+        "Ambohimena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        1108801151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080144
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d285eb38e3e119e706b8d1b997129af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801151,
+            "locality_id":1226061381,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1226061381,
+    "wof:lastmodified":1537664794,
+    "wof:name":"Ambohimena",
+    "wof:parent_id":1108801151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.98333,
+    -17.96667,
+    45.98333,
+    -17.96667
+],
+  "geometry": {"coordinates":[45.98333,-17.96667],"type":"Point"}
+}

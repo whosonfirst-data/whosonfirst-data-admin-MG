@@ -1,0 +1,67 @@
+{
+  "id": 1326845485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55,-16.35,46.55,-16.35",
+    "geom:latitude":-16.35,
+    "geom:longitude":46.55,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antoboro",
+    "gn:country_code":"MG",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070170,
+    "gn:latitude":-16.35,
+    "gn:longitude":46.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antoboro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421175085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070170
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e41127c9d123b203f76085cea0a922e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175085,
+            "locality_id":1326845485,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1326845485,
+    "wof:lastmodified":1537028378,
+    "wof:name":"Antoboro",
+    "wof:parent_id":421175085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55,
+    -16.35,
+    46.55,
+    -16.35
+],
+  "geometry": {"coordinates":[46.55,-16.35],"type":"Point"}
+}

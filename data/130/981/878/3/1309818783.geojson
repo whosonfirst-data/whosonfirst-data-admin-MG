@@ -1,0 +1,68 @@
+{
+  "id": 1309818783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71667,-23.53333,44.71667,-23.53333",
+    "geom:latitude":-23.53333,
+    "geom:longitude":44.71667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Salobe",
+    "gn:country_code":"MG",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056937,
+    "gn:latitude":-23.53333,
+    "gn:longitude":44.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Salobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056937,
+        "wk:page":"Salobe"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6b5135ddff5f28f68cde2da9c0b96787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1309818783,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1309818783,
+    "wof:lastmodified":1537568339,
+    "wof:name":"Salobe",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71667,
+    -23.53333,
+    44.71667,
+    -23.53333
+],
+  "geometry": {"coordinates":[44.71667,-23.53333],"type":"Point"}
+}

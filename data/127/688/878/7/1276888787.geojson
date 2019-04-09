@@ -1,0 +1,72 @@
+{
+  "id": 1276888787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23333,-17.31667,44.23333,-17.31667",
+    "geom:latitude":-17.31667,
+    "geom:longitude":44.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manaritoka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061245,
+    "gn:latitude":-17.31667,
+    "gn:longitude":44.23333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manaritoka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monoritoko",
+        "Manaritoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061245
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"125b29caa62432244925de71f3e7456c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801171,
+            "locality_id":1276888787,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1276888787,
+    "wof:lastmodified":1537664632,
+    "wof:name":"Manaritoka",
+    "wof:parent_id":1108801171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23333,
+    -17.31667,
+    44.23333,
+    -17.31667
+],
+  "geometry": {"coordinates":[44.23333,-17.31667],"type":"Point"}
+}

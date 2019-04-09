@@ -1,0 +1,67 @@
+{
+  "id": 1276778585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.81667,-20.2,47.81667,-20.2",
+    "geom:latitude":-20.2,
+    "geom:longitude":47.81667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampasinambo",
+    "gn:country_code":"MG",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078024,
+    "gn:latitude":-20.2,
+    "gn:longitude":47.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasinambo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078024
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a8ce795506921da7a3c80a18d375a40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801189,
+            "locality_id":1276778585,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1276778585,
+    "wof:lastmodified":1536679190,
+    "wof:name":"Ampasinambo",
+    "wof:parent_id":1108801189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.81667,
+    -20.2,
+    47.81667,
+    -20.2
+],
+  "geometry": {"coordinates":[47.81667,-20.2],"type":"Point"}
+}

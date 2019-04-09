@@ -1,0 +1,67 @@
+{
+  "id": 1343877045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38333,-17.93333,46.38333,-17.93333",
+    "geom:latitude":-17.93333,
+    "geom:longitude":46.38333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ampanasana",
+    "gn:country_code":"MG",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078787,
+    "gn:latitude":-17.93333,
+    "gn:longitude":46.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampanasana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        1108801151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078787
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"07ebdcc6af39eb9498ece331ebb7b3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801151,
+            "locality_id":1343877045,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1343877045,
+    "wof:lastmodified":1536641878,
+    "wof:name":"Ampanasana",
+    "wof:parent_id":1108801151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38333,
+    -17.93332999999999,
+    46.38333,
+    -17.93332999999999
+],
+  "geometry": {"coordinates":[46.38333,-17.93332999999999],"type":"Point"}
+}

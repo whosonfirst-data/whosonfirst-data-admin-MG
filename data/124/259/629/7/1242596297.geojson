@@ -1,0 +1,67 @@
+{
+  "id": 1242596297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.36667,-22.13333,47.36667,-22.13333",
+    "geom:latitude":-22.13333,
+    "geom:longitude":47.36667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Andrairay",
+    "gn:country_code":"MG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075641,
+    "gn:latitude":-22.13333,
+    "gn:longitude":47.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andrairay",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421198091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075641
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9a59a185564f0a899c3d780e1eb9f0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421198091,
+            "locality_id":1242596297,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1242596297,
+    "wof:lastmodified":1537035167,
+    "wof:name":"Andrairay",
+    "wof:parent_id":421198091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.36667,
+    -22.13333,
+    47.36667,
+    -22.13333
+],
+  "geometry": {"coordinates":[47.36667,-22.13333],"type":"Point"}
+}

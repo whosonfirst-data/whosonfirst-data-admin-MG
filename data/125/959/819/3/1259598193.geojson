@@ -1,0 +1,67 @@
+{
+  "id": 1259598193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66667,-17.81667,48.66667,-17.81667",
+    "geom:latitude":-17.81667,
+    "geom:longitude":48.66667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambodiampaly",
+    "gn:country_code":"MG",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081693,
+    "gn:latitude":-17.81667,
+    "gn:longitude":48.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodiampaly",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081693
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fdf0b0fe36625a8f91279e88aa0b3bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801081,
+            "locality_id":1259598193,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1259598193,
+    "wof:lastmodified":1536693732,
+    "wof:name":"Ambodiampaly",
+    "wof:parent_id":1108801081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66667,
+    -17.81667000000001,
+    48.66667,
+    -17.81667000000001
+],
+  "geometry": {"coordinates":[48.66667,-17.81667000000001],"type":"Point"}
+}

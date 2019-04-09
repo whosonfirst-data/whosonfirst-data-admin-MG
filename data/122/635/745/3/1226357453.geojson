@@ -1,0 +1,67 @@
+{
+  "id": 1226357453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51667,-16.46667,45.51667,-16.46667",
+    "geom:latitude":-16.46667,
+    "geom:longitude":45.51667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambatotsingy",
+    "gn:country_code":"MG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082545,
+    "gn:latitude":-16.46667,
+    "gn:longitude":45.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatotsingy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        1108801205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082545
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b33e9bb3032f2649c809abc1e202893e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801205,
+            "locality_id":1226357453,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1226357453,
+    "wof:lastmodified":1536773190,
+    "wof:name":"Ambatotsingy",
+    "wof:parent_id":1108801205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51667,
+    -16.46667,
+    45.51667,
+    -16.46667
+],
+  "geometry": {"coordinates":[45.51667,-16.46667],"type":"Point"}
+}

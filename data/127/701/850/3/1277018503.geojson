@@ -1,0 +1,71 @@
+{
+  "id": 1277018503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85,-23.25,43.85,-23.25",
+    "geom:latitude":-23.25,
+    "geom:longitude":43.85,
+    "gn:admin1_code":"7670913",
+    "gn:asciiname":"Behompy",
+    "gn:country_code":"MG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068130,
+    "gn:latitude":-23.25,
+    "gn:longitude":43.85,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Behompy",
+    "gn:population":7000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068130,
+        "wk:page":"Behompy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4c2a4c8c1aba51aab27d9a6e0c3a8073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1277018503,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1277018503,
+    "wof:lastmodified":1537568357,
+    "wof:name":"Behompy",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:population":7000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85,
+    -23.25,
+    43.85,
+    -23.25
+],
+  "geometry": {"coordinates":[43.85,-23.25],"type":"Point"}
+}

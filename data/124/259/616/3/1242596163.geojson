@@ -1,0 +1,72 @@
+{
+  "id": 1242596163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.05,-17.81667,49.05,-17.81667",
+    "geom:latitude":-17.81667,
+    "geom:longitude":49.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sahavazina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057274,
+    "gn:latitude":-17.81667,
+    "gn:longitude":49.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sahavazina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahatsinjo",
+        "Sahavazina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057274
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"379dd66c2b7abc1929bd9398f9c069b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1242596163,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1242596163,
+    "wof:lastmodified":1537664599,
+    "wof:name":"Sahavazina",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.05,
+    -17.81667000000001,
+    49.05,
+    -17.81667000000001
+],
+  "geometry": {"coordinates":[49.05,-17.81667000000001],"type":"Point"}
+}

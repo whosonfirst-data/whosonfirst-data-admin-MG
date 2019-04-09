@@ -1,0 +1,72 @@
+{
+  "id": 1327048741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41667,-19.05,44.41667,-19.05",
+    "geom:latitude":-19.05,
+    "geom:longitude":44.41667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambato-Sosoa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082561,
+    "gn:latitude":-19.05,
+    "gn:longitude":44.41667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambato-Sosoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambato",
+        "Ambato-Sosoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        421199279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082561
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"eea636502a009fa7021f78bd26ba6bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199279,
+            "locality_id":1327048741,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1327048741,
+    "wof:lastmodified":1537664814,
+    "wof:name":"Ambato-Sosoa",
+    "wof:parent_id":421199279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41667,
+    -19.05,
+    44.41667,
+    -19.05
+],
+  "geometry": {"coordinates":[44.41667,-19.05],"type":"Point"}
+}

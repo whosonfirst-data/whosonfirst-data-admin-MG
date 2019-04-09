@@ -1,0 +1,99 @@
+{
+  "id": 421174097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.45,-21.25,47.45,-21.25",
+    "geom:latitude":-21.25,
+    "geom:longitude":47.45,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043d\u0443\u043c\u0430\u0444\u0430\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Ranomafana"
+    ],
+    "name:eng_x_preferred":[
+        "Ranomafana"
+    ],
+    "name:fre_x_preferred":[
+        "Ranomafana"
+    ],
+    "name:ger_x_preferred":[
+        "Ranomafana"
+    ],
+    "name:mlg_x_preferred":[
+        "Ranomafana"
+    ],
+    "name:pol_x_preferred":[
+        "Ranomafana"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1057913,
+    "qs:gn_pop":0,
+    "qs:name":"Ranomafana",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Fianarantsoa",
+    "qs:photos":985,
+    "qs:photos_1k":200,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":985,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":317004,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1499104,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421197047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057913,
+        "gp:id":1499104,
+        "qs:id":317004,
+        "wd:id":"Q3419015",
+        "wk:page":"Ranomafana, Ifanadiana"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009019,
+    "wof:geomhash":"657f961da4b7900d87daa10b854d3bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421197047,
+            "locality_id":421174097,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":421174097,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Ranomafana",
+    "wof:parent_id":421197047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.45,
+    -21.25,
+    47.45,
+    -21.25
+],
+  "geometry": {"coordinates":[47.45,-21.25],"type":"Point"}
+}

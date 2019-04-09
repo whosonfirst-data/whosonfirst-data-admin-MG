@@ -1,0 +1,61 @@
+{
+  "id": 1209433631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03333,-18.86667,47.03333,-18.86667",
+    "geom:latitude":-18.86667,
+    "geom:longitude":47.03333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ampitsirihina",
+    "gn:country_code":"MG",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077655,
+    "gn:latitude":-18.86667,
+    "gn:longitude":47.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampitsirihina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077655
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"38773c70e82564e1b1e82a866a1037fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209433631
+        }
+    ],
+    "wof:id":1209433631,
+    "wof:lastmodified":1536287165,
+    "wof:name":"Ampitsirihina",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03333,
+    -18.866670000000006,
+    47.03333,
+    -18.866670000000006
+],
+  "geometry": {"coordinates":[47.03333,-18.86667000000001],"type":"Point"}
+}

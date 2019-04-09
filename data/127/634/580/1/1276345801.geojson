@@ -1,0 +1,70 @@
+{
+  "id": 1276345801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6,-17.7,45.6,-17.7",
+    "geom:latitude":-17.7,
+    "geom:longitude":45.6,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambahivahy",
+    "gn:country_code":"MG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084614,
+    "gn:latitude":-17.7,
+    "gn:longitude":45.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambahivahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ambahivahy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084614
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0aba4dd9931680c6656ccf6f4c78dd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801079,
+            "locality_id":1276345801,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1276345801,
+    "wof:lastmodified":1537664829,
+    "wof:name":"Ambahivahy",
+    "wof:parent_id":1108801079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6,
+    -17.7,
+    45.6,
+    -17.7
+],
+  "geometry": {"coordinates":[45.6,-17.7],"type":"Point"}
+}

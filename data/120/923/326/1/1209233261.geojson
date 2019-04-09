@@ -1,0 +1,61 @@
+{
+  "id": 1209233261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8,-19.25,46.8,-19.25",
+    "geom:latitude":-19.25,
+    "geom:longitude":46.8,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Maritahala",
+    "gn:country_code":"MG",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060413,
+    "gn:latitude":-19.25,
+    "gn:longitude":46.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maritahala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060413
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f1a8d0c40222d5cc127b509735c8687c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209233261
+        }
+    ],
+    "wof:id":1209233261,
+    "wof:lastmodified":1536293570,
+    "wof:name":"Maritahala",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8,
+    -19.25,
+    46.8,
+    -19.25
+],
+  "geometry": {"coordinates":[46.8,-19.25],"type":"Point"}
+}

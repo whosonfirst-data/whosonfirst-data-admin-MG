@@ -1,0 +1,72 @@
+{
+  "id": 1343777173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38333,-25.1,45.38333,-25.1",
+    "geom:latitude":-25.1,
+    "geom:longitude":45.38333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankoto",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071618,
+    "gn:latitude":-25.1,
+    "gn:longitude":45.38333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankoto",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankoba",
+        "Ankoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071618
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4da3add695051e29f8cc4c9f0a84282c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1343777173,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1343777173,
+    "wof:lastmodified":1537664728,
+    "wof:name":"Ankoto",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38333,
+    -25.1,
+    45.38333,
+    -25.1
+],
+  "geometry": {"coordinates":[45.38333,-25.1],"type":"Point"}
+}

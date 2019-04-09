@@ -1,0 +1,72 @@
+{
+  "id": 1343968577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,-14.25,48.03333,-14.25",
+    "geom:latitude":-14.25,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Marovato Atsimo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059560,
+    "gn:latitude":-14.25,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Marovato Atsimo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marovato Sud",
+        "Marovato Atsimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059560
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"651adbc62c474f409edd61d699fba02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1343968577,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1343968577,
+    "wof:lastmodified":1537664617,
+    "wof:name":"Marovato Atsimo",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    -14.25,
+    48.03333,
+    -14.25
+],
+  "geometry": {"coordinates":[48.03333,-14.25],"type":"Point"}
+}

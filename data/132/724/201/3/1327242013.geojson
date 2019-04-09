@@ -1,0 +1,67 @@
+{
+  "id": 1327242013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.93333,-15.38333,47.93333,-15.38333",
+    "geom:latitude":-15.38333,
+    "geom:longitude":47.93333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antanambao",
+    "gn:country_code":"MG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071120,
+    "gn:latitude":-15.38333,
+    "gn:longitude":47.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanambao",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071120
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f8e3295393a1191d0031f1107bcfc1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801201,
+            "locality_id":1327242013,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1327242013,
+    "wof:lastmodified":1536955645,
+    "wof:name":"Antanambao",
+    "wof:parent_id":1108801201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.93333,
+    -15.38333,
+    47.93333,
+    -15.38333
+],
+  "geometry": {"coordinates":[47.93333,-15.38333],"type":"Point"}
+}

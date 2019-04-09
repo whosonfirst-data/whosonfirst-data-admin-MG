@@ -1,0 +1,67 @@
+{
+  "id": 1193031169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58333,-19.13333,46.58333,-19.13333",
+    "geom:latitude":-19.13333,
+    "geom:longitude":46.58333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Fidasiana",
+    "gn:country_code":"MG",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064876,
+    "gn:latitude":-19.13333,
+    "gn:longitude":46.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Fidasiana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421171621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064876
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dca3f387289ac1aec3b6258ab4de5f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171621,
+            "locality_id":1193031169,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1193031169,
+    "wof:lastmodified":1536364135,
+    "wof:name":"Fidasiana",
+    "wof:parent_id":421171621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58333,
+    -19.13333,
+    46.58333,
+    -19.13333
+],
+  "geometry": {"coordinates":[46.58333,-19.13333],"type":"Point"}
+}

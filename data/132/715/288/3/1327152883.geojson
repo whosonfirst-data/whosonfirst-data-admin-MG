@@ -1,0 +1,67 @@
+{
+  "id": 1327152883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96667,-19.11667,45.96667,-19.11667",
+    "geom:latitude":-19.11667,
+    "geom:longitude":45.96667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tindoha",
+    "gn:country_code":"MG",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055473,
+    "gn:latitude":-19.11667,
+    "gn:longitude":45.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tindoha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055473
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f9d64a860f12e841a68d44054bda67aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1327152883,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1327152883,
+    "wof:lastmodified":1537081228,
+    "wof:name":"Tindoha",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96667,
+    -19.11667000000001,
+    45.96667,
+    -19.11667000000001
+],
+  "geometry": {"coordinates":[45.96667,-19.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243187477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.05,-17.83333,49.05,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":49.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vohimarina",
+    "gn:country_code":"MG",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053893,
+    "gn:latitude":-17.83333,
+    "gn:longitude":49.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohimarina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053893
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"13a85274a086025bd5b42e4c2ad67276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1243187477,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1243187477,
+    "wof:lastmodified":1536681787,
+    "wof:name":"Vohimarina",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.05,
+    -17.83333,
+    49.05,
+    -17.83333
+],
+  "geometry": {"coordinates":[49.05,-17.83333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1343873591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73333,-15.33333,46.73333,-15.33333",
+    "geom:latitude":-15.33333,
+    "geom:longitude":46.73333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Namakia",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058330,
+    "gn:latitude":-15.33333,
+    "gn:longitude":46.73333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Namakia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058330
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f7d55623de4fbd69033f1d8b86aa34b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343873591,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343873591,
+    "wof:lastmodified":1536647154,
+    "wof:name":"Namakia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73333,
+    -15.33333,
+    46.73333,
+    -15.33333
+],
+  "geometry": {"coordinates":[46.73333,-15.33333],"type":"Point"}
+}

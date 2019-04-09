@@ -1,0 +1,73 @@
+{
+  "id": 1243182841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.3,-15.03333,50.3,-15.03333",
+    "geom:latitude":-15.03333,
+    "geom:longitude":50.3,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampohibe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077631,
+    "gn:latitude":-15.03333,
+    "gn:longitude":50.3,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampohibe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampohobe",
+        "Ampohibe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421196875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077631,
+        "wk:page":"Ampohibe"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c79a32b27060e8e11b7d23e982e78efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421196875,
+            "locality_id":1243182841,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1243182841,
+    "wof:lastmodified":1537664775,
+    "wof:name":"Ampohibe",
+    "wof:parent_id":421196875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.3,
+    -15.03333,
+    50.3,
+    -15.03333
+],
+  "geometry": {"coordinates":[50.3,-15.03333],"type":"Point"}
+}

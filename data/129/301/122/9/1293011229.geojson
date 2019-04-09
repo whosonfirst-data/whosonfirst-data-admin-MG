@@ -1,0 +1,67 @@
+{
+  "id": 1293011229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91667,-24.6,46.91667,-24.6",
+    "geom:latitude":-24.6,
+    "geom:longitude":46.91667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lohasaha",
+    "gn:country_code":"MG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063035,
+    "gn:latitude":-24.6,
+    "gn:longitude":46.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Lohasaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063035
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b63de5a2a05f8beddd1bcb9c17899d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1293011229,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1293011229,
+    "wof:lastmodified":1536975980,
+    "wof:name":"Lohasaha",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91667,
+    -24.6,
+    46.91667,
+    -24.6
+],
+  "geometry": {"coordinates":[46.91667,-24.6],"type":"Point"}
+}

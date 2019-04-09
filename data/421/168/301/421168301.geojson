@@ -1,0 +1,77 @@
+{
+  "id": 421168301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53333,-18.91667,47.53333,-18.91667",
+    "geom:latitude":-18.91667,
+    "geom:longitude":47.53333,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1069736,
+    "qs:gn_pop":0,
+    "qs:name":"Antsahondra",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antananarivo",
+    "qs:photos":411,
+    "qs:photos_1k":83,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":411,
+    "qs:photos_sr":6,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083566,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1359084,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        1108801113,
+        85673965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069736,
+        "gp:id":1359084,
+        "qs:id":1083566
+    },
+    "wof:country":"MG",
+    "wof:created":1459008761,
+    "wof:geomhash":"94114a2e1bf619d78396a1f2945cc63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801113,
+            "locality_id":-1,
+            "neighbourhood_id":421168301,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":421168301,
+    "wof:lastmodified":1531858301,
+    "wof:name":"Antsahondra",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53333,
+    -18.91667,
+    47.53333,
+    -18.91667
+],
+  "geometry": {"coordinates":[47.53333,-18.91667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193034693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5,-22.21667,44.5,-22.21667",
+    "geom:latitude":-22.21667,
+    "geom:longitude":44.5,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soatanana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056227,
+    "gn:latitude":-22.21667,
+    "gn:longitude":44.5,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Soatanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soatana",
+        "Soatanana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056227
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"440686fc7be35bd54e4ae5e01bcd3cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1193034693,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1193034693,
+    "wof:lastmodified":1537664589,
+    "wof:name":"Soatanana",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5,
+    -22.21667,
+    44.5,
+    -22.21667
+],
+  "geometry": {"coordinates":[44.5,-22.21667],"type":"Point"}
+}

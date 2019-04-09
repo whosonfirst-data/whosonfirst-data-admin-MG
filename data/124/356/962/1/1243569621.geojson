@@ -1,0 +1,72 @@
+{
+  "id": 1243569621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.73333,-25.25,45.73333,-25.25",
+    "geom:latitude":-25.25,
+    "geom:longitude":45.73333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Fekony Andrefana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065089,
+    "gn:latitude":-25.25,
+    "gn:longitude":45.73333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Fekony Andrefana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fekony Ouest",
+        "Fekony Andrefana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065089
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"42f6b553c1286ddaecdf76181db35177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1243569621,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1243569621,
+    "wof:lastmodified":1537664663,
+    "wof:name":"Fekony Andrefana",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.73333,
+    -25.25,
+    45.73333,
+    -25.25
+],
+  "geometry": {"coordinates":[45.73333,-25.25],"type":"Point"}
+}

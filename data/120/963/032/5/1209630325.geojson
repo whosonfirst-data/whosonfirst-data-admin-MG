@@ -1,0 +1,66 @@
+{
+  "id": 1209630325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2,-20.33333,48.2,-20.33333",
+    "geom:latitude":-20.33333,
+    "geom:longitude":48.2,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marosika",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059724,
+    "gn:latitude":-20.33333,
+    "gn:longitude":48.2,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Marosika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marosiky",
+        "Marosika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059724
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6a09a8a5a9f513f8bb43bbc399db66c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209630325
+        }
+    ],
+    "wof:id":1209630325,
+    "wof:lastmodified":1537664618,
+    "wof:name":"Marosika",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2,
+    -20.33333,
+    48.2,
+    -20.33333
+],
+  "geometry": {"coordinates":[48.2,-20.33333],"type":"Point"}
+}

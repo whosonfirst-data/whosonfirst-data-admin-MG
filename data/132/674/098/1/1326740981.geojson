@@ -1,0 +1,67 @@
+{
+  "id": 1326740981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25,-14.51667,48.25,-14.51667",
+    "geom:latitude":-14.51667,
+    "geom:longitude":48.25,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankijanimena",
+    "gn:country_code":"MG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072406,
+    "gn:latitude":-14.51667,
+    "gn:longitude":48.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankijanimena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072406
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8fefb39c4e8d3f8df4eaf544615590b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1326740981,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1326740981,
+    "wof:lastmodified":1536682963,
+    "wof:name":"Ankijanimena",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25,
+    -14.51667,
+    48.25,
+    -14.51667
+],
+  "geometry": {"coordinates":[48.25,-14.51667],"type":"Point"}
+}

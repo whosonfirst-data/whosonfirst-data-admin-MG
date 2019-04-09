@@ -1,0 +1,72 @@
+{
+  "id": 1276462501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.85,-14.5,49.85,-14.5",
+    "geom:latitude":-14.5,
+    "geom:longitude":49.85,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maroambihy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060312,
+    "gn:latitude":-14.5,
+    "gn:longitude":49.85,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Maroambihy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maroambihi",
+        "Maroambihy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060312
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bccf8914c6e1ea5217ab16c1881ff68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1276462501,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1276462501,
+    "wof:lastmodified":1537664623,
+    "wof:name":"Maroambihy",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.85,
+    -14.5,
+    49.85,
+    -14.5
+],
+  "geometry": {"coordinates":[49.85,-14.5],"type":"Point"}
+}

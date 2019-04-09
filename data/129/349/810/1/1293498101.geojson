@@ -1,0 +1,67 @@
+{
+  "id": 1293498101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1,-25.1,46.1,-25.1",
+    "geom:latitude":-25.1,
+    "geom:longitude":46.1,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sarihangy",
+    "gn:country_code":"MG",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056762,
+    "gn:latitude":-25.1,
+    "gn:longitude":46.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sarihangy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056762
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5b5574cabb52525a397067f32ce440db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1293498101,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1293498101,
+    "wof:lastmodified":1536772253,
+    "wof:name":"Sarihangy",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1,
+    -25.1,
+    46.1,
+    -25.1
+],
+  "geometry": {"coordinates":[46.1,-25.1],"type":"Point"}
+}

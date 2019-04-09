@@ -1,0 +1,67 @@
+{
+  "id": 1310520157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.33333,-21.56667,47.33333,-21.56667",
+    "geom:latitude":-21.56667,
+    "geom:longitude":47.33333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tetezamalama",
+    "gn:country_code":"MG",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055495,
+    "gn:latitude":-21.56667,
+    "gn:longitude":47.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tetezamalama",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055495
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f16e8780c5447ca8e15b9f637e0f94cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801159,
+            "locality_id":1310520157,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1310520157,
+    "wof:lastmodified":1536895544,
+    "wof:name":"Tetezamalama",
+    "wof:parent_id":1108801159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.33333,
+    -21.56667,
+    47.33333,
+    -21.56667
+],
+  "geometry": {"coordinates":[47.33333,-21.56667],"type":"Point"}
+}

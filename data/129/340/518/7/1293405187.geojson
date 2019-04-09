@@ -1,0 +1,67 @@
+{
+  "id": 1293405187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96667,-23.25,45.96667,-23.25",
+    "geom:latitude":-23.25,
+    "geom:longitude":45.96667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sahabe",
+    "gn:country_code":"MG",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057670,
+    "gn:latitude":-23.25,
+    "gn:longitude":45.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sahabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057670
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9f4a6c0707df7ebe82af14ec8f848105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1293405187,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1293405187,
+    "wof:lastmodified":1536905800,
+    "wof:name":"Sahabe",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96667,
+    -23.25,
+    45.96667,
+    -23.25
+],
+  "geometry": {"coordinates":[45.96667,-23.25],"type":"Point"}
+}

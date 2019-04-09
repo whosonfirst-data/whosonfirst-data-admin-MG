@@ -1,0 +1,66 @@
+{
+  "id": 1343976645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8,-13.98333,47.8,-13.98333",
+    "geom:latitude":-13.98333,
+    "geom:longitude":47.8,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maroantendry",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060291,
+    "gn:latitude":-13.98333,
+    "gn:longitude":47.8,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Maroantendry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maroantrendry",
+        "Maroantendry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060291
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0fdda66921ff203f7fa5ac923f61745c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343976645,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343976645,
+    "wof:lastmodified":1537664623,
+    "wof:name":"Maroantendry",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8,
+    -13.98333,
+    47.8,
+    -13.98333
+],
+  "geometry": {"coordinates":[47.8,-13.98333],"type":"Point"}
+}

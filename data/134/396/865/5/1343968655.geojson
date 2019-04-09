@@ -1,0 +1,72 @@
+{
+  "id": 1343968655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.28333,-12.55,49.28333,-12.55",
+    "geom:latitude":-12.55,
+    "geom:longitude":49.28333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Andranotsisiamalona",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074746,
+    "gn:latitude":-12.55,
+    "gn:longitude":49.28333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andranotsisiamalona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranosisamalona",
+        "Andranotsisiamalona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074746
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1a3033ae2e0c2108212e8cce2bafe31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1343968655,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1343968655,
+    "wof:lastmodified":1537664753,
+    "wof:name":"Andranotsisiamalona",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.28333,
+    -12.55,
+    49.28333,
+    -12.55
+],
+  "geometry": {"coordinates":[49.28333,-12.55],"type":"Point"}
+}

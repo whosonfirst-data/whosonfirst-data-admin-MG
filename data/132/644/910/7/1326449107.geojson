@@ -1,0 +1,67 @@
+{
+  "id": 1326449107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.01667,-21.46667,48.01667,-21.46667",
+    "geom:latitude":-21.46667,
+    "geom:longitude":48.01667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohibiavy",
+    "gn:country_code":"MG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054036,
+    "gn:latitude":-21.46667,
+    "gn:longitude":48.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohibiavy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054036
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ddefc9793fc06acea19456888e57d770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1326449107,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1326449107,
+    "wof:lastmodified":1536603768,
+    "wof:name":"Vohibiavy",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.01667,
+    -21.46667,
+    48.01667,
+    -21.46667
+],
+  "geometry": {"coordinates":[48.01667,-21.46667],"type":"Point"}
+}

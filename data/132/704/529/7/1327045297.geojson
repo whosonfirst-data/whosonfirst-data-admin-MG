@@ -1,0 +1,72 @@
+{
+  "id": 1327045297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-20.01667,47.05,-20.01667",
+    "geom:latitude":-20.01667,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambalamahasoa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084305,
+    "gn:latitude":-20.01667,
+    "gn:longitude":47.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambalamahasoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambohitsoa",
+        "Ambalamahasoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421204565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084305
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7840fc3c8739e0ec5d26ae4466abe0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421204565,
+            "locality_id":1327045297,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1327045297,
+    "wof:lastmodified":1537664826,
+    "wof:name":"Ambalamahasoa",
+    "wof:parent_id":421204565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -20.01667,
+    47.05,
+    -20.01667
+],
+  "geometry": {"coordinates":[47.05,-20.01667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343968679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.76667,-15.16667,49.76667,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":49.76667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambinanyampasimbola",
+    "gn:country_code":"MG",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082103,
+    "gn:latitude":-15.16667,
+    "gn:longitude":49.76667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambinanyampasimbola",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        890451979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082103
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"22b0c6d32869f7edc6d5b7e706f9b57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890451979,
+            "locality_id":1343968679,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1343968679,
+    "wof:lastmodified":1537007298,
+    "wof:name":"Ambinanyampasimbola",
+    "wof:parent_id":890451979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.76667,
+    -15.16667,
+    49.76667,
+    -15.16667
+],
+  "geometry": {"coordinates":[49.76667,-15.16667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260193387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08333,-18.11667,47.08333,-18.11667",
+    "geom:latitude":-18.11667,
+    "geom:longitude":47.08333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Maharidaza",
+    "gn:country_code":"MG",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062534,
+    "gn:latitude":-18.11667,
+    "gn:longitude":47.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maharidaza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062534
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a0c60ca81ad677dabd1f6db109710cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1260193387,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1260193387,
+    "wof:lastmodified":1536833267,
+    "wof:name":"Maharidaza",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08333,
+    -18.11667000000001,
+    47.08333,
+    -18.11667000000001
+],
+  "geometry": {"coordinates":[47.08333,-18.11667000000001],"type":"Point"}
+}

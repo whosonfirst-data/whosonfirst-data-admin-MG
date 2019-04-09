@@ -1,0 +1,67 @@
+{
+  "id": 1226158021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61667,-24.61667,46.61667,-24.61667",
+    "geom:latitude":-24.61667,
+    "geom:longitude":46.61667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sevatery",
+    "gn:country_code":"MG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056589,
+    "gn:latitude":-24.61667,
+    "gn:longitude":46.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sevatery",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056589
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"db753248c0b2b47c91028ca3551d34be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1226158021,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1226158021,
+    "wof:lastmodified":1537057410,
+    "wof:name":"Sevatery",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61667,
+    -24.61667000000001,
+    46.61667,
+    -24.61667000000001
+],
+  "geometry": {"coordinates":[46.61667,-24.61667000000001],"type":"Point"}
+}

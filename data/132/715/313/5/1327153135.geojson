@@ -1,0 +1,74 @@
+{
+  "id": 1327153135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48333,-16.18333,44.48333,-16.18333",
+    "geom:latitude":-16.18333,
+    "geom:longitude":44.48333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vilamatsa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054163,
+    "gn:latitude":-16.18333,
+    "gn:longitude":44.48333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Vilamatsa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vitamatsaha",
+        "Vilamatsaha",
+        "Vilamatsana",
+        "Vilamatsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054163
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4e4ecccb8904ecd7ad9e9444951dbd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1327153135,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1327153135,
+    "wof:lastmodified":1537664569,
+    "wof:name":"Vilamatsa",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48333,
+    -16.18333,
+    44.48333,
+    -16.18333
+],
+  "geometry": {"coordinates":[44.48333,-16.18333],"type":"Point"}
+}

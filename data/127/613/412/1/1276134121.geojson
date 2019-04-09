@@ -1,0 +1,61 @@
+{
+  "id": 1276134121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.63333,-19.71667,49.63333,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":49.63333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andrefantsena",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074478,
+    "gn:latitude":-19.71667,
+    "gn:longitude":49.63333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andrefantsena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074478
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"886ebc6dfcfb50015a21606d2307f4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276134121,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276134121,
+    "wof:lastmodified":1537043694,
+    "wof:name":"Andrefantsena",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.63333,
+    -19.71667,
+    49.63333,
+    -19.71667
+],
+  "geometry": {"coordinates":[49.63333,-19.71667],"type":"Point"}
+}

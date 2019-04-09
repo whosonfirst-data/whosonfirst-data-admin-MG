@@ -1,0 +1,77 @@
+{
+  "id": 1309741709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.25,-21.51667,47.25,-21.51667",
+    "geom:latitude":-21.51667,
+    "geom:longitude":47.25,
+    "gn:admin1_code":"7670905",
+    "gn:asciiname":"Fandrandava",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065230,
+    "gn:latitude":-21.51667,
+    "gn:longitude":47.25,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Fandrandava",
+    "gn:population":9000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alakamisy-Fandandrave",
+        "Alakamisy Fandrandava",
+        "Fandrandava"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065230,
+        "wk:page":"Fandrandava"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b1f141d8c2e60a8461caf4333c95e6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801159,
+            "locality_id":1309741709,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1309741709,
+    "wof:lastmodified":1537664664,
+    "wof:name":"Fandrandava",
+    "wof:parent_id":1108801159,
+    "wof:placetype":"locality",
+    "wof:population":9000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.25,
+    -21.51667,
+    47.25,
+    -21.51667
+],
+  "geometry": {"coordinates":[47.25,-21.51667],"type":"Point"}
+}

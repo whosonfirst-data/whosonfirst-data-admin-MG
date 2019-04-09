@@ -1,0 +1,77 @@
+{
+  "id": 1226576769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.83333,-16.95,46.83333,-16.95",
+    "geom:latitude":-16.95,
+    "geom:longitude":46.83333,
+    "gn:admin1_code":"7670850",
+    "gn:asciiname":"Maevatanana",
+    "gn:country_code":"MG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1062842,
+    "gn:latitude":-16.95,
+    "gn:longitude":46.83333,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Maevatanana",
+    "gn:population":24000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mevatanana",
+        "Maevetanana",
+        "Mavatanana",
+        "Maevatanana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062842,
+        "wk:page":"Maevatanana"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f8dd3401a05ad6de500b651962ef2ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1226576769,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1226576769,
+    "wof:lastmodified":1537664643,
+    "wof:name":"Maevatanana",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:population":24000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.83333,
+    -16.95,
+    46.83333,
+    -16.95
+],
+  "geometry": {"coordinates":[46.83333,-16.95],"type":"Point"}
+}

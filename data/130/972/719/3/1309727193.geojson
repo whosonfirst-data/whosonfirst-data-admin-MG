@@ -1,0 +1,67 @@
+{
+  "id": 1309727193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2,-25.35,45.2,-25.35",
+    "geom:latitude":-25.35,
+    "geom:longitude":45.2,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ialofandolo",
+    "gn:country_code":"MG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064532,
+    "gn:latitude":-25.35,
+    "gn:longitude":45.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ialofandolo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064532
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4e553c7c33019287b8c4cb8cb0e80ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1309727193,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1309727193,
+    "wof:lastmodified":1537042576,
+    "wof:name":"Ialofandolo",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2,
+    -25.35,
+    45.2,
+    -25.35
+],
+  "geometry": {"coordinates":[45.2,-25.35],"type":"Point"}
+}

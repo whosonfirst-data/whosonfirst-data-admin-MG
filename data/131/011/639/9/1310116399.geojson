@@ -1,0 +1,67 @@
+{
+  "id": 1310116399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.28333,-20.41667,47.28333,-20.41667",
+    "geom:latitude":-20.41667,
+    "geom:longitude":47.28333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anjoma",
+    "gn:country_code":"MG",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073511,
+    "gn:latitude":-20.41667,
+    "gn:longitude":47.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjoma",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421171215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073511
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"aae4b3cdac7a4e57270796251978584a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171215,
+            "locality_id":1310116399,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1310116399,
+    "wof:lastmodified":1536980011,
+    "wof:name":"Anjoma",
+    "wof:parent_id":421171215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28333,
+    -20.41667,
+    47.28333,
+    -20.41667
+],
+  "geometry": {"coordinates":[47.28333,-20.41667],"type":"Point"}
+}

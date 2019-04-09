@@ -1,0 +1,61 @@
+{
+  "id": 1209325009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15,-21.71667,48.15,-21.71667",
+    "geom:latitude":-21.71667,
+    "geom:longitude":48.15,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manampafana",
+    "gn:country_code":"MG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061459,
+    "gn:latitude":-21.71667,
+    "gn:longitude":48.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Manampafana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061459
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c53a2aa10093409e443151c3b1484a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209325009
+        }
+    ],
+    "wof:id":1209325009,
+    "wof:lastmodified":1536290561,
+    "wof:name":"Manampafana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15,
+    -21.71667,
+    48.15,
+    -21.71667
+],
+  "geometry": {"coordinates":[48.15,-21.71667],"type":"Point"}
+}

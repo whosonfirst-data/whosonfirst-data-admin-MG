@@ -1,0 +1,73 @@
+{
+  "id": 1259502347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.83333,-14.73333,49.83333,-14.73333",
+    "geom:latitude":-14.73333,
+    "geom:longitude":49.83333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Anoviara",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071397,
+    "gn:latitude":-14.73333,
+    "gn:longitude":49.83333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anoviara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anoviana",
+        "Anoviara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        1108801095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071397,
+        "wk:page":"Anoviara"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"631f62e79471a3bfd1d13c0bbd6ef907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801095,
+            "locality_id":1259502347,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1259502347,
+    "wof:lastmodified":1537664726,
+    "wof:name":"Anoviara",
+    "wof:parent_id":1108801095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.83333,
+    -14.73333,
+    49.83333,
+    -14.73333
+],
+  "geometry": {"coordinates":[49.83333,-14.73333],"type":"Point"}
+}

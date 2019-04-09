@@ -1,0 +1,72 @@
+{
+  "id": 1293902407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.56667,-16.31667,46.56667,-16.31667",
+    "geom:latitude":-16.31667,
+    "geom:longitude":46.56667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambalabongo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084459,
+    "gn:latitude":-16.31667,
+    "gn:longitude":46.56667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambalabongo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambalambongo",
+        "Ambalabongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421183933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084459
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8c816f720a3d02f9daa08aed7c20e78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183933,
+            "locality_id":1293902407,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1293902407,
+    "wof:lastmodified":1537664827,
+    "wof:name":"Ambalabongo",
+    "wof:parent_id":421183933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.56667,
+    -16.31667,
+    46.56667,
+    -16.31667
+],
+  "geometry": {"coordinates":[46.56667,-16.31667],"type":"Point"}
+}

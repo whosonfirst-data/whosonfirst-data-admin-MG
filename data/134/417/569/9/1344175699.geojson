@@ -1,0 +1,72 @@
+{
+  "id": 1344175699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.75,-25.36667,45.75,-25.36667",
+    "geom:latitude":-25.36667,
+    "geom:longitude":45.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampiamy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077865,
+    "gn:latitude":-25.36667,
+    "gn:longitude":45.75,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampiamy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampihamy",
+        "Ampiamy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        421184615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077865
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fdb47a320afbdde117726f2f469d1de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184615,
+            "locality_id":1344175699,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1344175699,
+    "wof:lastmodified":1537664778,
+    "wof:name":"Ampiamy",
+    "wof:parent_id":421184615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.75,
+    -25.36667000000001,
+    45.75,
+    -25.36667000000001
+],
+  "geometry": {"coordinates":[45.75,-25.36667000000001],"type":"Point"}
+}

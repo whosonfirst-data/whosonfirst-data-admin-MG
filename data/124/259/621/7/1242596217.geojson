@@ -1,0 +1,67 @@
+{
+  "id": 1242596217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1,-22.25,44.1,-22.25",
+    "geom:latitude":-22.25,
+    "geom:longitude":44.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Maramiandro",
+    "gn:country_code":"MG",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060505,
+    "gn:latitude":-22.25,
+    "gn:longitude":44.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maramiandro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060505
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"860cd8380c0fd0e96546018fb967f9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1242596217,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1242596217,
+    "wof:lastmodified":1537035277,
+    "wof:name":"Maramiandro",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1,
+    -22.25,
+    44.1,
+    -22.25
+],
+  "geometry": {"coordinates":[44.1,-22.25],"type":"Point"}
+}

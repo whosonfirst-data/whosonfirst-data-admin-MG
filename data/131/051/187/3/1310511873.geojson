@@ -1,0 +1,72 @@
+{
+  "id": 1310511873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7,-19.7,44.7,-19.7",
+    "geom:latitude":-19.7,
+    "geom:longitude":44.7,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Serinama",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056598,
+    "gn:latitude":-19.7,
+    "gn:longitude":44.7,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Serinama",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serinam",
+        "Serinama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056598
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c4934c7584938d5a7c6019de10c55f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169785,
+            "locality_id":1310511873,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1310511873,
+    "wof:lastmodified":1537664593,
+    "wof:name":"Serinama",
+    "wof:parent_id":421169785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7,
+    -19.7,
+    44.7,
+    -19.7
+],
+  "geometry": {"coordinates":[44.7,-19.7],"type":"Point"}
+}

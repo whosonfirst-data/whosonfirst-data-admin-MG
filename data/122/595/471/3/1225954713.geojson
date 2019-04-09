@@ -1,0 +1,73 @@
+{
+  "id": 1225954713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.38333,-12.58333,49.38333,-12.58333",
+    "geom:latitude":-12.58333,
+    "geom:longitude":49.38333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saharenana Ambany",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057379,
+    "gn:latitude":-12.58333,
+    "gn:longitude":49.38333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Saharenana Ambany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saharainanambany",
+        "Saharainambany",
+        "Saharenana Ambany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057379
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ea711a8c103dc6641fdacdcdab555862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1225954713,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1225954713,
+    "wof:lastmodified":1537664600,
+    "wof:name":"Saharenana Ambany",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.38333,
+    -12.58333,
+    49.38333,
+    -12.58333
+],
+  "geometry": {"coordinates":[49.38333,-12.58333],"type":"Point"}
+}

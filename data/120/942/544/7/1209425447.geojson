@@ -1,0 +1,61 @@
+{
+  "id": 1209425447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.55,-12.88333,49.55,-12.88333",
+    "geom:latitude":-12.88333,
+    "geom:longitude":49.55,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambinanynandrevo",
+    "gn:country_code":"MG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082073,
+    "gn:latitude":-12.88333,
+    "gn:longitude":49.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambinanynandrevo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082073
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b9560f21106907d4c1054e8da269f2ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425447
+        }
+    ],
+    "wof:id":1209425447,
+    "wof:lastmodified":1536287395,
+    "wof:name":"Ambinanynandrevo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.55,
+    -12.88333,
+    49.55,
+    -12.88333
+],
+  "geometry": {"coordinates":[49.55,-12.88333],"type":"Point"}
+}

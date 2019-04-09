@@ -1,0 +1,67 @@
+{
+  "id": 1209433485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.05,-14.6,50.05,-14.6",
+    "geom:latitude":-14.6,
+    "geom:longitude":50.05,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Langarivo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063226,
+    "gn:latitude":-14.6,
+    "gn:longitude":50.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Langarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lanjarivo",
+        "Langarivo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063226,
+        "wk:page":"Lanjarivo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a123020be0adcb0222ed8c21429828e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209433485
+        }
+    ],
+    "wof:id":1209433485,
+    "wof:lastmodified":1537664645,
+    "wof:name":"Langarivo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.05,
+    -14.6,
+    50.05,
+    -14.6
+],
+  "geometry": {"coordinates":[50.05,-14.6],"type":"Point"}
+}

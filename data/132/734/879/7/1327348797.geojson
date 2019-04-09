@@ -1,0 +1,73 @@
+{
+  "id": 1327348797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.86667,-19.05,46.86667,-19.05",
+    "geom:latitude":-19.05,
+    "geom:longitude":46.86667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manazary",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061194,
+    "gn:latitude":-19.05,
+    "gn:longitude":46.86667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manazary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiakarantsoa-Manazary",
+        "Manazary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421191751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061194,
+        "wk:page":"Manazary"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4cd2911e7c125215f206f84826e48c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421191751,
+            "locality_id":1327348797,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1327348797,
+    "wof:lastmodified":1537664631,
+    "wof:name":"Manazary",
+    "wof:parent_id":421191751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.86667,
+    -19.05,
+    46.86667,
+    -19.05
+],
+  "geometry": {"coordinates":[46.86667,-19.05],"type":"Point"}
+}

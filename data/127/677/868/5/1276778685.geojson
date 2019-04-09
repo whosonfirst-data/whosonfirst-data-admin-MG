@@ -1,0 +1,72 @@
+{
+  "id": 1276778685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6,-20.56667,47.6,-20.56667",
+    "geom:latitude":-20.56667,
+    "geom:longitude":47.6,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sahamampay",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057551,
+    "gn:latitude":-20.56667,
+    "gn:longitude":47.6,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sahamampay",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahanamosy",
+        "Sahamampay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421191749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057551
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1541188e5f3993adb221f6060e9c3fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421191749,
+            "locality_id":1276778685,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1276778685,
+    "wof:lastmodified":1537664601,
+    "wof:name":"Sahamampay",
+    "wof:parent_id":421191749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6,
+    -20.56667,
+    47.6,
+    -20.56667
+],
+  "geometry": {"coordinates":[47.6,-20.56667],"type":"Point"}
+}

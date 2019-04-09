@@ -1,0 +1,67 @@
+{
+  "id": 1343680449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65,-19.7,44.65,-19.7",
+    "geom:latitude":-19.7,
+    "geom:longitude":44.65,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bevala",
+    "gn:country_code":"MG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066046,
+    "gn:latitude":-19.7,
+    "gn:longitude":44.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bevala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066046
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"719db630b49ffb88802e79f431c92773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169785,
+            "locality_id":1343680449,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1343680449,
+    "wof:lastmodified":1536926920,
+    "wof:name":"Bevala",
+    "wof:parent_id":421169785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65,
+    -19.7,
+    44.65,
+    -19.7
+],
+  "geometry": {"coordinates":[44.65,-19.7],"type":"Point"}
+}

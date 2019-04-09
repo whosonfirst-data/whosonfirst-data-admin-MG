@@ -1,0 +1,90 @@
+{
+  "id": 890450121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.63333,-21.3,47.63333,-21.3",
+    "geom:latitude":-21.3,
+    "geom:longitude":47.63333,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":17543,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4f0a\u6cd5\u7d0d\u8fea\u4e9e\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Ifanadiana"
+    ],
+    "name:eng_x_preferred":[
+        "Ifanadiana"
+    ],
+    "name:fre_x_preferred":[
+        "Ifanadiana"
+    ],
+    "name:ger_x_preferred":[
+        "Ifanadiana"
+    ],
+    "name:mlg_x_preferred":[
+        "Ifanadiana"
+    ],
+    "name:pol_x_preferred":[
+        "Ifanadiana"
+    ],
+    "qs:name":"Ifanadiana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":138,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421197047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064366,
+        "gp:id":1361232,
+        "qs:id":84090,
+        "wd:id":"Q1099548",
+        "wk:page":"Ifanadiana"
+    },
+    "wof:country":"MG",
+    "wof:created":1469052726,
+    "wof:geomhash":"56a2f99ef08746dbf89ea77fedc43672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421197047,
+            "locality_id":890450121,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":890450121,
+    "wof:lastmodified":1553816401,
+    "wof:name":"Ifanadiana",
+    "wof:parent_id":421197047,
+    "wof:placetype":"locality",
+    "wof:population":17543,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.63333,
+    -21.3,
+    47.63333,
+    -21.3
+],
+  "geometry": {"coordinates":[47.63333,-21.3],"type":"Point"}
+}

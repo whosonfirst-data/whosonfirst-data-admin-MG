@@ -1,0 +1,61 @@
+{
+  "id": 1243572745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25,-22.18333,43.25,-22.18333",
+    "geom:latitude":-22.18333,
+    "geom:longitude":43.25,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lamboara",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063277,
+    "gn:latitude":-22.18333,
+    "gn:longitude":43.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Lamboara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063277
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"25a8667ec2066c16830a055477a694ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243572745,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243572745,
+    "wof:lastmodified":1536621484,
+    "wof:name":"Lamboara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25,
+    -22.18333,
+    43.25,
+    -22.18333
+],
+  "geometry": {"coordinates":[43.25,-22.18333],"type":"Point"}
+}

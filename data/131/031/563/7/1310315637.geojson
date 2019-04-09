@@ -1,0 +1,72 @@
+{
+  "id": 1310315637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,-19.31667,47.66667,-19.31667",
+    "geom:latitude":-19.31667,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Alatsinainy-Bakaro",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084729,
+    "gn:latitude":-19.31667,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Alatsinainy-Bakaro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alatsinainy",
+        "Alatsinainy-Bakaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084729
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"66816d790b9d807a7254d04a16956ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801099,
+            "locality_id":1310315637,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1310315637,
+    "wof:lastmodified":1537664830,
+    "wof:name":"Alatsinainy-Bakaro",
+    "wof:parent_id":1108801099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    -19.31667,
+    47.66667,
+    -19.31667
+],
+  "geometry": {"coordinates":[47.66667,-19.31667],"type":"Point"}
+}

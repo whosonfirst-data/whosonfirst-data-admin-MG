@@ -1,0 +1,67 @@
+{
+  "id": 1276462627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08333,-24.86667,46.08333,-24.86667",
+    "geom:latitude":-24.86667,
+    "geom:longitude":46.08333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambovo",
+    "gn:country_code":"MG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079068,
+    "gn:latitude":-24.86667,
+    "gn:longitude":46.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambovo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079068
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d64a439993aff42f470f8b377419790f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1276462627,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1276462627,
+    "wof:lastmodified":1536602373,
+    "wof:name":"Ambovo",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08333,
+    -24.86667000000001,
+    46.08333,
+    -24.86667000000001
+],
+  "geometry": {"coordinates":[46.08333,-24.86667000000001],"type":"Point"}
+}

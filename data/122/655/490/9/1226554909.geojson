@@ -1,0 +1,67 @@
+{
+  "id": 1226554909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.15,-21.41667,47.15,-21.41667",
+    "geom:latitude":-21.41667,
+    "geom:longitude":47.15,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohisiva",
+    "gn:country_code":"MG",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053733,
+    "gn:latitude":-21.41667,
+    "gn:longitude":47.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohisiva",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053733
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4eb6f09da9d1fb4f00bbc4652c60727e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801159,
+            "locality_id":1226554909,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1226554909,
+    "wof:lastmodified":1536983970,
+    "wof:name":"Vohisiva",
+    "wof:parent_id":1108801159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.15,
+    -21.41667,
+    47.15,
+    -21.41667
+],
+  "geometry": {"coordinates":[47.15,-21.41667],"type":"Point"}
+}

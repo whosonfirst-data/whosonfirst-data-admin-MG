@@ -1,0 +1,66 @@
+{
+  "id": 1209625841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68333,-20.86667,44.68333,-20.86667",
+    "geom:latitude":-20.86667,
+    "geom:longitude":44.68333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bemokoty",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067220,
+    "gn:latitude":-20.86667,
+    "gn:longitude":44.68333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bemokoty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bemokaty",
+        "Bemokoty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067220
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f83b596384ced96cf02c88d2013428a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209625841
+        }
+    ],
+    "wof:id":1209625841,
+    "wof:lastmodified":1537664685,
+    "wof:name":"Bemokoty",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68333,
+    -20.86667000000001,
+    44.68333,
+    -20.86667000000001
+],
+  "geometry": {"coordinates":[44.68333,-20.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293620533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26332,-20.31686,44.26332,-20.31686",
+    "geom:latitude":-20.31686,
+    "geom:longitude":44.26332,
+    "gn:admin1_code":"7670902",
+    "gn:asciiname":"Bethania",
+    "gn:country_code":"MG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066315,
+    "gn:latitude":-20.31686,
+    "gn:longitude":44.26332,
+    "gn:modification_date":"2013-06-09",
+    "gn:name":"Bethania",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421190797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066315
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d00b77cab66df9a0b82c3303252f47ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190797,
+            "locality_id":1293620533,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1293620533,
+    "wof:lastmodified":1537089259,
+    "wof:name":"Bethania",
+    "wof:parent_id":421190797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26332,
+    -20.31686,
+    44.26332,
+    -20.31686
+],
+  "geometry": {"coordinates":[44.26332,-20.31686],"type":"Point"}
+}

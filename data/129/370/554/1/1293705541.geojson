@@ -1,0 +1,67 @@
+{
+  "id": 1293705541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.11667,-14.91667,50.11667,-14.91667",
+    "geom:latitude":-14.91667,
+    "geom:longitude":50.11667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antsahamanara",
+    "gn:country_code":"MG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069829,
+    "gn:latitude":-14.91667,
+    "gn:longitude":50.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsahamanara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421196875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069829
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2013bf96b9bff1df658ad86891d9add5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421196875,
+            "locality_id":1293705541,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1293705541,
+    "wof:lastmodified":1536969739,
+    "wof:name":"Antsahamanara",
+    "wof:parent_id":421196875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.11667,
+    -14.91667,
+    50.11667,
+    -14.91667
+],
+  "geometry": {"coordinates":[50.11667,-14.91667],"type":"Point"}
+}

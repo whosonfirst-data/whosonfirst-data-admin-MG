@@ -1,0 +1,67 @@
+{
+  "id": 1309730737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61667,-23.13333,44.61667,-23.13333",
+    "geom:latitude":-23.13333,
+    "geom:longitude":44.61667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankera-Sarodrano",
+    "gn:country_code":"MG",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072582,
+    "gn:latitude":-23.13333,
+    "gn:longitude":44.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankera-Sarodrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072582
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8d69770217cd6569a59da9f247af0545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1309730737,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1309730737,
+    "wof:lastmodified":1537037673,
+    "wof:name":"Ankera-Sarodrano",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61667,
+    -23.13333,
+    44.61667,
+    -23.13333
+],
+  "geometry": {"coordinates":[44.61667,-23.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343868619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.35,-25.0,46.35,-25.0",
+    "geom:latitude":-25.0,
+    "geom:longitude":46.35,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsilanja",
+    "gn:country_code":"MG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054738,
+    "gn:latitude":-25.0,
+    "gn:longitude":46.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsilanja",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054738
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"267878e27d8bb1d786707cf452651d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1343868619,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1343868619,
+    "wof:lastmodified":1536654750,
+    "wof:name":"Tsilanja",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.35,
+    -25.0,
+    46.35,
+    -25.0
+],
+  "geometry": {"coordinates":[46.35,-25.0],"type":"Point"}
+}

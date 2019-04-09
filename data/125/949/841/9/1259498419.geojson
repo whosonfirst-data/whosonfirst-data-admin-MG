@@ -1,0 +1,67 @@
+{
+  "id": 1259498419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58333,-16.55,44.58333,-16.55",
+    "geom:latitude":-16.55,
+    "geom:longitude":44.58333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Betainkanka",
+    "gn:country_code":"MG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066479,
+    "gn:latitude":-16.55,
+    "gn:longitude":44.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betainkanka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066479
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6a6487eaa49c92e7b229f1bec23e06d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1259498419,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1259498419,
+    "wof:lastmodified":1536836222,
+    "wof:name":"Betainkanka",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58333,
+    -16.55,
+    44.58333,
+    -16.55
+],
+  "geometry": {"coordinates":[44.58333,-16.55],"type":"Point"}
+}

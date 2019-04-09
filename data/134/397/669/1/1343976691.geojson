@@ -1,0 +1,73 @@
+{
+  "id": 1343976691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23982,-22.07048,43.23982,-22.07048",
+    "geom:latitude":-22.07048,
+    "geom:longitude":43.23982,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andavadoaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076337,
+    "gn:latitude":-22.07048,
+    "gn:longitude":43.23982,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Andavadoaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andavaloaka",
+        "Andavadoaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076337,
+        "wk:page":"Andavadoaka"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0f714d540e1adac91c4f46088f23295e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1343976691,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1343976691,
+    "wof:lastmodified":1537664765,
+    "wof:name":"Andavadoaka",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23982,
+    -22.07048,
+    43.23982,
+    -22.07048
+],
+  "geometry": {"coordinates":[43.23982,-22.07048],"type":"Point"}
+}

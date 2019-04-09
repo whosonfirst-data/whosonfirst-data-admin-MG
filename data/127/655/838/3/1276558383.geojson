@@ -1,0 +1,67 @@
+{
+  "id": 1276558383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6,-18.41667,46.6,-18.41667",
+    "geom:latitude":-18.41667,
+    "geom:longitude":46.6,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Morafeno",
+    "gn:country_code":"MG",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058672,
+    "gn:latitude":-18.41667,
+    "gn:longitude":46.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Morafeno",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        1108801151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058672
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f380c78caa789909ddc000712611571b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801151,
+            "locality_id":1276558383,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1276558383,
+    "wof:lastmodified":1536973978,
+    "wof:name":"Morafeno",
+    "wof:parent_id":1108801151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6,
+    -18.41667,
+    46.6,
+    -18.41667
+],
+  "geometry": {"coordinates":[46.6,-18.41667],"type":"Point"}
+}

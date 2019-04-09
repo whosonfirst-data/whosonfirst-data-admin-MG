@@ -1,0 +1,61 @@
+{
+  "id": 1360300687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78333,-13.16667,48.78333,-13.16667",
+    "geom:latitude":-13.16667,
+    "geom:longitude":48.78333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Misorobe",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058848,
+    "gn:latitude":-13.16667,
+    "gn:longitude":48.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Misorobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058848
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c709bca75b01a81af572829e01136187",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360300687,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360300687,
+    "wof:lastmodified":1536633127,
+    "wof:name":"Misorobe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78333,
+    -13.16667,
+    48.78333,
+    -13.16667
+],
+  "geometry": {"coordinates":[48.78333,-13.16667],"type":"Point"}
+}

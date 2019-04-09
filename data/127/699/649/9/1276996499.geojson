@@ -1,0 +1,67 @@
+{
+  "id": 1276996499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5,-18.7,47.5,-18.7",
+    "geom:latitude":-18.7,
+    "geom:longitude":47.5,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Soamanandray",
+    "gn:country_code":"MG",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056460,
+    "gn:latitude":-18.7,
+    "gn:longitude":47.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Soamanandray",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421201527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056460
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1b7c81afbe956c7fc01b02194f0934d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421201527,
+            "locality_id":1276996499,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1276996499,
+    "wof:lastmodified":1536884106,
+    "wof:name":"Soamanandray",
+    "wof:parent_id":421201527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5,
+    -18.7,
+    47.5,
+    -18.7
+],
+  "geometry": {"coordinates":[47.5,-18.7],"type":"Point"}
+}

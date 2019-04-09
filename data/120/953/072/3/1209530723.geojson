@@ -1,0 +1,61 @@
+{
+  "id": 1209530723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86667,-19.55,48.86667,-19.55",
+    "geom:latitude":-19.55,
+    "geom:longitude":48.86667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ilaka",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064220,
+    "gn:latitude":-19.55,
+    "gn:longitude":48.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ilaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064220
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e6668065b1b6230934b1b59466cd0298",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209530723
+        }
+    ],
+    "wof:id":1209530723,
+    "wof:lastmodified":1536284288,
+    "wof:name":"Ilaka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86667,
+    -19.55,
+    48.86667,
+    -19.55
+],
+  "geometry": {"coordinates":[48.86667,-19.55],"type":"Point"}
+}

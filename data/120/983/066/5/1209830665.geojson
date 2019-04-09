@@ -1,0 +1,72 @@
+{
+  "id": 1209830665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.11667,-20.01667,48.11667,-20.01667",
+    "geom:latitude":-20.01667,
+    "geom:longitude":48.11667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambatolomaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082958,
+    "gn:latitude":-20.01667,
+    "gn:longitude":48.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambatolomaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambatolamakana",
+        "Ambatolomaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082958
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8e99e7d55e0d228a3fd2b3f1774278b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801189,
+            "locality_id":1209830665,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1209830665,
+    "wof:lastmodified":1537664816,
+    "wof:name":"Ambatolomaka",
+    "wof:parent_id":1108801189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.11667,
+    -20.01667,
+    48.11667,
+    -20.01667
+],
+  "geometry": {"coordinates":[48.11667,-20.01667],"type":"Point"}
+}

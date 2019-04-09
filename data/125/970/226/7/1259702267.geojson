@@ -1,0 +1,67 @@
+{
+  "id": 1259702267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.23333,-19.1,48.23333,-19.1",
+    "geom:latitude":-19.1,
+    "geom:longitude":48.23333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sandrangato",
+    "gn:country_code":"MG",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056839,
+    "gn:latitude":-19.1,
+    "gn:longitude":48.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sandrangato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056839
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"db4870d9bc12928a2eb60fd735a6580e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1259702267,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1259702267,
+    "wof:lastmodified":1537038335,
+    "wof:name":"Sandrangato",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.23333,
+    -19.1,
+    48.23333,
+    -19.1
+],
+  "geometry": {"coordinates":[48.23333,-19.1],"type":"Point"}
+}

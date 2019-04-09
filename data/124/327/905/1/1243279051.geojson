@@ -1,0 +1,72 @@
+{
+  "id": 1243279051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13333,-22.53333,45.13333,-22.53333",
+    "geom:latitude":-22.53333,
+    "geom:longitude":45.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bereketa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066948,
+    "gn:latitude":-22.53333,
+    "gn:longitude":45.13333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bereketa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bareketa",
+        "Bereketa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066948
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d93580084b48ecfda490e147fbefe239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1243279051,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1243279051,
+    "wof:lastmodified":1537664682,
+    "wof:name":"Bereketa",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13333,
+    -22.53333,
+    45.13333,
+    -22.53333
+],
+  "geometry": {"coordinates":[45.13333,-22.53333],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421176047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.23333,-12.73333,49.23333,-12.73333",
+    "geom:latitude":-12.73333,
+    "geom:longitude":49.23333,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Anivorano Nord"
+    ],
+    "name:eng_x_preferred":[
+        "Anivorano Nord"
+    ],
+    "name:fra_x_preferred":[
+        "Anivorano Nord"
+    ],
+    "name:fre_x_preferred":[
+        "Anivorano Nord"
+    ],
+    "name:nld_x_preferred":[
+        "Anivorano Nord"
+    ],
+    "name:swe_x_preferred":[
+        "Anivorano Avaratra"
+    ],
+    "name:unk_x_variant":[
+        "Anivorano-du-Nord"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1073851,
+    "qs:gn_pop":0,
+    "qs:name":"Anivorano Avaratra",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antsiranana",
+    "qs:photos":46,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1040689,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1357366,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073851,
+        "gp:id":1357366,
+        "qs:id":1040689,
+        "wd:id":"Q2850203",
+        "wk:page":"Anivorano Nord"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009088,
+    "wof:geomhash":"1d8cd15e45fe48a5a0b2dae77a0fd9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":421176047,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":421176047,
+    "wof:lastmodified":1527726470,
+    "wof:name":"Anivorano Avaratra",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.23333,
+    -12.73333,
+    49.23333,
+    -12.73333
+],
+  "geometry": {"coordinates":[49.23333,-12.73333],"type":"Point"}
+}

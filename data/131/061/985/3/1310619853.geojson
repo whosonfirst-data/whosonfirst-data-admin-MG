@@ -1,0 +1,72 @@
+{
+  "id": 1310619853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25,-21.03333,48.25,-21.03333",
+    "geom:latitude":-21.03333,
+    "geom:longitude":48.25,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Maroaomby",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060279,
+    "gn:latitude":-21.03333,
+    "gn:longitude":48.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Maroaomby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maromby",
+        "Maroaomby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060279
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"15968b4c107792a5bf123a203b7d7d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1310619853,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1310619853,
+    "wof:lastmodified":1537664623,
+    "wof:name":"Maroaomby",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25,
+    -21.03333,
+    48.25,
+    -21.03333
+],
+  "geometry": {"coordinates":[48.25,-21.03333],"type":"Point"}
+}

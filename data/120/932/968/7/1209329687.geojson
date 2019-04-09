@@ -1,0 +1,61 @@
+{
+  "id": 1209329687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.86667,-20.25,46.86667,-20.25",
+    "geom:latitude":-20.25,
+    "geom:longitude":46.86667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambodifasika",
+    "gn:country_code":"MG",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081550,
+    "gn:latitude":-20.25,
+    "gn:longitude":46.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodifasika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081550
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d8cd98237db7ff72f8b75bffbe2d5911",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209329687
+        }
+    ],
+    "wof:id":1209329687,
+    "wof:lastmodified":1536290412,
+    "wof:name":"Ambodifasika",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.86667,
+    -20.25,
+    46.86667,
+    -20.25
+],
+  "geometry": {"coordinates":[46.86667,-20.25],"type":"Point"}
+}

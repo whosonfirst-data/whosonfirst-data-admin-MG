@@ -1,0 +1,72 @@
+{
+  "id": 1343772615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.35,-16.13333,47.35,-16.13333",
+    "geom:latitude":-16.13333,
+    "geom:longitude":47.35,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambatomisokatra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082709,
+    "gn:latitude":-16.13333,
+    "gn:longitude":47.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambatomisokatra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambatomisokitra",
+        "Ambatomisokatra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082709
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7829c3d91352ba91e7faef229547bbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801173,
+            "locality_id":1343772615,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1343772615,
+    "wof:lastmodified":1537664814,
+    "wof:name":"Ambatomisokatra",
+    "wof:parent_id":1108801173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.35,
+    -16.13332999999999,
+    47.35,
+    -16.13332999999999
+],
+  "geometry": {"coordinates":[47.35,-16.13332999999999],"type":"Point"}
+}

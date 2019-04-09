@@ -1,0 +1,66 @@
+{
+  "id": 1209333139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26667,-18.71667,44.26667,-18.71667",
+    "geom:latitude":-18.71667,
+    "geom:longitude":44.26667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Besara Ambony",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066667,
+    "gn:latitude":-18.71667,
+    "gn:longitude":44.26667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Besara Ambony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bezara",
+        "Besara Ambony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066667
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ab37a4bea5ac44abbe0cb63ccf4f6370",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209333139
+        }
+    ],
+    "wof:id":1209333139,
+    "wof:lastmodified":1537664678,
+    "wof:name":"Besara Ambony",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26667,
+    -18.71667,
+    44.26667,
+    -18.71667
+],
+  "geometry": {"coordinates":[44.26667,-18.71667],"type":"Point"}
+}

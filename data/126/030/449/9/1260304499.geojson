@@ -1,0 +1,68 @@
+{
+  "id": 1260304499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88333,-23.43333,43.88333,-23.43333",
+    "geom:latitude":-23.43333,
+    "geom:longitude":43.88333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambohimahavelona",
+    "gn:country_code":"MG",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080410,
+    "gn:latitude":-23.43333,
+    "gn:longitude":43.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohimahavelona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080410,
+        "wk:page":"Ambohimahavelona"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b10f3ca781bbf6894dbad3a02862f3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1260304499,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1260304499,
+    "wof:lastmodified":1537568374,
+    "wof:name":"Ambohimahavelona",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88333,
+    -23.43333,
+    43.88333,
+    -23.43333
+],
+  "geometry": {"coordinates":[43.88333,-23.43333],"type":"Point"}
+}

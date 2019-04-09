@@ -1,0 +1,61 @@
+{
+  "id": 1209225241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.35,-18.98333,47.35,-18.98333",
+    "geom:latitude":-18.98333,
+    "geom:longitude":47.35,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antsahapetaka",
+    "gn:country_code":"MG",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069774,
+    "gn:latitude":-18.98333,
+    "gn:longitude":47.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsahapetaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069774
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3f11e0b09c8f2ab20d173578d8f95926",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209225241
+        }
+    ],
+    "wof:id":1209225241,
+    "wof:lastmodified":1536293819,
+    "wof:name":"Antsahapetaka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.35,
+    -18.98333,
+    47.35,
+    -18.98333
+],
+  "geometry": {"coordinates":[47.35,-18.98333],"type":"Point"}
+}

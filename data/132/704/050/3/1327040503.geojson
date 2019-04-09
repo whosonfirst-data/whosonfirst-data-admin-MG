@@ -1,0 +1,72 @@
+{
+  "id": 1327040503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.31667,-24.7,45.31667,-24.7",
+    "geom:latitude":-24.7,
+    "geom:longitude":45.31667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampanimiongana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078535,
+    "gn:latitude":-24.7,
+    "gn:longitude":45.31667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampanimiongana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampanimidngana",
+        "Ampanimiongana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078535
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4a2c6bc5cb9f2df4e5de153688f98ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801131,
+            "locality_id":1327040503,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1327040503,
+    "wof:lastmodified":1537664782,
+    "wof:name":"Ampanimiongana",
+    "wof:parent_id":1108801131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.31667,
+    -24.7,
+    45.31667,
+    -24.7
+],
+  "geometry": {"coordinates":[45.31667,-24.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226161599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.45,-24.65,45.45,-24.65",
+    "geom:latitude":-24.65,
+    "geom:longitude":45.45,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vohitrarivo",
+    "gn:country_code":"MG",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053665,
+    "gn:latitude":-24.65,
+    "gn:longitude":45.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohitrarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053665
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"84a120d1b51837f6a7d571b5c66a880f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1226161599,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1226161599,
+    "wof:lastmodified":1537052612,
+    "wof:name":"Vohitrarivo",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.45,
+    -24.65,
+    45.45,
+    -24.65
+],
+  "geometry": {"coordinates":[45.45,-24.65],"type":"Point"}
+}

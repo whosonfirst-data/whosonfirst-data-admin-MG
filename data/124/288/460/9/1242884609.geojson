@@ -1,0 +1,72 @@
+{
+  "id": 1242884609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25,-21.73333,44.25,-21.73333",
+    "geom:latitude":-21.73333,
+    "geom:longitude":44.25,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Savainomby",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056632,
+    "gn:latitude":-21.73333,
+    "gn:longitude":44.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Savainomby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sevanomby",
+        "Savainomby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056632
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bcf84c0bee4c99d92b7d5872d0abbc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1242884609,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1242884609,
+    "wof:lastmodified":1537664593,
+    "wof:name":"Savainomby",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25,
+    -21.73333,
+    44.25,
+    -21.73333
+],
+  "geometry": {"coordinates":[44.25,-21.73333],"type":"Point"}
+}

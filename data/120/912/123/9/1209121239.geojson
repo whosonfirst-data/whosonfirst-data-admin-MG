@@ -1,0 +1,61 @@
+{
+  "id": 1209121239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.98333,-18.66667,45.98333,-18.66667",
+    "geom:latitude":-18.66667,
+    "geom:longitude":45.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Amparihimbozaha",
+    "gn:country_code":"MG",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078370,
+    "gn:latitude":-18.66667,
+    "gn:longitude":45.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amparihimbozaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078370
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"206397061095c208ede876848b7d01d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209121239
+        }
+    ],
+    "wof:id":1209121239,
+    "wof:lastmodified":1536297091,
+    "wof:name":"Amparihimbozaha",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.98333,
+    -18.66667,
+    45.98333,
+    -18.66667
+],
+  "geometry": {"coordinates":[45.98333,-18.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310716897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.75,-15.31667,49.75,-15.31667",
+    "geom:latitude":-15.31667,
+    "geom:longitude":49.75,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sahajinja",
+    "gn:country_code":"MG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057616,
+    "gn:latitude":-15.31667,
+    "gn:longitude":49.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sahajinja",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        890451979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057616
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5877ccdb008efaf2809565412e1f34d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890451979,
+            "locality_id":1310716897,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1310716897,
+    "wof:lastmodified":1536609208,
+    "wof:name":"Sahajinja",
+    "wof:parent_id":890451979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.75,
+    -15.31667,
+    49.75,
+    -15.31667
+],
+  "geometry": {"coordinates":[49.75,-15.31667],"type":"Point"}
+}

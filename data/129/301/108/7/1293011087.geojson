@@ -1,0 +1,72 @@
+{
+  "id": 1293011087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4,-23.73333,47.4,-23.73333",
+    "geom:latitude":-23.73333,
+    "geom:longitude":47.4,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Soatsirana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056186,
+    "gn:latitude":-23.73333,
+    "gn:longitude":47.4,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Soatsirana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soasiranana",
+        "Soatsirana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056186
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"88b9166c829becef4a29b5ecdecd5899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1293011087,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1293011087,
+    "wof:lastmodified":1537664588,
+    "wof:name":"Soatsirana",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4,
+    -23.73333,
+    47.4,
+    -23.73333
+],
+  "geometry": {"coordinates":[47.4,-23.73333],"type":"Point"}
+}

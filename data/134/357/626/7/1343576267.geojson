@@ -1,0 +1,67 @@
+{
+  "id": 1343576267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78333,-24.95,44.78333,-24.95",
+    "geom:latitude":-24.95,
+    "geom:longitude":44.78333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bekily",
+    "gn:country_code":"MG",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067979,
+    "gn:latitude":-24.95,
+    "gn:longitude":44.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bekily",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067979
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"639c66b5b53fc04bb750feb02501df93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1343576267,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1343576267,
+    "wof:lastmodified":1537073498,
+    "wof:name":"Bekily",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78333,
+    -24.95,
+    44.78333,
+    -24.95
+],
+  "geometry": {"coordinates":[44.78333,-24.95],"type":"Point"}
+}

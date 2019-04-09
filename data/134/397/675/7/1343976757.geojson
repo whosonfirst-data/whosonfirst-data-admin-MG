@@ -1,0 +1,72 @@
+{
+  "id": 1343976757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4,-18.26667,47.4,-18.26667",
+    "geom:latitude":-18.26667,
+    "geom:longitude":47.4,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambolotarakely",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079459,
+    "gn:latitude":-18.26667,
+    "gn:longitude":47.4,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambolotarakely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambolotatakely",
+        "Ambolotarakely"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079459
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4472cca82e9c19e81ebcd82cf298a6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1343976757,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1343976757,
+    "wof:lastmodified":1537664789,
+    "wof:name":"Ambolotarakely",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4,
+    -18.26667,
+    47.4,
+    -18.26667
+],
+  "geometry": {"coordinates":[47.4,-18.26667],"type":"Point"}
+}

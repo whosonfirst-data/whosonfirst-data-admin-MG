@@ -1,0 +1,72 @@
+{
+  "id": 1310616241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.81667,-15.28333,49.81667,-15.28333",
+    "geom:latitude":-15.28333,
+    "geom:longitude":49.81667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sakatihina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057065,
+    "gn:latitude":-15.28333,
+    "gn:longitude":49.81667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sakatihina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakatina",
+        "Sakatihina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        890451979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057065
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5411d7787f3c216933c0dc1364ffd1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890451979,
+            "locality_id":1310616241,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1310616241,
+    "wof:lastmodified":1537664597,
+    "wof:name":"Sakatihina",
+    "wof:parent_id":890451979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.81667,
+    -15.28333,
+    49.81667,
+    -15.28333
+],
+  "geometry": {"coordinates":[49.81667,-15.28333],"type":"Point"}
+}

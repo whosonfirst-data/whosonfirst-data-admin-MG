@@ -1,0 +1,71 @@
+{
+  "id": 1260214431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86667,-13.5,48.86667,-13.5",
+    "geom:latitude":-13.5,
+    "geom:longitude":48.86667,
+    "gn:admin1_code":"7670842",
+    "gn:asciiname":"Ambarakaraka",
+    "gn:country_code":"MG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083676,
+    "gn:latitude":-13.5,
+    "gn:longitude":48.86667,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ambarakaraka",
+    "gn:population":16114,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        421180171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083676,
+        "wk:page":"Ambarakaraka"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c0790ef3605cf236a466298f8555799a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421180171,
+            "locality_id":1260214431,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1260214431,
+    "wof:lastmodified":1537568378,
+    "wof:name":"Ambarakaraka",
+    "wof:parent_id":421180171,
+    "wof:placetype":"locality",
+    "wof:population":16114,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86667,
+    -13.5,
+    48.86667,
+    -13.5
+],
+  "geometry": {"coordinates":[48.86667,-13.5],"type":"Point"}
+}

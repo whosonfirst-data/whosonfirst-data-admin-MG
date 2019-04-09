@@ -1,0 +1,67 @@
+{
+  "id": 1343469255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9,-23.63333,45.9,-23.63333",
+    "geom:latitude":-23.63333,
+    "geom:longitude":45.9,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sakalala",
+    "gn:country_code":"MG",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057175,
+    "gn:latitude":-23.63333,
+    "gn:longitude":45.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sakalala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057175
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4fd15c71e3b4a8e3f753cc068c9699ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1343469255,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1343469255,
+    "wof:lastmodified":1536733551,
+    "wof:name":"Sakalala",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9,
+    -23.63333,
+    45.9,
+    -23.63333
+],
+  "geometry": {"coordinates":[45.9,-23.63333],"type":"Point"}
+}

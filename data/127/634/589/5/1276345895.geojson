@@ -1,0 +1,68 @@
+{
+  "id": 1276345895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7,-24.33333,46.7,-24.33333",
+    "geom:latitude":-24.33333,
+    "geom:longitude":46.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Esira",
+    "gn:country_code":"MG",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065360,
+    "gn:latitude":-24.33333,
+    "gn:longitude":46.7,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Esira",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065360,
+        "wk:page":"Esira"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"545780a53c07d893f642741757f361a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1276345895,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1276345895,
+    "wof:lastmodified":1537568353,
+    "wof:name":"Esira",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7,
+    -24.33333,
+    46.7,
+    -24.33333
+],
+  "geometry": {"coordinates":[46.7,-24.33333],"type":"Point"}
+}

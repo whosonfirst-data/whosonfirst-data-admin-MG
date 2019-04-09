@@ -1,0 +1,72 @@
+{
+  "id": 1210034905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93333,-18.01667,44.93333,-18.01667",
+    "geom:latitude":-18.01667,
+    "geom:longitude":44.93333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bekodoka Atsimo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067886,
+    "gn:latitude":-18.01667,
+    "gn:longitude":44.93333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bekodoka Atsimo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekodoka South",
+        "Bekodoka Atsimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067886
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7439011f43337719917d1b14a09c0764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801195,
+            "locality_id":1210034905,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1210034905,
+    "wof:lastmodified":1537664692,
+    "wof:name":"Bekodoka Atsimo",
+    "wof:parent_id":1108801195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93333,
+    -18.01667,
+    44.93333,
+    -18.01667
+],
+  "geometry": {"coordinates":[44.93333,-18.01667],"type":"Point"}
+}

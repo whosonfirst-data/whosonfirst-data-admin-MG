@@ -1,0 +1,66 @@
+{
+  "id": 1243374133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.13333,-20.91667,47.13333,-20.91667",
+    "geom:latitude":-20.91667,
+    "geom:longitude":47.13333,
+    "gn:asciiname":"Camp Robin",
+    "gn:country_code":"MG",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11102811,
+    "gn:latitude":-20.91667,
+    "gn:longitude":47.13333,
+    "gn:modification_date":"2016-03-27",
+    "gn:name":"Camp Robin",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11102811
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a03811a6f53f0b5aa882dc6496499dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171619,
+            "locality_id":1243374133,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1243374133,
+    "wof:lastmodified":1536910102,
+    "wof:name":"Camp Robin",
+    "wof:parent_id":421171619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.13333,
+    -20.91667,
+    47.13333,
+    -20.91667
+],
+  "geometry": {"coordinates":[47.13333,-20.91667],"type":"Point"}
+}

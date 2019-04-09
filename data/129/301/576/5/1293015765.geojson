@@ -1,0 +1,72 @@
+{
+  "id": 1293015765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6,-21.58333,44.6,-21.58333",
+    "geom:latitude":-21.58333,
+    "geom:longitude":44.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anarabe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076788,
+    "gn:latitude":-21.58333,
+    "gn:longitude":44.6,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anarabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anarobe",
+        "Anarabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076788
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"078d6b9794d66ef74a9a1cec0717bdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1293015765,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1293015765,
+    "wof:lastmodified":1537664769,
+    "wof:name":"Anarabe",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6,
+    -21.58333,
+    44.6,
+    -21.58333
+],
+  "geometry": {"coordinates":[44.6,-21.58333],"type":"Point"}
+}

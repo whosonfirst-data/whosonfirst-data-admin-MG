@@ -1,0 +1,67 @@
+{
+  "id": 1343276969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98333,-18.46667,46.98333,-18.46667",
+    "geom:latitude":-18.46667,
+    "geom:longitude":46.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Matongy",
+    "gn:country_code":"MG",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059330,
+    "gn:latitude":-18.46667,
+    "gn:longitude":46.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Matongy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059330
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"edebec0fabc2c59047f9e21c2814c98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1343276969,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1343276969,
+    "wof:lastmodified":1537010325,
+    "wof:name":"Matongy",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98333,
+    -18.46667,
+    46.98333,
+    -18.46667
+],
+  "geometry": {"coordinates":[46.98333,-18.46667],"type":"Point"}
+}

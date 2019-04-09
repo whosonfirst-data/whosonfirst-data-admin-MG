@@ -1,0 +1,67 @@
+{
+  "id": 1343777077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95,-23.7,44.95,-23.7",
+    "geom:latitude":-23.7,
+    "geom:longitude":44.95,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Marosavoa",
+    "gn:country_code":"MG",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059745,
+    "gn:latitude":-23.7,
+    "gn:longitude":44.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marosavoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059745
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f81e4053bffd7f9d594630e636060a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1343777077,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1343777077,
+    "wof:lastmodified":1536787365,
+    "wof:name":"Marosavoa",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95,
+    -23.7,
+    44.95,
+    -23.7
+],
+  "geometry": {"coordinates":[44.95,-23.7],"type":"Point"}
+}

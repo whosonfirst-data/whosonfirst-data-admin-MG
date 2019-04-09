@@ -1,0 +1,61 @@
+{
+  "id": 1209625737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06667,-24.7,45.06667,-24.7",
+    "geom:latitude":-24.7,
+    "geom:longitude":45.06667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambalatany",
+    "gn:country_code":"MG",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084046,
+    "gn:latitude":-24.7,
+    "gn:longitude":45.06667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambalatany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084046
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4836c17c1326706c410780a47087a381",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209625737
+        }
+    ],
+    "wof:id":1209625737,
+    "wof:lastmodified":1536281360,
+    "wof:name":"Ambalatany",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06667,
+    -24.7,
+    45.06667,
+    -24.7
+],
+  "geometry": {"coordinates":[45.06667,-24.7],"type":"Point"}
+}

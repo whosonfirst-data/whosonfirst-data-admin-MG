@@ -1,0 +1,67 @@
+{
+  "id": 1310215523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35,-22.0,44.35,-22.0",
+    "geom:latitude":-22.0,
+    "geom:longitude":44.35,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beza",
+    "gn:country_code":"MG",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065819,
+    "gn:latitude":-22.0,
+    "gn:longitude":44.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065819
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1fdc6f3e039b9c440cc2a7ed1c932f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1310215523,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310215523,
+    "wof:lastmodified":1536836643,
+    "wof:name":"Beza",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35,
+    -22.0,
+    44.35,
+    -22.0
+],
+  "geometry": {"coordinates":[44.35,-22.0],"type":"Point"}
+}

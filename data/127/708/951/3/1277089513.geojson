@@ -1,0 +1,66 @@
+{
+  "id": 1277089513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.78333,-16.68333,49.78333,-16.68333",
+    "geom:latitude":-16.68333,
+    "geom:longitude":49.78333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambalandrafia",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084172,
+    "gn:latitude":-16.68333,
+    "gn:longitude":49.78333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambalandrafia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Analandrofia",
+        "Ambalandrafia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084172
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1019d905c19ee70e568f8b20a3c1a701",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277089513,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277089513,
+    "wof:lastmodified":1537664825,
+    "wof:name":"Ambalandrafia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.78333,
+    -16.68333,
+    49.78333,
+    -16.68333
+],
+  "geometry": {"coordinates":[49.78333,-16.68333],"type":"Point"}
+}

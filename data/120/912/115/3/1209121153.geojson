@@ -1,0 +1,66 @@
+{
+  "id": 1209121153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.75,-19.73333,47.75,-19.73333",
+    "geom:latitude":-19.73333,
+    "geom:longitude":47.75,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Befotaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068302,
+    "gn:latitude":-19.73333,
+    "gn:longitude":47.75,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Befotaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Befotaka Toby",
+        "Befotaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068302
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8a90ccd411e71f79361391ce2b9683d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209121153
+        }
+    ],
+    "wof:id":1209121153,
+    "wof:lastmodified":1537664695,
+    "wof:name":"Befotaka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.75,
+    -19.73333,
+    47.75,
+    -19.73333
+],
+  "geometry": {"coordinates":[47.75,-19.73333],"type":"Point"}
+}

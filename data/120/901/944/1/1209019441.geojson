@@ -1,0 +1,66 @@
+{
+  "id": 1209019441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.48333,-18.86667,47.48333,-18.86667",
+    "geom:latitude":-18.86667,
+    "geom:longitude":47.48333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohimanarina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080350,
+    "gn:latitude":-18.86667,
+    "gn:longitude":47.48333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambohimanarina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambohimanerina",
+        "Ambohimanarina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080350
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d27253967775915bd86283b7f114ad67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209019441
+        }
+    ],
+    "wof:id":1209019441,
+    "wof:lastmodified":1537664796,
+    "wof:name":"Ambohimanarina",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.48333,
+    -18.86667000000001,
+    47.48333,
+    -18.86667000000001
+],
+  "geometry": {"coordinates":[47.48333,-18.86667000000001],"type":"Point"}
+}

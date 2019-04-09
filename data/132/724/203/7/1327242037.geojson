@@ -1,0 +1,67 @@
+{
+  "id": 1327242037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.28333,-18.63333,47.28333,-18.63333",
+    "geom:latitude":-18.63333,
+    "geom:longitude":47.28333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Andranovelona",
+    "gn:country_code":"MG",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074705,
+    "gn:latitude":-18.63333,
+    "gn:longitude":47.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranovelona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074705
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a2811b7d543a09a7db134cc360477108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1327242037,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1327242037,
+    "wof:lastmodified":1536955615,
+    "wof:name":"Andranovelona",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28333,
+    -18.63333,
+    47.28333,
+    -18.63333
+],
+  "geometry": {"coordinates":[47.28333,-18.63333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209015037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.11667,-15.78333,48.11667,-15.78333",
+    "geom:latitude":-15.78333,
+    "geom:longitude":48.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antsanompanota",
+    "gn:country_code":"MG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069474,
+    "gn:latitude":-15.78333,
+    "gn:longitude":48.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsanompanota",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069474
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b029de9674fd17c8aa390b44e0307385",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209015037
+        }
+    ],
+    "wof:id":1209015037,
+    "wof:lastmodified":1536300322,
+    "wof:name":"Antsanompanota",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.11667,
+    -15.78333,
+    48.11667,
+    -15.78333
+],
+  "geometry": {"coordinates":[48.11667,-15.78333],"type":"Point"}
+}

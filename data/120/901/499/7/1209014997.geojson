@@ -1,0 +1,66 @@
+{
+  "id": 1209014997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.3,-18.7,46.3,-18.7",
+    "geom:latitude":-18.7,
+    "geom:longitude":46.3,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ankazotsifantotra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072669,
+    "gn:latitude":-18.7,
+    "gn:longitude":46.3,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankazotsifantotra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankazotsifantatra",
+        "Ankazotsifantotra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072669
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"60cdb5798bc264bec06878408f4e32e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209014997
+        }
+    ],
+    "wof:id":1209014997,
+    "wof:lastmodified":1537664738,
+    "wof:name":"Ankazotsifantotra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.3,
+    -18.7,
+    46.3,
+    -18.7
+],
+  "geometry": {"coordinates":[46.3,-18.7],"type":"Point"}
+}

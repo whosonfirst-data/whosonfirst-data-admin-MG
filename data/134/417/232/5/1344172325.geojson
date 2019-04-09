@@ -1,0 +1,72 @@
+{
+  "id": 1344172325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53333,-21.4,44.53333,-21.4",
+    "geom:latitude":-21.4,
+    "geom:longitude":44.53333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mahasoa-Ambohipasy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062409,
+    "gn:latitude":-21.4,
+    "gn:longitude":44.53333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mahasoa-Ambohipasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahasoa",
+        "Mahasoa-Ambohipasy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062409
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bfcb4243cec90a4e6ed8cb2e85fbf0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1344172325,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1344172325,
+    "wof:lastmodified":1537664640,
+    "wof:name":"Mahasoa-Ambohipasy",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53333,
+    -21.4,
+    44.53333,
+    -21.4
+],
+  "geometry": {"coordinates":[44.53333,-21.4],"type":"Point"}
+}

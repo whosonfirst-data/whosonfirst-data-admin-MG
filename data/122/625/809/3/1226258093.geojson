@@ -1,0 +1,67 @@
+{
+  "id": 1226258093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5,-20.75,44.5,-20.75",
+    "geom:latitude":-20.75,
+    "geom:longitude":44.5,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampanihy",
+    "gn:country_code":"MG",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078567,
+    "gn:latitude":-20.75,
+    "gn:longitude":44.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampanihy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421190797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078567
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d9211bef5f7f9c86144b7ff33ff724db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190797,
+            "locality_id":1226258093,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1226258093,
+    "wof:lastmodified":1536916264,
+    "wof:name":"Ampanihy",
+    "wof:parent_id":421190797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5,
+    -20.75,
+    44.5,
+    -20.75
+],
+  "geometry": {"coordinates":[44.5,-20.75],"type":"Point"}
+}

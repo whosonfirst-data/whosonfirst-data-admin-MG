@@ -1,0 +1,90 @@
+{
+  "id": 890441743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57313,-17.01009,48.57313,-17.01009",
+    "geom:latitude":-17.01009,
+    "geom:longitude":48.57313,
+    "gn:country":"MG",
+    "gn:fcode":"PPLA2",
+    "gn:pop":19750,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u8fea\u62c9\u6885\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Andilamena"
+    ],
+    "name:eng_x_preferred":[
+        "Andilamena"
+    ],
+    "name:fre_x_preferred":[
+        "Andilamena"
+    ],
+    "name:mlg_x_preferred":[
+        "Andilamena"
+    ],
+    "name:pol_x_preferred":[
+        "Andilamena"
+    ],
+    "name:swe_x_preferred":[
+        "Andilamena"
+    ],
+    "qs:name":"Andilamena",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076194,
+        "gp:id":1356512,
+        "qs:id":130458,
+        "wd:id":"Q1099525",
+        "wk:page":"Andilamena"
+    },
+    "wof:country":"MG",
+    "wof:created":1469052335,
+    "wof:geomhash":"bf2b2a3983c511741669fe7818464e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":890441743,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":890441743,
+    "wof:lastmodified":1527727234,
+    "wof:name":"Andilamena",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:population":19750,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57313,
+    -17.01009,
+    48.57313,
+    -17.01009
+],
+  "geometry": {"coordinates":[48.57313,-17.01009],"type":"Point"}
+}

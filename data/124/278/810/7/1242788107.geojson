@@ -1,0 +1,67 @@
+{
+  "id": 1242788107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1,-20.56667,46.1,-20.56667",
+    "geom:latitude":-20.56667,
+    "geom:longitude":46.1,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Llemponarivo",
+    "gn:country_code":"MG",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063077,
+    "gn:latitude":-20.56667,
+    "gn:longitude":46.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Llemponarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063077
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"599b6a18b7a46bbcdd0d570965c84f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1242788107,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1242788107,
+    "wof:lastmodified":1536760547,
+    "wof:name":"Llemponarivo",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1,
+    -20.56667,
+    46.1,
+    -20.56667
+],
+  "geometry": {"coordinates":[46.1,-20.56667],"type":"Point"}
+}

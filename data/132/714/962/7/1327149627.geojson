@@ -1,0 +1,67 @@
+{
+  "id": 1327149627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88333,-23.85,45.88333,-23.85",
+    "geom:latitude":-23.85,
+    "geom:longitude":45.88333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ianandrarezo",
+    "gn:country_code":"MG",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064463,
+    "gn:latitude":-23.85,
+    "gn:longitude":45.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ianandrarezo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064463
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f4f25154512eb762ed4eee77ffa7298f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1327149627,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1327149627,
+    "wof:lastmodified":1537085839,
+    "wof:name":"Ianandrarezo",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88333,
+    -23.85,
+    45.88333,
+    -23.85
+],
+  "geometry": {"coordinates":[45.88333,-23.85],"type":"Point"}
+}

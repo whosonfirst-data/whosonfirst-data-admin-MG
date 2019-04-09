@@ -1,0 +1,72 @@
+{
+  "id": 1243572973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.45,-21.91667,47.45,-21.91667",
+    "geom:latitude":-21.91667,
+    "geom:longitude":47.45,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsaratanteraka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055030,
+    "gn:latitude":-21.91667,
+    "gn:longitude":47.45,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsaratanteraka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsaratandreka",
+        "Tsaratanteraka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421198091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055030
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9de705aaf2567b50003fc6a611745618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421198091,
+            "locality_id":1243572973,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1243572973,
+    "wof:lastmodified":1537664577,
+    "wof:name":"Tsaratanteraka",
+    "wof:parent_id":421198091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.45,
+    -21.91667,
+    47.45,
+    -21.91667
+],
+  "geometry": {"coordinates":[47.45,-21.91667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310717015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2,-16.56667,48.2,-16.56667",
+    "geom:latitude":-16.56667,
+    "geom:longitude":48.2,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampondrabe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077544,
+    "gn:latitude":-16.56667,
+    "gn:longitude":48.2,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampondrabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampandrabe",
+        "Ampondrabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077544
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2bd9ef051d12fab2c696d83d15477545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1310717015,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1310717015,
+    "wof:lastmodified":1537664774,
+    "wof:name":"Ampondrabe",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2,
+    -16.56667,
+    48.2,
+    -16.56667
+],
+  "geometry": {"coordinates":[48.2,-16.56667],"type":"Point"}
+}

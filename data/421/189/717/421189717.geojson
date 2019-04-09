@@ -1,0 +1,74 @@
+{
+  "id": 421189717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.418352,-18.934216,48.418352,-18.934216",
+    "geom:latitude":-18.934216,
+    "geom:longitude":48.418352,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Perinet",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toamasina",
+    "qs:photos":1005,
+    "qs:photos_1k":204,
+    "qs:photos_9k":4,
+    "qs:photos_9r":7,
+    "qs:photos_all":1005,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1115786,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1363651,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1363651,
+        "qs:id":1115786
+    },
+    "wof:country":"MG",
+    "wof:created":1459009634,
+    "wof:geomhash":"d531540aea55a5c418eeb0656bd3505d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":421189717,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":421189717,
+    "wof:lastmodified":1494545214,
+    "wof:name":"Perinet",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.418352,
+    -18.934216,
+    48.418352,
+    -18.934216
+],
+  "geometry": {"coordinates":[48.418352,-18.934216],"type":"Point"}
+}

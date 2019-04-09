@@ -1,0 +1,63 @@
+{
+  "id": 1276883995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95,-19.41667,48.95,-19.41667",
+    "geom:latitude":-19.41667,
+    "geom:longitude":48.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Belambo",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067765,
+    "gn:latitude":-19.41667,
+    "gn:longitude":48.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Belambo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067765
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"10e5d783203d38858bbe0b582111c8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276883995,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276883995,
+    "wof:lastmodified":1537034031,
+    "wof:name":"Belambo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95,
+    -19.41667,
+    48.95,
+    -19.41667
+],
+  "geometry": {"coordinates":[48.95,-19.41667],"type":"Point"}
+}

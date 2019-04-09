@@ -1,0 +1,67 @@
+{
+  "id": 1310616075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.76667,-17.95,47.76667,-17.95",
+    "geom:latitude":-17.95,
+    "geom:longitude":47.76667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ankisatra",
+    "gn:country_code":"MG",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071971,
+    "gn:latitude":-17.95,
+    "gn:longitude":47.76667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankisatra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071971
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"96471d04f14eb6f8e71b541aa88136b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1310616075,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1310616075,
+    "wof:lastmodified":1536757487,
+    "wof:name":"Ankisatra",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.76667,
+    -17.95,
+    47.76667,
+    -17.95
+],
+  "geometry": {"coordinates":[47.76667,-17.95],"type":"Point"}
+}

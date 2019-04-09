@@ -1,0 +1,72 @@
+{
+  "id": 1226061427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.25,-20.46667,47.25,-20.46667",
+    "geom:latitude":-20.46667,
+    "geom:longitude":47.25,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tanjona",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055564,
+    "gn:latitude":-20.46667,
+    "gn:longitude":47.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tanjona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antanjona",
+        "Tanjona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421191749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055564
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ede90f62a9e3b60a10f7125eab93d9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421191749,
+            "locality_id":1226061427,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1226061427,
+    "wof:lastmodified":1537664582,
+    "wof:name":"Tanjona",
+    "wof:parent_id":421191749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.25,
+    -20.46667,
+    47.25,
+    -20.46667
+],
+  "geometry": {"coordinates":[47.25,-20.46667],"type":"Point"}
+}

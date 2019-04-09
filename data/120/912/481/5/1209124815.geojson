@@ -1,0 +1,61 @@
+{
+  "id": 1209124815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81667,-15.78333,48.81667,-15.78333",
+    "geom:latitude":-15.78333,
+    "geom:longitude":48.81667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambalasatrana",
+    "gn:country_code":"MG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084082,
+    "gn:latitude":-15.78333,
+    "gn:longitude":48.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambalasatrana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084082
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d140d5b9e2f8bf91db13931bbd7b838f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209124815
+        }
+    ],
+    "wof:id":1209124815,
+    "wof:lastmodified":1536296986,
+    "wof:name":"Ambalasatrana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81667,
+    -15.78333,
+    48.81667,
+    -15.78333
+],
+  "geometry": {"coordinates":[48.81667,-15.78333],"type":"Point"}
+}

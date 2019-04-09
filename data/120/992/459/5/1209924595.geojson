@@ -1,0 +1,67 @@
+{
+  "id": 1209924595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16667,-15.98333,47.16667,-15.98333",
+    "geom:latitude":-15.98333,
+    "geom:longitude":47.16667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beronono",
+    "gn:country_code":"MG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066847,
+    "gn:latitude":-15.98333,
+    "gn:longitude":47.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beronono",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421183933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066847
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d5f75474d62c8bddb9cf00cf996e360f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183933,
+            "locality_id":1209924595,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1209924595,
+    "wof:lastmodified":1536395466,
+    "wof:name":"Beronono",
+    "wof:parent_id":421183933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16667,
+    -15.98333,
+    47.16667,
+    -15.98333
+],
+  "geometry": {"coordinates":[47.16667,-15.98333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226758253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23333,-22.66667,46.23333,-22.66667",
+    "geom:latitude":-22.66667,
+    "geom:longitude":46.23333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sakalahy",
+    "gn:country_code":"MG",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057177,
+    "gn:latitude":-22.66667,
+    "gn:longitude":46.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sakalahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057177
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ed0248b8d3b41496d7b3ed0815cbfa27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1226758253,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1226758253,
+    "wof:lastmodified":1536697683,
+    "wof:name":"Sakalahy",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23333,
+    -22.66667,
+    46.23333,
+    -22.66667
+],
+  "geometry": {"coordinates":[46.23333,-22.66667],"type":"Point"}
+}

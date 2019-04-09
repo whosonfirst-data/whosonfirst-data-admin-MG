@@ -1,0 +1,72 @@
+{
+  "id": 1225860059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1,-22.03333,46.1,-22.03333",
+    "geom:latitude":-22.03333,
+    "geom:longitude":46.1,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antaratra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070367,
+    "gn:latitude":-22.03333,
+    "gn:longitude":46.1,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antaratsy",
+        "Antaratra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070367
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"94df4b8daf4bd249226b8bc5b7f2390b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1225860059,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1225860059,
+    "wof:lastmodified":1537664716,
+    "wof:name":"Antaratra",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1,
+    -22.03333,
+    46.1,
+    -22.03333
+],
+  "geometry": {"coordinates":[46.1,-22.03333],"type":"Point"}
+}

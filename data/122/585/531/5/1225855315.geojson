@@ -1,0 +1,67 @@
+{
+  "id": 1225855315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26667,-25.21667,45.26667,-25.21667",
+    "geom:latitude":-25.21667,
+    "geom:longitude":45.26667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anjampoty",
+    "gn:country_code":"MG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073747,
+    "gn:latitude":-25.21667,
+    "gn:longitude":45.26667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjampoty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073747
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d035c95640775c622a4c2e4424adb412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1225855315,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1225855315,
+    "wof:lastmodified":1536999019,
+    "wof:name":"Anjampoty",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26667,
+    -25.21667,
+    45.26667,
+    -25.21667
+],
+  "geometry": {"coordinates":[45.26667,-25.21667],"type":"Point"}
+}

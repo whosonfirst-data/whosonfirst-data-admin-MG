@@ -1,0 +1,68 @@
+{
+  "id": 1276138193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7,-24.33333,43.7,-24.33333",
+    "geom:latitude":-24.33333,
+    "geom:longitude":43.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kaikarivo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063740,
+    "gn:latitude":-24.33333,
+    "gn:longitude":43.7,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Kaikarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zonarivo",
+        "Kaikarivo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063740
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4049078fdb017f05f26a28e2cba4bb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276138193,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276138193,
+    "wof:lastmodified":1537664649,
+    "wof:name":"Kaikarivo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7,
+    -24.33333,
+    43.7,
+    -24.33333
+],
+  "geometry": {"coordinates":[43.7,-24.33333],"type":"Point"}
+}

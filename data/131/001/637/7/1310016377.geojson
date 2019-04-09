@@ -1,0 +1,67 @@
+{
+  "id": 1310016377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41667,-23.08333,44.41667,-23.08333",
+    "geom:latitude":-23.08333,
+    "geom:longitude":44.41667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Belamoty",
+    "gn:country_code":"MG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067744,
+    "gn:latitude":-23.08333,
+    "gn:longitude":44.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Belamoty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067744
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"46ce0c76552e3365bbb78fa8b4274670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1310016377,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310016377,
+    "wof:lastmodified":1536625653,
+    "wof:name":"Belamoty",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41667,
+    -23.08333,
+    44.41667,
+    -23.08333
+],
+  "geometry": {"coordinates":[44.41667,-23.08333],"type":"Point"}
+}

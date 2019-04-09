@@ -1,0 +1,67 @@
+{
+  "id": 1327446699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78333,-19.31667,48.78333,-19.31667",
+    "geom:latitude":-19.31667,
+    "geom:longitude":48.78333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antanambao Mahatsara",
+    "gn:country_code":"MG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071028,
+    "gn:latitude":-19.31667,
+    "gn:longitude":48.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanambao Mahatsara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        421184617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071028
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e7bf396e8e3709a89805d23cd2b94c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184617,
+            "locality_id":1327446699,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1327446699,
+    "wof:lastmodified":1536660099,
+    "wof:name":"Antanambao Mahatsara",
+    "wof:parent_id":421184617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78333,
+    -19.31667,
+    48.78333,
+    -19.31667
+],
+  "geometry": {"coordinates":[48.78333,-19.31667],"type":"Point"}
+}

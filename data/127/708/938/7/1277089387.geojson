@@ -1,0 +1,72 @@
+{
+  "id": 1277089387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43333,-21.83333,44.43333,-21.83333",
+    "geom:latitude":-21.83333,
+    "geom:longitude":44.43333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antakitaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071307,
+    "gn:latitude":-21.83333,
+    "gn:longitude":44.43333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antakitaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antakitaky",
+        "Antakitaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071307
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"70e82b5bae8915ed4041e42e03d17b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1277089387,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1277089387,
+    "wof:lastmodified":1537664725,
+    "wof:name":"Antakitaka",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43333,
+    -21.83333,
+    44.43333,
+    -21.83333
+],
+  "geometry": {"coordinates":[44.43333,-21.83333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209325225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58333,-13.36667,49.58333,-13.36667",
+    "geom:latitude":-13.36667,
+    "geom:longitude":49.58333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambodiamontana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081709,
+    "gn:latitude":-13.36667,
+    "gn:longitude":49.58333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambodiamontana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambodiamentana",
+        "Ambodiamontana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081709
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a2d765d514ea2f47db7301255f9a4548",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209325225
+        }
+    ],
+    "wof:id":1209325225,
+    "wof:lastmodified":1537664806,
+    "wof:name":"Ambodiamontana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58333,
+    -13.36667,
+    49.58333,
+    -13.36667
+],
+  "geometry": {"coordinates":[49.58333,-13.36667],"type":"Point"}
+}

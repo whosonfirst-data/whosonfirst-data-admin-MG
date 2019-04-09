@@ -1,0 +1,70 @@
+{
+  "id": 890424911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.50054,-18.9999,47.50054,-18.9999",
+    "geom:latitude":-18.9999,
+    "geom:longitude":47.50054,
+    "gn:country":"MG",
+    "gn:fcode":"ADM2",
+    "gn:pop":207942,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Antananarivo-Avaradrano"
+    ],
+    "qs:name":"Antananarivo-Avaradrano District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670936,
+        "qs:id":696917,
+        "wd:id":"Q484625",
+        "wk:page":"Analamanga"
+    },
+    "wof:country":"MG",
+    "wof:created":1469051568,
+    "wof:geomhash":"065d92c46d3cdbaea17690c96ab05627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890424911,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":890424911,
+    "wof:lastmodified":1527727267,
+    "wof:name":"Antananarivo-Avaradrano District",
+    "wof:parent_id":85673965,
+    "wof:placetype":"county",
+    "wof:population":207942,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.50054,
+    -18.9999,
+    47.50054,
+    -18.9999
+],
+  "geometry": {"coordinates":[47.50054,-18.9999],"type":"Point"}
+}

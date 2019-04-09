@@ -1,0 +1,61 @@
+{
+  "id": 1209525887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.51667,-20.91667,46.51667,-20.91667",
+    "geom:latitude":-20.91667,
+    "geom:longitude":46.51667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amboasary",
+    "gn:country_code":"MG",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081809,
+    "gn:latitude":-20.91667,
+    "gn:longitude":46.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboasary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081809
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4f177370bcc503b9d5b80dd22bdb5d63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209525887
+        }
+    ],
+    "wof:id":1209525887,
+    "wof:lastmodified":1536284432,
+    "wof:name":"Amboasary",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.51667,
+    -20.91667,
+    46.51667,
+    -20.91667
+],
+  "geometry": {"coordinates":[46.51667,-20.91667],"type":"Point"}
+}

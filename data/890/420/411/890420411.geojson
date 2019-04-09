@@ -1,0 +1,99 @@
+{
+  "id": 890420411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6,-23.35,47.6,-23.35",
+    "geom:latitude":-23.35,
+    "geom:longitude":47.6,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":23523,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u842c\u52a0\u56e0\u5fb7\u62c9\u52aa"
+    ],
+    "name:dut_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:eng_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:fre_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:hrv_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:ita_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30b2\u30fc\u30f3\u30c9\u30e9\u30cc"
+    ],
+    "name:mlg_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:pol_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:swe_x_preferred":[
+        "Vangaindrano"
+    ],
+    "qs:name":"Vangaindrano",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054329,
+        "gp:id":1365186,
+        "qs:id":275922,
+        "wd:id":"Q3047030",
+        "wk:page":"Vangaindrano"
+    },
+    "wof:country":"MG",
+    "wof:created":1469051337,
+    "wof:geomhash":"d3ae303ce8ceec7b03734ef7a621a220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":890420411,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":890420411,
+    "wof:lastmodified":1527792811,
+    "wof:name":"Vangaindrano",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:population":23523,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6,
+    -23.35,
+    47.6,
+    -23.35
+],
+  "geometry": {"coordinates":[47.6,-23.35],"type":"Point"}
+}

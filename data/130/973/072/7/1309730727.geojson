@@ -1,0 +1,72 @@
+{
+  "id": 1309730727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,-17.35,47.66667,-17.35",
+    "geom:latitude":-17.35,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antsohihy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068965,
+    "gn:latitude":-17.35,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsohihy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsobihy",
+        "Antsohihy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068965
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7908bf2bee9b027043f17d8252f750c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801211,
+            "locality_id":1309730727,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1309730727,
+    "wof:lastmodified":1537664703,
+    "wof:name":"Antsohihy",
+    "wof:parent_id":1108801211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    -17.35,
+    47.66667,
+    -17.35
+],
+  "geometry": {"coordinates":[47.66667,-17.35],"type":"Point"}
+}

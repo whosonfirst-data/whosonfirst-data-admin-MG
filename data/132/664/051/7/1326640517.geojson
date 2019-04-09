@@ -1,0 +1,67 @@
+{
+  "id": 1326640517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4,-17.35,48.4,-17.35",
+    "geom:latitude":-17.35,
+    "geom:longitude":48.4,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antsirandava",
+    "gn:country_code":"MG",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069120,
+    "gn:latitude":-17.35,
+    "gn:longitude":48.4,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsirandava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069120
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"77f2e0697fee48c2a2f51f1e6572ad1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801091,
+            "locality_id":1326640517,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1326640517,
+    "wof:lastmodified":1536826841,
+    "wof:name":"Antsirandava",
+    "wof:parent_id":1108801091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4,
+    -17.35,
+    48.4,
+    -17.35
+],
+  "geometry": {"coordinates":[48.4,-17.35],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259598351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.45,-19.6,47.45,-19.6",
+    "geom:latitude":-19.6,
+    "geom:longitude":47.45,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ampotaka",
+    "gn:country_code":"MG",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077478,
+    "gn:latitude":-19.6,
+    "gn:longitude":47.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampotaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421184621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077478
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"394fa862333453b6993f27f841283f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184621,
+            "locality_id":1259598351,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1259598351,
+    "wof:lastmodified":1536693501,
+    "wof:name":"Ampotaka",
+    "wof:parent_id":421184621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.45,
+    -19.6,
+    47.45,
+    -19.6
+],
+  "geometry": {"coordinates":[47.45,-19.6],"type":"Point"}
+}

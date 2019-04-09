@@ -1,0 +1,67 @@
+{
+  "id": 1243282397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0,-22.73333,44.0,-22.73333",
+    "geom:latitude":-22.73333,
+    "geom:longitude":44.0,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soatanimbary",
+    "gn:country_code":"MG",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056200,
+    "gn:latitude":-22.73333,
+    "gn:longitude":44.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Soatanimbary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056200
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d799a9d16e40c8b5c8c53426cec59327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1243282397,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243282397,
+    "wof:lastmodified":1537040313,
+    "wof:name":"Soatanimbary",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0,
+    -22.73333,
+    44.0,
+    -22.73333
+],
+  "geometry": {"coordinates":[44.0,-22.73333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259401435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.05,-17.76667,46.05,-17.76667",
+    "geom:latitude":-17.76667,
+    "geom:longitude":46.05,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amparihisoa Atsimo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078351,
+    "gn:latitude":-17.76667,
+    "gn:longitude":46.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Amparihisoa Atsimo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amparihisoa Centre",
+        "Amparihisoa Atsimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078351
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6a9933c0a3432051ef54efa7f85d8afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801157,
+            "locality_id":1259401435,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1259401435,
+    "wof:lastmodified":1537664781,
+    "wof:name":"Amparihisoa Atsimo",
+    "wof:parent_id":1108801157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.05,
+    -17.76667,
+    46.05,
+    -17.76667
+],
+  "geometry": {"coordinates":[46.05,-17.76667],"type":"Point"}
+}

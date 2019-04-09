@@ -1,0 +1,66 @@
+{
+  "id": 1209022883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38333,-15.65,46.38333,-15.65",
+    "geom:latitude":-15.65,
+    "geom:longitude":46.38333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ampitolova",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077675,
+    "gn:latitude":-15.65,
+    "gn:longitude":46.38333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampitolova",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampitilova",
+        "Ampitolova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077675
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"722b6acc491f57e118c8de0ef8099764",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209022883
+        }
+    ],
+    "wof:id":1209022883,
+    "wof:lastmodified":1537664776,
+    "wof:name":"Ampitolova",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38333,
+    -15.65,
+    46.38333,
+    -15.65
+],
+  "geometry": {"coordinates":[46.38333,-15.65],"type":"Point"}
+}

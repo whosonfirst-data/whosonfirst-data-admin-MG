@@ -1,0 +1,74 @@
+{
+  "id": 1343672327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08333,-20.76667,47.08333,-20.76667",
+    "geom:latitude":-20.76667,
+    "geom:longitude":47.08333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambovombe Afovoany",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079046,
+    "gn:latitude":-20.76667,
+    "gn:longitude":47.08333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambovombe Afovoany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alarobia-Ambovombe",
+        "Alorobia-Ambovombe",
+        "Ambovombe Afovoany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        1108801177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079046,
+        "wk:page":"Ambovombe_Afovoany"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0ccd91f4013c04245d8a3ca88d48c8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801177,
+            "locality_id":1343672327,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1343672327,
+    "wof:lastmodified":1537664786,
+    "wof:name":"Ambovombe Afovoany",
+    "wof:parent_id":1108801177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08333,
+    -20.76667,
+    47.08333,
+    -20.76667
+],
+  "geometry": {"coordinates":[47.08333,-20.76667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209430091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.48333,-20.63333,47.48333,-20.63333",
+    "geom:latitude":-20.63333,
+    "geom:longitude":47.48333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tambonano",
+    "gn:country_code":"MG",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055950,
+    "gn:latitude":-20.63333,
+    "gn:longitude":47.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tambonano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055950
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3f0467946c13ee63ba022e5e397f047e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209430091
+        }
+    ],
+    "wof:id":1209430091,
+    "wof:lastmodified":1536287261,
+    "wof:name":"Tambonano",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.48333,
+    -20.63333,
+    47.48333,
+    -20.63333
+],
+  "geometry": {"coordinates":[47.48333,-20.63333],"type":"Point"}
+}

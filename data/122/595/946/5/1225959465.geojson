@@ -1,0 +1,72 @@
+{
+  "id": 1225959465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45,-21.11667,44.45,-21.11667",
+    "geom:latitude":-21.11667,
+    "geom:longitude":44.45,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Fotihiky",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064732,
+    "gn:latitude":-21.11667,
+    "gn:longitude":44.45,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Fotihiky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potihiky",
+        "Fotihiky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064732
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5b1587330259d7190938d0ff2cab723f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1225959465,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1225959465,
+    "wof:lastmodified":1537664660,
+    "wof:name":"Fotihiky",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45,
+    -21.11667000000001,
+    44.45,
+    -21.11667000000001
+],
+  "geometry": {"coordinates":[44.45,-21.11667000000001],"type":"Point"}
+}

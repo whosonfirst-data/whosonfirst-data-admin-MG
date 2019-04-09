@@ -1,0 +1,61 @@
+{
+  "id": 1209333237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16667,-24.41667,47.16667,-24.41667",
+    "geom:latitude":-24.41667,
+    "geom:longitude":47.16667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Namitaha",
+    "gn:country_code":"MG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058297,
+    "gn:latitude":-24.41667,
+    "gn:longitude":47.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Namitaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058297
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9203772cc24090b6e6221a4b58bf0adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209333237
+        }
+    ],
+    "wof:id":1209333237,
+    "wof:lastmodified":1536290305,
+    "wof:name":"Namitaha",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16667,
+    -24.41667,
+    47.16667,
+    -24.41667
+],
+  "geometry": {"coordinates":[47.16667,-24.41667],"type":"Point"}
+}

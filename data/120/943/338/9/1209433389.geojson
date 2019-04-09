@@ -1,0 +1,66 @@
+{
+  "id": 1209433389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96667,-24.18333,45.96667,-24.18333",
+    "geom:latitude":-24.18333,
+    "geom:longitude":45.96667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andromasy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074215,
+    "gn:latitude":-24.18333,
+    "gn:longitude":45.96667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andromasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andramasy",
+        "Andromasy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074215
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1cd7c2aeece6050ee32a51ab78652a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209433389
+        }
+    ],
+    "wof:id":1209433389,
+    "wof:lastmodified":1537664749,
+    "wof:name":"Andromasy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96667,
+    -24.18333,
+    45.96667,
+    -24.18333
+],
+  "geometry": {"coordinates":[45.96667,-24.18333],"type":"Point"}
+}

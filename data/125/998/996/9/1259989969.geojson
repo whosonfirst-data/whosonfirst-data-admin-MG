@@ -1,0 +1,67 @@
+{
+  "id": 1259989969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-21.41667,47.05,-21.41667",
+    "geom:latitude":-21.41667,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsiafanarivo",
+    "gn:country_code":"MG",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054958,
+    "gn:latitude":-21.41667,
+    "gn:longitude":47.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsiafanarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054958
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c6be8b10dd53b73d2686e7370381b55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801155,
+            "locality_id":1259989969,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1259989969,
+    "wof:lastmodified":1536623741,
+    "wof:name":"Tsiafanarivo",
+    "wof:parent_id":1108801155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -21.41667,
+    47.05,
+    -21.41667
+],
+  "geometry": {"coordinates":[47.05,-21.41667],"type":"Point"}
+}

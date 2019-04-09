@@ -1,0 +1,72 @@
+{
+  "id": 1226061473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41667,-20.7,48.41667,-20.7",
+    "geom:latitude":-20.7,
+    "geom:longitude":48.41667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsarahonenana-Lavakianja",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055189,
+    "gn:latitude":-20.7,
+    "gn:longitude":48.41667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsarahonenana-Lavakianja",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lavakianja",
+        "Tsarahonenana-Lavakianja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055189
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fda8cd3f492470343b4e1160a9d6c8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801199,
+            "locality_id":1226061473,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1226061473,
+    "wof:lastmodified":1537664578,
+    "wof:name":"Tsarahonenana-Lavakianja",
+    "wof:parent_id":1108801199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41667,
+    -20.7,
+    48.41667,
+    -20.7
+],
+  "geometry": {"coordinates":[48.41667,-20.7],"type":"Point"}
+}

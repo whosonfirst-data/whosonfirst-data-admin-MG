@@ -1,0 +1,67 @@
+{
+  "id": 1259990033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08333,-21.56667,47.08333,-21.56667",
+    "geom:latitude":-21.56667,
+    "geom:longitude":47.08333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vahambe",
+    "gn:country_code":"MG",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054371,
+    "gn:latitude":-21.56667,
+    "gn:longitude":47.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vahambe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054371
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b8310dc7ae4831d2f05398e88261a304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801219,
+            "locality_id":1259990033,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1259990033,
+    "wof:lastmodified":1536623645,
+    "wof:name":"Vahambe",
+    "wof:parent_id":1108801219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08333,
+    -21.56667,
+    47.08333,
+    -21.56667
+],
+  "geometry": {"coordinates":[47.08333,-21.56667],"type":"Point"}
+}

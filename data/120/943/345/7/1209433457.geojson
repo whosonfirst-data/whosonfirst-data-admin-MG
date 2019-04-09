@@ -1,0 +1,61 @@
+{
+  "id": 1209433457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.18333,-16.08333,49.18333,-16.08333",
+    "geom:latitude":-16.08333,
+    "geom:longitude":49.18333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambinanin' Ankarany",
+    "gn:country_code":"MG",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082198,
+    "gn:latitude":-16.08333,
+    "gn:longitude":49.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambinanin\u2019 Ankarany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082198
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1cb501a2148b7c18779409dbaef27ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209433457
+        }
+    ],
+    "wof:id":1209433457,
+    "wof:lastmodified":1536287170,
+    "wof:name":"Ambinanin' Ankarany",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.18333,
+    -16.08333,
+    49.18333,
+    -16.08333
+],
+  "geometry": {"coordinates":[49.18333,-16.08333],"type":"Point"}
+}

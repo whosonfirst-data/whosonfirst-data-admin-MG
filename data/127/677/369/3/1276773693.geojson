@@ -1,0 +1,68 @@
+{
+  "id": 1276773693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.93333,-13.16667,48.93333,-13.16667",
+    "geom:latitude":-13.16667,
+    "geom:longitude":48.93333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampondralava",
+    "gn:country_code":"MG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077537,
+    "gn:latitude":-13.16667,
+    "gn:longitude":48.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampondralava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        421180171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077537,
+        "wk:page":"Ampondralava"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7558c215bc4a511a710233c74c164f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421180171,
+            "locality_id":1276773693,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1276773693,
+    "wof:lastmodified":1537568369,
+    "wof:name":"Ampondralava",
+    "wof:parent_id":421180171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.93333,
+    -13.16667,
+    48.93333,
+    -13.16667
+],
+  "geometry": {"coordinates":[48.93333,-13.16667],"type":"Point"}
+}

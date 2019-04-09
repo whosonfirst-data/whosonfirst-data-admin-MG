@@ -1,0 +1,67 @@
+{
+  "id": 1327149487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5,-18.9,46.5,-18.9",
+    "geom:latitude":-18.9,
+    "geom:longitude":46.5,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sarombolo",
+    "gn:country_code":"MG",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056682,
+    "gn:latitude":-18.9,
+    "gn:longitude":46.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sarombolo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056682
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"96ad4c34fd7ad7698ff1dd746e8d0871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1327149487,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1327149487,
+    "wof:lastmodified":1537086029,
+    "wof:name":"Sarombolo",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5,
+    -18.9,
+    46.5,
+    -18.9
+],
+  "geometry": {"coordinates":[46.5,-18.9],"type":"Point"}
+}

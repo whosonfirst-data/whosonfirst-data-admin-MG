@@ -1,0 +1,68 @@
+{
+  "id": 1327241965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08333,-24.06667,46.08333,-24.06667",
+    "geom:latitude":-24.06667,
+    "geom:longitude":46.08333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsivory",
+    "gn:country_code":"MG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054391,
+    "gn:latitude":-24.06667,
+    "gn:longitude":46.08333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsivory",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054391,
+        "wk:page":"Tsivory"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"27f2b97ba578ecada1506329125afe6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1327241965,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1327241965,
+    "wof:lastmodified":1537568335,
+    "wof:name":"Tsivory",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08333,
+    -24.06667,
+    46.08333,
+    -24.06667
+],
+  "geometry": {"coordinates":[46.08333,-24.06667],"type":"Point"}
+}

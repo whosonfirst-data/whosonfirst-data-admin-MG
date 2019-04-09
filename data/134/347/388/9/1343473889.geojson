@@ -1,0 +1,66 @@
+{
+  "id": 1343473889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.34354,-23.5105,44.34354,-23.5105",
+    "geom:latitude":-23.5105,
+    "geom:longitude":44.34354,
+    "gn:asciiname":"Ihotry",
+    "gn:country_code":"MG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11287985,
+    "gn:latitude":-23.5105,
+    "gn:longitude":44.34354,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Ihotry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11287985
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"90f8dcfb811f5de2f7b0f60974221c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1343473889,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1343473889,
+    "wof:lastmodified":1536727044,
+    "wof:name":"Ihotry",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.34354,
+    -23.5105,
+    44.34354,
+    -23.5105
+],
+  "geometry": {"coordinates":[44.34354,-23.5105],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259894919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45,-23.1,44.45,-23.1",
+    "geom:latitude":-23.1,
+    "geom:longitude":44.45,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsingora",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054604,
+    "gn:latitude":-23.1,
+    "gn:longitude":44.45,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsingora",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saningory",
+        "Tsingora Sud",
+        "Tsingora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054604
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f1a394f013cb4413cbb1a294db4130a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1259894919,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259894919,
+    "wof:lastmodified":1537664573,
+    "wof:name":"Tsingora",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45,
+    -23.1,
+    44.45,
+    -23.1
+],
+  "geometry": {"coordinates":[44.45,-23.1],"type":"Point"}
+}

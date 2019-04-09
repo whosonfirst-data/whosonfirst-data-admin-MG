@@ -1,0 +1,72 @@
+{
+  "id": 1276462489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38333,-20.08333,48.38333,-20.08333",
+    "geom:latitude":-20.08333,
+    "geom:longitude":48.38333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambinanindrano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082189,
+    "gn:latitude":-20.08333,
+    "gn:longitude":48.38333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambinanindrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambinanyndrano",
+        "Ambinanindrano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082189
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d5d9d115c5482aaff815fde2608df767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801169,
+            "locality_id":1276462489,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1276462489,
+    "wof:lastmodified":1537664810,
+    "wof:name":"Ambinanindrano",
+    "wof:parent_id":1108801169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38333,
+    -20.08333,
+    48.38333,
+    -20.08333
+],
+  "geometry": {"coordinates":[48.38333,-20.08333],"type":"Point"}
+}

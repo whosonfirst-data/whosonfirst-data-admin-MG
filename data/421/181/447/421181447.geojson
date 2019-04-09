@@ -1,0 +1,80 @@
+{
+  "id": 421181447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.85,-16.98333,49.85,-16.98333",
+    "geom:latitude":-16.98333,
+    "geom:longitude":49.85,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ambodifotatra"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1081530,
+    "qs:gn_pop":11830,
+    "qs:name":"Ambodifototra",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toamasina",
+    "qs:photos":378,
+    "qs:photos_1k":77,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":378,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":492815,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1354534,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081530,
+        "gp:id":1354534,
+        "qs:id":492815
+    },
+    "wof:country":"MG",
+    "wof:created":1459009296,
+    "wof:geomhash":"d17908e9ad6e4e7f724a75bd53eb358f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "locality_id":421181447,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":421181447,
+    "wof:lastmodified":1505340651,
+    "wof:name":"Ambodifototra",
+    "wof:parent_id":85673967,
+    "wof:placetype":"locality",
+    "wof:population":11830,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.85,
+    -16.98333,
+    49.85,
+    -16.98333
+],
+  "geometry": {"coordinates":[49.85,-16.98333],"type":"Point"}
+}

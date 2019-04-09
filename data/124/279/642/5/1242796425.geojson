@@ -1,0 +1,67 @@
+{
+  "id": 1242796425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9,-18.55,47.9,-18.55",
+    "geom:latitude":-18.55,
+    "geom:longitude":47.9,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tsarasaotra",
+    "gn:country_code":"MG",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055091,
+    "gn:latitude":-18.55,
+    "gn:longitude":47.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsarasaotra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055091
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"85a18bdb2f6451768f5bfbb400f9f5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1242796425,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1242796425,
+    "wof:lastmodified":1536748281,
+    "wof:name":"Tsarasaotra",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9,
+    -18.55,
+    47.9,
+    -18.55
+],
+  "geometry": {"coordinates":[47.9,-18.55],"type":"Point"}
+}

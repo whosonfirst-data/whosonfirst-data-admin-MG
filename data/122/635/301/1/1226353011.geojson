@@ -1,0 +1,67 @@
+{
+  "id": 1226353011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16667,-17.33333,49.16667,-17.33333",
+    "geom:latitude":-17.33333,
+    "geom:longitude":49.16667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Marangibato",
+    "gn:country_code":"MG",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060492,
+    "gn:latitude":-17.33333,
+    "gn:longitude":49.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marangibato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060492
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c281f22e7c4bbb4a8d93648b61e78115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801217,
+            "locality_id":1226353011,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1226353011,
+    "wof:lastmodified":1536779419,
+    "wof:name":"Marangibato",
+    "wof:parent_id":1108801217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16667,
+    -17.33333,
+    49.16667,
+    -17.33333
+],
+  "geometry": {"coordinates":[49.16667,-17.33333],"type":"Point"}
+}

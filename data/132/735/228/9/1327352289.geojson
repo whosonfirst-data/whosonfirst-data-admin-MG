@@ -1,0 +1,67 @@
+{
+  "id": 1327352289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11667,-19.8,47.11667,-19.8",
+    "geom:latitude":-19.8,
+    "geom:longitude":47.11667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Imerimandroso",
+    "gn:country_code":"MG",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064129,
+    "gn:latitude":-19.8,
+    "gn:longitude":47.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Imerimandroso",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421204565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064129
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b1246112b42fac2cc253441be96d55b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421204565,
+            "locality_id":1327352289,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1327352289,
+    "wof:lastmodified":1536796736,
+    "wof:name":"Imerimandroso",
+    "wof:parent_id":421204565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11667,
+    -19.8,
+    47.11667,
+    -19.8
+],
+  "geometry": {"coordinates":[47.11667,-19.8],"type":"Point"}
+}

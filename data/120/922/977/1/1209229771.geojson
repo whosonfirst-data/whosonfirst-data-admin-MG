@@ -1,0 +1,61 @@
+{
+  "id": 1209229771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51667,-16.68333,44.51667,-16.68333",
+    "geom:latitude":-16.68333,
+    "geom:longitude":44.51667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ampoza",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077448,
+    "gn:latitude":-16.68333,
+    "gn:longitude":44.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampoza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077448
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"575ef5c25cb559fae2c3d55bafd7e837",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209229771
+        }
+    ],
+    "wof:id":1209229771,
+    "wof:lastmodified":1536293673,
+    "wof:name":"Ampoza",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51667,
+    -16.683329999999998,
+    44.51667,
+    -16.683329999999998
+],
+  "geometry": {"coordinates":[44.51667,-16.68333],"type":"Point"}
+}

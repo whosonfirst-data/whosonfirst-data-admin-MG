@@ -1,0 +1,101 @@
+{
+  "id": 421194399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51667,-22.28333,44.51667,-22.28333",
+    "geom:latitude":-22.28333,
+    "geom:longitude":44.51667,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ankazoabo"
+    ],
+    "name:eng_x_preferred":[
+        "Ankazoabo"
+    ],
+    "name:fre_x_preferred":[
+        "Ankazoabo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ab\u30ba\u30a2\u30d6"
+    ],
+    "name:mlg_x_preferred":[
+        "Ankazoabo"
+    ],
+    "name:pol_x_preferred":[
+        "Ankazoabo"
+    ],
+    "name:unk_x_variant":[
+        "Ankazoabo Sud"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1072879,
+    "qs:gn_pop":25961,
+    "qs:name":"Ankazoabo",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toliara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1090543,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1493783,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072879,
+        "gp:id":1493783,
+        "qs:id":1090543,
+        "wd:id":"Q2850301"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009804,
+    "wof:geomhash":"9990bb699782b3d97ad0c8b858acf8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":421194399,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":421194399,
+    "wof:lastmodified":1514484651,
+    "wof:name":"Ankazoabo",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:population":25961,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51667,
+    -22.28333,
+    44.51667,
+    -22.28333
+],
+  "geometry": {"coordinates":[44.51667,-22.28333],"type":"Point"}
+}

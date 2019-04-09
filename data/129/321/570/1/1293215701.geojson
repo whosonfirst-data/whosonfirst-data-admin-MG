@@ -1,0 +1,72 @@
+{
+  "id": 1293215701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5,-20.08333,47.5,-20.08333",
+    "geom:latitude":-20.08333,
+    "geom:longitude":47.5,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Andrefanjaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074480,
+    "gn:latitude":-20.08333,
+    "gn:longitude":47.5,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andrefanjaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andrahafanjaka",
+        "Andrefanjaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421171215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074480
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d05c94309d04ce90556c293a9ca26ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171215,
+            "locality_id":1293215701,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1293215701,
+    "wof:lastmodified":1537664751,
+    "wof:name":"Andrefanjaka",
+    "wof:parent_id":421171215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5,
+    -20.08333,
+    47.5,
+    -20.08333
+],
+  "geometry": {"coordinates":[47.5,-20.08333],"type":"Point"}
+}

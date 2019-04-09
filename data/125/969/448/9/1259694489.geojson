@@ -1,0 +1,67 @@
+{
+  "id": 1259694489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.58333,-15.33333,47.58333,-15.33333",
+    "geom:latitude":-15.33333,
+    "geom:longitude":47.58333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankerika",
+    "gn:country_code":"MG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072570,
+    "gn:latitude":-15.33333,
+    "gn:longitude":47.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankerika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072570
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6a8c392ea0101ff4f94743e857b3a604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1259694489,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1259694489,
+    "wof:lastmodified":1537048997,
+    "wof:name":"Ankerika",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.58333,
+    -15.33333,
+    47.58333,
+    -15.33333
+],
+  "geometry": {"coordinates":[47.58333,-15.33333],"type":"Point"}
+}

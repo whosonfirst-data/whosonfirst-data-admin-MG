@@ -1,0 +1,67 @@
+{
+  "id": 1310121167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45,-23.8,44.45,-23.8",
+    "geom:latitude":-23.8,
+    "geom:longitude":44.45,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beroy",
+    "gn:country_code":"MG",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066815,
+    "gn:latitude":-23.8,
+    "gn:longitude":44.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beroy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066815
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"586bdd8e1efbd8c70b4dc3dcfdac3be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1310121167,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310121167,
+    "wof:lastmodified":1536973373,
+    "wof:name":"Beroy",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45,
+    -23.8,
+    44.45,
+    -23.8
+],
+  "geometry": {"coordinates":[44.45,-23.8],"type":"Point"}
+}

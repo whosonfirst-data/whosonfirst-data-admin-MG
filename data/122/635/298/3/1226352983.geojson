@@ -1,0 +1,67 @@
+{
+  "id": 1226352983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9,-17.7,46.9,-17.7",
+    "geom:latitude":-17.7,
+    "geom:longitude":46.9,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambibaka",
+    "gn:country_code":"MG",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082298,
+    "gn:latitude":-17.7,
+    "gn:longitude":46.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambibaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082298
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bad3da24428c3a677e3be683f19bfe0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1226352983,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1226352983,
+    "wof:lastmodified":1536779458,
+    "wof:name":"Ambibaka",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9,
+    -17.7,
+    46.9,
+    -17.7
+],
+  "geometry": {"coordinates":[46.9,-17.7],"type":"Point"}
+}

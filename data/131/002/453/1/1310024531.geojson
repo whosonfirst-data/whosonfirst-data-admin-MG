@@ -1,0 +1,67 @@
+{
+  "id": 1310024531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68333,-19.9,48.68333,-19.9",
+    "geom:latitude":-19.9,
+    "geom:longitude":48.68333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Maromitety",
+    "gn:country_code":"MG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059869,
+    "gn:latitude":-19.9,
+    "gn:longitude":48.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maromitety",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059869
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"67a3b7543dcd0a0d0f0a20861964c470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801169,
+            "locality_id":1310024531,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1310024531,
+    "wof:lastmodified":1536613474,
+    "wof:name":"Maromitety",
+    "wof:parent_id":1108801169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68333,
+    -19.9,
+    48.68333,
+    -19.9
+],
+  "geometry": {"coordinates":[48.68333,-19.9],"type":"Point"}
+}

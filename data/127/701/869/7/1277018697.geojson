@@ -1,0 +1,76 @@
+{
+  "id": 1277018697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.35,-12.61667,49.35,-12.61667",
+    "geom:latitude":-12.61667,
+    "geom:longitude":49.35,
+    "gn:admin1_code":"7670842.0",
+    "gn:asciiname":"Sadjoavato",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057681,
+    "gn:latitude":-12.61667,
+    "gn:longitude":49.35,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Sadjoavato",
+    "gn:population":7600,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sadjovato",
+        "Sadjoavato"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057681,
+        "wk:page":"Sadjoavato"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1ed67b64474b6bead82dd5fb38a264a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1277018697,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1277018697,
+    "wof:lastmodified":1537664602,
+    "wof:name":"Sadjoavato",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:population":7600,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35,
+    -12.61667,
+    49.35,
+    -12.61667
+],
+  "geometry": {"coordinates":[49.35,-12.61667],"type":"Point"}
+}

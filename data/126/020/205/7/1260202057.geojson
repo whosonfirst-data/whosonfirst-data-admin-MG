@@ -1,0 +1,67 @@
+{
+  "id": 1260202057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55,-17.15,46.55,-17.15",
+    "geom:latitude":-17.15,
+    "geom:longitude":46.55,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankadibe",
+    "gn:country_code":"MG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073437,
+    "gn:latitude":-17.15,
+    "gn:longitude":46.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankadibe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073437
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7e62caf666e9893446459078047c9069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1260202057,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1260202057,
+    "wof:lastmodified":1536821609,
+    "wof:name":"Ankadibe",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55,
+    -17.15,
+    46.55,
+    -17.15
+],
+  "geometry": {"coordinates":[46.55,-17.15],"type":"Point"}
+}

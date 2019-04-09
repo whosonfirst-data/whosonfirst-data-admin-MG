@@ -1,0 +1,73 @@
+{
+  "id": 1209932999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11667,-21.88333,44.11667,-21.88333",
+    "geom:latitude":-21.88333,
+    "geom:longitude":44.11667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mitahy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058837,
+    "gn:latitude":-21.88333,
+    "gn:longitude":44.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mitahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matab\u00e9",
+        "Mitaha",
+        "Mitahy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058837
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"934f1f33190e8296554474817c71c4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1209932999,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1209932999,
+    "wof:lastmodified":1537664610,
+    "wof:name":"Mitahy",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11667,
+    -21.88333,
+    44.11667,
+    -21.88333
+],
+  "geometry": {"coordinates":[44.11667,-21.88333],"type":"Point"}
+}

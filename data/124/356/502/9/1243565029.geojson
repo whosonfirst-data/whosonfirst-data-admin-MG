@@ -1,0 +1,67 @@
+{
+  "id": 1243565029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91667,-23.98333,44.91667,-23.98333",
+    "geom:latitude":-23.98333,
+    "geom:longitude":44.91667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anavoha",
+    "gn:country_code":"MG",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076691,
+    "gn:latitude":-23.98333,
+    "gn:longitude":44.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anavoha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076691
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b31ff6af2dd7eeb6217e29e342700f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1243565029,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243565029,
+    "wof:lastmodified":1536633155,
+    "wof:name":"Anavoha",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91667,
+    -23.98333,
+    44.91667,
+    -23.98333
+],
+  "geometry": {"coordinates":[44.91667,-23.98333],"type":"Point"}
+}

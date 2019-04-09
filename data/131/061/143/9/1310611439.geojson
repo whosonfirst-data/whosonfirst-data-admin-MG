@@ -1,0 +1,72 @@
+{
+  "id": 1310611439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56667,-22.95,43.56667,-22.95",
+    "geom:latitude":-22.95,
+    "geom:longitude":43.56667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankilimalinika",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072272,
+    "gn:latitude":-22.95,
+    "gn:longitude":43.56667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankilimalinika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankilimadinika",
+        "Ankilimalinika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072272
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d605b1b7c06bf0c06fb1f20094c8f47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1310611439,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310611439,
+    "wof:lastmodified":1537664734,
+    "wof:name":"Ankilimalinika",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56667,
+    -22.95,
+    43.56667,
+    -22.95
+],
+  "geometry": {"coordinates":[43.56667,-22.95],"type":"Point"}
+}

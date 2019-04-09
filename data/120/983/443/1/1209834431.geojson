@@ -1,0 +1,72 @@
+{
+  "id": 1209834431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.31667,-13.16667,49.31667,-13.16667",
+    "geom:latitude":-13.16667,
+    "geom:longitude":49.31667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antsohy Ambany",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068952,
+    "gn:latitude":-13.16667,
+    "gn:longitude":49.31667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsohy Ambany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsohianabo",
+        "Antsohy Ambany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        421180171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068952
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c76d4cf522ef679d144b8da32c798d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421180171,
+            "locality_id":1209834431,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1209834431,
+    "wof:lastmodified":1537664703,
+    "wof:name":"Antsohy Ambany",
+    "wof:parent_id":421180171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.31667,
+    -13.16667,
+    49.31667,
+    -13.16667
+],
+  "geometry": {"coordinates":[49.31667,-13.16667],"type":"Point"}
+}

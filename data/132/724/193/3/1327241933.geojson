@@ -1,0 +1,67 @@
+{
+  "id": 1327241933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.91667,-13.96667,49.91667,-13.96667",
+    "geom:latitude":-13.96667,
+    "geom:longitude":49.91667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambodibare",
+    "gn:country_code":"MG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081623,
+    "gn:latitude":-13.96667,
+    "gn:longitude":49.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodibare",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081623
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"377b985d3f6636ea32848dc1219b33cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1327241933,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1327241933,
+    "wof:lastmodified":1536955758,
+    "wof:name":"Ambodibare",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.91667,
+    -13.96667,
+    49.91667,
+    -13.96667
+],
+  "geometry": {"coordinates":[49.91667,-13.96667],"type":"Point"}
+}

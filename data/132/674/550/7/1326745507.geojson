@@ -1,0 +1,67 @@
+{
+  "id": 1326745507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.15,-17.8,49.15,-17.8",
+    "geom:latitude":-17.8,
+    "geom:longitude":49.15,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sahakana",
+    "gn:country_code":"MG",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057609,
+    "gn:latitude":-17.8,
+    "gn:longitude":49.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sahakana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057609
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4c8d6c34c5da7d855ce74649fa80daf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1326745507,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1326745507,
+    "wof:lastmodified":1536676497,
+    "wof:name":"Sahakana",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.15,
+    -17.8,
+    49.15,
+    -17.8
+],
+  "geometry": {"coordinates":[49.15,-17.8],"type":"Point"}
+}

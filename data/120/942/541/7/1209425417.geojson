@@ -1,0 +1,61 @@
+{
+  "id": 1209425417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43333,-24.66667,45.43333,-24.66667",
+    "geom:latitude":-24.66667,
+    "geom:longitude":45.43333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsirandrana",
+    "gn:country_code":"MG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069118,
+    "gn:latitude":-24.66667,
+    "gn:longitude":45.43333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsirandrana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069118
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"82f40c081f81e900e6d5e7fb9c1ba9d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425417
+        }
+    ],
+    "wof:id":1209425417,
+    "wof:lastmodified":1536287395,
+    "wof:name":"Antsirandrana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43333,
+    -24.66667,
+    45.43333,
+    -24.66667
+],
+  "geometry": {"coordinates":[45.43333,-24.66667],"type":"Point"}
+}

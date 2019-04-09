@@ -1,0 +1,72 @@
+{
+  "id": 1259498497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.68333,-23.9,46.68333,-23.9",
+    "geom:latitude":-23.9,
+    "geom:longitude":46.68333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Iabohazo Avaratra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064612,
+    "gn:latitude":-23.9,
+    "gn:longitude":46.68333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Iabohazo Avaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iabohazo",
+        "Iabohazo Avaratra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064612
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"80de9293febab7cd47bb425aa94a901f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1259498497,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1259498497,
+    "wof:lastmodified":1537664659,
+    "wof:name":"Iabohazo Avaratra",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.68333,
+    -23.9,
+    46.68333,
+    -23.9
+],
+  "geometry": {"coordinates":[46.68333,-23.9],"type":"Point"}
+}

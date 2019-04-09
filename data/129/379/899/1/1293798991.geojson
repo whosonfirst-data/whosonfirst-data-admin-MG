@@ -1,0 +1,67 @@
+{
+  "id": 1293798991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.75,-16.43333,45.75,-16.43333",
+    "geom:latitude":-16.43333,
+    "geom:longitude":45.75,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambovonomby",
+    "gn:country_code":"MG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079036,
+    "gn:latitude":-16.43333,
+    "gn:longitude":45.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambovonomby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        1108801205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079036
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b0e3301e0e0c18e9aef0c6bc0f4b760a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801205,
+            "locality_id":1293798991,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1293798991,
+    "wof:lastmodified":1536833965,
+    "wof:name":"Ambovonomby",
+    "wof:parent_id":1108801205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.75,
+    -16.43333,
+    45.75,
+    -16.43333
+],
+  "geometry": {"coordinates":[45.75,-16.43333],"type":"Point"}
+}

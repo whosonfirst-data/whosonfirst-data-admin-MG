@@ -1,0 +1,66 @@
+{
+  "id": 1209329605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5,-24.26667,44.5,-24.26667",
+    "geom:latitude":-24.26667,
+    "geom:longitude":44.5,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Marovahatse",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059648,
+    "gn:latitude":-24.26667,
+    "gn:longitude":44.5,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Marovahatse",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marovahatra",
+        "Marovahatse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059648
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"aac0da54d9e7006ca284ab4b70b3de0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209329605
+        }
+    ],
+    "wof:id":1209329605,
+    "wof:lastmodified":1537664617,
+    "wof:name":"Marovahatse",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5,
+    -24.26667,
+    44.5,
+    -24.26667
+],
+  "geometry": {"coordinates":[44.5,-24.26667],"type":"Point"}
+}

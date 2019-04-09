@@ -1,0 +1,67 @@
+{
+  "id": 1226664663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05,-24.45,45.05,-24.45",
+    "geom:latitude":-24.45,
+    "geom:longitude":45.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambonievo",
+    "gn:country_code":"MG",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079220,
+    "gn:latitude":-24.45,
+    "gn:longitude":45.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambonievo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079220
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d4a83377bf3df56508eac221e990ff60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1226664663,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1226664663,
+    "wof:lastmodified":1536831253,
+    "wof:name":"Ambonievo",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05,
+    -24.45,
+    45.05,
+    -24.45
+],
+  "geometry": {"coordinates":[45.05,-24.45],"type":"Point"}
+}

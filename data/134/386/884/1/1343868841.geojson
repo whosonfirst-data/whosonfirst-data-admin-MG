@@ -1,0 +1,72 @@
+{
+  "id": 1343868841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.98333,-18.78333,47.98333,-18.78333",
+    "geom:latitude":-18.78333,
+    "geom:longitude":47.98333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mangabe Atsimo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060910,
+    "gn:latitude":-18.78333,
+    "gn:longitude":47.98333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mangabe Atsimo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangabe",
+        "Mangabe Atsimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060910
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"32619d994e1e075099b63e9d7a2d68ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1343868841,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1343868841,
+    "wof:lastmodified":1537664629,
+    "wof:name":"Mangabe Atsimo",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.98333,
+    -18.78333,
+    47.98333,
+    -18.78333
+],
+  "geometry": {"coordinates":[47.98333,-18.78333],"type":"Point"}
+}

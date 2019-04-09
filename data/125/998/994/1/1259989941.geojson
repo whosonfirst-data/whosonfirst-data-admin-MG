@@ -1,0 +1,72 @@
+{
+  "id": 1259989941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.81667,-18.15,46.81667,-18.15",
+    "geom:latitude":-18.15,
+    "geom:longitude":46.81667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ampiadiantrandraka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077875,
+    "gn:latitude":-18.15,
+    "gn:longitude":46.81667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampiadiantrandraka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampiadiantrandrake",
+        "Ampiadiantrandraka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077875
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5380ea2a3243e6fa5f7897228c8de3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1259989941,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1259989941,
+    "wof:lastmodified":1537664778,
+    "wof:name":"Ampiadiantrandraka",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.81667,
+    -18.15,
+    46.81667,
+    -18.15
+],
+  "geometry": {"coordinates":[46.81667,-18.15],"type":"Point"}
+}

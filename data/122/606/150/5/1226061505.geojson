@@ -1,0 +1,72 @@
+{
+  "id": 1226061505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91667,-15.41667,48.91667,-15.41667",
+    "geom:latitude":-15.41667,
+    "geom:longitude":48.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodirengitra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081066,
+    "gn:latitude":-15.41667,
+    "gn:longitude":48.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambodirengitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambodirangitra",
+        "Ambodirengitra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081066
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f29d4b43c84c1a3930140bd988caaddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1226061505,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1226061505,
+    "wof:lastmodified":1537664801,
+    "wof:name":"Ambodirengitra",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91667,
+    -15.41667,
+    48.91667,
+    -15.41667
+],
+  "geometry": {"coordinates":[48.91667,-15.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309920941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6,-23.01667,45.6,-23.01667",
+    "geom:latitude":-23.01667,
+    "geom:longitude":45.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andranoboaka",
+    "gn:country_code":"MG",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075421,
+    "gn:latitude":-23.01667,
+    "gn:longitude":45.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranoboaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075421
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"caff6982f9ea1d77a02d5566cfd6a29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1309920941,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1309920941,
+    "wof:lastmodified":1536765396,
+    "wof:name":"Andranoboaka",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6,
+    -23.01667,
+    45.6,
+    -23.01667
+],
+  "geometry": {"coordinates":[45.6,-23.01667],"type":"Point"}
+}

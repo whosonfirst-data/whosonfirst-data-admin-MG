@@ -1,0 +1,67 @@
+{
+  "id": 1344272437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21667,-16.65,48.21667,-16.65",
+    "geom:latitude":-16.65,
+    "geom:longitude":48.21667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambodivoasary",
+    "gn:country_code":"MG",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080786,
+    "gn:latitude":-16.65,
+    "gn:longitude":48.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodivoasary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080786
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0fd5709348e90c59490fe2e833e5afb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1344272437,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1344272437,
+    "wof:lastmodified":1537063929,
+    "wof:name":"Ambodivoasary",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21667,
+    -16.65,
+    48.21667,
+    -16.65
+],
+  "geometry": {"coordinates":[48.21667,-16.65],"type":"Point"}
+}

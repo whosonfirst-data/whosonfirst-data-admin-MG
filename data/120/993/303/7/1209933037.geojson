@@ -1,0 +1,67 @@
+{
+  "id": 1209933037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75,-23.51667,44.75,-23.51667",
+    "geom:latitude":-23.51667,
+    "geom:longitude":44.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beadobo",
+    "gn:country_code":"MG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068694,
+    "gn:latitude":-23.51667,
+    "gn:longitude":44.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beadobo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068694
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e0860633891785627e8ef1df8e33d4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1209933037,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1209933037,
+    "wof:lastmodified":1536391876,
+    "wof:name":"Beadobo",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75,
+    -23.51667,
+    44.75,
+    -23.51667
+],
+  "geometry": {"coordinates":[44.75,-23.51667],"type":"Point"}
+}

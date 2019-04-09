@@ -1,0 +1,67 @@
+{
+  "id": 1343277053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5,-23.31667,47.5,-23.31667",
+    "geom:latitude":-23.31667,
+    "geom:longitude":47.5,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vilanivaky",
+    "gn:country_code":"MG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054158,
+    "gn:latitude":-23.31667,
+    "gn:longitude":47.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vilanivaky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054158
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5bf4695288b781afc7b60c1249027364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1343277053,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1343277053,
+    "wof:lastmodified":1537010207,
+    "wof:name":"Vilanivaky",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5,
+    -23.31667,
+    47.5,
+    -23.31667
+],
+  "geometry": {"coordinates":[47.5,-23.31667],"type":"Point"}
+}

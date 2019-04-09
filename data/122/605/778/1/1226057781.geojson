@@ -1,0 +1,67 @@
+{
+  "id": 1226057781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.85,-21.9,45.85,-21.9",
+    "geom:latitude":-21.9,
+    "geom:longitude":45.85,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beora",
+    "gn:country_code":"MG",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067093,
+    "gn:latitude":-21.9,
+    "gn:longitude":45.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beora",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067093
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2fb43fc4deb5b7fa61413a4ffa841ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1226057781,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1226057781,
+    "wof:lastmodified":1536708044,
+    "wof:name":"Beora",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.85,
+    -21.9,
+    45.85,
+    -21.9
+],
+  "geometry": {"coordinates":[45.85,-21.9],"type":"Point"}
+}

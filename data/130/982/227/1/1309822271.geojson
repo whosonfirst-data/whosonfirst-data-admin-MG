@@ -1,0 +1,67 @@
+{
+  "id": 1309822271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16667,-12.76667,49.16667,-12.76667",
+    "geom:latitude":-12.76667,
+    "geom:longitude":49.16667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsarakibany",
+    "gn:country_code":"MG",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055180,
+    "gn:latitude":-12.76667,
+    "gn:longitude":49.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsarakibany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055180
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b11af44092413f135d7b4b026866e410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1309822271,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1309822271,
+    "wof:lastmodified":1536907626,
+    "wof:name":"Tsarakibany",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16667,
+    -12.76667,
+    49.16667,
+    -12.76667
+],
+  "geometry": {"coordinates":[49.16667,-12.76667],"type":"Point"}
+}

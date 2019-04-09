@@ -1,0 +1,67 @@
+{
+  "id": 1343377547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1,-24.81667,46.1,-24.81667",
+    "geom:latitude":-24.81667,
+    "geom:longitude":46.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bevava",
+    "gn:country_code":"MG",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065966,
+    "gn:latitude":-24.81667,
+    "gn:longitude":46.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bevava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065966
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9db7ef1fb926807778e6a03a2b6765ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1343377547,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1343377547,
+    "wof:lastmodified":1536864501,
+    "wof:name":"Bevava",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1,
+    -24.81667,
+    46.1,
+    -24.81667
+],
+  "geometry": {"coordinates":[46.1,-24.81667],"type":"Point"}
+}

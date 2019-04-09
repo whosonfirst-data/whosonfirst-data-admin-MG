@@ -1,0 +1,67 @@
+{
+  "id": 1259694469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71667,-17.78333,46.71667,-17.78333",
+    "geom:latitude":-17.78333,
+    "geom:longitude":46.71667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Anosivola",
+    "gn:country_code":"MG",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071428,
+    "gn:latitude":-17.78333,
+    "gn:longitude":46.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anosivola",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071428
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b1202f715309de875261d62f857b4932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1259694469,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1259694469,
+    "wof:lastmodified":1537049026,
+    "wof:name":"Anosivola",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71667,
+    -17.78333,
+    46.71667,
+    -17.78333
+],
+  "geometry": {"coordinates":[46.71667,-17.78333],"type":"Point"}
+}

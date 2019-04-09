@@ -1,0 +1,67 @@
+{
+  "id": 1327040585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9,-18.2,46.9,-18.2",
+    "geom:latitude":-18.2,
+    "geom:longitude":46.9,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohimanatrika",
+    "gn:country_code":"MG",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080324,
+    "gn:latitude":-18.2,
+    "gn:longitude":46.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohimanatrika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080324
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6ed50f9f8fc6fd29eab98e4c75599204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1327040585,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1327040585,
+    "wof:lastmodified":1536748340,
+    "wof:name":"Ambohimanatrika",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9,
+    -18.2,
+    46.9,
+    -18.2
+],
+  "geometry": {"coordinates":[46.9,-18.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276345955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65,-19.53333,47.65,-19.53333",
+    "geom:latitude":-19.53333,
+    "geom:longitude":47.65,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambolotara",
+    "gn:country_code":"MG",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079467,
+    "gn:latitude":-19.53333,
+    "gn:longitude":47.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambolotara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421194677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079467
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5d71b9c68ba664336672c8ecd6d6f520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421194677,
+            "locality_id":1276345955,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1276345955,
+    "wof:lastmodified":1536761703,
+    "wof:name":"Ambolotara",
+    "wof:parent_id":421194677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65,
+    -19.53333,
+    47.65,
+    -19.53333
+],
+  "geometry": {"coordinates":[47.65,-19.53333],"type":"Point"}
+}

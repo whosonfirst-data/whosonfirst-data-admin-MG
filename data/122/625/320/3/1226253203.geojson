@@ -1,0 +1,67 @@
+{
+  "id": 1226253203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.78333,-15.56667,46.78333,-15.56667",
+    "geom:latitude":-15.56667,
+    "geom:longitude":46.78333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Androhibe",
+    "gn:country_code":"MG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074261,
+    "gn:latitude":-15.56667,
+    "gn:longitude":46.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Androhibe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        890442887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074261
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4c7346d8990126d21e61242049f2afb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890442887,
+            "locality_id":1226253203,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1226253203,
+    "wof:lastmodified":1536923492,
+    "wof:name":"Androhibe",
+    "wof:parent_id":890442887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.78333,
+    -15.56667,
+    46.78333,
+    -15.56667
+],
+  "geometry": {"coordinates":[46.78333,-15.56667],"type":"Point"}
+}

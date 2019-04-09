@@ -1,0 +1,67 @@
+{
+  "id": 1243373911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45,-23.43333,44.45,-23.43333",
+    "geom:latitude":-23.43333,
+    "geom:longitude":44.45,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankiliroa",
+    "gn:country_code":"MG",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072154,
+    "gn:latitude":-23.43333,
+    "gn:longitude":44.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankiliroa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072154
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0712f7c06fef19d2037716d45a46edd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1243373911,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243373911,
+    "wof:lastmodified":1536910428,
+    "wof:name":"Ankiliroa",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45,
+    -23.43333,
+    44.45,
+    -23.43333
+],
+  "geometry": {"coordinates":[44.45,-23.43333],"type":"Point"}
+}

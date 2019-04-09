@@ -1,0 +1,78 @@
+{
+  "id": 421194243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53333,-18.83333,47.53333,-18.83333",
+    "geom:latitude":-18.83333,
+    "geom:longitude":47.53333,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Sabotsy-Namehana"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1069236,
+    "qs:gn_pop":0,
+    "qs:name":"Antsinanantsena",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antananarivo",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1040690,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1359314,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069236,
+        "gp:id":1359314,
+        "qs:id":1040690
+    },
+    "wof:country":"MG",
+    "wof:created":1459009799,
+    "wof:geomhash":"f4d57363065ce40250d2434fddd7ff1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801111,
+            "locality_id":421194243,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":421194243,
+    "wof:lastmodified":1501216745,
+    "wof:name":"Antsinanantsena",
+    "wof:parent_id":1108801111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53333,
+    -18.83333,
+    47.53333,
+    -18.83333
+],
+  "geometry": {"coordinates":[47.53333,-18.83333],"type":"Point"}
+}

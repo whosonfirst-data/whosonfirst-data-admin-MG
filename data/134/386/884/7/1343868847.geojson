@@ -1,0 +1,73 @@
+{
+  "id": 1343868847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.98333,-14.3,49.98333,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":49.98333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Anjijaomby",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073565,
+    "gn:latitude":-14.3,
+    "gn:longitude":49.98333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anjijaomby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anjinjaomby",
+        "Anjijaomby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073565,
+        "wk:page":"Anjinjaomby"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0f2eb3325e453922a657f5b008ce3fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1343868847,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1343868847,
+    "wof:lastmodified":1537664745,
+    "wof:name":"Anjijaomby",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.98333,
+    -14.3,
+    49.98333,
+    -14.3
+],
+  "geometry": {"coordinates":[49.98333,-14.3],"type":"Point"}
+}

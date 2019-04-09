@@ -1,0 +1,67 @@
+{
+  "id": 1293502565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.46667,-19.95,47.46667,-19.95",
+    "geom:latitude":-19.95,
+    "geom:longitude":47.46667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vavavato",
+    "gn:country_code":"MG",
+    "gn:dem":1849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054191,
+    "gn:latitude":-19.95,
+    "gn:longitude":47.46667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vavavato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421204565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054191
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"53c105b2ca2329cece0f3c8bd9507381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421204565,
+            "locality_id":1293502565,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1293502565,
+    "wof:lastmodified":1536765604,
+    "wof:name":"Vavavato",
+    "wof:parent_id":421204565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.46667,
+    -19.95,
+    47.46667,
+    -19.95
+],
+  "geometry": {"coordinates":[47.46667,-19.95],"type":"Point"}
+}

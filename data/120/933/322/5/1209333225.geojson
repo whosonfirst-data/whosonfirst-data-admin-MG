@@ -1,0 +1,67 @@
+{
+  "id": 1209333225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.76667,-23.88333,45.76667,-23.88333",
+    "geom:latitude":-23.88333,
+    "geom:longitude":45.76667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beroitra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066866,
+    "gn:latitude":-23.88333,
+    "gn:longitude":45.76667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Beroitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berotsy",
+        "Berotsa",
+        "Beroitra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066866
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0bbb6cc621c1ab791ea7106aa5fb4329",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209333225
+        }
+    ],
+    "wof:id":1209333225,
+    "wof:lastmodified":1537664680,
+    "wof:name":"Beroitra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.76667,
+    -23.88333,
+    45.76667,
+    -23.88333
+],
+  "geometry": {"coordinates":[45.76667,-23.88333],"type":"Point"}
+}

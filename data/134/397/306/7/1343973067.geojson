@@ -1,0 +1,68 @@
+{
+  "id": 1343973067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51667,-19.4,47.51667,-19.4",
+    "geom:latitude":-19.4,
+    "geom:longitude":47.51667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Belambo",
+    "gn:country_code":"MG",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067766,
+    "gn:latitude":-19.4,
+    "gn:longitude":47.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Belambo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421194677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067766,
+        "wk:page":"Belambo%2C_Ambatolampy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e70482b98d80022756cf0cadb360b508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421194677,
+            "locality_id":1343973067,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1343973067,
+    "wof:lastmodified":1537568357,
+    "wof:name":"Belambo",
+    "wof:parent_id":421194677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51667,
+    -19.4,
+    47.51667,
+    -19.4
+],
+  "geometry": {"coordinates":[47.51667,-19.4],"type":"Point"}
+}

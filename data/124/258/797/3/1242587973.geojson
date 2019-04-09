@@ -1,0 +1,72 @@
+{
+  "id": 1242587973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.53333,-16.36667,46.53333,-16.36667",
+    "geom:latitude":-16.36667,
+    "geom:longitude":46.53333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankaladiny",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073311,
+    "gn:latitude":-16.36667,
+    "gn:longitude":46.53333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankaladiny",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankalandridrina",
+        "Ankaladiny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421175085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073311
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e6a25d01ea74a095d14e44252fbf432b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175085,
+            "locality_id":1242587973,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1242587973,
+    "wof:lastmodified":1537664742,
+    "wof:name":"Ankaladiny",
+    "wof:parent_id":421175085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.53333,
+    -16.36667000000001,
+    46.53333,
+    -16.36667000000001
+],
+  "geometry": {"coordinates":[46.53333,-16.36667000000001],"type":"Point"}
+}

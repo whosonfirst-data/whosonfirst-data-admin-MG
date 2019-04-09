@@ -1,0 +1,67 @@
+{
+  "id": 1309814017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91667,-20.93333,46.91667,-20.93333",
+    "geom:latitude":-20.93333,
+    "geom:longitude":46.91667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nierana",
+    "gn:country_code":"MG",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058186,
+    "gn:latitude":-20.93333,
+    "gn:longitude":46.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nierana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058186
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"220751c089adf5b84d201c01a9faaad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1309814017,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1309814017,
+    "wof:lastmodified":1536919750,
+    "wof:name":"Nierana",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91667,
+    -20.93333,
+    46.91667,
+    -20.93333
+],
+  "geometry": {"coordinates":[46.91667,-20.93333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327441871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.35,-12.25,49.35,-12.25",
+    "geom:latitude":-12.25,
+    "geom:longitude":49.35,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Andjamen",
+    "gn:country_code":"MG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076110,
+    "gn:latitude":-12.25,
+    "gn:longitude":49.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andjamen",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076110
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9c0247fad4b69e40abe8a26c19e95afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1327441871,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1327441871,
+    "wof:lastmodified":1536667083,
+    "wof:name":"Andjamen",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35,
+    -12.25,
+    49.35,
+    -12.25
+],
+  "geometry": {"coordinates":[49.35,-12.25],"type":"Point"}
+}

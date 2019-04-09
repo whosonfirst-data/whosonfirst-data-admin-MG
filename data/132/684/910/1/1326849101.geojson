@@ -1,0 +1,67 @@
+{
+  "id": 1326849101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7,-25.01667,45.7,-25.01667",
+    "geom:latitude":-25.01667,
+    "geom:longitude":45.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankiliabo",
+    "gn:country_code":"MG",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072357,
+    "gn:latitude":-25.01667,
+    "gn:longitude":45.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankiliabo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072357
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f6513322e9b43d9f683179871308c047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1326849101,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1326849101,
+    "wof:lastmodified":1537023408,
+    "wof:name":"Ankiliabo",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7,
+    -25.01667,
+    45.7,
+    -25.01667
+],
+  "geometry": {"coordinates":[45.7,-25.01667],"type":"Point"}
+}

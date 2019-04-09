@@ -1,0 +1,67 @@
+{
+  "id": 1276558473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.01667,-22.2,45.01667,-22.2",
+    "geom:latitude":-22.2,
+    "geom:longitude":45.01667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antanamary",
+    "gn:country_code":"MG",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071173,
+    "gn:latitude":-22.2,
+    "gn:longitude":45.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanamary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071173
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f3ae2ef28db4211d863663598ffd572e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1276558473,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1276558473,
+    "wof:lastmodified":1536973865,
+    "wof:name":"Antanamary",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.01667,
+    -22.2,
+    45.01667,
+    -22.2
+],
+  "geometry": {"coordinates":[45.01667,-22.2],"type":"Point"}
+}

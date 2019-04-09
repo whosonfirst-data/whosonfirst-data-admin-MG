@@ -1,0 +1,72 @@
+{
+  "id": 1276676975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58333,-15.33333,49.58333,-15.33333",
+    "geom:latitude":-15.33333,
+    "geom:longitude":49.58333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rantavatobe-Andasibe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057833,
+    "gn:latitude":-15.33333,
+    "gn:longitude":49.58333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Rantavatobe-Andasibe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rantavatobe",
+        "Rantavatobe-Andasibe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        890451979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057833
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"763847bb38f3c2a08ba141ae5534095c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890451979,
+            "locality_id":1276676975,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1276676975,
+    "wof:lastmodified":1537664603,
+    "wof:name":"Rantavatobe-Andasibe",
+    "wof:parent_id":890451979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58333,
+    -15.33333,
+    49.58333,
+    -15.33333
+],
+  "geometry": {"coordinates":[49.58333,-15.33333],"type":"Point"}
+}

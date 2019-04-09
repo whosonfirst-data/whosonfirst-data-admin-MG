@@ -1,0 +1,109 @@
+{
+  "id": 85771855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9945072.363727,
+    "geom:bbox":"47.51338,-18.894707,47.51338,-18.894707",
+    "geom:latitude":-18.894707,
+    "geom:longitude":47.51338,
+    "gn:latitude":-18.9,
+    "gn:longitude":47.51667,
+    "iso:country":"MG",
+    "lbl:latitude":-18.894707,
+    "lbl:longitude":47.51338,
+    "mps:latitude":-18.892268,
+    "mps:longitude":47.506066,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Amboasarikely"
+    ],
+    "name:unk_x_variant":[
+        "Amboasarikely"
+    ],
+    "qs:gn_adm0_cc":"MG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1070940,
+    "qs:gn_nam_loc":"Antananarivo",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Amboasarikely",
+    "qs:local_max":1202,
+    "qs:local_sum":1694,
+    "qs:localhoods":7,
+    "qs:name":"Amboasarikely",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antananarivo",
+    "qs:name_adm2":"Antananarivo Avaradrano",
+    "qs:name_local":"Antananarivo",
+    "qs:photo_max":62,
+    "qs:photo_sum":272,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424883,
+    "qs:woe_adm1":2346150,
+    "qs:woe_adm2":23706533,
+    "qs:woe_lau":0,
+    "qs:woe_local":1358594,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        1108801113,
+        85673965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081834,
+        "gp:id":1354456,
+        "qs:id":279394,
+        "qs_pg:id":279394
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"42ef2a48c7b221e34a940df3307a1359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801113,
+            "locality_id":-1,
+            "neighbourhood_id":85771855,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":85771855,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859471,
+    "wof:name":"Amboasarikely",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51338,
+    -18.894707,
+    47.51338,
+    -18.894707
+],
+  "geometry": {"coordinates":[47.51338,-18.894707],"type":"Point"}
+}

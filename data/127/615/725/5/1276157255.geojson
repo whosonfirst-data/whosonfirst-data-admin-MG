@@ -1,0 +1,74 @@
+{
+  "id": 1276157255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.73333,-18.96667,47.73333,-18.96667",
+    "geom:latitude":-18.96667,
+    "geom:longitude":47.73333,
+    "gn:admin1_code":"7670856",
+    "gn:asciiname":"Alarobia",
+    "gn:country_code":"MG",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084740,
+    "gn:latitude":-18.96667,
+    "gn:longitude":47.73333,
+    "gn:modification_date":"2015-07-22",
+    "gn:name":"Alarobia",
+    "gn:population":16000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alarobi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421190795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084740,
+        "wk:page":"Alarobia"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5da97a9926b3359924b0f2dd7bcc1423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190795,
+            "locality_id":1276157255,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1276157255,
+    "wof:lastmodified":1537664830,
+    "wof:name":"Alarobia",
+    "wof:parent_id":421190795,
+    "wof:placetype":"locality",
+    "wof:population":16000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.73333,
+    -18.96667,
+    47.73333,
+    -18.96667
+],
+  "geometry": {"coordinates":[47.73333,-18.96667],"type":"Point"}
+}

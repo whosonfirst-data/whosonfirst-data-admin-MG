@@ -1,0 +1,109 @@
+{
+  "id": 85771861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5646223.942958,
+    "geom:bbox":"47.528894,-18.901909,47.528894,-18.901909",
+    "geom:latitude":-18.901909,
+    "geom:longitude":47.528894,
+    "gn:latitude":-18.9,
+    "gn:longitude":47.53333,
+    "iso:country":"MG",
+    "lbl:latitude":-18.901909,
+    "lbl:longitude":47.528894,
+    "mps:latitude":-18.904987,
+    "mps:longitude":47.534969,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Ambohimanoro"
+    ],
+    "name:unk_x_variant":[
+        "Ambohimanoro"
+    ],
+    "qs:gn_adm0_cc":"MG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1070940,
+    "qs:gn_nam_loc":"Antananarivo",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Ambohimanoro",
+    "qs:local_max":1202,
+    "qs:local_sum":1694,
+    "qs:localhoods":7,
+    "qs:name":"Ambohimanoro",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antananarivo",
+    "qs:name_adm2":"Antananarivo Avaradrano",
+    "qs:name_local":"Antananarivo",
+    "qs:photo_max":21,
+    "qs:photo_sum":104,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424883,
+    "qs:woe_adm1":2346150,
+    "qs:woe_adm2":23706533,
+    "qs:woe_lau":0,
+    "qs:woe_local":1358594,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        1108801113,
+        85673965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080233,
+        "gp:id":1354895,
+        "qs:id":983956,
+        "qs_pg:id":983956
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b03c52ae9c79d8cd49913fab62f65c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801113,
+            "locality_id":-1,
+            "neighbourhood_id":85771861,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":85771861,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859473,
+    "wof:name":"Ambohimanoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.528894,
+    -18.901909,
+    47.528894,
+    -18.901909
+],
+  "geometry": {"coordinates":[47.528894,-18.901909],"type":"Point"}
+}

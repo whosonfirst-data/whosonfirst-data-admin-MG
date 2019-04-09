@@ -1,0 +1,67 @@
+{
+  "id": 1326545215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.68333,-25.36667,45.68333,-25.36667",
+    "geom:latitude":-25.36667,
+    "geom:longitude":45.68333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ifotaka",
+    "gn:country_code":"MG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064322,
+    "gn:latitude":-25.36667,
+    "gn:longitude":45.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ifotaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        421184615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064322
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"eb9d7e5b2568f7066fc31051e13aa268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184615,
+            "locality_id":1326545215,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1326545215,
+    "wof:lastmodified":1536964979,
+    "wof:name":"Ifotaka",
+    "wof:parent_id":421184615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.68333,
+    -25.36667000000001,
+    45.68333,
+    -25.36667000000001
+],
+  "geometry": {"coordinates":[45.68333,-25.36667000000001],"type":"Point"}
+}

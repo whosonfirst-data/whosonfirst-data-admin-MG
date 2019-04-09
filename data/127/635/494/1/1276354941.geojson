@@ -1,0 +1,72 @@
+{
+  "id": 1276354941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11667,-18.03333,44.11667,-18.03333",
+    "geom:latitude":-18.03333,
+    "geom:longitude":44.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ampangorina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078593,
+    "gn:latitude":-18.03333,
+    "gn:longitude":44.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampangorina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampangarina",
+        "Ampangorina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078593
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9cb1d3881e15234a56af0544a350a0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801171,
+            "locality_id":1276354941,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1276354941,
+    "wof:lastmodified":1537664783,
+    "wof:name":"Ampangorina",
+    "wof:parent_id":1108801171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11667,
+    -18.03333,
+    44.11667,
+    -18.03333
+],
+  "geometry": {"coordinates":[44.11667,-18.03333],"type":"Point"}
+}

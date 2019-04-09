@@ -1,0 +1,96 @@
+{
+  "id": 890422341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.50869,-17.68475,49.50869,-17.68475",
+    "geom:latitude":-17.68475,
+    "geom:longitude":49.50869,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":7987,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0432\u0435\u043b\u043e\u043d\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u54c8\u97cb\u76e7\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Mahavelona"
+    ],
+    "name:eng_x_preferred":[
+        "Mahavelona"
+    ],
+    "name:fre_x_preferred":[
+        "Foulpointe"
+    ],
+    "name:hrv_x_preferred":[
+        "Mahavelona"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u043b\u043f\u0443\u0430\u043d\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Mahavelona"
+    ],
+    "name:unk_x_variant":[
+        "Foulpointe"
+    ],
+    "qs:name":"Mahavelona",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062146,
+        "gp:id":1497635,
+        "qs:id":555096,
+        "wd:id":"Q3079900",
+        "wk:page":"Mahavelona"
+    },
+    "wof:country":"MG",
+    "wof:created":1469051438,
+    "wof:geomhash":"098359954b0f5423c0ed4f25a71a3a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":890422341,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":890422341,
+    "wof:lastmodified":1527727161,
+    "wof:name":"Mahavelona",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:population":7987,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.50869,
+    -17.68475,
+    49.50869,
+    -17.68475
+],
+  "geometry": {"coordinates":[49.50869,-17.68475],"type":"Point"}
+}

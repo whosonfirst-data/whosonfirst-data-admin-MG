@@ -1,0 +1,67 @@
+{
+  "id": 1276563335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.95,-21.35,47.95,-21.35",
+    "geom:latitude":-21.35,
+    "geom:longitude":47.95,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohipotsy",
+    "gn:country_code":"MG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053740,
+    "gn:latitude":-21.35,
+    "gn:longitude":47.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohipotsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053740
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c938607c37c5c9b41c97376afa7eb2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1276563335,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1276563335,
+    "wof:lastmodified":1536967581,
+    "wof:name":"Vohipotsy",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.95,
+    -21.35,
+    47.95,
+    -21.35
+],
+  "geometry": {"coordinates":[47.95,-21.35],"type":"Point"}
+}

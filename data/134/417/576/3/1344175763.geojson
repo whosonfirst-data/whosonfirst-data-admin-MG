@@ -1,0 +1,61 @@
+{
+  "id": 1344175763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15,-13.3,48.15,-13.3",
+    "geom:latitude":-13.3,
+    "geom:longitude":48.15,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antanambe",
+    "gn:country_code":"MG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071011,
+    "gn:latitude":-13.3,
+    "gn:longitude":48.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanambe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071011
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"eff2893c16c5367a09f177eb0e4cd83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344175763,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344175763,
+    "wof:lastmodified":1536709502,
+    "wof:name":"Antanambe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15,
+    -13.3,
+    48.15,
+    -13.3
+],
+  "geometry": {"coordinates":[48.15,-13.3],"type":"Point"}
+}

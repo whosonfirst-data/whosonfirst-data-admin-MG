@@ -1,0 +1,67 @@
+{
+  "id": 1242981349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.38333,-18.85,47.38333,-18.85",
+    "geom:latitude":-18.85,
+    "geom:longitude":47.38333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Anosimanjaka",
+    "gn:country_code":"MG",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071453,
+    "gn:latitude":-18.85,
+    "gn:longitude":47.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anosimanjaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421201527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071453
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a40ca7d3cc759e35b73709eef06adbc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421201527,
+            "locality_id":1242981349,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1242981349,
+    "wof:lastmodified":1536978397,
+    "wof:name":"Anosimanjaka",
+    "wof:parent_id":421201527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.38333,
+    -18.85,
+    47.38333,
+    -18.85
+],
+  "geometry": {"coordinates":[47.38333,-18.85],"type":"Point"}
+}

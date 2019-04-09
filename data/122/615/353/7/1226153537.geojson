@@ -1,0 +1,72 @@
+{
+  "id": 1226153537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11667,-21.41667,47.11667,-21.41667",
+    "geom:latitude":-21.41667,
+    "geom:longitude":47.11667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ankofafalahy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071825,
+    "gn:latitude":-21.41667,
+    "gn:longitude":47.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankofafalahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankifafa",
+        "Ankofafalahy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421200825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071825
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6ae46625a5b49e21147df4f183f6028d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421200825,
+            "locality_id":1226153537,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1226153537,
+    "wof:lastmodified":1537664729,
+    "wof:name":"Ankofafalahy",
+    "wof:parent_id":421200825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11667,
+    -21.41667,
+    47.11667,
+    -21.41667
+],
+  "geometry": {"coordinates":[47.11667,-21.41667],"type":"Point"}
+}

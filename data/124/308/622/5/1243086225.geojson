@@ -1,0 +1,67 @@
+{
+  "id": 1243086225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86667,-16.73333,44.86667,-16.73333",
+    "geom:latitude":-16.73333,
+    "geom:longitude":44.86667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amboka",
+    "gn:country_code":"MG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079609,
+    "gn:latitude":-16.73333,
+    "gn:longitude":44.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079609
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5e28718efe635a0f987c8105eb7b241e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1243086225,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1243086225,
+    "wof:lastmodified":1536826851,
+    "wof:name":"Amboka",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86667,
+    -16.73333,
+    44.86667,
+    -16.73333
+],
+  "geometry": {"coordinates":[44.86667,-16.73333],"type":"Point"}
+}

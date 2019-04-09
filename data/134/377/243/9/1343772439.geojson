@@ -1,0 +1,73 @@
+{
+  "id": 1343772439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71667,-21.75,44.71667,-21.75",
+    "geom:latitude":-21.75,
+    "geom:longitude":44.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Betaratsy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066352,
+    "gn:latitude":-21.75,
+    "gn:longitude":44.71667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Betaratsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Betarasy",
+        "Betaratasy",
+        "Betaratsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066352
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5b02c92ee3bbe74f72a62ac5da86f690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1343772439,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1343772439,
+    "wof:lastmodified":1537664675,
+    "wof:name":"Betaratsy",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71667,
+    -21.75,
+    44.71667,
+    -21.75
+],
+  "geometry": {"coordinates":[44.71667,-21.75],"type":"Point"}
+}

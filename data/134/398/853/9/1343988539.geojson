@@ -1,0 +1,71 @@
+{
+  "id": 1343988539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33333,-20.6,48.33333,-20.6",
+    "geom:latitude":-20.6,
+    "geom:longitude":48.33333,
+    "gn:admin1_code":"7670906.0",
+    "gn:asciiname":"Sahavato",
+    "gn:country_code":"MG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057277,
+    "gn:latitude":-20.6,
+    "gn:longitude":48.33333,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Sahavato",
+    "gn:population":28000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057277,
+        "wk:page":"Sahavato"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"77cb6067ce5dadfe3e275419480d98fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801199,
+            "locality_id":1343988539,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1343988539,
+    "wof:lastmodified":1537568339,
+    "wof:name":"Sahavato",
+    "wof:parent_id":1108801199,
+    "wof:placetype":"locality",
+    "wof:population":28000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33333,
+    -20.6,
+    48.33333,
+    -20.6
+],
+  "geometry": {"coordinates":[48.33333,-20.6],"type":"Point"}
+}

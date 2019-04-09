@@ -1,0 +1,72 @@
+{
+  "id": 1310520155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-15.88333,47.05,-15.88333",
+    "geom:latitude":-15.88333,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Analanamaty",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077010,
+    "gn:latitude":-15.88333,
+    "gn:longitude":47.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Analanamaty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alamati",
+        "Analanamaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        890442887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077010
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cba44cea89c1c220b8894ab0103e18c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890442887,
+            "locality_id":1310520155,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1310520155,
+    "wof:lastmodified":1537664770,
+    "wof:name":"Analanamaty",
+    "wof:parent_id":890442887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -15.88333,
+    47.05,
+    -15.88333
+],
+  "geometry": {"coordinates":[47.05,-15.88333],"type":"Point"}
+}

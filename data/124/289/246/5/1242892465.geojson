@@ -1,0 +1,67 @@
+{
+  "id": 1242892465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3,-24.41667,44.3,-24.41667",
+    "geom:latitude":-24.41667,
+    "geom:longitude":44.3,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Toboky",
+    "gn:country_code":"MG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055463,
+    "gn:latitude":-24.41667,
+    "gn:longitude":44.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Toboky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055463
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f7e23dfa7d3de2688c5cedc5353e6354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1242892465,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1242892465,
+    "wof:lastmodified":1536607301,
+    "wof:name":"Toboky",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3,
+    -24.41667,
+    44.3,
+    -24.41667
+],
+  "geometry": {"coordinates":[44.3,-24.41667],"type":"Point"}
+}

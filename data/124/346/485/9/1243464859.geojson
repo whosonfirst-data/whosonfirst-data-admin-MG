@@ -1,0 +1,67 @@
+{
+  "id": 1243464859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2,-15.21667,48.2,-15.21667",
+    "geom:latitude":-15.21667,
+    "geom:longitude":48.2,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antanimbaribe",
+    "gn:country_code":"MG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070576,
+    "gn:latitude":-15.21667,
+    "gn:longitude":48.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanimbaribe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070576
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ee66ed9bb1585f18a3f532291cfe2cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801119,
+            "locality_id":1243464859,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1243464859,
+    "wof:lastmodified":1536779411,
+    "wof:name":"Antanimbaribe",
+    "wof:parent_id":1108801119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2,
+    -15.21667,
+    48.2,
+    -15.21667
+],
+  "geometry": {"coordinates":[48.2,-15.21667],"type":"Point"}
+}

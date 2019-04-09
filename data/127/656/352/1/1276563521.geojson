@@ -1,0 +1,74 @@
+{
+  "id": 1276563521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21667,-24.6,47.21667,-24.6",
+    "geom:latitude":-24.6,
+    "geom:longitude":47.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iabakoho",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064624,
+    "gn:latitude":-24.6,
+    "gn:longitude":47.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Iabakoho",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labako",
+        "Iabako",
+        "Iabakoho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064624,
+        "wk:page":"Iabakoho"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f6ed6c32b5a2a420ce81aa33378bdb6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1276563521,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1276563521,
+    "wof:lastmodified":1537664659,
+    "wof:name":"Iabakoho",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21667,
+    -24.6,
+    47.21667,
+    -24.6
+],
+  "geometry": {"coordinates":[47.21667,-24.6],"type":"Point"}
+}

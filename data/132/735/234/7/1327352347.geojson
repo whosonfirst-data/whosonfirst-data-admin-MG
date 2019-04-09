@@ -1,0 +1,67 @@
+{
+  "id": 1327352347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.08333,-18.41667,49.08333,-18.41667",
+    "geom:latitude":-18.41667,
+    "geom:longitude":49.08333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tanambe",
+    "gn:country_code":"MG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055716,
+    "gn:latitude":-18.41667,
+    "gn:longitude":49.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tanambe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055716
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4152e5d0e1f35a40d7a8e3fded80b49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801145,
+            "locality_id":1327352347,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1327352347,
+    "wof:lastmodified":1536796658,
+    "wof:name":"Tanambe",
+    "wof:parent_id":1108801145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.08333,
+    -18.41667,
+    49.08333,
+    -18.41667
+],
+  "geometry": {"coordinates":[49.08333,-18.41667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327144945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.15,-24.71667,47.15,-24.71667",
+    "geom:latitude":-24.71667,
+    "geom:longitude":47.15,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ebakika Avaratra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065477,
+    "gn:latitude":-24.71667,
+    "gn:longitude":47.15,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ebakika Avaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibakika",
+        "Ebakika Nord",
+        "Iabakika",
+        "Ebakika Avaratra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065477
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"413b86ef0d840e7eaf6681171246ded5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1327144945,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1327144945,
+    "wof:lastmodified":1537664668,
+    "wof:name":"Ebakika Avaratra",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.15,
+    -24.71667,
+    47.15,
+    -24.71667
+],
+  "geometry": {"coordinates":[47.15,-24.71667],"type":"Point"}
+}

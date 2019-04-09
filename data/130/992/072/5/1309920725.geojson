@@ -1,0 +1,75 @@
+{
+  "id": 1309920725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.54249,-15.2567,48.54249,-15.2567",
+    "geom:latitude":-15.2567,
+    "geom:longitude":48.54249,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Befandriana",
+    "gn:country_code":"MG",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068387,
+    "gn:latitude":-15.2567,
+    "gn:longitude":48.54249,
+    "gn:modification_date":"2013-06-10",
+    "gn:name":"Befandriana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Befandriana"
+    ],
+    "name:und_x_variant":[
+        "Befandriana Avaratra",
+        "Befandriana Nord",
+        "Befandriana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068387
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d1a9bf64594c2a236a4f025383117311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1309920725,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1309920725,
+    "wof:lastmodified":1537664697,
+    "wof:name":"Befandriana",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.54249,
+    -15.2567,
+    48.54249,
+    -15.2567
+],
+  "geometry": {"coordinates":[48.54249,-15.2567],"type":"Point"}
+}

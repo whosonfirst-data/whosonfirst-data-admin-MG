@@ -1,0 +1,67 @@
+{
+  "id": 1310223639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53333,-23.81667,45.53333,-23.81667",
+    "geom:latitude":-23.81667,
+    "geom:longitude":45.53333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Befamata",
+    "gn:country_code":"MG",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068412,
+    "gn:latitude":-23.81667,
+    "gn:longitude":45.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Befamata",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068412
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"94bd05abc6335c58f3c9d4df1950a1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1310223639,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1310223639,
+    "wof:lastmodified":1536825138,
+    "wof:name":"Befamata",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53333,
+    -23.81667,
+    45.53333,
+    -23.81667
+],
+  "geometry": {"coordinates":[45.53333,-23.81667],"type":"Point"}
+}

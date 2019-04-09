@@ -1,0 +1,68 @@
+{
+  "id": 1260198071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95,-19.45,44.95,-19.45",
+    "geom:latitude":-19.45,
+    "geom:longitude":44.95,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambiky",
+    "gn:country_code":"MG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082275,
+    "gn:latitude":-19.45,
+    "gn:longitude":44.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambiky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082275,
+        "wk:page":"Ambiky"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"50433e5db3d0fef7e5ca3c3e1ed4fd41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169785,
+            "locality_id":1260198071,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1260198071,
+    "wof:lastmodified":1537568377,
+    "wof:name":"Ambiky",
+    "wof:parent_id":421169785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95,
+    -19.45,
+    44.95,
+    -19.45
+],
+  "geometry": {"coordinates":[44.95,-19.45],"type":"Point"}
+}

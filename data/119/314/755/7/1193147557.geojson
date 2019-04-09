@@ -1,0 +1,72 @@
+{
+  "id": 1193147557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16667,-14.8,49.16667,-14.8",
+    "geom:latitude":-14.8,
+    "geom:longitude":49.16667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bemarambongo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067362,
+    "gn:latitude":-14.8,
+    "gn:longitude":49.16667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bemarambongo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bemarabonga",
+        "Bemarambongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067362
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ab42d802edf18bb5f2549f084626d520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1193147557,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1193147557,
+    "wof:lastmodified":1537664687,
+    "wof:name":"Bemarambongo",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16667,
+    -14.8,
+    49.16667,
+    -14.8
+],
+  "geometry": {"coordinates":[49.16667,-14.8],"type":"Point"}
+}

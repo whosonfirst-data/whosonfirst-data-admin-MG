@@ -1,0 +1,61 @@
+{
+  "id": 1209430189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93333,-23.8,44.93333,-23.8",
+    "geom:latitude":-23.8,
+    "geom:longitude":44.93333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Savazy-Ambondrano",
+    "gn:country_code":"MG",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056627,
+    "gn:latitude":-23.8,
+    "gn:longitude":44.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Savazy-Ambondrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056627
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c00188d685c0e8d3a73ca0135baa0600",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209430189
+        }
+    ],
+    "wof:id":1209430189,
+    "wof:lastmodified":1536287258,
+    "wof:name":"Savazy-Ambondrano",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93333,
+    -23.8,
+    44.93333,
+    -23.8
+],
+  "geometry": {"coordinates":[44.93333,-23.8],"type":"Point"}
+}

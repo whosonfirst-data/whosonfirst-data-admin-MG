@@ -1,0 +1,61 @@
+{
+  "id": 1209429989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8,-23.98333,46.8,-23.98333",
+    "geom:latitude":-23.98333,
+    "geom:longitude":46.8,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Taboringitra",
+    "gn:country_code":"MG",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056044,
+    "gn:latitude":-23.98333,
+    "gn:longitude":46.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Taboringitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056044
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"18c4cb6e4bf6414a0d01f951bca1255d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209429989
+        }
+    ],
+    "wof:id":1209429989,
+    "wof:lastmodified":1536287264,
+    "wof:name":"Taboringitra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8,
+    -23.98333,
+    46.8,
+    -23.98333
+],
+  "geometry": {"coordinates":[46.8,-23.98333],"type":"Point"}
+}

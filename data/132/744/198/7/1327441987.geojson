@@ -1,0 +1,67 @@
+{
+  "id": 1327441987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,-18.93333,49.01667,-18.93333",
+    "geom:latitude":-18.93333,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vohiboazo",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054031,
+    "gn:latitude":-18.93333,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohiboazo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054031
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e8cad4a37b7c650f21488ec78a9f7f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801145,
+            "locality_id":1327441987,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1327441987,
+    "wof:lastmodified":1536666908,
+    "wof:name":"Vohiboazo",
+    "wof:parent_id":1108801145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    -18.93333,
+    49.01667,
+    -18.93333
+],
+  "geometry": {"coordinates":[49.01667,-18.93333],"type":"Point"}
+}

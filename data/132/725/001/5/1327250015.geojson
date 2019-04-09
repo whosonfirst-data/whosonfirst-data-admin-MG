@@ -1,0 +1,67 @@
+{
+  "id": 1327250015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.93333,-13.3,49.93333,-13.3",
+    "geom:latitude":-13.3,
+    "geom:longitude":49.93333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Andampy",
+    "gn:country_code":"MG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076494,
+    "gn:latitude":-13.3,
+    "gn:longitude":49.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andampy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076494
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cfd4667c02fd6b0962584c17b05cc2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1327250015,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1327250015,
+    "wof:lastmodified":1536944578,
+    "wof:name":"Andampy",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.93333,
+    -13.3,
+    49.93333,
+    -13.3
+],
+  "geometry": {"coordinates":[49.93333,-13.3],"type":"Point"}
+}

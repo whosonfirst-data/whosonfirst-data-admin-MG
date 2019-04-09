@@ -1,0 +1,67 @@
+{
+  "id": 1276243807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46667,-19.2,48.46667,-19.2",
+    "geom:latitude":-19.2,
+    "geom:longitude":48.46667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mahafiana",
+    "gn:country_code":"MG",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062687,
+    "gn:latitude":-19.2,
+    "gn:longitude":48.46667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahafiana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062687
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3183c01bd108a3b6a619eae98c56433c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1276243807,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1276243807,
+    "wof:lastmodified":1536898531,
+    "wof:name":"Mahafiana",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46667,
+    -19.2,
+    48.46667,
+    -19.2
+],
+  "geometry": {"coordinates":[48.46667,-19.2],"type":"Point"}
+}

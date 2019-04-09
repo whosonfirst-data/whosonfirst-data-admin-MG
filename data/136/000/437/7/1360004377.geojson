@@ -1,0 +1,72 @@
+{
+  "id": 1360004377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.16667,-23.11667,46.16667,-23.11667",
+    "geom:latitude":-23.11667,
+    "geom:longitude":46.16667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sahalava",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057583,
+    "gn:latitude":-23.11667,
+    "gn:longitude":46.16667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sahalava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambaro",
+        "Sahalava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057583
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bfcfec89b3ce4e7ea43f54b4d189b3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1360004377,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1360004377,
+    "wof:lastmodified":1537664602,
+    "wof:name":"Sahalava",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.16667,
+    -23.11667000000001,
+    46.16667,
+    -23.11667000000001
+],
+  "geometry": {"coordinates":[46.16667,-23.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209116699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.46667,-15.5,47.46667,-15.5",
+    "geom:latitude":-15.5,
+    "geom:longitude":47.46667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodimahabibo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081381,
+    "gn:latitude":-15.5,
+    "gn:longitude":47.46667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambodimahabibo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amdodimahabiba",
+        "Ambodimahabibo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081381
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a18488908588e45bd31965dee02a15b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116699
+        }
+    ],
+    "wof:id":1209116699,
+    "wof:lastmodified":1537664803,
+    "wof:name":"Ambodimahabibo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.46667,
+    -15.5,
+    47.46667,
+    -15.5
+],
+  "geometry": {"coordinates":[47.46667,-15.5],"type":"Point"}
+}

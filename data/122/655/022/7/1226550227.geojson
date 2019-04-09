@@ -1,0 +1,67 @@
+{
+  "id": 1226550227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7,-24.03333,43.7,-24.03333",
+    "geom:latitude":-24.03333,
+    "geom:longitude":43.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Marofijery",
+    "gn:country_code":"MG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060206,
+    "gn:latitude":-24.03333,
+    "gn:longitude":43.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marofijery",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060206
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ca0a72a56121e5ce71ecc5dbdc5a32fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1226550227,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1226550227,
+    "wof:lastmodified":1536990660,
+    "wof:name":"Marofijery",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7,
+    -24.03333,
+    43.7,
+    -24.03333
+],
+  "geometry": {"coordinates":[43.7,-24.03333],"type":"Point"}
+}

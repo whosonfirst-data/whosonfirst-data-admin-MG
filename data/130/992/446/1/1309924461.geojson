@@ -1,0 +1,67 @@
+{
+  "id": 1309924461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55,-22.6,47.55,-22.6",
+    "geom:latitude":-22.6,
+    "geom:longitude":47.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambalavary",
+    "gn:country_code":"MG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083934,
+    "gn:latitude":-22.6,
+    "gn:longitude":47.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambalavary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083934
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fb9890b7fdf509fb9725bc377b4ea5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801147,
+            "locality_id":1309924461,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1309924461,
+    "wof:lastmodified":1536760262,
+    "wof:name":"Ambalavary",
+    "wof:parent_id":1108801147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55,
+    -22.6,
+    47.55,
+    -22.6
+],
+  "geometry": {"coordinates":[47.55,-22.6],"type":"Point"}
+}

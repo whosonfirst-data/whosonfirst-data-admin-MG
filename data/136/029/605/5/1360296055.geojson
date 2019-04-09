@@ -1,0 +1,67 @@
+{
+  "id": 1360296055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71667,-20.56667,46.71667,-20.56667",
+    "geom:latitude":-20.56667,
+    "geom:longitude":46.71667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anatabolo",
+    "gn:country_code":"MG",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076738,
+    "gn:latitude":-20.56667,
+    "gn:longitude":46.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anatabolo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076738
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c5e23458f44976aa994125e64f4ffd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1360296055,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1360296055,
+    "wof:lastmodified":1536640240,
+    "wof:name":"Anatabolo",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71667,
+    -20.56667,
+    46.71667,
+    -20.56667
+],
+  "geometry": {"coordinates":[46.71667,-20.56667],"type":"Point"}
+}

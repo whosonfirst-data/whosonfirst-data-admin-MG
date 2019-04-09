@@ -1,0 +1,67 @@
+{
+  "id": 1260201889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43333,-21.03333,44.43333,-21.03333",
+    "geom:latitude":-21.03333,
+    "geom:longitude":44.43333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mahavano",
+    "gn:country_code":"MG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062198,
+    "gn:latitude":-21.03333,
+    "gn:longitude":44.43333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahavano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062198
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"30c07e10cc84706864ff5ae50a5fcfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1260201889,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1260201889,
+    "wof:lastmodified":1536821835,
+    "wof:name":"Mahavano",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43333,
+    -21.03333,
+    44.43333,
+    -21.03333
+],
+  "geometry": {"coordinates":[44.43333,-21.03333],"type":"Point"}
+}

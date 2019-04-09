@@ -1,0 +1,72 @@
+{
+  "id": 1276243673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08333,-22.1,45.08333,-22.1",
+    "geom:latitude":-22.1,
+    "geom:longitude":45.08333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankilimaro",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072245,
+    "gn:latitude":-22.1,
+    "gn:longitude":45.08333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankilimaro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilimaro",
+        "Ankilimaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072245
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0a81ecececc3a2052079be250fd3bd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1276243673,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1276243673,
+    "wof:lastmodified":1537664734,
+    "wof:name":"Ankilimaro",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08333,
+    -22.1,
+    45.08333,
+    -22.1
+],
+  "geometry": {"coordinates":[45.08333,-22.1],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293307931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31667,-20.56667,48.31667,-20.56667",
+    "geom:latitude":-20.56667,
+    "geom:longitude":48.31667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mahavelonjaza",
+    "gn:country_code":"MG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062134,
+    "gn:latitude":-20.56667,
+    "gn:longitude":48.31667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahavelonjaza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062134
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0f3ee49c166837de1a8871ec02a21f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801199,
+            "locality_id":1293307931,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1293307931,
+    "wof:lastmodified":1537044001,
+    "wof:name":"Mahavelonjaza",
+    "wof:parent_id":1108801199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31667,
+    -20.56667,
+    48.31667,
+    -20.56667
+],
+  "geometry": {"coordinates":[48.31667,-20.56667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310121313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.33333,-15.56667,47.33333,-15.56667",
+    "geom:latitude":-15.56667,
+    "geom:longitude":47.33333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Marolopatra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059969,
+    "gn:latitude":-15.56667,
+    "gn:longitude":47.33333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Marolopatra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marofopatra",
+        "Marofotatra",
+        "Marolopotra",
+        "Marolopatra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059969
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d7d35b453e0f13f64b2a00b13fb14b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801201,
+            "locality_id":1310121313,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1310121313,
+    "wof:lastmodified":1537664620,
+    "wof:name":"Marolopatra",
+    "wof:parent_id":1108801201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.33333,
+    -15.56667,
+    47.33333,
+    -15.56667
+],
+  "geometry": {"coordinates":[47.33333,-15.56667],"type":"Point"}
+}

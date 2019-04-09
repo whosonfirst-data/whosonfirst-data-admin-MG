@@ -1,0 +1,62 @@
+{
+  "id": 1209233411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.01667,-14.81667,50.01667,-14.81667",
+    "geom:latitude":-14.81667,
+    "geom:longitude":50.01667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sarahandrano",
+    "gn:country_code":"MG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056792,
+    "gn:latitude":-14.81667,
+    "gn:longitude":50.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sarahandrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056792,
+        "wk:page":"Sarahandrano"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5e8eab74d2e34f40d3f753d4c5b83c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209233411
+        }
+    ],
+    "wof:id":1209233411,
+    "wof:lastmodified":1537568339,
+    "wof:name":"Sarahandrano",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.01667,
+    -14.81667,
+    50.01667,
+    -14.81667
+],
+  "geometry": {"coordinates":[50.01667,-14.81667],"type":"Point"}
+}

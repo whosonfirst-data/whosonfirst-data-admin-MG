@@ -1,0 +1,61 @@
+{
+  "id": 1209325233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56667,-21.51667,43.56667,-21.51667",
+    "geom:latitude":-21.51667,
+    "geom:longitude":43.56667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsitoakarivo",
+    "gn:country_code":"MG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054434,
+    "gn:latitude":-21.51667,
+    "gn:longitude":43.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsitoakarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054434
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b8057a0848c364f3cbbe30e3cbe2e03c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209325233
+        }
+    ],
+    "wof:id":1209325233,
+    "wof:lastmodified":1536290553,
+    "wof:name":"Tsitoakarivo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56667,
+    -21.51667,
+    43.56667,
+    -21.51667
+],
+  "geometry": {"coordinates":[43.56667,-21.51667],"type":"Point"}
+}

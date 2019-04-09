@@ -1,0 +1,61 @@
+{
+  "id": 1209329657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,-21.38333,48.03333,-21.38333",
+    "geom:latitude":-21.38333,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambodiakatra",
+    "gn:country_code":"MG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081730,
+    "gn:latitude":-21.38333,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodiakatra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081730
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"12fcd9c3efbc4a71ce83b1e7f5f0716b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209329657
+        }
+    ],
+    "wof:id":1209329657,
+    "wof:lastmodified":1536290413,
+    "wof:name":"Ambodiakatra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    -21.38333,
+    48.03333,
+    -21.38333
+],
+  "geometry": {"coordinates":[48.03333,-21.38333],"type":"Point"}
+}

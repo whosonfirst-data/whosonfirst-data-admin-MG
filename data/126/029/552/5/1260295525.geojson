@@ -1,0 +1,67 @@
+{
+  "id": 1260295525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8,-14.55,47.8,-14.55",
+    "geom:latitude":-14.55,
+    "geom:longitude":47.8,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Anjango",
+    "gn:country_code":"MG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073717,
+    "gn:latitude":-14.55,
+    "gn:longitude":47.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjango",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073717
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b44a07156fbdf1019a2d47074d9a7871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1260295525,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1260295525,
+    "wof:lastmodified":1536695882,
+    "wof:name":"Anjango",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8,
+    -14.55,
+    47.8,
+    -14.55
+],
+  "geometry": {"coordinates":[47.8,-14.55],"type":"Point"}
+}

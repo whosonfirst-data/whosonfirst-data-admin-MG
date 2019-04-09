@@ -1,0 +1,67 @@
+{
+  "id": 1276782403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.15,-19.23333,46.15,-19.23333",
+    "geom:latitude":-19.23333,
+    "geom:longitude":46.15,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mahatsinjokely",
+    "gn:country_code":"MG",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062216,
+    "gn:latitude":-19.23333,
+    "gn:longitude":46.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahatsinjokely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062216
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"057849a28a1b81f68b8b722b7087149d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1276782403,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1276782403,
+    "wof:lastmodified":1536674168,
+    "wof:name":"Mahatsinjokely",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.15,
+    -19.23333,
+    46.15,
+    -19.23333
+],
+  "geometry": {"coordinates":[46.15,-19.23333],"type":"Point"}
+}

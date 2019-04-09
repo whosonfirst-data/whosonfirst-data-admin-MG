@@ -1,0 +1,72 @@
+{
+  "id": 1293502523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.48333,-17.18333,48.48333,-17.18333",
+    "geom:latitude":-17.18333,
+    "geom:longitude":48.48333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antsomangana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068939,
+    "gn:latitude":-17.18333,
+    "gn:longitude":48.48333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsomangana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsimangana",
+        "Antsomangana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068939
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d3df900c1f0359060c3e7423bb72988c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1293502523,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1293502523,
+    "wof:lastmodified":1537664702,
+    "wof:name":"Antsomangana",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.48333,
+    -17.18333,
+    48.48333,
+    -17.18333
+],
+  "geometry": {"coordinates":[48.48333,-17.18333],"type":"Point"}
+}

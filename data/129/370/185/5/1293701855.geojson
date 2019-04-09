@@ -1,0 +1,67 @@
+{
+  "id": 1293701855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.68333,-18.8,47.68333,-18.8",
+    "geom:latitude":-18.8,
+    "geom:longitude":47.68333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Anjomakely",
+    "gn:country_code":"MG",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073504,
+    "gn:latitude":-18.8,
+    "gn:longitude":47.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjomakely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073504
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c2c58d1be5e28fc7bf1a8e8ef781ea2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801111,
+            "locality_id":1293701855,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1293701855,
+    "wof:lastmodified":1536974751,
+    "wof:name":"Anjomakely",
+    "wof:parent_id":1108801111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.68333,
+    -18.8,
+    47.68333,
+    -18.8
+],
+  "geometry": {"coordinates":[47.68333,-18.8],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242892455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.95,-18.5,47.95,-18.5",
+    "geom:latitude":-18.5,
+    "geom:longitude":47.95,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antranomay",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069985,
+    "gn:latitude":-18.5,
+    "gn:longitude":47.95,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antranomay",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranomay",
+        "Antranomay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069985
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a790b06a237160086e7b7170ef0e853b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1242892455,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1242892455,
+    "wof:lastmodified":1537664712,
+    "wof:name":"Antranomay",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.95,
+    -18.5,
+    47.95,
+    -18.5
+],
+  "geometry": {"coordinates":[47.95,-18.5],"type":"Point"}
+}

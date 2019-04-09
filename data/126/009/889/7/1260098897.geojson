@@ -1,0 +1,72 @@
+{
+  "id": 1260098897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.13333,-13.98333,50.13333,-13.98333",
+    "geom:latitude":-13.98333,
+    "geom:longitude":50.13333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tanambao-Daoud",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055731,
+    "gn:latitude":-13.98333,
+    "gn:longitude":50.13333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tanambao-Daoud",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanambao",
+        "Tanambao-Daoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055731
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"47138b2e876dc961b0df09c132b33fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1260098897,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1260098897,
+    "wof:lastmodified":1537664584,
+    "wof:name":"Tanambao-Daoud",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.13333,
+    -13.98333,
+    50.13333,
+    -13.98333
+],
+  "geometry": {"coordinates":[50.13333,-13.98333],"type":"Point"}
+}

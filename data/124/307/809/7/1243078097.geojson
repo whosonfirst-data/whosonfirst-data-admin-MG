@@ -1,0 +1,67 @@
+{
+  "id": 1243078097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.45,-13.8,49.45,-13.8",
+    "geom:latitude":-13.8,
+    "geom:longitude":49.45,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambodisatrana",
+    "gn:country_code":"MG",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080963,
+    "gn:latitude":-13.8,
+    "gn:longitude":49.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodisatrana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080963
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"db252f5370047d69083fdb38cf5cf0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1243078097,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1243078097,
+    "wof:lastmodified":1536838392,
+    "wof:name":"Ambodisatrana",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.45,
+    -13.8,
+    49.45,
+    -13.8
+],
+  "geometry": {"coordinates":[49.45,-13.8],"type":"Point"}
+}

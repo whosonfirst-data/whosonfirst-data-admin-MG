@@ -1,0 +1,67 @@
+{
+  "id": 1276991755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86667,-16.5,48.86667,-16.5",
+    "geom:latitude":-16.5,
+    "geom:longitude":48.86667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ampasimandoatra",
+    "gn:country_code":"MG",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078188,
+    "gn:latitude":-16.5,
+    "gn:longitude":48.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasimandoatra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078188
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fa422769c4d43ab3084a2f9555bb72fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801185,
+            "locality_id":1276991755,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1276991755,
+    "wof:lastmodified":1536890674,
+    "wof:name":"Ampasimandoatra",
+    "wof:parent_id":1108801185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86667,
+    -16.5,
+    48.86667,
+    -16.5
+],
+  "geometry": {"coordinates":[48.86667,-16.5],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293705573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6,-19.15,47.6,-19.15",
+    "geom:latitude":-19.15,
+    "geom:longitude":47.6,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohijafy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080487,
+    "gn:latitude":-19.15,
+    "gn:longitude":47.6,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambohijafy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amohijafy",
+        "Ambohijafy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080487
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f88c5c6500aa3e03a9d6ca4f4836fb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801099,
+            "locality_id":1293705573,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1293705573,
+    "wof:lastmodified":1537664797,
+    "wof:name":"Ambohijafy",
+    "wof:parent_id":1108801099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6,
+    -19.15,
+    47.6,
+    -19.15
+],
+  "geometry": {"coordinates":[47.6,-19.15],"type":"Point"}
+}

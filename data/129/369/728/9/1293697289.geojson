@@ -1,0 +1,67 @@
+{
+  "id": 1293697289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53333,-19.21667,47.53333,-19.21667",
+    "geom:latitude":-19.21667,
+    "geom:longitude":47.53333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vinany",
+    "gn:country_code":"MG",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054136,
+    "gn:latitude":-19.21667,
+    "gn:longitude":47.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vinany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054136
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ee7a46b6e138ba00d6d31fdd8497f2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801099,
+            "locality_id":1293697289,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1293697289,
+    "wof:lastmodified":1536981135,
+    "wof:name":"Vinany",
+    "wof:parent_id":1108801099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53333,
+    -19.21667,
+    47.53333,
+    -19.21667
+],
+  "geometry": {"coordinates":[47.53333,-19.21667],"type":"Point"}
+}

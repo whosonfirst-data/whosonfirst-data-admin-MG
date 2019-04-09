@@ -1,0 +1,67 @@
+{
+  "id": 1327246457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-17.53333,47.05,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Soaloka",
+    "gn:country_code":"MG",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056473,
+    "gn:latitude":-17.53333,
+    "gn:longitude":47.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Soaloka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056473
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"90d056e9a137bb45806a393c967a3506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1327246457,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1327246457,
+    "wof:lastmodified":1536949438,
+    "wof:name":"Soaloka",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -17.53333,
+    47.05,
+    -17.53333
+],
+  "geometry": {"coordinates":[47.05,-17.53333],"type":"Point"}
+}

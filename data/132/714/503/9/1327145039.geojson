@@ -1,0 +1,72 @@
+{
+  "id": 1327145039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.83333,-13.4,48.83333,-13.4",
+    "geom:latitude":-13.4,
+    "geom:longitude":48.83333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampandrano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078661,
+    "gn:latitude":-13.4,
+    "gn:longitude":48.83333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampandrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampandrana",
+        "Ampandrano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        421180171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078661
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"82259a6040df318e1a77c960d8943d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421180171,
+            "locality_id":1327145039,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1327145039,
+    "wof:lastmodified":1537664783,
+    "wof:name":"Ampandrano",
+    "wof:parent_id":421180171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.83333,
+    -13.4,
+    48.83333,
+    -13.4
+],
+  "geometry": {"coordinates":[48.83333,-13.4],"type":"Point"}
+}

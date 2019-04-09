@@ -1,0 +1,71 @@
+{
+  "id": 1242908591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8,-18.78333,47.8,-18.78333",
+    "geom:latitude":-18.78333,
+    "geom:longitude":47.8,
+    "gn:admin1_code":"7670856",
+    "gn:asciiname":"Ambohitseheno",
+    "gn:country_code":"MG",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079681,
+    "gn:latitude":-18.78333,
+    "gn:longitude":47.8,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ambohitseheno",
+    "gn:population":6000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421190795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079681,
+        "wk:page":"Ambohitseheno"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7d04ab2ac24fa8bc5cd3fa8c6caaf12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190795,
+            "locality_id":1242908591,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1242908591,
+    "wof:lastmodified":1537568372,
+    "wof:name":"Ambohitseheno",
+    "wof:parent_id":421190795,
+    "wof:placetype":"locality",
+    "wof:population":6000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8,
+    -18.78333,
+    47.8,
+    -18.78333
+],
+  "geometry": {"coordinates":[47.8,-18.78333],"type":"Point"}
+}

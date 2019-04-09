@@ -1,0 +1,73 @@
+{
+  "id": 1310712217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.25,-17.53333,49.25,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":49.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vavazahana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054188,
+    "gn:latitude":-17.53333,
+    "gn:longitude":49.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Vavazahana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vavozahana",
+        "Vavazahany",
+        "Vavazahana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054188
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dad8a2357f9e99fb646e4287df625c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801217,
+            "locality_id":1310712217,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1310712217,
+    "wof:lastmodified":1537664569,
+    "wof:name":"Vavazahana",
+    "wof:parent_id":1108801217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25,
+    -17.53333,
+    49.25,
+    -17.53333
+],
+  "geometry": {"coordinates":[49.25,-17.53333],"type":"Point"}
+}

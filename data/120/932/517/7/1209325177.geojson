@@ -1,0 +1,67 @@
+{
+  "id": 1209325177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.43333,-19.33333,47.43333,-19.33333",
+    "geom:latitude":-19.33333,
+    "geom:longitude":47.43333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manjakatompo-Firaisana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060666,
+    "gn:latitude":-19.33333,
+    "gn:longitude":47.43333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manjakatompo-Firaisana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manjakatompo",
+        "Manjakatompo-Firaisana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060666,
+        "wk:page":"Manjakatompo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0a0a984dc5c62487852103cc8f2e9f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209325177
+        }
+    ],
+    "wof:id":1209325177,
+    "wof:lastmodified":1537664627,
+    "wof:name":"Manjakatompo-Firaisana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.43333,
+    -19.33333,
+    47.43333,
+    -19.33333
+],
+  "geometry": {"coordinates":[47.43333,-19.33333],"type":"Point"}
+}

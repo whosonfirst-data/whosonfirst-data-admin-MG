@@ -1,0 +1,67 @@
+{
+  "id": 1344172321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75,-19.95,48.75,-19.95",
+    "geom:latitude":-19.95,
+    "geom:longitude":48.75,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Betsizaraina",
+    "gn:country_code":"MG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066085,
+    "gn:latitude":-19.95,
+    "gn:longitude":48.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betsizaraina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066085
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"889e772d8b0cee2b3486102bfddc8ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801169,
+            "locality_id":1344172321,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1344172321,
+    "wof:lastmodified":1536714409,
+    "wof:name":"Betsizaraina",
+    "wof:parent_id":1108801169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75,
+    -19.95,
+    48.75,
+    -19.95
+],
+  "geometry": {"coordinates":[48.75,-19.95],"type":"Point"}
+}

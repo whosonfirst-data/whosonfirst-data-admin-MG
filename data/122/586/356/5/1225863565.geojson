@@ -1,0 +1,67 @@
+{
+  "id": 1225863565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2,-24.38333,47.2,-24.38333",
+    "geom:latitude":-24.38333,
+    "geom:longitude":47.2,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambalasorita",
+    "gn:country_code":"MG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084068,
+    "gn:latitude":-24.38333,
+    "gn:longitude":47.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambalasorita",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084068
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a7b6c2056ccd1604d520cbc80a6b0d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1225863565,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1225863565,
+    "wof:lastmodified":1536987183,
+    "wof:name":"Ambalasorita",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2,
+    -24.38333,
+    47.2,
+    -24.38333
+],
+  "geometry": {"coordinates":[47.2,-24.38333],"type":"Point"}
+}

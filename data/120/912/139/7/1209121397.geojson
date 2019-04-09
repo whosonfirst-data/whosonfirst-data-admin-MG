@@ -1,0 +1,61 @@
+{
+  "id": 1209121397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98333,-20.03333,46.98333,-20.03333",
+    "geom:latitude":-20.03333,
+    "geom:longitude":46.98333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Soalafadray",
+    "gn:country_code":"MG",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056490,
+    "gn:latitude":-20.03333,
+    "gn:longitude":46.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Soalafadray",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056490
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"17a27e85e9a02dac19677461cc8a062d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209121397
+        }
+    ],
+    "wof:id":1209121397,
+    "wof:lastmodified":1536297086,
+    "wof:name":"Soalafadray",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98333,
+    -20.03333,
+    46.98333,
+    -20.03333
+],
+  "geometry": {"coordinates":[46.98333,-20.03333],"type":"Point"}
+}

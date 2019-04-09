@@ -1,0 +1,68 @@
+{
+  "id": 1344072171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.7,-15.81667,49.7,-15.81667",
+    "geom:latitude":-15.81667,
+    "geom:longitude":49.7,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Anandrivola",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076828,
+    "gn:latitude":-15.81667,
+    "gn:longitude":49.7,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anandrivola",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anandrovola",
+        "Anandrivola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076828
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3e529ee48d7a0dcd5cdcad114df8d2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1344072171,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344072171,
+    "wof:lastmodified":1537664769,
+    "wof:name":"Anandrivola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.7,
+    -15.81667,
+    49.7,
+    -15.81667
+],
+  "geometry": {"coordinates":[49.7,-15.81667],"type":"Point"}
+}

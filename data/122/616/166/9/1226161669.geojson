@@ -1,0 +1,72 @@
+{
+  "id": 1226161669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5,-16.85,48.5,-16.85",
+    "geom:latitude":-16.85,
+    "geom:longitude":48.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antaimby",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071323,
+    "gn:latitude":-16.85,
+    "gn:longitude":48.5,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antaimby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taimby",
+        "Antaimby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071323
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"61624941002349668e023a3284d96571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1226161669,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1226161669,
+    "wof:lastmodified":1537664725,
+    "wof:name":"Antaimby",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5,
+    -16.85,
+    48.5,
+    -16.85
+],
+  "geometry": {"coordinates":[48.5,-16.85],"type":"Point"}
+}

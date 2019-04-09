@@ -1,0 +1,72 @@
+{
+  "id": 1343469119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.31667,-17.58333,47.31667,-17.58333",
+    "geom:latitude":-17.58333,
+    "geom:longitude":47.31667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antsahalava",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069856,
+    "gn:latitude":-17.58333,
+    "gn:longitude":47.31667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsahalava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsahaiava",
+        "Antsahalava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069856
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d541c3aa38b38a0785125ad5382a9a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1343469119,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1343469119,
+    "wof:lastmodified":1537664711,
+    "wof:name":"Antsahalava",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.31667,
+    -17.58333,
+    47.31667,
+    -17.58333
+],
+  "geometry": {"coordinates":[47.31667,-17.58333],"type":"Point"}
+}

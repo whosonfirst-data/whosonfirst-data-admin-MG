@@ -1,0 +1,67 @@
+{
+  "id": 1276558373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5,-22.0,45.5,-22.0",
+    "geom:latitude":-22.0,
+    "geom:longitude":45.5,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Talloakerivo",
+    "gn:country_code":"MG",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055981,
+    "gn:latitude":-22.0,
+    "gn:longitude":45.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Talloakerivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055981
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8a652667202d88dd07c1fcb1b33f1e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1276558373,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1276558373,
+    "wof:lastmodified":1536973994,
+    "wof:name":"Talloakerivo",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5,
+    -22.0,
+    45.5,
+    -22.0
+],
+  "geometry": {"coordinates":[45.5,-22.0],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360203401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53333,-23.55,45.53333,-23.55",
+    "geom:latitude":-23.55,
+    "geom:longitude":45.53333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mahazoarivo",
+    "gn:country_code":"MG",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062062,
+    "gn:latitude":-23.55,
+    "gn:longitude":45.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahazoarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062062
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e0aae78c91f629e1578e1f6c91afe85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1360203401,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1360203401,
+    "wof:lastmodified":1536775619,
+    "wof:name":"Mahazoarivo",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53333,
+    -23.55,
+    45.53333,
+    -23.55
+],
+  "geometry": {"coordinates":[45.53333,-23.55],"type":"Point"}
+}

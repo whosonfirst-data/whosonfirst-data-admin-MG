@@ -1,0 +1,67 @@
+{
+  "id": 1209929575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5,-17.9,46.5,-17.9",
+    "geom:latitude":-17.9,
+    "geom:longitude":46.5,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antanimbaritsara",
+    "gn:country_code":"MG",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070544,
+    "gn:latitude":-17.9,
+    "gn:longitude":46.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanimbaritsara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        1108801151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070544
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dceceb5b200e047607f22e80402151b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801151,
+            "locality_id":1209929575,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1209929575,
+    "wof:lastmodified":1536393332,
+    "wof:name":"Antanimbaritsara",
+    "wof:parent_id":1108801151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5,
+    -17.9,
+    46.5,
+    -17.9
+],
+  "geometry": {"coordinates":[46.5,-17.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343777045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.75,-22.88333,46.75,-22.88333",
+    "geom:latitude":-22.88333,
+    "geom:longitude":46.75,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ifasy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064338,
+    "gn:latitude":-22.88333,
+    "gn:longitude":46.75,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ifasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekipay",
+        "Ifasikidy",
+        "Ifasy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421184613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064338
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c00bce235bcde9cd4f6d47c17cc5ad85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184613,
+            "locality_id":1343777045,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1343777045,
+    "wof:lastmodified":1537664655,
+    "wof:name":"Ifasy",
+    "wof:parent_id":421184613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.75,
+    -22.88333,
+    46.75,
+    -22.88333
+],
+  "geometry": {"coordinates":[46.75,-22.88333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209225271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.25,-14.76667,49.25,-14.76667",
+    "geom:latitude":-14.76667,
+    "geom:longitude":49.25,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antentezantany",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070279,
+    "gn:latitude":-14.76667,
+    "gn:longitude":49.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antentezantany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antetezantany",
+        "Antentezantany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070279
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a45cd83c8c3a7cf92fea22cf1bbb1019",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209225271
+        }
+    ],
+    "wof:id":1209225271,
+    "wof:lastmodified":1537664716,
+    "wof:name":"Antentezantany",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25,
+    -14.76667,
+    49.25,
+    -14.76667
+],
+  "geometry": {"coordinates":[49.25,-14.76667],"type":"Point"}
+}

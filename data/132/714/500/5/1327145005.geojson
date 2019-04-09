@@ -1,0 +1,74 @@
+{
+  "id": 1327145005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.25,-12.63333,49.25,-12.63333",
+    "geom:latitude":-12.63333,
+    "geom:longitude":49.25,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antsalaka Atsimo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069588,
+    "gn:latitude":-12.63333,
+    "gn:longitude":49.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsalaka Atsimo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsalaka",
+        "Antsolaka",
+        "Antsalaka Atsimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069588,
+        "wk:page":"Antsalaka"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cbb11f8bf1342372a32f8f1c728c6ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1327145005,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1327145005,
+    "wof:lastmodified":1537664708,
+    "wof:name":"Antsalaka Atsimo",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25,
+    -12.63333,
+    49.25,
+    -12.63333
+],
+  "geometry": {"coordinates":[49.25,-12.63333],"type":"Point"}
+}

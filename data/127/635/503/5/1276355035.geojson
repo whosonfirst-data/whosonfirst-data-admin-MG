@@ -1,0 +1,67 @@
+{
+  "id": 1276355035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35,-22.2,45.35,-22.2",
+    "geom:latitude":-22.2,
+    "geom:longitude":45.35,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antavolotaly",
+    "gn:country_code":"MG",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070325,
+    "gn:latitude":-22.2,
+    "gn:longitude":45.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antavolotaly",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070325
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8c5f7cb0617367e05f57708a38c3e0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1276355035,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1276355035,
+    "wof:lastmodified":1536749332,
+    "wof:name":"Antavolotaly",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35,
+    -22.2,
+    45.35,
+    -22.2
+],
+  "geometry": {"coordinates":[45.35,-22.2],"type":"Point"}
+}

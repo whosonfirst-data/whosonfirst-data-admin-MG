@@ -1,0 +1,67 @@
+{
+  "id": 1326840853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.75,-15.41667,49.75,-15.41667",
+    "geom:latitude":-15.41667,
+    "geom:longitude":49.75,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mangabe",
+    "gn:country_code":"MG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060934,
+    "gn:latitude":-15.41667,
+    "gn:longitude":49.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mangabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        890451979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060934
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ba5f2e6940ae2bde541f19dae85226e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890451979,
+            "locality_id":1326840853,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1326840853,
+    "wof:lastmodified":1537034727,
+    "wof:name":"Mangabe",
+    "wof:parent_id":890451979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.75,
+    -15.41667,
+    49.75,
+    -15.41667
+],
+  "geometry": {"coordinates":[49.75,-15.41667],"type":"Point"}
+}

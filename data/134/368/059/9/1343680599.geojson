@@ -1,0 +1,72 @@
+{
+  "id": 1343680599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21667,-23.96667,46.21667,-23.96667",
+    "geom:latitude":-23.96667,
+    "geom:longitude":46.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambatosarotra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082585,
+    "gn:latitude":-23.96667,
+    "gn:longitude":46.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambatosarotra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambatosoratra",
+        "Ambatosarotra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082585
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cf631a3c5639f046e55816b35c77d826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1343680599,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1343680599,
+    "wof:lastmodified":1537664814,
+    "wof:name":"Ambatosarotra",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21667,
+    -23.96667,
+    46.21667,
+    -23.96667
+],
+  "geometry": {"coordinates":[46.21667,-23.96667],"type":"Point"}
+}

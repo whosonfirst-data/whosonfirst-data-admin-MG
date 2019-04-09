@@ -1,0 +1,67 @@
+{
+  "id": 1293113779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.18333,-18.16667,49.18333,-18.16667",
+    "geom:latitude":-18.16667,
+    "geom:longitude":49.18333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Saranasy",
+    "gn:country_code":"MG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056781,
+    "gn:latitude":-18.16667,
+    "gn:longitude":49.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Saranasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056781
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"008d76b5e64ab409d7f8764a23526314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1293113779,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1293113779,
+    "wof:lastmodified":1536827837,
+    "wof:name":"Saranasy",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.18333,
+    -18.16667,
+    49.18333,
+    -18.16667
+],
+  "geometry": {"coordinates":[49.18333,-18.16667],"type":"Point"}
+}

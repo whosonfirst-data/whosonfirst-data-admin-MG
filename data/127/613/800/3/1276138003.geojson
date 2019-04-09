@@ -1,0 +1,67 @@
+{
+  "id": 1276138003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2,-25.5,45.2,-25.5",
+    "geom:latitude":-25.5,
+    "geom:longitude":45.2,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beborodoky",
+    "gn:country_code":"MG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068479,
+    "gn:latitude":-25.5,
+    "gn:longitude":45.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beborodoky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        421184615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068479
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"53b8b6c68ad74a2ca35cc96d82937e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184615,
+            "locality_id":1276138003,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1276138003,
+    "wof:lastmodified":1537038715,
+    "wof:name":"Beborodoky",
+    "wof:parent_id":421184615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2,
+    -25.5,
+    45.2,
+    -25.5
+],
+  "geometry": {"coordinates":[45.2,-25.5],"type":"Point"}
+}

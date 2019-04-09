@@ -1,0 +1,72 @@
+{
+  "id": 1260098941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25,-18.6,46.25,-18.6",
+    "geom:latitude":-18.6,
+    "geom:longitude":46.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Analatsifaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076924,
+    "gn:latitude":-18.6,
+    "gn:longitude":46.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Analatsifaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Analafisaka",
+        "Analatsifaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076924
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9327b556b07b4ae96bf543c83b58a063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1260098941,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1260098941,
+    "wof:lastmodified":1537664770,
+    "wof:name":"Analatsifaka",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25,
+    -18.6,
+    46.25,
+    -18.6
+],
+  "geometry": {"coordinates":[46.25,-18.6],"type":"Point"}
+}

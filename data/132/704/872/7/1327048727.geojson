@@ -1,0 +1,72 @@
+{
+  "id": 1327048727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.91667,-14.78333,47.91667,-14.78333",
+    "geom:latitude":-14.78333,
+    "geom:longitude":47.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bekorovaka Atsinanana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067832,
+    "gn:latitude":-14.78333,
+    "gn:longitude":47.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bekorovaka Atsinanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekorovaka Est",
+        "Bekorovaka Atsinanana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067832
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dccf4ac438f47091684577637bb293e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1327048727,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1327048727,
+    "wof:lastmodified":1537664691,
+    "wof:name":"Bekorovaka Atsinanana",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.91667,
+    -14.78333,
+    47.91667,
+    -14.78333
+],
+  "geometry": {"coordinates":[47.91667,-14.78333],"type":"Point"}
+}

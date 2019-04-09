@@ -1,0 +1,68 @@
+{
+  "id": 1259998099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.63333,-21.18333,47.63333,-21.18333",
+    "geom:latitude":-21.18333,
+    "geom:longitude":47.63333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsaratanana",
+    "gn:country_code":"MG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055048,
+    "gn:latitude":-21.18333,
+    "gn:longitude":47.63333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsaratanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421197047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055048,
+        "wk:page":"Tsaratanana%2C_Ifanadiana"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bbc788fd85e258c6d0b676309e4fc794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421197047,
+            "locality_id":1259998099,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1259998099,
+    "wof:lastmodified":1537568336,
+    "wof:name":"Tsaratanana",
+    "wof:parent_id":421197047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.63333,
+    -21.18333,
+    47.63333,
+    -21.18333
+],
+  "geometry": {"coordinates":[47.63333,-21.18333],"type":"Point"}
+}

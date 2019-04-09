@@ -1,0 +1,67 @@
+{
+  "id": 1344075581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1,-24.8,45.1,-24.8",
+    "geom:latitude":-24.8,
+    "geom:longitude":45.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankara",
+    "gn:country_code":"MG",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073236,
+    "gn:latitude":-24.8,
+    "gn:longitude":45.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073236
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f842dff2b796448fe98538f45ff3ac2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1344075581,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1344075581,
+    "wof:lastmodified":1536852664,
+    "wof:name":"Ankara",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1,
+    -24.8,
+    45.1,
+    -24.8
+],
+  "geometry": {"coordinates":[45.1,-24.8],"type":"Point"}
+}

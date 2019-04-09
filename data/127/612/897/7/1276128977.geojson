@@ -1,0 +1,63 @@
+{
+  "id": 1276128977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0982,-18.96636,49.0982,-18.96636",
+    "geom:latitude":-18.96636,
+    "geom:longitude":49.0982,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kalomalala",
+    "gn:country_code":"MG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063713,
+    "gn:latitude":-18.96636,
+    "gn:longitude":49.0982,
+    "gn:modification_date":"2014-09-22",
+    "gn:name":"Kalomalala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063713
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"190a60d1b420e32639d1a0fb9a5962ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276128977,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276128977,
+    "wof:lastmodified":1537050236,
+    "wof:name":"Kalomalala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0982,
+    -18.96636,
+    49.0982,
+    -18.96636
+],
+  "geometry": {"coordinates":[49.0982,-18.96636],"type":"Point"}
+}

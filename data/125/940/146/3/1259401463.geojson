@@ -1,0 +1,67 @@
+{
+  "id": 1259401463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93333,-21.81667,43.93333,-21.81667",
+    "geom:latitude":-21.81667,
+    "geom:longitude":43.93333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rangainomby",
+    "gn:country_code":"MG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057956,
+    "gn:latitude":-21.81667,
+    "gn:longitude":43.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Rangainomby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057956
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"72e08b3594647935a5a6baf0473c34dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1259401463,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1259401463,
+    "wof:lastmodified":1536975983,
+    "wof:name":"Rangainomby",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93333,
+    -21.81667,
+    43.93333,
+    -21.81667
+],
+  "geometry": {"coordinates":[43.93333,-21.81667],"type":"Point"}
+}

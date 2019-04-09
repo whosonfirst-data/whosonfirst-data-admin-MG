@@ -1,0 +1,63 @@
+{
+  "id": 1259720467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.3,-14.91667,50.3,-14.91667",
+    "geom:latitude":-14.91667,
+    "geom:longitude":50.3,
+    "gn:admin1_code":"7670846",
+    "gn:asciiname":"Ankoalabe",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071886,
+    "gn:latitude":-14.91667,
+    "gn:longitude":50.3,
+    "gn:modification_date":"2013-06-09",
+    "gn:name":"Ankoalabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071886
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"60ca7526e8161af05fdf6d3edea0eea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259720467,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259720467,
+    "wof:lastmodified":1537012969,
+    "wof:name":"Ankoalabe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.3,
+    -14.91667,
+    50.3,
+    -14.91667
+],
+  "geometry": {"coordinates":[50.3,-14.91667],"type":"Point"}
+}

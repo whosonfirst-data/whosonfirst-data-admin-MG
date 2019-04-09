@@ -1,0 +1,73 @@
+{
+  "id": 1276247561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.68333,-24.18333,45.68333,-24.18333",
+    "geom:latitude":-24.18333,
+    "geom:longitude":45.68333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beraketa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067011,
+    "gn:latitude":-24.18333,
+    "gn:longitude":45.68333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Beraketa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bereketa",
+        "Beraketa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067011,
+        "wk:page":"Beraketa"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4dfea8becc218ff2e2693b211734cac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801131,
+            "locality_id":1276247561,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1276247561,
+    "wof:lastmodified":1537664682,
+    "wof:name":"Beraketa",
+    "wof:parent_id":1108801131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.68333,
+    -24.18333,
+    45.68333,
+    -24.18333
+],
+  "geometry": {"coordinates":[45.68333,-24.18333],"type":"Point"}
+}

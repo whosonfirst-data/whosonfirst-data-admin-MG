@@ -1,0 +1,71 @@
+{
+  "id": 1327060837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4,-22.48333,45.4,-22.48333",
+    "geom:latitude":-22.48333,
+    "geom:longitude":45.4,
+    "gn:admin1_code":"7670907",
+    "gn:asciiname":"Ranohira",
+    "gn:country_code":"MG",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057922,
+    "gn:latitude":-22.48333,
+    "gn:longitude":45.4,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ranohira",
+    "gn:population":6000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057922,
+        "wk:page":"Ranohira"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2c725d7afda4fbd3454a5ac25c270397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1327060837,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1327060837,
+    "wof:lastmodified":1537568340,
+    "wof:name":"Ranohira",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:population":6000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4,
+    -22.48333,
+    45.4,
+    -22.48333
+],
+  "geometry": {"coordinates":[45.4,-22.48333],"type":"Point"}
+}

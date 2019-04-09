@@ -1,0 +1,66 @@
+{
+  "id": 1209425429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91667,-16.46667,46.91667,-16.46667",
+    "geom:latitude":-16.46667,
+    "geom:longitude":46.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antsohermakanga",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068986,
+    "gn:latitude":-16.46667,
+    "gn:longitude":46.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsohermakanga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsoherinakanga",
+        "Antsohermakanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068986
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fb9f74344aae0ffa1c4e4972c10321da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425429
+        }
+    ],
+    "wof:id":1209425429,
+    "wof:lastmodified":1537664703,
+    "wof:name":"Antsohermakanga",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91667,
+    -16.46667,
+    46.91667,
+    -16.46667
+],
+  "geometry": {"coordinates":[46.91667,-16.46667],"type":"Point"}
+}

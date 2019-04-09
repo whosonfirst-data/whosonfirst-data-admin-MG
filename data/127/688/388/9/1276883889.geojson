@@ -1,0 +1,67 @@
+{
+  "id": 1276883889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.63333,-22.08333,47.63333,-22.08333",
+    "geom:latitude":-22.08333,
+    "geom:longitude":47.63333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsaralanitra",
+    "gn:country_code":"MG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055178,
+    "gn:latitude":-22.08333,
+    "gn:longitude":47.63333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsaralanitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421198091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055178
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5afc129e6ff9f6abdacbd2f4164c6df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421198091,
+            "locality_id":1276883889,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1276883889,
+    "wof:lastmodified":1537034161,
+    "wof:name":"Tsaralanitra",
+    "wof:parent_id":421198091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.63333,
+    -22.08333,
+    47.63333,
+    -22.08333
+],
+  "geometry": {"coordinates":[47.63333,-22.08333],"type":"Point"}
+}

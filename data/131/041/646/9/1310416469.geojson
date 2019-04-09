@@ -1,0 +1,61 @@
+{
+  "id": 1310416469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6,-16.0,45.6,-16.0",
+    "geom:latitude":-16.0,
+    "geom:longitude":45.6,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Andoka",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075912,
+    "gn:latitude":-16.0,
+    "gn:longitude":45.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andoka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075912
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3b54e375cd2d5d2a1fa91f9d9ee22576",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310416469,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310416469,
+    "wof:lastmodified":1537043578,
+    "wof:name":"Andoka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6,
+    -16.0,
+    45.6,
+    -16.0
+],
+  "geometry": {"coordinates":[45.6,-16.0],"type":"Point"}
+}

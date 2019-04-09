@@ -1,0 +1,72 @@
+{
+  "id": 1327242099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21667,-21.83333,47.21667,-21.83333",
+    "geom:latitude":-21.83333,
+    "geom:longitude":47.21667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambalamarina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084219,
+    "gn:latitude":-21.83333,
+    "gn:longitude":47.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambalamarina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambalanara",
+        "Ambalamarina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084219
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8e209003cbecb196f447a3b8511c0762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801219,
+            "locality_id":1327242099,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1327242099,
+    "wof:lastmodified":1537664825,
+    "wof:name":"Ambalamarina",
+    "wof:parent_id":1108801219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21667,
+    -21.83333,
+    47.21667,
+    -21.83333
+],
+  "geometry": {"coordinates":[47.21667,-21.83333],"type":"Point"}
+}

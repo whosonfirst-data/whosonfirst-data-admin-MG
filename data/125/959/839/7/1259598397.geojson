@@ -1,0 +1,68 @@
+{
+  "id": 1259598397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36667,-22.81667,43.36667,-22.81667",
+    "geom:latitude":-22.81667,
+    "geom:longitude":43.36667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsifota",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054786,
+    "gn:latitude":-22.81667,
+    "gn:longitude":43.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsifota",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054786,
+        "wk:page":"Tsifota"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e1c9169b81dc81e5680c18b702d83fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1259598397,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259598397,
+    "wof:lastmodified":1537568336,
+    "wof:name":"Tsifota",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36667,
+    -22.81667,
+    43.36667,
+    -22.81667
+],
+  "geometry": {"coordinates":[43.36667,-22.81667],"type":"Point"}
+}

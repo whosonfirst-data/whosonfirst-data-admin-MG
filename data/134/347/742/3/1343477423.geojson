@@ -1,0 +1,67 @@
+{
+  "id": 1343477423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5,-24.53333,45.5,-24.53333",
+    "geom:latitude":-24.53333,
+    "geom:longitude":45.5,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Marosaraka",
+    "gn:country_code":"MG",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059753,
+    "gn:latitude":-24.53333,
+    "gn:longitude":45.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marosaraka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059753
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f95f9e6f908ae9982fc99bd5af98cbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801131,
+            "locality_id":1343477423,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1343477423,
+    "wof:lastmodified":1536721991,
+    "wof:name":"Marosaraka",
+    "wof:parent_id":1108801131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5,
+    -24.53333,
+    45.5,
+    -24.53333
+],
+  "geometry": {"coordinates":[45.5,-24.53333],"type":"Point"}
+}

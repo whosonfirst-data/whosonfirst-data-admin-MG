@@ -1,0 +1,72 @@
+{
+  "id": 1292913825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.06667,-21.6,47.06667,-21.6",
+    "geom:latitude":-21.6,
+    "geom:longitude":47.06667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambalamena",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084198,
+    "gn:latitude":-21.6,
+    "gn:longitude":47.06667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambalamena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambalamarina",
+        "Ambalamena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084198
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fe33b4ac2284fb8974c7cfdc5136dde3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801219,
+            "locality_id":1292913825,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1292913825,
+    "wof:lastmodified":1537664825,
+    "wof:name":"Ambalamena",
+    "wof:parent_id":1108801219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.06667,
+    -21.6,
+    47.06667,
+    -21.6
+],
+  "geometry": {"coordinates":[47.06667,-21.6],"type":"Point"}
+}

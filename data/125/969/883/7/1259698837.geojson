@@ -1,0 +1,67 @@
+{
+  "id": 1259698837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.05,-22.05,48.05,-22.05",
+    "geom:latitude":-22.05,
+    "geom:longitude":48.05,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anosy",
+    "gn:country_code":"MG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071410,
+    "gn:latitude":-22.05,
+    "gn:longitude":48.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anosy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071410
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"21fc45125a869a52d9ca9d3fd0fcd1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801175,
+            "locality_id":1259698837,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1259698837,
+    "wof:lastmodified":1537043039,
+    "wof:name":"Anosy",
+    "wof:parent_id":1108801175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.05,
+    -22.05,
+    48.05,
+    -22.05
+],
+  "geometry": {"coordinates":[48.05,-22.05],"type":"Point"}
+}

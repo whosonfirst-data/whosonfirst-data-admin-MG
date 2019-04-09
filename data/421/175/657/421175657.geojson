@@ -1,0 +1,102 @@
+{
+  "id": 421175657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41413,-22.55576,45.41413,-22.55576",
+    "geom:latitude":-22.55576,
+    "geom:longitude":45.41413,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ranohira"
+    ],
+    "name:eng_x_preferred":[
+        "Ranohira"
+    ],
+    "name:fra_x_preferred":[
+        "Ranohira"
+    ],
+    "name:fre_x_preferred":[
+        "Ranohira"
+    ],
+    "name:mlg_x_preferred":[
+        "Ranohira"
+    ],
+    "name:nld_x_preferred":[
+        "Ranohira"
+    ],
+    "name:spa_x_preferred":[
+        "Ranohira"
+    ],
+    "name:swe_x_preferred":[
+        "Ranohira"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1057921,
+    "qs:gn_pop":0,
+    "qs:name":"Ranohira",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Fianarantsoa",
+    "qs:photos":584,
+    "qs:photos_1k":118,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":584,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1221118,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1499099,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057921,
+        "gp:id":1499099,
+        "qs:id":1221118,
+        "wd:id":"Q3113216"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009075,
+    "wof:geomhash":"5d7efb062986404bd5bf6ebd981f8d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":421175657,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":421175657,
+    "wof:lastmodified":1527716339,
+    "wof:name":"Ranohira",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41413,
+    -22.55576,
+    45.41413,
+    -22.55576
+],
+  "geometry": {"coordinates":[45.41413,-22.55576],"type":"Point"}
+}

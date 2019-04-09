@@ -1,0 +1,61 @@
+{
+  "id": 1259601715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46667,-13.4,48.46667,-13.4",
+    "geom:latitude":-13.4,
+    "geom:longitude":48.46667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampasindava",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078006,
+    "gn:latitude":-13.4,
+    "gn:longitude":48.46667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasindava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078006
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2e1d3abbd39c9f4c45c6145c20a57190",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259601715,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259601715,
+    "wof:lastmodified":1536688612,
+    "wof:name":"Ampasindava",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46667,
+    -13.4,
+    48.46667,
+    -13.4
+],
+  "geometry": {"coordinates":[48.46667,-13.4],"type":"Point"}
+}

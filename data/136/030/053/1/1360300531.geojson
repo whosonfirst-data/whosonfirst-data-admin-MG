@@ -1,0 +1,67 @@
+{
+  "id": 1360300531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08333,-22.68333,47.08333,-22.68333",
+    "geom:latitude":-22.68333,
+    "geom:longitude":47.08333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ampasibe Atsinanana",
+    "gn:country_code":"MG",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078272,
+    "gn:latitude":-22.68333,
+    "gn:longitude":47.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasibe Atsinanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421201529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078272
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"056c10704ece2674a2ac257ac4e12a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421201529,
+            "locality_id":1360300531,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1360300531,
+    "wof:lastmodified":1536633374,
+    "wof:name":"Ampasibe Atsinanana",
+    "wof:parent_id":421201529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08333,
+    -22.68333,
+    47.08333,
+    -22.68333
+],
+  "geometry": {"coordinates":[47.08333,-22.68333],"type":"Point"}
+}

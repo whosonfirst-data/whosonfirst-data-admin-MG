@@ -1,0 +1,67 @@
+{
+  "id": 1209826029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.41667,-20.08333,47.41667,-20.08333",
+    "geom:latitude":-20.08333,
+    "geom:longitude":47.41667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ankazondrano",
+    "gn:country_code":"MG",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072705,
+    "gn:latitude":-20.08333,
+    "gn:longitude":47.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankazondrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421171215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072705
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f98758bf7e29da524191b30ec5506359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171215,
+            "locality_id":1209826029,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1209826029,
+    "wof:lastmodified":1536373596,
+    "wof:name":"Ankazondrano",
+    "wof:parent_id":421171215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.41667,
+    -20.08333,
+    47.41667,
+    -20.08333
+],
+  "geometry": {"coordinates":[47.41667,-20.08333],"type":"Point"}
+}

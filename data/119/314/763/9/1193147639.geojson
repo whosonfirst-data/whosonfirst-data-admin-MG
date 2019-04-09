@@ -1,0 +1,72 @@
+{
+  "id": 1193147639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.88333,-13.7,49.88333,-13.7",
+    "geom:latitude":-13.7,
+    "geom:longitude":49.88333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antsahafotsy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069874,
+    "gn:latitude":-13.7,
+    "gn:longitude":49.88333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsahafotsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsahafontsy",
+        "Antsahafotsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069874
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"df51abaf9d6486b9f3361f5d29ee8646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1193147639,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1193147639,
+    "wof:lastmodified":1537664711,
+    "wof:name":"Antsahafotsy",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.88333,
+    -13.7,
+    49.88333,
+    -13.7
+],
+  "geometry": {"coordinates":[49.88333,-13.7],"type":"Point"}
+}

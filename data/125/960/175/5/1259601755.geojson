@@ -1,0 +1,67 @@
+{
+  "id": 1259601755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.11667,-17.73333,49.11667,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":49.11667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambinanynambilo",
+    "gn:country_code":"MG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082077,
+    "gn:latitude":-17.73333,
+    "gn:longitude":49.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambinanynambilo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082077
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4b577f3f98ac9a072be572fa5d9454e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801217,
+            "locality_id":1259601755,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1259601755,
+    "wof:lastmodified":1536688553,
+    "wof:name":"Ambinanynambilo",
+    "wof:parent_id":1108801217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.11667,
+    -17.73333,
+    49.11667,
+    -17.73333
+],
+  "geometry": {"coordinates":[49.11667,-17.73333],"type":"Point"}
+}

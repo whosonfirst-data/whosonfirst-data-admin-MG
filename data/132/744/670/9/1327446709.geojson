@@ -1,0 +1,68 @@
+{
+  "id": 1327446709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,-18.75,48.03333,-18.75",
+    "geom:latitude":-18.75,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambohidronono",
+    "gn:country_code":"MG",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080497,
+    "gn:latitude":-18.75,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohidronono",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080497,
+        "wk:page":"Ambohidronono"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"745e3f958518fdb243a51bfacbe0aef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1327446709,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1327446709,
+    "wof:lastmodified":1537568374,
+    "wof:name":"Ambohidronono",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    -18.75,
+    48.03333,
+    -18.75
+],
+  "geometry": {"coordinates":[48.03333,-18.75],"type":"Point"}
+}

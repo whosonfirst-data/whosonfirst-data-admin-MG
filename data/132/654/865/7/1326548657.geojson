@@ -1,0 +1,67 @@
+{
+  "id": 1326548657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93333,-24.21667,46.93333,-24.21667",
+    "geom:latitude":-24.21667,
+    "geom:longitude":46.93333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Selaka",
+    "gn:country_code":"MG",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056611,
+    "gn:latitude":-24.21667,
+    "gn:longitude":46.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Selaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056611
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1c73b585b204389a6d98ee17e9e4d91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1326548657,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1326548657,
+    "wof:lastmodified":1536960256,
+    "wof:name":"Selaka",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93333,
+    -24.21667,
+    46.93333,
+    -24.21667
+],
+  "geometry": {"coordinates":[46.93333,-24.21667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344272195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88333,-21.83333,43.88333,-21.83333",
+    "geom:latitude":-21.83333,
+    "geom:longitude":43.88333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andranialamihamba",
+    "gn:country_code":"MG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075496,
+    "gn:latitude":-21.83333,
+    "gn:longitude":43.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranialamihamba",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075496
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f273ccc5199d30bd0116394bf8c143a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1344272195,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1344272195,
+    "wof:lastmodified":1537064264,
+    "wof:name":"Andranialamihamba",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88333,
+    -21.83333,
+    43.88333,
+    -21.83333
+],
+  "geometry": {"coordinates":[43.88333,-21.83333],"type":"Point"}
+}

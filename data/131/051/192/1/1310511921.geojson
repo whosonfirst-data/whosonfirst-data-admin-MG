@@ -1,0 +1,72 @@
+{
+  "id": 1310511921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.91667,-23.61667,45.91667,-23.61667",
+    "geom:latitude":-23.61667,
+    "geom:longitude":45.91667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bevaho",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066062,
+    "gn:latitude":-23.61667,
+    "gn:longitude":45.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bevaho",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bevahona",
+        "Bevaho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066062
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"923f3edbc3495700a935351b96883f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1310511921,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1310511921,
+    "wof:lastmodified":1537664673,
+    "wof:name":"Bevaho",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.91667,
+    -23.61667000000001,
+    45.91667,
+    -23.61667000000001
+],
+  "geometry": {"coordinates":[45.91667,-23.61667000000001],"type":"Point"}
+}

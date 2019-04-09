@@ -1,0 +1,67 @@
+{
+  "id": 1225863535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.21667,-16.18333,49.21667,-16.18333",
+    "geom:latitude":-16.18333,
+    "geom:longitude":49.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Seranampary",
+    "gn:country_code":"MG",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056606,
+    "gn:latitude":-16.18333,
+    "gn:longitude":49.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Seranampary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        421189045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056606
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1a42ac856fb6d938b8036ce5eed36b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421189045,
+            "locality_id":1225863535,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1225863535,
+    "wof:lastmodified":1536987228,
+    "wof:name":"Seranampary",
+    "wof:parent_id":421189045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.21667,
+    -16.18333,
+    49.21667,
+    -16.18333
+],
+  "geometry": {"coordinates":[49.21667,-16.18333],"type":"Point"}
+}

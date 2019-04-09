@@ -1,0 +1,67 @@
+{
+  "id": 1343377713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.08333,-20.81667,48.08333,-20.81667",
+    "geom:latitude":-20.81667,
+    "geom:longitude":48.08333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ampasimadinika",
+    "gn:country_code":"MG",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078222,
+    "gn:latitude":-20.81667,
+    "gn:longitude":48.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasimadinika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078222
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f2d931874d90e016ead289ffbe679038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1343377713,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1343377713,
+    "wof:lastmodified":1536864261,
+    "wof:name":"Ampasimadinika",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08333,
+    -20.81667,
+    48.08333,
+    -20.81667
+],
+  "geometry": {"coordinates":[48.08333,-20.81667],"type":"Point"}
+}

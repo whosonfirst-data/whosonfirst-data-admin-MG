@@ -1,0 +1,61 @@
+{
+  "id": 1209333317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73333,-24.36667,43.73333,-24.36667",
+    "geom:latitude":-24.36667,
+    "geom:longitude":43.73333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankilitelo",
+    "gn:country_code":"MG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072126,
+    "gn:latitude":-24.36667,
+    "gn:longitude":43.73333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankilitelo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072126
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b7757c6bc5f3eae85165117056b07f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209333317
+        }
+    ],
+    "wof:id":1209333317,
+    "wof:lastmodified":1536290303,
+    "wof:name":"Ankilitelo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73333,
+    -24.366670000000006,
+    43.73333,
+    -24.366670000000006
+],
+  "geometry": {"coordinates":[43.73333,-24.36667000000001],"type":"Point"}
+}

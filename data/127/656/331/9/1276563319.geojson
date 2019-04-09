@@ -1,0 +1,67 @@
+{
+  "id": 1276563319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08333,-25.36667,45.08333,-25.36667",
+    "geom:latitude":-25.36667,
+    "geom:longitude":45.08333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andefopaly",
+    "gn:country_code":"MG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076288,
+    "gn:latitude":-25.36667,
+    "gn:longitude":45.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andefopaly",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076288
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ef39be4eb3ac4997d19c4a2295b92c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1276563319,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1276563319,
+    "wof:lastmodified":1536967601,
+    "wof:name":"Andefopaly",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08333,
+    -25.36667000000001,
+    45.08333,
+    -25.36667000000001
+],
+  "geometry": {"coordinates":[45.08333,-25.36667000000001],"type":"Point"}
+}

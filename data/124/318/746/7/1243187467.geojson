@@ -1,0 +1,67 @@
+{
+  "id": 1243187467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65,-19.41667,48.65,-19.41667",
+    "geom:latitude":-19.41667,
+    "geom:longitude":48.65,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lamaka",
+    "gn:country_code":"MG",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063287,
+    "gn:latitude":-19.41667,
+    "gn:longitude":48.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Lamaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        421184617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063287
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2ef9063922ac58e65bf9f0059286e320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184617,
+            "locality_id":1243187467,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1243187467,
+    "wof:lastmodified":1536681800,
+    "wof:name":"Lamaka",
+    "wof:parent_id":421184617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65,
+    -19.41667,
+    48.65,
+    -19.41667
+],
+  "geometry": {"coordinates":[48.65,-19.41667],"type":"Point"}
+}

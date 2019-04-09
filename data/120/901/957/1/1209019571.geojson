@@ -1,0 +1,66 @@
+{
+  "id": 1209019571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53333,-16.05,45.53333,-16.05",
+    "geom:latitude":-16.05,
+    "geom:longitude":45.53333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankirakaraka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072016,
+    "gn:latitude":-16.05,
+    "gn:longitude":45.53333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankirakaraka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankaroraky",
+        "Ankirakaraka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072016
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0b756fc91cc6d700a37a625893d318d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209019571
+        }
+    ],
+    "wof:id":1209019571,
+    "wof:lastmodified":1537664731,
+    "wof:name":"Ankirakaraka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53333,
+    -16.05,
+    45.53333,
+    -16.05
+],
+  "geometry": {"coordinates":[45.53333,-16.05],"type":"Point"}
+}

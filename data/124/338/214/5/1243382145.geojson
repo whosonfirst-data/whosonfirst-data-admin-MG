@@ -1,0 +1,67 @@
+{
+  "id": 1243382145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.41667,-17.93333,47.41667,-17.93333",
+    "geom:latitude":-17.93333,
+    "geom:longitude":47.41667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Amboatavo",
+    "gn:country_code":"MG",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081779,
+    "gn:latitude":-17.93333,
+    "gn:longitude":47.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboatavo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081779
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2bda57037d9e22491f9b36db10aeb9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1243382145,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1243382145,
+    "wof:lastmodified":1536898238,
+    "wof:name":"Amboatavo",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.41667,
+    -17.93332999999999,
+    47.41667,
+    -17.93332999999999
+],
+  "geometry": {"coordinates":[47.41667,-17.93332999999999],"type":"Point"}
+}

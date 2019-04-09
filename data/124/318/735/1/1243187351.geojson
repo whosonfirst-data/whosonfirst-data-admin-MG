@@ -1,0 +1,67 @@
+{
+  "id": 1243187351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.11667,-19.9,48.11667,-19.9",
+    "geom:latitude":-19.9,
+    "geom:longitude":48.11667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambodiara",
+    "gn:country_code":"MG",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081672,
+    "gn:latitude":-19.9,
+    "gn:longitude":48.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodiara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081672
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"676c21e01472bdfada86c599d6029745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801189,
+            "locality_id":1243187351,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1243187351,
+    "wof:lastmodified":1536681956,
+    "wof:name":"Ambodiara",
+    "wof:parent_id":1108801189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.11667,
+    -19.9,
+    48.11667,
+    -19.9
+],
+  "geometry": {"coordinates":[48.11667,-19.9],"type":"Point"}
+}

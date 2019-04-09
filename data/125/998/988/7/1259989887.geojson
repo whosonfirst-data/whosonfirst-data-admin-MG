@@ -1,0 +1,67 @@
+{
+  "id": 1259989887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01667,-21.85,47.01667,-21.85",
+    "geom:latitude":-21.85,
+    "geom:longitude":47.01667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anjainony",
+    "gn:country_code":"MG",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073785,
+    "gn:latitude":-21.85,
+    "gn:longitude":47.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjainony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073785
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"de4a8688fd562446464c0cbcbc3c9c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171625,
+            "locality_id":1259989887,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1259989887,
+    "wof:lastmodified":1536623856,
+    "wof:name":"Anjainony",
+    "wof:parent_id":421171625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01667,
+    -21.85,
+    47.01667,
+    -21.85
+],
+  "geometry": {"coordinates":[47.01667,-21.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293506143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71667,-20.13333,48.71667,-20.13333",
+    "geom:latitude":-20.13333,
+    "geom:longitude":48.71667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andranotsara",
+    "gn:country_code":"MG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074762,
+    "gn:latitude":-20.13333,
+    "gn:longitude":48.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranotsara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074762
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"28d73f878226917206a8fe4408db2622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801169,
+            "locality_id":1293506143,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1293506143,
+    "wof:lastmodified":1536760343,
+    "wof:name":"Andranotsara",
+    "wof:parent_id":1108801169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71667,
+    -20.13333,
+    48.71667,
+    -20.13333
+],
+  "geometry": {"coordinates":[48.71667,-20.13333],"type":"Point"}
+}

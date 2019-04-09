@@ -1,0 +1,66 @@
+{
+  "id": 1343873465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.38829,-19.82268,47.38829,-19.82268",
+    "geom:latitude":-19.82268,
+    "geom:longitude":47.38829,
+    "gn:asciiname":"Antsampanimahazo Fianarana",
+    "gn:country_code":"MG",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11102732,
+    "gn:latitude":-19.82268,
+    "gn:longitude":47.38829,
+    "gn:modification_date":"2016-03-26",
+    "gn:name":"Antsampanimahazo Fianarana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421204565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11102732
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"de3a6e42e4ec2506e1becdf051c80f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421204565,
+            "locality_id":1343873465,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1343873465,
+    "wof:lastmodified":1536647353,
+    "wof:name":"Antsampanimahazo Fianarana",
+    "wof:parent_id":421204565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.38829000000001,
+    -19.82268,
+    47.38829000000001,
+    -19.82268
+],
+  "geometry": {"coordinates":[47.38829000000001,-19.82268],"type":"Point"}
+}

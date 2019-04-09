@@ -1,0 +1,67 @@
+{
+  "id": 1193034687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.26667,-15.13333,50.26667,-15.13333",
+    "geom:latitude":-15.13333,
+    "geom:longitude":50.26667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ankiakabolono",
+    "gn:country_code":"MG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072481,
+    "gn:latitude":-15.13333,
+    "gn:longitude":50.26667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankiakabolono",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421196875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072481
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"365466ead5751728d42ca390bf397070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421196875,
+            "locality_id":1193034687,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1193034687,
+    "wof:lastmodified":1536382299,
+    "wof:name":"Ankiakabolono",
+    "wof:parent_id":421196875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.26667,
+    -15.13333,
+    50.26667,
+    -15.13333
+],
+  "geometry": {"coordinates":[50.26667,-15.13333],"type":"Point"}
+}

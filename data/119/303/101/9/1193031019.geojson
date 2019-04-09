@@ -1,0 +1,68 @@
+{
+  "id": 1193031019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3,-17.56667,44.3,-17.56667",
+    "geom:latitude":-17.56667,
+    "geom:longitude":44.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maromavo",
+    "gn:country_code":"MG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059910,
+    "gn:latitude":-17.56667,
+    "gn:longitude":44.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maromavo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059910,
+        "wk:page":"Maromavo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"22ae9e6ddfcf64a5e50f2c8340c9c386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801171,
+            "locality_id":1193031019,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1193031019,
+    "wof:lastmodified":1537568343,
+    "wof:name":"Maromavo",
+    "wof:parent_id":1108801171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3,
+    -17.56667,
+    44.3,
+    -17.56667
+],
+  "geometry": {"coordinates":[44.3,-17.56667],"type":"Point"}
+}

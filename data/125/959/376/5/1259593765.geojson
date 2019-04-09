@@ -1,0 +1,67 @@
+{
+  "id": 1259593765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58333,-25.28333,44.58333,-25.28333",
+    "geom:latitude":-25.28333,
+    "geom:longitude":44.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsisavy",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069064,
+    "gn:latitude":-25.28333,
+    "gn:longitude":44.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsisavy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069064
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e5b6beedc06a475eb234d1871dc26c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1259593765,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1259593765,
+    "wof:lastmodified":1536700163,
+    "wof:name":"Antsisavy",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58333,
+    -25.28333,
+    44.58333,
+    -25.28333
+],
+  "geometry": {"coordinates":[44.58333,-25.28333],"type":"Point"}
+}

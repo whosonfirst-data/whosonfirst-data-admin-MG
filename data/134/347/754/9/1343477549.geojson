@@ -1,0 +1,67 @@
+{
+  "id": 1343477549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3,-22.33333,47.3,-22.33333",
+    "geom:latitude":-22.33333,
+    "geom:longitude":47.3,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Enosy",
+    "gn:country_code":"MG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065395,
+    "gn:latitude":-22.33333,
+    "gn:longitude":47.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Enosy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065395
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a91772a78f8f68ffe66e4de0cd1ad9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801221,
+            "locality_id":1343477549,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1343477549,
+    "wof:lastmodified":1536721812,
+    "wof:name":"Enosy",
+    "wof:parent_id":1108801221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3,
+    -22.33333,
+    47.3,
+    -22.33333
+],
+  "geometry": {"coordinates":[47.3,-22.33333],"type":"Point"}
+}

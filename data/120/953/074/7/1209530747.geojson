@@ -1,0 +1,66 @@
+{
+  "id": 1209530747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15,-21.26667,44.15,-21.26667",
+    "geom:latitude":-21.26667,
+    "geom:longitude":44.15,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Besaony",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066671,
+    "gn:latitude":-21.26667,
+    "gn:longitude":44.15,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Besaony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Besoany",
+        "Besaony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066671
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"aab914297a9a5d1f9d0962f1af6d7551",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209530747
+        }
+    ],
+    "wof:id":1209530747,
+    "wof:lastmodified":1537664678,
+    "wof:name":"Besaony",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15,
+    -21.26667,
+    44.15,
+    -21.26667
+],
+  "geometry": {"coordinates":[44.15,-21.26667],"type":"Point"}
+}

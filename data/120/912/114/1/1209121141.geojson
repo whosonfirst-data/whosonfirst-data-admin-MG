@@ -1,0 +1,61 @@
+{
+  "id": 1209121141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25,-22.15,45.25,-22.15",
+    "geom:latitude":-22.15,
+    "geom:longitude":45.25,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampanambato",
+    "gn:country_code":"MG",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078836,
+    "gn:latitude":-22.15,
+    "gn:longitude":45.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampanambato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078836
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0469899f3a2641e3fdcfbe93d27ab8a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209121141
+        }
+    ],
+    "wof:id":1209121141,
+    "wof:lastmodified":1536297094,
+    "wof:name":"Ampanambato",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25,
+    -22.15,
+    45.25,
+    -22.15
+],
+  "geometry": {"coordinates":[45.25,-22.15],"type":"Point"}
+}

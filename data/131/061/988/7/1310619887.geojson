@@ -1,0 +1,72 @@
+{
+  "id": 1310619887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-24.45,47.05,-24.45",
+    "geom:latitude":-24.45,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Masakena",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059456,
+    "gn:latitude":-24.45,
+    "gn:longitude":47.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Masakena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masikena",
+        "Masakena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059456
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"25c6d1da0f8b1fe5c06b5599759db860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1310619887,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1310619887,
+    "wof:lastmodified":1537664616,
+    "wof:name":"Masakena",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -24.45,
+    47.05,
+    -24.45
+],
+  "geometry": {"coordinates":[47.05,-24.45],"type":"Point"}
+}

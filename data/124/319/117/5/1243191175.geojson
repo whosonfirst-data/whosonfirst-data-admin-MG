@@ -1,0 +1,67 @@
+{
+  "id": 1243191175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33333,-25.05,46.33333,-25.05",
+    "geom:latitude":-25.05,
+    "geom:longitude":46.33333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Imantsaky",
+    "gn:country_code":"MG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064144,
+    "gn:latitude":-25.05,
+    "gn:longitude":46.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Imantsaky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064144
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a21854af0577e867debedec063344a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1243191175,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1243191175,
+    "wof:lastmodified":1536676563,
+    "wof:name":"Imantsaky",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33333,
+    -25.05,
+    46.33333,
+    -25.05
+],
+  "geometry": {"coordinates":[46.33333,-25.05],"type":"Point"}
+}

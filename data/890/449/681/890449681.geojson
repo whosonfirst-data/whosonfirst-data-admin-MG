@@ -1,0 +1,67 @@
+{
+  "id": 890449681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.187408,-13.3259435,48.187408,-13.3259435",
+    "geom:latitude":-13.325943,
+    "geom:longitude":48.187408,
+    "gn:country":"MG",
+    "gp:adm0":23424883,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "qs:name":"Dzamandzar",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antsiranana",
+    "qs:photos":960,
+    "qs:photos_1k":195,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":960,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        890452057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1360748,
+        "qs:id":1115762
+    },
+    "wof:country":"MG",
+    "wof:created":1469052702,
+    "wof:geomhash":"79d06c108bbcaa3fedd2684f3be1c075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452057,
+            "locality_id":890449681,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":890449681,
+    "wof:lastmodified":1494545227,
+    "wof:name":"Dzamandzar",
+    "wof:parent_id":890452057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.187408,
+    -13.3259435,
+    48.187408,
+    -13.3259435
+],
+  "geometry": {"coordinates":[48.187408,-13.3259435],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225863545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.23333,-21.55,48.23333,-21.55",
+    "geom:latitude":-21.55,
+    "geom:longitude":48.23333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sakarivo",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057079,
+    "gn:latitude":-21.55,
+    "gn:longitude":48.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sakarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057079
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2f6536c472ab53d339bef81d718cf25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1225863545,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1225863545,
+    "wof:lastmodified":1536987212,
+    "wof:name":"Sakarivo",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.23333,
+    -21.55,
+    48.23333,
+    -21.55
+],
+  "geometry": {"coordinates":[48.23333,-21.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242889153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,-22.88333,47.66667,-22.88333",
+    "geom:latitude":-22.88333,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Iandray",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064431,
+    "gn:latitude":-22.88333,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Iandray",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landray",
+        "Iandray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064431
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cd9e83ae52725a787c42ee21385ac30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801147,
+            "locality_id":1242889153,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1242889153,
+    "wof:lastmodified":1537664656,
+    "wof:name":"Iandray",
+    "wof:parent_id":1108801147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    -22.88333,
+    47.66667,
+    -22.88333
+],
+  "geometry": {"coordinates":[47.66667,-22.88333],"type":"Point"}
+}

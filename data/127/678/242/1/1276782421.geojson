@@ -1,0 +1,68 @@
+{
+  "id": 1276782421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0,-18.83333,48.0,-18.83333",
+    "geom:latitude":-18.83333,
+    "geom:longitude":48.0,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Belavabary",
+    "gn:country_code":"MG",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067695,
+    "gn:latitude":-18.83333,
+    "gn:longitude":48.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Belavabary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067695,
+        "wk:page":"Belavabary"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1d9570d6ec4ed38bbad775479371fd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1276782421,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1276782421,
+    "wof:lastmodified":1537568357,
+    "wof:name":"Belavabary",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0,
+    -18.83333,
+    48.0,
+    -18.83333
+],
+  "geometry": {"coordinates":[48.0,-18.83333],"type":"Point"}
+}

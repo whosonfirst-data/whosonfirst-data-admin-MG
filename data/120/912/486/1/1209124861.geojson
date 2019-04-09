@@ -1,0 +1,62 @@
+{
+  "id": 1209124861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.28333,-22.96667,47.28333,-22.96667",
+    "geom:latitude":-22.96667,
+    "geom:longitude":47.28333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohimary",
+    "gn:country_code":"MG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053859,
+    "gn:latitude":-22.96667,
+    "gn:longitude":47.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohimary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053859,
+        "wk:page":"Vohimary"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7c0e3f5cd329f1a37ec3aceb8d447293",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209124861
+        }
+    ],
+    "wof:id":1209124861,
+    "wof:lastmodified":1537568334,
+    "wof:name":"Vohimary",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28333,
+    -22.96667,
+    47.28333,
+    -22.96667
+],
+  "geometry": {"coordinates":[47.28333,-22.96667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226661391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.61667,-19.13333,47.61667,-19.13333",
+    "geom:latitude":-19.13333,
+    "geom:longitude":47.61667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohimahatsinjo",
+    "gn:country_code":"MG",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080427,
+    "gn:latitude":-19.13333,
+    "gn:longitude":47.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohimahatsinjo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421200823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080427
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a62baeae88f2609fb69d7426a29e794d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421200823,
+            "locality_id":1226661391,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1226661391,
+    "wof:lastmodified":1536835801,
+    "wof:name":"Ambohimahatsinjo",
+    "wof:parent_id":421200823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.61667,
+    -19.13333,
+    47.61667,
+    -19.13333
+],
+  "geometry": {"coordinates":[47.61667,-19.13333],"type":"Point"}
+}

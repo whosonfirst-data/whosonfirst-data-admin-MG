@@ -1,0 +1,67 @@
+{
+  "id": 1243464911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36667,-22.01667,44.36667,-22.01667",
+    "geom:latitude":-22.01667,
+    "geom:longitude":44.36667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Maintirano",
+    "gn:country_code":"MG",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061910,
+    "gn:latitude":-22.01667,
+    "gn:longitude":44.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maintirano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061910
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1dcfea4941783cb84cc028a77e272bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1243464911,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243464911,
+    "wof:lastmodified":1536779331,
+    "wof:name":"Maintirano",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36667,
+    -22.01667,
+    44.36667,
+    -22.01667
+],
+  "geometry": {"coordinates":[44.36667,-22.01667],"type":"Point"}
+}

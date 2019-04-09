@@ -1,0 +1,72 @@
+{
+  "id": 1259894937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85,-24.0,44.85,-24.0",
+    "geom:latitude":-24.0,
+    "geom:longitude":44.85,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampandrambe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078691,
+    "gn:latitude":-24.0,
+    "gn:longitude":44.85,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampandrambe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampandrambe Ambony",
+        "Ampandrambe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078691
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f7c4819578c80a7aab1406104883fb75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1259894937,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259894937,
+    "wof:lastmodified":1537664783,
+    "wof:name":"Ampandrambe",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85,
+    -24.0,
+    44.85,
+    -24.0
+],
+  "geometry": {"coordinates":[44.85,-24.0],"type":"Point"}
+}

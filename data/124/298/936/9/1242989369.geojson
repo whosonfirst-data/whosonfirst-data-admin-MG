@@ -1,0 +1,67 @@
+{
+  "id": 1242989369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0,-18.45,45.0,-18.45",
+    "geom:latitude":-18.45,
+    "geom:longitude":45.0,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampanihy Andrefana",
+    "gn:country_code":"MG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078547,
+    "gn:latitude":-18.45,
+    "gn:longitude":45.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampanihy Andrefana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078547
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f54f70dd586465b229d80cffc51638bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169603,
+            "locality_id":1242989369,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1242989369,
+    "wof:lastmodified":1536967261,
+    "wof:name":"Ampanihy Andrefana",
+    "wof:parent_id":421169603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0,
+    -18.45,
+    45.0,
+    -18.45
+],
+  "geometry": {"coordinates":[45.0,-18.45],"type":"Point"}
+}

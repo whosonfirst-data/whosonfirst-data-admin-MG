@@ -1,0 +1,67 @@
+{
+  "id": 1243279157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93333,-25.18333,44.93333,-25.18333",
+    "geom:latitude":-25.18333,
+    "geom:longitude":44.93333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tainaondry",
+    "gn:country_code":"MG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056020,
+    "gn:latitude":-25.18333,
+    "gn:longitude":44.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tainaondry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056020
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e0e99ad2b5f37c97294bc6871af37ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1243279157,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1243279157,
+    "wof:lastmodified":1537044737,
+    "wof:name":"Tainaondry",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93333,
+    -25.18333,
+    44.93333,
+    -25.18333
+],
+  "geometry": {"coordinates":[44.93333,-25.18333],"type":"Point"}
+}

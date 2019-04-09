@@ -1,0 +1,67 @@
+{
+  "id": 1209933051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03333,-21.88333,44.03333,-21.88333",
+    "geom:latitude":-21.88333,
+    "geom:longitude":44.03333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankatrafahy",
+    "gn:country_code":"MG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072951,
+    "gn:latitude":-21.88333,
+    "gn:longitude":44.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankatrafahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072951
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0ddad6b16f41821e80ea3754d4973c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1209933051,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1209933051,
+    "wof:lastmodified":1536391870,
+    "wof:name":"Ankatrafahy",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03333,
+    -21.88333,
+    44.03333,
+    -21.88333
+],
+  "geometry": {"coordinates":[44.03333,-21.88333],"type":"Point"}
+}

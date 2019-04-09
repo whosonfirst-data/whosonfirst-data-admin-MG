@@ -1,0 +1,68 @@
+{
+  "id": 1293303217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75,-24.4,43.75,-24.4",
+    "geom:latitude":-24.4,
+    "geom:longitude":43.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anja-Belitsaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073833,
+    "gn:latitude":-24.4,
+    "gn:longitude":43.75,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anja-Belitsaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belitsaka",
+        "Anja-Belitsaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073833
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d1c774159ca8ea474674c307a9e5a032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293303217,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293303217,
+    "wof:lastmodified":1537664747,
+    "wof:name":"Anja-Belitsaka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75,
+    -24.4,
+    43.75,
+    -24.4
+],
+  "geometry": {"coordinates":[43.75,-24.4],"type":"Point"}
+}

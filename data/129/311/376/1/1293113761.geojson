@@ -1,0 +1,67 @@
+{
+  "id": 1293113761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3,-15.4,48.3,-15.4",
+    "geom:latitude":-15.4,
+    "geom:longitude":48.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankijahabe",
+    "gn:country_code":"MG",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072433,
+    "gn:latitude":-15.4,
+    "gn:longitude":48.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankijahabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072433
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fe340e2385ecceba6afb7ba6c8edf550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1293113761,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1293113761,
+    "wof:lastmodified":1536827865,
+    "wof:name":"Ankijahabe",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3,
+    -15.4,
+    48.3,
+    -15.4
+],
+  "geometry": {"coordinates":[48.3,-15.4],"type":"Point"}
+}

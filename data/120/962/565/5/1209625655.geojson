@@ -1,0 +1,61 @@
+{
+  "id": 1209625655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.16667,-21.46667,48.16667,-21.46667",
+    "geom:latitude":-21.46667,
+    "geom:longitude":48.16667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Besiaka",
+    "gn:country_code":"MG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066577,
+    "gn:latitude":-21.46667,
+    "gn:longitude":48.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Besiaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066577
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"092c887a9f4eaad58b56e9b24c657bd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209625655
+        }
+    ],
+    "wof:id":1209625655,
+    "wof:lastmodified":1536281362,
+    "wof:name":"Besiaka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.16667,
+    -21.46667,
+    48.16667,
+    -21.46667
+],
+  "geometry": {"coordinates":[48.16667,-21.46667],"type":"Point"}
+}

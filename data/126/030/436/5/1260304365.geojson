@@ -1,0 +1,60 @@
+{
+  "id": 1260304365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.19462,-13.37735,48.19462,-13.37735",
+    "geom:latitude":-13.37735,
+    "geom:longitude":48.19462,
+    "gn:asciiname":"Ambondrona",
+    "gn:country_code":"MG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9650175,
+    "gn:latitude":-13.37735,
+    "gn:longitude":48.19462,
+    "gn:modification_date":"2015-08-15",
+    "gn:name":"Ambondrona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9650175
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"364f56df7bc1a42b49020efa16ec5feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260304365,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260304365,
+    "wof:lastmodified":1536683854,
+    "wof:name":"Ambondrona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19462,
+    -13.37735,
+    48.19462,
+    -13.37735
+],
+  "geometry": {"coordinates":[48.19462,-13.37735],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343873495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.23333,-12.05,49.23333,-12.05",
+    "geom:latitude":-12.05,
+    "geom:longitude":49.23333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Andranovondronina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074682,
+    "gn:latitude":-12.05,
+    "gn:longitude":49.23333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andranovondronina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranovondroana",
+        "Andranovondrona",
+        "Andranovondronina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074682,
+        "wk:page":"Andranovondronina"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4afd607a86c0eda4d44d67fbbd75c659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1343873495,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1343873495,
+    "wof:lastmodified":1537664753,
+    "wof:name":"Andranovondronina",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.23333,
+    -12.05,
+    49.23333,
+    -12.05
+],
+  "geometry": {"coordinates":[49.23333,-12.05],"type":"Point"}
+}

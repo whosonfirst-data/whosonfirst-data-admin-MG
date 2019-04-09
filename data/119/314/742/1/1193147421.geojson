@@ -1,0 +1,67 @@
+{
+  "id": 1193147421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96667,-18.31667,48.96667,-18.31667",
+    "geom:latitude":-18.31667,
+    "geom:longitude":48.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Besakay",
+    "gn:country_code":"MG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066774,
+    "gn:latitude":-18.31667,
+    "gn:longitude":48.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Besakay",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066774
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e8c0e8296a98959d1a1dad5196c0c526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801145,
+            "locality_id":1193147421,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1193147421,
+    "wof:lastmodified":1536381884,
+    "wof:name":"Besakay",
+    "wof:parent_id":1108801145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96667,
+    -18.31667,
+    48.96667,
+    -18.31667
+],
+  "geometry": {"coordinates":[48.96667,-18.31667],"type":"Point"}
+}

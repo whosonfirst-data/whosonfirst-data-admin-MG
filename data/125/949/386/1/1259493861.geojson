@@ -1,0 +1,67 @@
+{
+  "id": 1259493861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11667,-23.63333,46.11667,-23.63333",
+    "geom:latitude":-23.63333,
+    "geom:longitude":46.11667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampasimaika",
+    "gn:country_code":"MG",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078208,
+    "gn:latitude":-23.63333,
+    "gn:longitude":46.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasimaika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078208
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"84627423d4ec393c5b2a0b7e7e835f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1259493861,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1259493861,
+    "wof:lastmodified":1536842733,
+    "wof:name":"Ampasimaika",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11667,
+    -23.63333,
+    46.11667,
+    -23.63333
+],
+  "geometry": {"coordinates":[46.11667,-23.63333],"type":"Point"}
+}

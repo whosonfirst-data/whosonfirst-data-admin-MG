@@ -1,0 +1,72 @@
+{
+  "id": 1259802385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.36667,-21.6,46.36667,-21.6",
+    "geom:latitude":-21.6,
+    "geom:longitude":46.36667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ingaro",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064084,
+    "gn:latitude":-21.6,
+    "gn:longitude":46.36667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ingaro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingato",
+        "Ingaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064084
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6d3522df6c9a766d4a55fd9aed2b0616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171625,
+            "locality_id":1259802385,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1259802385,
+    "wof:lastmodified":1537664652,
+    "wof:name":"Ingaro",
+    "wof:parent_id":421171625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.36667,
+    -21.6,
+    46.36667,
+    -21.6
+],
+  "geometry": {"coordinates":[46.36667,-21.6],"type":"Point"}
+}

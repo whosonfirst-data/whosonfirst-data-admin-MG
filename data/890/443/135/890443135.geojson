@@ -1,0 +1,65 @@
+{
+  "id": 890443135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35491,-13.40559,48.35491,-13.40559",
+    "geom:latitude":-13.40559,
+    "geom:longitude":48.35491,
+    "gn:country":"MG",
+    "gn:fcode":"PPLX",
+    "gn:pop":60,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Doany Antafondro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85674009,
+        85632223,
+        890452057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7115594,
+        "qs:id":656662
+    },
+    "wof:country":"MG",
+    "wof:created":1469052402,
+    "wof:geomhash":"ae5ea2454b5ec6d3630b96d68a565a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452057,
+            "neighbourhood_id":890443135,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":890443135,
+    "wof:lastmodified":1505343592,
+    "wof:name":"Doany Antafondro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35491,
+    -13.40559,
+    48.35491,
+    -13.40559
+],
+  "geometry": {"coordinates":[48.35491,-13.40559],"type":"Point"}
+}

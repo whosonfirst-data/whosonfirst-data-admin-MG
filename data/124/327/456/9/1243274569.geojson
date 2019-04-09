@@ -1,0 +1,67 @@
+{
+  "id": 1243274569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.48333,-19.16667,47.48333,-19.16667",
+    "geom:latitude":-19.16667,
+    "geom:longitude":47.48333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohikambana",
+    "gn:country_code":"MG",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080457,
+    "gn:latitude":-19.16667,
+    "gn:longitude":47.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohikambana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421194677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080457
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8c0b0e7beef43b3ac5424185a912f1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421194677,
+            "locality_id":1243274569,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1243274569,
+    "wof:lastmodified":1537051073,
+    "wof:name":"Ambohikambana",
+    "wof:parent_id":421194677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.48333,
+    -19.16667,
+    47.48333,
+    -19.16667
+],
+  "geometry": {"coordinates":[47.48333,-19.16667],"type":"Point"}
+}

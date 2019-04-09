@@ -1,0 +1,67 @@
+{
+  "id": 1309916269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36667,-24.68333,45.36667,-24.68333",
+    "geom:latitude":-24.68333,
+    "geom:longitude":45.36667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Volovolo",
+    "gn:country_code":"MG",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053528,
+    "gn:latitude":-24.68333,
+    "gn:longitude":45.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Volovolo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053528
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"52b73908bf75f31ac5d6ec543ff64d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801131,
+            "locality_id":1309916269,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1309916269,
+    "wof:lastmodified":1536772349,
+    "wof:name":"Volovolo",
+    "wof:parent_id":1108801131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36667,
+    -24.68333,
+    45.36667,
+    -24.68333
+],
+  "geometry": {"coordinates":[45.36667,-24.68333],"type":"Point"}
+}

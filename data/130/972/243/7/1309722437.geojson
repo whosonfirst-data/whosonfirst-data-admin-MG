@@ -1,0 +1,67 @@
+{
+  "id": 1309722437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38333,-21.65,44.38333,-21.65",
+    "geom:latitude":-21.65,
+    "geom:longitude":44.38333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankazomanga",
+    "gn:country_code":"MG",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072784,
+    "gn:latitude":-21.65,
+    "gn:longitude":44.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankazomanga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072784
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5dd301a61ed514dfd1b8fddd60817b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1309722437,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1309722437,
+    "wof:lastmodified":1537049103,
+    "wof:name":"Ankazomanga",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38333,
+    -21.65,
+    44.38333,
+    -21.65
+],
+  "geometry": {"coordinates":[44.38333,-21.65],"type":"Point"}
+}

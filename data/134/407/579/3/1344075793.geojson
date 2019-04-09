@@ -1,0 +1,72 @@
+{
+  "id": 1344075793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33333,-14.66667,48.33333,-14.66667",
+    "geom:latitude":-14.66667,
+    "geom:longitude":48.33333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankarankely",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073104,
+    "gn:latitude":-14.66667,
+    "gn:longitude":48.33333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankarankely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankerankely",
+        "Ankarankely"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073104
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"833e2c148a51a71193af1725e1bc147e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801119,
+            "locality_id":1344075793,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1344075793,
+    "wof:lastmodified":1537664741,
+    "wof:name":"Ankarankely",
+    "wof:parent_id":1108801119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33333,
+    -14.66667,
+    48.33333,
+    -14.66667
+],
+  "geometry": {"coordinates":[48.33333,-14.66667],"type":"Point"}
+}

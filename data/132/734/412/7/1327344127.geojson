@@ -1,0 +1,72 @@
+{
+  "id": 1327344127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8,-19.55,44.8,-19.55",
+    "geom:latitude":-19.55,
+    "geom:longitude":44.8,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andranomarelia",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075097,
+    "gn:latitude":-19.55,
+    "gn:longitude":44.8,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andranomarelia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranomaraily",
+        "Andranomarelia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075097
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bd0e2cd8098eba2213e95c9ed66ed2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169785,
+            "locality_id":1327344127,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1327344127,
+    "wof:lastmodified":1537664756,
+    "wof:name":"Andranomarelia",
+    "wof:parent_id":421169785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8,
+    -19.55,
+    44.8,
+    -19.55
+],
+  "geometry": {"coordinates":[44.8,-19.55],"type":"Point"}
+}

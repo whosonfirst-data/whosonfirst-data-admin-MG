@@ -1,0 +1,61 @@
+{
+  "id": 1209229625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6,-15.2,49.6,-15.2",
+    "geom:latitude":-15.2,
+    "geom:longitude":49.6,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andaparaty",
+    "gn:country_code":"MG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076429,
+    "gn:latitude":-15.2,
+    "gn:longitude":49.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andaparaty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076429
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d34595f1df0ceda3376072c0263f2f36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209229625
+        }
+    ],
+    "wof:id":1209229625,
+    "wof:lastmodified":1536293679,
+    "wof:name":"Andaparaty",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6,
+    -15.2,
+    49.6,
+    -15.2
+],
+  "geometry": {"coordinates":[49.6,-15.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293311471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.33333,-23.4,45.33333,-23.4",
+    "geom:latitude":-23.4,
+    "geom:longitude":45.33333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampandravelo",
+    "gn:country_code":"MG",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078648,
+    "gn:latitude":-23.4,
+    "gn:longitude":45.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampandravelo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078648
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5d438256e07f37418a4da33d5639a71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1293311471,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1293311471,
+    "wof:lastmodified":1537039131,
+    "wof:name":"Ampandravelo",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.33333,
+    -23.4,
+    45.33333,
+    -23.4
+],
+  "geometry": {"coordinates":[45.33333,-23.4],"type":"Point"}
+}

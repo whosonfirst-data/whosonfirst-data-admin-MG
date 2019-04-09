@@ -1,0 +1,72 @@
+{
+  "id": 1277084857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83333,-22.11667,43.83333,-22.11667",
+    "geom:latitude":-22.11667,
+    "geom:longitude":43.83333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sihanaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056575,
+    "gn:latitude":-22.11667,
+    "gn:longitude":43.83333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sihanaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsianaka",
+        "Sihanaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056575
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"57d06c22ea086e1c2c3134f228799779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1277084857,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1277084857,
+    "wof:lastmodified":1537664592,
+    "wof:name":"Sihanaka",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83333,
+    -22.11667000000001,
+    43.83333,
+    -22.11667000000001
+],
+  "geometry": {"coordinates":[43.83333,-22.11667000000001],"type":"Point"}
+}

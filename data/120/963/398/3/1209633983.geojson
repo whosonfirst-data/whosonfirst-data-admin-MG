@@ -1,0 +1,66 @@
+{
+  "id": 1209633983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.83333,-16.5,48.83333,-16.5",
+    "geom:latitude":-16.5,
+    "geom:longitude":48.83333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antsatrananila",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069374,
+    "gn:latitude":-16.5,
+    "gn:longitude":48.83333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsatrananila",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsandramanila",
+        "Antsatrananila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069374
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b37d81c10e54d968bcabf192e1440c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209633983
+        }
+    ],
+    "wof:id":1209633983,
+    "wof:lastmodified":1537664706,
+    "wof:name":"Antsatrananila",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.83333,
+    -16.5,
+    48.83333,
+    -16.5
+],
+  "geometry": {"coordinates":[48.83333,-16.5],"type":"Point"}
+}

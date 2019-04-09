@@ -1,0 +1,67 @@
+{
+  "id": 1343672279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.31667,-22.01667,45.31667,-22.01667",
+    "geom:latitude":-22.01667,
+    "geom:longitude":45.31667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Terabaomiotaky",
+    "gn:country_code":"MG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055498,
+    "gn:latitude":-22.01667,
+    "gn:longitude":45.31667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Terabaomiotaky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055498
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c0d40f59274016cd00a2094ef04fae20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1343672279,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1343672279,
+    "wof:lastmodified":1536938656,
+    "wof:name":"Terabaomiotaky",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.31667,
+    -22.01667,
+    45.31667,
+    -22.01667
+],
+  "geometry": {"coordinates":[45.31667,-22.01667],"type":"Point"}
+}

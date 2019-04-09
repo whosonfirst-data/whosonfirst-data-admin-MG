@@ -1,0 +1,68 @@
+{
+  "id": 1343272495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.73333,-14.06667,49.73333,-14.06667",
+    "geom:latitude":-14.06667,
+    "geom:longitude":49.73333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Anjialava",
+    "gn:country_code":"MG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073596,
+    "gn:latitude":-14.06667,
+    "gn:longitude":49.73333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjialava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073596,
+        "wk:page":"Anjialava"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cfde54342ac7ec500b7b52525331afdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1343272495,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1343272495,
+    "wof:lastmodified":1537568365,
+    "wof:name":"Anjialava",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.73333,
+    -14.06667,
+    49.73333,
+    -14.06667
+],
+  "geometry": {"coordinates":[49.73333,-14.06667],"type":"Point"}
+}

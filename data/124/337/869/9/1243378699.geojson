@@ -1,0 +1,61 @@
+{
+  "id": 1243378699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6,-14.53333,47.6,-14.53333",
+    "geom:latitude":-14.53333,
+    "geom:longitude":47.6,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maison de force",
+    "gn:country_code":"MG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061904,
+    "gn:latitude":-14.53333,
+    "gn:longitude":47.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Maison de force",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061904
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"05c54dc0e685186a56e16ce3f94c33aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243378699,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243378699,
+    "wof:lastmodified":1536903358,
+    "wof:name":"Maison de force",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6,
+    -14.53333,
+    47.6,
+    -14.53333
+],
+  "geometry": {"coordinates":[47.6,-14.53333],"type":"Point"}
+}

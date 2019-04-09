@@ -1,0 +1,72 @@
+{
+  "id": 1327246421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45,-24.78333,46.45,-24.78333",
+    "geom:latitude":-24.78333,
+    "geom:longitude":46.45,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Amboasarikely",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081835,
+    "gn:latitude":-24.78333,
+    "gn:longitude":46.45,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Amboasarikely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amboasanikely",
+        "Amboasarikely"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081835
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"131719ab60928cb3711227cb14202ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1327246421,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1327246421,
+    "wof:lastmodified":1537664806,
+    "wof:name":"Amboasarikely",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45,
+    -24.78333,
+    46.45,
+    -24.78333
+],
+  "geometry": {"coordinates":[46.45,-24.78333],"type":"Point"}
+}

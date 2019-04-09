@@ -1,0 +1,63 @@
+{
+  "id": 1226057917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.15,-14.01667,50.15,-14.01667",
+    "geom:latitude":-14.01667,
+    "geom:longitude":50.15,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mahanara",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062569,
+    "gn:latitude":-14.01667,
+    "gn:longitude":50.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahanara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062569
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b2d6e2f16c6c96f3be27b2b497a0bb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226057917,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226057917,
+    "wof:lastmodified":1536707838,
+    "wof:name":"Mahanara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.15,
+    -14.01667,
+    50.15,
+    -14.01667
+],
+  "geometry": {"coordinates":[50.15,-14.01667],"type":"Point"}
+}

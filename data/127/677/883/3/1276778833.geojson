@@ -1,0 +1,72 @@
+{
+  "id": 1276778833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1,-20.98333,46.1,-20.98333",
+    "geom:latitude":-20.98333,
+    "geom:longitude":46.1,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambava",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082470,
+    "gn:latitude":-20.98333,
+    "gn:longitude":46.1,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambavaha",
+        "Ambava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082470
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"36f5be14c03635554675fad9774f1aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801153,
+            "locality_id":1276778833,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1276778833,
+    "wof:lastmodified":1537664813,
+    "wof:name":"Ambava",
+    "wof:parent_id":1108801153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1,
+    -20.98333,
+    46.1,
+    -20.98333
+],
+  "geometry": {"coordinates":[46.1,-20.98333],"type":"Point"}
+}

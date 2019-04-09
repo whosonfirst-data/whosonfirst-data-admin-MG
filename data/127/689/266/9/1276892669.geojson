@@ -1,0 +1,72 @@
+{
+  "id": 1276892669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96667,-18.36667,48.96667,-18.36667",
+    "geom:latitude":-18.36667,
+    "geom:longitude":48.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Anjahamana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073816,
+    "gn:latitude":-18.36667,
+    "gn:longitude":48.96667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anjahamana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anjahamaina",
+        "Anjahamana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073816
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"409a6ddd999f3ce05b54ce40b7f4b93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801145,
+            "locality_id":1276892669,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1276892669,
+    "wof:lastmodified":1537664747,
+    "wof:name":"Anjahamana",
+    "wof:parent_id":1108801145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96667,
+    -18.36667000000001,
+    48.96667,
+    -18.36667000000001
+],
+  "geometry": {"coordinates":[48.96667,-18.36667000000001],"type":"Point"}
+}

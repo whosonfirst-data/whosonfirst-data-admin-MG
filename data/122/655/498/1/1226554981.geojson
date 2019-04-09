@@ -1,0 +1,72 @@
+{
+  "id": 1226554981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21667,-23.6,47.21667,-23.6",
+    "geom:latitude":-23.6,
+    "geom:longitude":47.21667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Imambe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064164,
+    "gn:latitude":-23.6,
+    "gn:longitude":47.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Imambe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imahabe",
+        "Imambe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064164
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9455fca3c7cc77c1eaa46f64288cb6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1226554981,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1226554981,
+    "wof:lastmodified":1537664653,
+    "wof:name":"Imambe",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21667,
+    -23.6,
+    47.21667,
+    -23.6
+],
+  "geometry": {"coordinates":[47.21667,-23.6],"type":"Point"}
+}

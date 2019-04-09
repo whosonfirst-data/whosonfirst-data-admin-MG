@@ -1,0 +1,61 @@
+{
+  "id": 1209534461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71667,-20.05,48.71667,-20.05",
+    "geom:latitude":-20.05,
+    "geom:longitude":48.71667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Benavony",
+    "gn:country_code":"MG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067157,
+    "gn:latitude":-20.05,
+    "gn:longitude":48.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Benavony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067157
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4ed7fab89cb45527e00071049f2a5c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209534461
+        }
+    ],
+    "wof:id":1209534461,
+    "wof:lastmodified":1536284182,
+    "wof:name":"Benavony",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71667,
+    -20.05,
+    48.71667,
+    -20.05
+],
+  "geometry": {"coordinates":[48.71667,-20.05],"type":"Point"}
+}

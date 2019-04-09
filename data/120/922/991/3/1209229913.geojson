@@ -1,0 +1,62 @@
+{
+  "id": 1209229913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,-18.61667,48.03333,-18.61667",
+    "geom:latitude":-18.61667,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mandialaza",
+    "gn:country_code":"MG",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061103,
+    "gn:latitude":-18.61667,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mandialaza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061103,
+        "wk:page":"Mandialaza"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f12646ed986996814d3d435484355d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209229913
+        }
+    ],
+    "wof:id":1209229913,
+    "wof:lastmodified":1537568345,
+    "wof:name":"Mandialaza",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    -18.61667000000001,
+    48.03333,
+    -18.61667000000001
+],
+  "geometry": {"coordinates":[48.03333,-18.61667000000001],"type":"Point"}
+}

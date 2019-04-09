@@ -1,0 +1,67 @@
+{
+  "id": 1242592565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73333,-16.63333,46.73333,-16.63333",
+    "geom:latitude":-16.63333,
+    "geom:longitude":46.73333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kapingo",
+    "gn:country_code":"MG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063665,
+    "gn:latitude":-16.63333,
+    "gn:longitude":46.73333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kapingo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063665
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4df09405e4fb9b8e8da7f5b49f820d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1242592565,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1242592565,
+    "wof:lastmodified":1537040297,
+    "wof:name":"Kapingo",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73333,
+    -16.63332999999999,
+    46.73333,
+    -16.63332999999999
+],
+  "geometry": {"coordinates":[46.73333,-16.63332999999999],"type":"Point"}
+}

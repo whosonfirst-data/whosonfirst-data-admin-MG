@@ -1,0 +1,73 @@
+{
+  "id": 1226758111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.26667,-18.43333,48.26667,-18.43333",
+    "geom:latitude":-18.43333,
+    "geom:longitude":48.26667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Amboasary-Gara",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081783,
+    "gn:latitude":-18.43333,
+    "gn:longitude":48.26667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Amboasary-Gara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amboasary",
+        "Amboasary-Gara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081783,
+        "wk:page":"Amboasary%2C_Moramanga"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"014abcbcfb30d62fcc44838ea466c747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1226758111,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1226758111,
+    "wof:lastmodified":1537664806,
+    "wof:name":"Amboasary-Gara",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.26667,
+    -18.43333,
+    48.26667,
+    -18.43333
+],
+  "geometry": {"coordinates":[48.26667,-18.43333],"type":"Point"}
+}

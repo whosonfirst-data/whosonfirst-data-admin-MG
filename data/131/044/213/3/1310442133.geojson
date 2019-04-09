@@ -1,0 +1,68 @@
+{
+  "id": 1310442133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.90553,-18.95873,46.90553,-18.95873",
+    "geom:latitude":-18.95873,
+    "geom:longitude":46.90553,
+    "gn:admin1_code":"7670855",
+    "gn:asciiname":"Miarinarivo",
+    "gn:country_code":"MG",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1059011,
+    "gn:latitude":-18.95873,
+    "gn:longitude":46.90553,
+    "gn:modification_date":"2013-05-06",
+    "gn:name":"Miarinarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421191751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059011,
+        "wk:page":"Miarinarivo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8dd967713448305c35c4da8325a08c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421191751,
+            "locality_id":1310442133,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1310442133,
+    "wof:lastmodified":1537568342,
+    "wof:name":"Miarinarivo",
+    "wof:parent_id":421191751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.90553,
+    -18.95873,
+    46.90553,
+    -18.95873
+],
+  "geometry": {"coordinates":[46.90553,-18.95873],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310511837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.28333,-13.3,49.28333,-13.3",
+    "geom:latitude":-13.3,
+    "geom:longitude":49.28333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fihety",
+    "gn:country_code":"MG",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064832,
+    "gn:latitude":-13.3,
+    "gn:longitude":49.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Fihety",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        421180171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064832
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ed00eaab6e03436109dc6f2d79c27033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421180171,
+            "locality_id":1310511837,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1310511837,
+    "wof:lastmodified":1536907953,
+    "wof:name":"Fihety",
+    "wof:parent_id":421180171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.28333,
+    -13.3,
+    49.28333,
+    -13.3
+],
+  "geometry": {"coordinates":[49.28333,-13.3],"type":"Point"}
+}

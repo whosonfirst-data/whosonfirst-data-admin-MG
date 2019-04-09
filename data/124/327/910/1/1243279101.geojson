@@ -1,0 +1,67 @@
+{
+  "id": 1243279101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7,-19.38333,46.7,-19.38333",
+    "geom:latitude":-19.38333,
+    "geom:longitude":46.7,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kianjanarivo",
+    "gn:country_code":"MG",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063542,
+    "gn:latitude":-19.38333,
+    "gn:longitude":46.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kianjanarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421200821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063542
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"18df4e842bd5143729569ca098840dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421200821,
+            "locality_id":1243279101,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1243279101,
+    "wof:lastmodified":1537044816,
+    "wof:name":"Kianjanarivo",
+    "wof:parent_id":421200821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7,
+    -19.38333,
+    46.7,
+    -19.38333
+],
+  "geometry": {"coordinates":[46.7,-19.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259698831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.53333,-17.63333,48.53333,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":48.53333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andreba",
+    "gn:country_code":"MG",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074492,
+    "gn:latitude":-17.63333,
+    "gn:longitude":48.53333,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Andreba",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074492
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0c572ada860b348613451fa9ab69c915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801081,
+            "locality_id":1259698831,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1259698831,
+    "wof:lastmodified":1537043046,
+    "wof:name":"Andreba",
+    "wof:parent_id":1108801081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.53333,
+    -17.63332999999999,
+    48.53333,
+    -17.63332999999999
+],
+  "geometry": {"coordinates":[48.53333,-17.63332999999999],"type":"Point"}
+}

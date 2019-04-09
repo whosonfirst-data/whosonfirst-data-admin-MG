@@ -1,0 +1,67 @@
+{
+  "id": 1259994875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1,-23.55,45.1,-23.55",
+    "geom:latitude":-23.55,
+    "geom:longitude":45.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mavohazo",
+    "gn:country_code":"MG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059252,
+    "gn:latitude":-23.55,
+    "gn:longitude":45.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mavohazo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059252
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d7bd4ddc337e799fce2828c727e69b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801135,
+            "locality_id":1259994875,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259994875,
+    "wof:lastmodified":1536616365,
+    "wof:name":"Mavohazo",
+    "wof:parent_id":1108801135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1,
+    -23.55,
+    45.1,
+    -23.55
+],
+  "geometry": {"coordinates":[45.1,-23.55],"type":"Point"}
+}

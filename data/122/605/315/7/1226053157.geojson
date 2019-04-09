@@ -1,0 +1,67 @@
+{
+  "id": 1226053157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.75,-14.71667,49.75,-14.71667",
+    "geom:latitude":-14.71667,
+    "geom:longitude":49.75,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambohibory",
+    "gn:country_code":"MG",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080588,
+    "gn:latitude":-14.71667,
+    "gn:longitude":49.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohibory",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        1108801095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080588
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5cc7213b39d2b8a51c541d5a7b353647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801095,
+            "locality_id":1226053157,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1226053157,
+    "wof:lastmodified":1536714696,
+    "wof:name":"Ambohibory",
+    "wof:parent_id":1108801095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.75,
+    -14.71667,
+    49.75,
+    -14.71667
+],
+  "geometry": {"coordinates":[49.75,-14.71667],"type":"Point"}
+}

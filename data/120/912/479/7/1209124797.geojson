@@ -1,0 +1,66 @@
+{
+  "id": 1209124797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33333,-23.21667,46.33333,-23.21667",
+    "geom:latitude":-23.21667,
+    "geom:longitude":46.33333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambondro II",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079328,
+    "gn:latitude":-23.21667,
+    "gn:longitude":46.33333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambondro II",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambondro",
+        "Ambondro II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079328
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0eb84f35c2a9c1f9c7704d3343395f81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209124797
+        }
+    ],
+    "wof:id":1209124797,
+    "wof:lastmodified":1537664788,
+    "wof:name":"Ambondro II",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33333,
+    -23.21667,
+    46.33333,
+    -23.21667
+],
+  "geometry": {"coordinates":[46.33333,-23.21667],"type":"Point"}
+}

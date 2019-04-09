@@ -1,0 +1,72 @@
+{
+  "id": 1276888681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11667,-24.05,46.11667,-24.05",
+    "geom:latitude":-24.05,
+    "geom:longitude":46.11667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampiriky",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077771,
+    "gn:latitude":-24.05,
+    "gn:longitude":46.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampiriky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampirika",
+        "Ampiriky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077771
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"09c57aa38d46b43b2e4f06f0c4851779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1276888681,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1276888681,
+    "wof:lastmodified":1537664777,
+    "wof:name":"Ampiriky",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11667,
+    -24.05,
+    46.11667,
+    -24.05
+],
+  "geometry": {"coordinates":[46.11667,-24.05],"type":"Point"}
+}

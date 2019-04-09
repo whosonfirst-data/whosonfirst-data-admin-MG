@@ -1,0 +1,67 @@
+{
+  "id": 1309813999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3,-23.16667,47.3,-23.16667",
+    "geom:latitude":-23.16667,
+    "geom:longitude":47.3,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Volosira",
+    "gn:country_code":"MG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053544,
+    "gn:latitude":-23.16667,
+    "gn:longitude":47.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Volosira",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053544
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"42621775c9106d600c3d99f4d9bea375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1309813999,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1309813999,
+    "wof:lastmodified":1536919778,
+    "wof:name":"Volosira",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3,
+    -23.16667,
+    47.3,
+    -23.16667
+],
+  "geometry": {"coordinates":[47.3,-23.16667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327250011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.31667,-12.53333,49.31667,-12.53333",
+    "geom:latitude":-12.53333,
+    "geom:longitude":49.31667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antanimenamienjanembany",
+    "gn:country_code":"MG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070500,
+    "gn:latitude":-12.53333,
+    "gn:longitude":49.31667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanimenamienjanembany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070500
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9636f2d7205d6dfcf2c1052f33aac2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1327250011,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1327250011,
+    "wof:lastmodified":1536944586,
+    "wof:name":"Antanimenamienjanembany",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.31667,
+    -12.53333,
+    49.31667,
+    -12.53333
+],
+  "geometry": {"coordinates":[49.31667,-12.53333],"type":"Point"}
+}

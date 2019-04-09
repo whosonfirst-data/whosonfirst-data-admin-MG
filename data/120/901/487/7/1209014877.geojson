@@ -1,0 +1,62 @@
+{
+  "id": 1209014877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36667,-18.85,48.36667,-18.85",
+    "geom:latitude":-18.85,
+    "geom:longitude":48.36667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antaniditra",
+    "gn:country_code":"MG",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070682,
+    "gn:latitude":-18.85,
+    "gn:longitude":48.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antaniditra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070682,
+        "wk:page":"Antaniditra"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"47153d0acc72ff717b144916a4387181",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209014877
+        }
+    ],
+    "wof:id":1209014877,
+    "wof:lastmodified":1537568361,
+    "wof:name":"Antaniditra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36667,
+    -18.85,
+    48.36667,
+    -18.85
+],
+  "geometry": {"coordinates":[48.36667,-18.85],"type":"Point"}
+}

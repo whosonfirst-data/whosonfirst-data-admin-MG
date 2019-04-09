@@ -1,0 +1,72 @@
+{
+  "id": 1276354897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.06667,-15.9,50.06667,-15.9",
+    "geom:latitude":-15.9,
+    "geom:longitude":50.06667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rantranavona",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057830,
+    "gn:latitude":-15.9,
+    "gn:longitude":50.06667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Rantranavona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rontranavona",
+        "Rantranavona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421196875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057830
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"212da84fa14d52d8352ea37e637eaf4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421196875,
+            "locality_id":1276354897,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1276354897,
+    "wof:lastmodified":1537664603,
+    "wof:name":"Rantranavona",
+    "wof:parent_id":421196875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.06667,
+    -15.9,
+    50.06667,
+    -15.9
+],
+  "geometry": {"coordinates":[50.06667,-15.9],"type":"Point"}
+}

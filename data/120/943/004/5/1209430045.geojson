@@ -1,0 +1,61 @@
+{
+  "id": 1209430045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11667,-20.05,46.11667,-20.05",
+    "geom:latitude":-20.05,
+    "geom:longitude":46.11667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsiafamakamba",
+    "gn:country_code":"MG",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054960,
+    "gn:latitude":-20.05,
+    "gn:longitude":46.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsiafamakamba",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054960
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ff3f4f553ac7d34de92af5c557b1f098",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209430045
+        }
+    ],
+    "wof:id":1209430045,
+    "wof:lastmodified":1536287262,
+    "wof:name":"Tsiafamakamba",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11667,
+    -20.05,
+    46.11667,
+    -20.05
+],
+  "geometry": {"coordinates":[46.11667,-20.05],"type":"Point"}
+}

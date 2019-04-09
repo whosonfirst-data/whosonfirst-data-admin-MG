@@ -1,0 +1,67 @@
+{
+  "id": 1226762749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.78333,-15.3,47.78333,-15.3",
+    "geom:latitude":-15.3,
+    "geom:longitude":47.78333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodisikidy",
+    "gn:country_code":"MG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080938,
+    "gn:latitude":-15.3,
+    "gn:longitude":47.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodisikidy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080938
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9b2a582046f3f8767ea8bce017561e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801119,
+            "locality_id":1226762749,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1226762749,
+    "wof:lastmodified":1536691140,
+    "wof:name":"Ambodisikidy",
+    "wof:parent_id":1108801119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.78333,
+    -15.3,
+    47.78333,
+    -15.3
+],
+  "geometry": {"coordinates":[47.78333,-15.3],"type":"Point"}
+}

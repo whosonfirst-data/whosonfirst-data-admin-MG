@@ -1,0 +1,72 @@
+{
+  "id": 1293607687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.95,-15.73333,47.95,-15.73333",
+    "geom:latitude":-15.73333,
+    "geom:longitude":47.95,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Androamitsaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074307,
+    "gn:latitude":-15.73333,
+    "gn:longitude":47.95,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Androamitsaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Androimitsaka",
+        "Androamitsaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074307
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a203e24ac437170f0f9529c338281bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801201,
+            "locality_id":1293607687,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1293607687,
+    "wof:lastmodified":1537664750,
+    "wof:name":"Androamitsaka",
+    "wof:parent_id":1108801201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.95,
+    -15.73333,
+    47.95,
+    -15.73333
+],
+  "geometry": {"coordinates":[47.95,-15.73333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209121259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21667,-18.16667,45.21667,-18.16667",
+    "geom:latitude":-18.16667,
+    "geom:longitude":45.21667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beravina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066967,
+    "gn:latitude":-18.16667,
+    "gn:longitude":45.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Beravina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berovina",
+        "Beravina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066967
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ea42af38e0b50a4c80820d484eeb5ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209121259
+        }
+    ],
+    "wof:id":1209121259,
+    "wof:lastmodified":1537664682,
+    "wof:name":"Beravina",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21667,
+    -18.16667,
+    45.21667,
+    -18.16667
+],
+  "geometry": {"coordinates":[45.21667,-18.16667],"type":"Point"}
+}

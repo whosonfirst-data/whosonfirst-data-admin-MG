@@ -1,0 +1,72 @@
+{
+  "id": 1327040385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.28333,-12.16667,49.28333,-12.16667",
+    "geom:latitude":-12.16667,
+    "geom:longitude":49.28333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambinanililabe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082209,
+    "gn:latitude":-12.16667,
+    "gn:longitude":49.28333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambinanililabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambanilalana",
+        "Ambinanililabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082209
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6bb2cea200e0fca7aeca57adbed28e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1327040385,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1327040385,
+    "wof:lastmodified":1537664811,
+    "wof:name":"Ambinanililabe",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.28333,
+    -12.16667,
+    49.28333,
+    -12.16667
+],
+  "geometry": {"coordinates":[49.28333,-12.16667],"type":"Point"}
+}

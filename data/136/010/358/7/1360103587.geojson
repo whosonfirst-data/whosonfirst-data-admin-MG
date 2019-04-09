@@ -1,0 +1,67 @@
+{
+  "id": 1360103587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86667,-25.2,44.86667,-25.2",
+    "geom:latitude":-25.2,
+    "geom:longitude":44.86667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Angirazato-Ankafotia",
+    "gn:country_code":"MG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073972,
+    "gn:latitude":-25.2,
+    "gn:longitude":44.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Angirazato-Ankafotia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073972
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"773bfbc7199bcad9cdd66d978a640800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1360103587,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1360103587,
+    "wof:lastmodified":1536919540,
+    "wof:name":"Angirazato-Ankafotia",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86667,
+    -25.2,
+    44.86667,
+    -25.2
+],
+  "geometry": {"coordinates":[44.86667,-25.2],"type":"Point"}
+}

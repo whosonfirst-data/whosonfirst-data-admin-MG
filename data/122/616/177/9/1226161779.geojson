@@ -1,0 +1,67 @@
+{
+  "id": 1226161779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56667,-19.08333,44.56667,-19.08333",
+    "geom:latitude":-19.08333,
+    "geom:longitude":44.56667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Betanantanana",
+    "gn:country_code":"MG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066400,
+    "gn:latitude":-19.08333,
+    "gn:longitude":44.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betanantanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        421199279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066400
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"233d3d69f436b900ed129fa0f188c49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199279,
+            "locality_id":1226161779,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1226161779,
+    "wof:lastmodified":1537052368,
+    "wof:name":"Betanantanana",
+    "wof:parent_id":421199279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56667,
+    -19.08333,
+    44.56667,
+    -19.08333
+],
+  "geometry": {"coordinates":[44.56667,-19.08333],"type":"Point"}
+}

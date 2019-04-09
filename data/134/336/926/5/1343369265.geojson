@@ -1,0 +1,67 @@
+{
+  "id": 1343369265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.78333,-14.1,49.78333,-14.1",
+    "geom:latitude":-14.1,
+    "geom:longitude":49.78333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsaravilona",
+    "gn:country_code":"MG",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055016,
+    "gn:latitude":-14.1,
+    "gn:longitude":49.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsaravilona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055016
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cee15205aeb04634de8596942339bf0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1343369265,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1343369265,
+    "wof:lastmodified":1536876849,
+    "wof:name":"Tsaravilona",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.78333,
+    -14.1,
+    49.78333,
+    -14.1
+],
+  "geometry": {"coordinates":[49.78333,-14.1],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276892561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.06667,-15.88333,48.06667,-15.88333",
+    "geom:latitude":-15.88333,
+    "geom:longitude":48.06667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mahizina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061958,
+    "gn:latitude":-15.88333,
+    "gn:longitude":48.06667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mahizina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahaizina",
+        "Mahizina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061958
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"960610fe35297447c6f68a6a7d8f58ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801201,
+            "locality_id":1276892561,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1276892561,
+    "wof:lastmodified":1537664637,
+    "wof:name":"Mahizina",
+    "wof:parent_id":1108801201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.06667,
+    -15.88333,
+    48.06667,
+    -15.88333
+],
+  "geometry": {"coordinates":[48.06667,-15.88333],"type":"Point"}
+}

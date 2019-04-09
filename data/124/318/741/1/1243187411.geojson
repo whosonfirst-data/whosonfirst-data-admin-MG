@@ -1,0 +1,67 @@
+{
+  "id": 1243187411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.66667,-16.53333,46.66667,-16.53333",
+    "geom:latitude":-16.53333,
+    "geom:longitude":46.66667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodiana",
+    "gn:country_code":"MG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081680,
+    "gn:latitude":-16.53333,
+    "gn:longitude":46.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodiana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421175085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081680
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2b99e047ec601ef31b85527ae10c05bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175085,
+            "locality_id":1243187411,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1243187411,
+    "wof:lastmodified":1536681878,
+    "wof:name":"Ambodiana",
+    "wof:parent_id":421175085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.66667,
+    -16.53333,
+    46.66667,
+    -16.53333
+],
+  "geometry": {"coordinates":[46.66667,-16.53333],"type":"Point"}
+}

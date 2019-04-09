@@ -1,0 +1,77 @@
+{
+  "id": 1343693297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96667,-25.3,44.96667,-25.3",
+    "geom:latitude":-25.3,
+    "geom:longitude":44.96667,
+    "gn:admin1_code":"7670911.0",
+    "gn:asciiname":"Tranovaho",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055317,
+    "gn:latitude":-25.3,
+    "gn:longitude":44.96667,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Tranovaho",
+    "gn:population":13000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tranovako",
+        "Tranovoa",
+        "Tranovaho"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055317,
+        "wk:page":"Tranovaho"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"01efbee4f572897e8b7f42624ce799bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1343693297,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1343693297,
+    "wof:lastmodified":1537664579,
+    "wof:name":"Tranovaho",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:population":13000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96667,
+    -25.3,
+    44.96667,
+    -25.3
+],
+  "geometry": {"coordinates":[44.96667,-25.3],"type":"Point"}
+}

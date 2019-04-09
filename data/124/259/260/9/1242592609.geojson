@@ -1,0 +1,68 @@
+{
+  "id": 1242592609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3,-22.2,43.3,-22.2",
+    "geom:latitude":-22.2,
+    "geom:longitude":43.3,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankidranoka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072458,
+    "gn:latitude":-22.2,
+    "gn:longitude":43.3,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankidranoka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankindranoky",
+        "Ankidranoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072458
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8bd3cce45771a8c048ed3c3a132ac1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242592609,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242592609,
+    "wof:lastmodified":1537664736,
+    "wof:name":"Ankidranoka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3,
+    -22.2,
+    43.3,
+    -22.2
+],
+  "geometry": {"coordinates":[43.3,-22.2],"type":"Point"}
+}

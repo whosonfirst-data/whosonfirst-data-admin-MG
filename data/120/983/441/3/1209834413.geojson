@@ -1,0 +1,67 @@
+{
+  "id": 1209834413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13333,-19.96667,48.13333,-19.96667",
+    "geom:latitude":-19.96667,
+    "geom:longitude":48.13333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ankosy",
+    "gn:country_code":"MG",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071634,
+    "gn:latitude":-19.96667,
+    "gn:longitude":48.13333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankosy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071634
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d218a91ed3c4e5f945e246e09944155a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801189,
+            "locality_id":1209834413,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1209834413,
+    "wof:lastmodified":1536395542,
+    "wof:name":"Ankosy",
+    "wof:parent_id":1108801189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13333,
+    -19.96667,
+    48.13333,
+    -19.96667
+],
+  "geometry": {"coordinates":[48.13333,-19.96667],"type":"Point"}
+}

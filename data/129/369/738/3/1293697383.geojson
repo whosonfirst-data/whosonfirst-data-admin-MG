@@ -1,0 +1,72 @@
+{
+  "id": 1293697383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,-14.4,48.03333,-14.4",
+    "geom:latitude":-14.4,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antanandava II",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070861,
+    "gn:latitude":-14.4,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antanandava II",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antanandava",
+        "Antanandava II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070861
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"99d65fcec8db1b222b702a9ebf70a044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1293697383,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1293697383,
+    "wof:lastmodified":1537664721,
+    "wof:name":"Antanandava II",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    -14.4,
+    48.03333,
+    -14.4
+],
+  "geometry": {"coordinates":[48.03333,-14.4],"type":"Point"}
+}

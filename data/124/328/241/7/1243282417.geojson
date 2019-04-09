@@ -1,0 +1,67 @@
+{
+  "id": 1243282417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.43333,-16.63333,49.43333,-16.63333",
+    "geom:latitude":-16.63333,
+    "geom:longitude":49.43333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sasimanga",
+    "gn:country_code":"MG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056654,
+    "gn:latitude":-16.63333,
+    "gn:longitude":49.43333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sasimanga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056654
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"17f0dfebadd3e53f5f6fbc0da32db26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801207,
+            "locality_id":1243282417,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1243282417,
+    "wof:lastmodified":1537040286,
+    "wof:name":"Sasimanga",
+    "wof:parent_id":1108801207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.43333,
+    -16.63332999999999,
+    49.43333,
+    -16.63332999999999
+],
+  "geometry": {"coordinates":[49.43333,-16.63332999999999],"type":"Point"}
+}

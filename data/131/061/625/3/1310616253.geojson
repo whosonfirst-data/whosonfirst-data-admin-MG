@@ -1,0 +1,61 @@
+{
+  "id": 1310616253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25,-20.33333,44.25,-20.33333",
+    "geom:latitude":-20.33333,
+    "geom:longitude":44.25,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lovobe",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062967,
+    "gn:latitude":-20.33333,
+    "gn:longitude":44.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Lovobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062967
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3ef6fe90090db9c00b581c491719d7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310616253,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310616253,
+    "wof:lastmodified":1536757219,
+    "wof:name":"Lovobe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25,
+    -20.33333,
+    44.25,
+    -20.33333
+],
+  "geometry": {"coordinates":[44.25,-20.33333],"type":"Point"}
+}

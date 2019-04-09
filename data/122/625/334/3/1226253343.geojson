@@ -1,0 +1,67 @@
+{
+  "id": 1226253343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.03333,-13.68333,50.03333,-13.68333",
+    "geom:latitude":-13.68333,
+    "geom:longitude":50.03333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Analovana",
+    "gn:country_code":"MG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076867,
+    "gn:latitude":-13.68333,
+    "gn:longitude":50.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Analovana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076867
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c85dade5834de25270c32ccdccbfee1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1226253343,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1226253343,
+    "wof:lastmodified":1536923288,
+    "wof:name":"Analovana",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.03333,
+    -13.68333,
+    50.03333,
+    -13.68333
+],
+  "geometry": {"coordinates":[50.03333,-13.68333],"type":"Point"}
+}

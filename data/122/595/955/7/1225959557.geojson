@@ -1,0 +1,72 @@
+{
+  "id": 1225959557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.71667,-15.91667,49.71667,-15.91667",
+    "geom:latitude":-15.91667,
+    "geom:longitude":49.71667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tanambao-Tanjona",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055720,
+    "gn:latitude":-15.91667,
+    "gn:longitude":49.71667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tanambao-Tanjona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antanambao",
+        "Tanambao-Tanjona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        421189045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055720
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8dff734de26a2676af56810e8446fee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421189045,
+            "locality_id":1225959557,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1225959557,
+    "wof:lastmodified":1537664584,
+    "wof:name":"Tanambao-Tanjona",
+    "wof:parent_id":421189045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.71667,
+    -15.91667,
+    49.71667,
+    -15.91667
+],
+  "geometry": {"coordinates":[49.71667,-15.91667],"type":"Point"}
+}

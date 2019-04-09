@@ -1,0 +1,68 @@
+{
+  "id": 1260090583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25,-20.6,46.25,-20.6",
+    "geom:latitude":-20.6,
+    "geom:longitude":46.25,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amborompotsy",
+    "gn:country_code":"MG",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079134,
+    "gn:latitude":-20.6,
+    "gn:longitude":46.25,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Amborompotsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079134,
+        "wk:page":"Amborompotsy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0fd0a4ca8f79891eb08cd0ddc98dfd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1260090583,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1260090583,
+    "wof:lastmodified":1537568371,
+    "wof:name":"Amborompotsy",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25,
+    -20.6,
+    46.25,
+    -20.6
+],
+  "geometry": {"coordinates":[46.25,-20.6],"type":"Point"}
+}

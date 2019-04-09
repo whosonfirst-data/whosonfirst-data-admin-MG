@@ -1,0 +1,72 @@
+{
+  "id": 1293604357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45,-22.83333,44.45,-22.83333",
+    "geom:latitude":-22.83333,
+    "geom:longitude":44.45,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambahimalitsy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084641,
+    "gn:latitude":-22.83333,
+    "gn:longitude":44.45,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambahimalitsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambahimautsy",
+        "Ambahimalitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084641
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"296b8d2265f51f3b4d0fe4f49aacb0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1293604357,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293604357,
+    "wof:lastmodified":1537664829,
+    "wof:name":"Ambahimalitsy",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45,
+    -22.83333,
+    44.45,
+    -22.83333
+],
+  "geometry": {"coordinates":[44.45,-22.83333],"type":"Point"}
+}

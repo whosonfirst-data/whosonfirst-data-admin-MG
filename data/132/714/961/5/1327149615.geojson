@@ -1,0 +1,67 @@
+{
+  "id": 1327149615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.91667,-25.08333,45.91667,-25.08333",
+    "geom:latitude":-25.08333,
+    "geom:longitude":45.91667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mahatomotsy",
+    "gn:country_code":"MG",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062376,
+    "gn:latitude":-25.08333,
+    "gn:longitude":45.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahatomotsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062376
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5a3de35f08aa36e0cf02de7cedd8e615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1327149615,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1327149615,
+    "wof:lastmodified":1537085854,
+    "wof:name":"Mahatomotsy",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.91667,
+    -25.08333,
+    45.91667,
+    -25.08333
+],
+  "geometry": {"coordinates":[45.91667,-25.08333],"type":"Point"}
+}

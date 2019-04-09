@@ -1,0 +1,61 @@
+{
+  "id": 1209633963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91667,-13.18333,48.91667,-13.18333",
+    "geom:latitude":-13.18333,
+    "geom:longitude":48.91667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampasimaty",
+    "gn:country_code":"MG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078162,
+    "gn:latitude":-13.18333,
+    "gn:longitude":48.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasimaty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078162
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"48b6ac28b7a7aaeb6e9d7066e7aa453a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209633963
+        }
+    ],
+    "wof:id":1209633963,
+    "wof:lastmodified":1536281101,
+    "wof:name":"Ampasimaty",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91667,
+    -13.183329999999998,
+    48.91667,
+    -13.183329999999998
+],
+  "geometry": {"coordinates":[48.91667,-13.18333],"type":"Point"}
+}

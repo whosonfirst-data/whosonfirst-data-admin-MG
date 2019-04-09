@@ -1,0 +1,61 @@
+{
+  "id": 1209433377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.56667,-22.93333,45.56667,-22.93333",
+    "geom:latitude":-22.93333,
+    "geom:longitude":45.56667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambakoa-Ambinany",
+    "gn:country_code":"MG",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084538,
+    "gn:latitude":-22.93333,
+    "gn:longitude":45.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambakoa-\u00c1mbinany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084538
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4e9b1b3709389af98b18b2099ca9c3f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209433377
+        }
+    ],
+    "wof:id":1209433377,
+    "wof:lastmodified":1536287172,
+    "wof:name":"Ambakoa-Ambinany",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.56667,
+    -22.93333,
+    45.56667,
+    -22.93333
+],
+  "geometry": {"coordinates":[45.56667,-22.93333],"type":"Point"}
+}

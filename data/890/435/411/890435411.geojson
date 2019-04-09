@@ -1,0 +1,93 @@
+{
+  "id": 890435411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73333,-14.55,48.73333,-14.55",
+    "geom:latitude":-14.55,
+    "geom:longitude":48.73333,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":16948,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8c9d\u963f\u62c9\u7d0d\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Bealanana"
+    ],
+    "name:eng_x_preferred":[
+        "Bealanana"
+    ],
+    "name:fre_x_preferred":[
+        "Bealanana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30a2\u30ca\u30ca"
+    ],
+    "name:mlg_x_preferred":[
+        "Bealanana"
+    ],
+    "name:pol_x_preferred":[
+        "Bealanana"
+    ],
+    "name:spa_x_preferred":[
+        "Bealanana"
+    ],
+    "qs:name":"Bealanana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068670,
+        "gp:id":1359550,
+        "qs:id":1029654,
+        "wd:id":"Q2892817",
+        "wk:page":"Bealanana"
+    },
+    "wof:country":"MG",
+    "wof:created":1469052066,
+    "wof:geomhash":"073b57a369ba247884c4d26034ce97f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801123,
+            "locality_id":890435411,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":890435411,
+    "wof:lastmodified":1527793050,
+    "wof:name":"Bealanana",
+    "wof:parent_id":1108801123,
+    "wof:placetype":"locality",
+    "wof:population":16948,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73333,
+    -14.55,
+    48.73333,
+    -14.55
+],
+  "geometry": {"coordinates":[48.73333,-14.55],"type":"Point"}
+}

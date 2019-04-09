@@ -1,0 +1,67 @@
+{
+  "id": 1226057935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21667,-20.55,46.21667,-20.55",
+    "geom:latitude":-20.55,
+    "geom:longitude":46.21667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambodiala",
+    "gn:country_code":"MG",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081717,
+    "gn:latitude":-20.55,
+    "gn:longitude":46.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodiala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081717
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"93d05ec20497afb2b0364e259076cb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1226057935,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1226057935,
+    "wof:lastmodified":1536707812,
+    "wof:name":"Ambodiala",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21667,
+    -20.55,
+    46.21667,
+    -20.55
+],
+  "geometry": {"coordinates":[46.21667,-20.55],"type":"Point"}
+}

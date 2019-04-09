@@ -1,0 +1,72 @@
+{
+  "id": 1243282673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13333,-15.11667,49.13333,-15.11667",
+    "geom:latitude":-15.11667,
+    "geom:longitude":49.13333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambohisikidy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079932,
+    "gn:latitude":-15.11667,
+    "gn:longitude":49.13333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambohisikidy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambohitsikidy",
+        "Ambohisikidy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079932
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"48798af5702e2c6864a208ff64278887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1243282673,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1243282673,
+    "wof:lastmodified":1537664793,
+    "wof:name":"Ambohisikidy",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13333,
+    -15.11667,
+    49.13333,
+    -15.11667
+],
+  "geometry": {"coordinates":[49.13333,-15.11667],"type":"Point"}
+}

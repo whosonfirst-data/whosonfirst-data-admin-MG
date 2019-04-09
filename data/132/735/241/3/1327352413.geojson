@@ -1,0 +1,67 @@
+{
+  "id": 1327352413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.91667,-19.6,45.91667,-19.6",
+    "geom:latitude":-19.6,
+    "geom:longitude":45.91667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Besavoa",
+    "gn:country_code":"MG",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066632,
+    "gn:latitude":-19.6,
+    "gn:longitude":45.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Besavoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        1108801183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066632
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0bb76a70fc0efafecc1a0d3055a80caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801183,
+            "locality_id":1327352413,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1327352413,
+    "wof:lastmodified":1536796570,
+    "wof:name":"Besavoa",
+    "wof:parent_id":1108801183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.91667,
+    -19.6,
+    45.91667,
+    -19.6
+],
+  "geometry": {"coordinates":[45.91667,-19.6],"type":"Point"}
+}

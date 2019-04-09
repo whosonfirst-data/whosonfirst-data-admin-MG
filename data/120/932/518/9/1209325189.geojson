@@ -1,0 +1,66 @@
+{
+  "id": 1209325189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.51667,-19.71667,46.51667,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":46.51667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antsahabe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069903,
+    "gn:latitude":-19.71667,
+    "gn:longitude":46.51667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsahabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampoabe",
+        "Antsahabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069903
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6f5444aba3632ae684af051b974b7572",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209325189
+        }
+    ],
+    "wof:id":1209325189,
+    "wof:lastmodified":1537664711,
+    "wof:name":"Antsahabe",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.51667,
+    -19.71667,
+    46.51667,
+    -19.71667
+],
+  "geometry": {"coordinates":[46.51667,-19.71667],"type":"Point"}
+}

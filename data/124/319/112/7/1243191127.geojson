@@ -1,0 +1,72 @@
+{
+  "id": 1243191127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5,-23.8,45.5,-23.8",
+    "geom:latitude":-23.8,
+    "geom:longitude":45.5,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sakatsivoay",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057060,
+    "gn:latitude":-23.8,
+    "gn:longitude":45.5,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sakatsivoay",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakasavoay",
+        "Sakatsivoay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057060
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b2f2d43d1d939aba02433f41649babb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1243191127,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1243191127,
+    "wof:lastmodified":1537664597,
+    "wof:name":"Sakatsivoay",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5,
+    -23.8,
+    45.5,
+    -23.8
+],
+  "geometry": {"coordinates":[45.5,-23.8],"type":"Point"}
+}

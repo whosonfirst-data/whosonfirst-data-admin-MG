@@ -1,0 +1,61 @@
+{
+  "id": 1209116613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.48333,-17.75,48.48333,-17.75",
+    "geom:latitude":-17.75,
+    "geom:longitude":48.48333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antandrokomby",
+    "gn:country_code":"MG",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070800,
+    "gn:latitude":-17.75,
+    "gn:longitude":48.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antandrokomby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070800
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f1694655bb5a81848ab579e4dacec04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116613
+        }
+    ],
+    "wof:id":1209116613,
+    "wof:lastmodified":1536297232,
+    "wof:name":"Antandrokomby",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.48333,
+    -17.75,
+    48.48333,
+    -17.75
+],
+  "geometry": {"coordinates":[48.48333,-17.75],"type":"Point"}
+}

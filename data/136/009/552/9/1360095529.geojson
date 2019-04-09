@@ -1,0 +1,68 @@
+{
+  "id": 1360095529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71667,-22.03333,46.71667,-22.03333",
+    "geom:latitude":-22.03333,
+    "geom:longitude":46.71667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohitsaoka",
+    "gn:country_code":"MG",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053622,
+    "gn:latitude":-22.03333,
+    "gn:longitude":46.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohitsaoka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053622,
+        "wk:page":"Vohitsaoka"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b7ca91912102667d8055dc0dbee41fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171625,
+            "locality_id":1360095529,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1360095529,
+    "wof:lastmodified":1537568334,
+    "wof:name":"Vohitsaoka",
+    "wof:parent_id":421171625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71667,
+    -22.03333,
+    46.71667,
+    -22.03333
+],
+  "geometry": {"coordinates":[46.71667,-22.03333],"type":"Point"}
+}

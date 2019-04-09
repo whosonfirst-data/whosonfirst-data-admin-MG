@@ -1,0 +1,67 @@
+{
+  "id": 1310021057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.11667,-14.8,48.11667,-14.8",
+    "geom:latitude":-14.8,
+    "geom:longitude":48.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antambohitra",
+    "gn:country_code":"MG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071251,
+    "gn:latitude":-14.8,
+    "gn:longitude":48.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antambohitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071251
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"42098e4d94f3865b79b413a0ab13b90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801119,
+            "locality_id":1310021057,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1310021057,
+    "wof:lastmodified":1536618673,
+    "wof:name":"Antambohitra",
+    "wof:parent_id":1108801119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.11667,
+    -14.8,
+    48.11667,
+    -14.8
+],
+  "geometry": {"coordinates":[48.11667,-14.8],"type":"Point"}
+}

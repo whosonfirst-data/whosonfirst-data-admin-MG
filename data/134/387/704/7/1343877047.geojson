@@ -1,0 +1,67 @@
+{
+  "id": 1343877047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.68333,-20.96667,47.68333,-20.96667",
+    "geom:latitude":-20.96667,
+    "geom:longitude":47.68333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Faliarivo",
+    "gn:country_code":"MG",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065296,
+    "gn:latitude":-20.96667,
+    "gn:longitude":47.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Faliarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421197047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065296
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c6c5793c24aa017e133ebc5c549fb3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421197047,
+            "locality_id":1343877047,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1343877047,
+    "wof:lastmodified":1536641875,
+    "wof:name":"Faliarivo",
+    "wof:parent_id":421197047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.68333,
+    -20.96667,
+    47.68333,
+    -20.96667
+],
+  "geometry": {"coordinates":[47.68333,-20.96667],"type":"Point"}
+}

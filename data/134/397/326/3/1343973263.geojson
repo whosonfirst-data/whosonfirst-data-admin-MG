@@ -1,0 +1,72 @@
+{
+  "id": 1343973263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65,-18.75,47.65,-18.75",
+    "geom:latitude":-18.75,
+    "geom:longitude":47.65,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Talata-Volonondry",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055985,
+    "gn:latitude":-18.75,
+    "gn:longitude":47.65,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Talata-Volonondry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talaia",
+        "Talata-Volonondry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055985
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e57d3bad6c7531c49db203822f4c3606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801111,
+            "locality_id":1343973263,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1343973263,
+    "wof:lastmodified":1537664586,
+    "wof:name":"Talata-Volonondry",
+    "wof:parent_id":1108801111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65,
+    -18.75,
+    47.65,
+    -18.75
+],
+  "geometry": {"coordinates":[47.65,-18.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310024327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58333,-16.15,46.58333,-16.15",
+    "geom:latitude":-16.15,
+    "geom:longitude":46.58333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bevakiloha",
+    "gn:country_code":"MG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066049,
+    "gn:latitude":-16.15,
+    "gn:longitude":46.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bevakiloha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421183933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066049
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9f58a455423cd88dd9b84f50684eee1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183933,
+            "locality_id":1310024327,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1310024327,
+    "wof:lastmodified":1536613784,
+    "wof:name":"Bevakiloha",
+    "wof:parent_id":421183933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58333,
+    -16.15,
+    46.58333,
+    -16.15
+],
+  "geometry": {"coordinates":[46.58333,-16.15],"type":"Point"}
+}

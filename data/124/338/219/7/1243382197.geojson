@@ -1,0 +1,73 @@
+{
+  "id": 1243382197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95,-24.11667,46.95,-24.11667",
+    "geom:latitude":-24.11667,
+    "geom:longitude":46.95,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Amboraka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079190,
+    "gn:latitude":-24.11667,
+    "gn:longitude":46.95,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Amboraka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amboroko",
+        "Amboraky",
+        "Amboraka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079190
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"45bfdd76734986fd6e26e756702ee8f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1243382197,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1243382197,
+    "wof:lastmodified":1537664787,
+    "wof:name":"Amboraka",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95,
+    -24.11667000000001,
+    46.95,
+    -24.11667000000001
+],
+  "geometry": {"coordinates":[46.95,-24.11667000000001],"type":"Point"}
+}

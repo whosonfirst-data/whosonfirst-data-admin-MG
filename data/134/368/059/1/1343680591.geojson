@@ -1,0 +1,72 @@
+{
+  "id": 1343680591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75,-19.66667,48.75,-19.66667",
+    "geom:latitude":-19.66667,
+    "geom:longitude":48.75,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Niarovana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058192,
+    "gn:latitude":-19.66667,
+    "gn:longitude":48.75,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Niarovana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niarovana Vohimisaingo",
+        "Niarovana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        421184617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058192
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c77863ed379dd9a8c4b30e7b7e9efde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184617,
+            "locality_id":1343680591,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1343680591,
+    "wof:lastmodified":1537664605,
+    "wof:name":"Niarovana",
+    "wof:parent_id":421184617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75,
+    -19.66667,
+    48.75,
+    -19.66667
+],
+  "geometry": {"coordinates":[48.75,-19.66667],"type":"Point"}
+}

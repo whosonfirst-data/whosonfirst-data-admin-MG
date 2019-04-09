@@ -1,0 +1,67 @@
+{
+  "id": 1327352381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91667,-24.01667,46.91667,-24.01667",
+    "geom:latitude":-24.01667,
+    "geom:longitude":46.91667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ampitonoamboro",
+    "gn:country_code":"MG",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077669,
+    "gn:latitude":-24.01667,
+    "gn:longitude":46.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampitonoamboro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077669
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"88ef814fec192442e57c1e6cb74da908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1327352381,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1327352381,
+    "wof:lastmodified":1536796614,
+    "wof:name":"Ampitonoamboro",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91667,
+    -24.01667,
+    46.91667,
+    -24.01667
+],
+  "geometry": {"coordinates":[46.91667,-24.01667],"type":"Point"}
+}

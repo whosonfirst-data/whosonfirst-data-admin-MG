@@ -1,0 +1,67 @@
+{
+  "id": 1343680597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7,-16.23333,45.7,-16.23333",
+    "geom:latitude":-16.23333,
+    "geom:longitude":45.7,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bekitrobaka",
+    "gn:country_code":"MG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067913,
+    "gn:latitude":-16.23333,
+    "gn:longitude":45.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bekitrobaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        1108801193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067913
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4fa4304122a5d2d3a91ebd96ff78aeea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801193,
+            "locality_id":1343680597,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1343680597,
+    "wof:lastmodified":1536926706,
+    "wof:name":"Bekitrobaka",
+    "wof:parent_id":1108801193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7,
+    -16.23333,
+    45.7,
+    -16.23333
+],
+  "geometry": {"coordinates":[45.7,-16.23333],"type":"Point"}
+}

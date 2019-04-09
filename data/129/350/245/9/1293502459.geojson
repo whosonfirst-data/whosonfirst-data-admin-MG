@@ -1,0 +1,67 @@
+{
+  "id": 1293502459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65,-23.33333,43.65,-23.33333",
+    "geom:latitude":-23.33333,
+    "geom:longitude":43.65,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsongobory",
+    "gn:country_code":"MG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054383,
+    "gn:latitude":-23.33333,
+    "gn:longitude":43.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsongobory",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054383
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"998c38129a6e379a86e41717f8afb47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188097,
+            "locality_id":1293502459,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293502459,
+    "wof:lastmodified":1536765760,
+    "wof:name":"Tsongobory",
+    "wof:parent_id":421188097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65,
+    -23.33333,
+    43.65,
+    -23.33333
+],
+  "geometry": {"coordinates":[43.65,-23.33333],"type":"Point"}
+}

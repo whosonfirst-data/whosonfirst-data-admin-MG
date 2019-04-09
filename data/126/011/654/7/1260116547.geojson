@@ -1,0 +1,76 @@
+{
+  "id": 1260116547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1,-16.66667,46.1,-16.66667",
+    "geom:latitude":-16.66667,
+    "geom:longitude":46.1,
+    "gn:admin1_code":"7670849.0",
+    "gn:asciiname":"Sitampiky",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056531,
+    "gn:latitude":-16.66667,
+    "gn:longitude":46.1,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Sitampiky",
+    "gn:population":21000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitampiki",
+        "Sitampiky"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421175085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056531,
+        "wk:page":"Sitampiky"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c1994694aa9e2b50f0fccdb178b56ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175085,
+            "locality_id":1260116547,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1260116547,
+    "wof:lastmodified":1537664592,
+    "wof:name":"Sitampiky",
+    "wof:parent_id":421175085,
+    "wof:placetype":"locality",
+    "wof:population":21000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1,
+    -16.66667,
+    46.1,
+    -16.66667
+],
+  "geometry": {"coordinates":[46.1,-16.66667],"type":"Point"}
+}

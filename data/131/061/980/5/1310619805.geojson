@@ -1,0 +1,61 @@
+{
+  "id": 1310619805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.28333,-22.58333,43.28333,-22.58333",
+    "geom:latitude":-22.58333,
+    "geom:longitude":43.28333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Salary Avaratra",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056958,
+    "gn:latitude":-22.58333,
+    "gn:longitude":43.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Salary Avaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056958
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dafe38c63c02d45b6485158fde2e663f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310619805,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310619805,
+    "wof:lastmodified":1536751995,
+    "wof:name":"Salary Avaratra",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.28333,
+    -22.58333,
+    43.28333,
+    -22.58333
+],
+  "geometry": {"coordinates":[43.28333,-22.58333],"type":"Point"}
+}

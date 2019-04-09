@@ -1,0 +1,72 @@
+{
+  "id": 1327149499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,-19.06667,47.66667,-19.06667",
+    "geom:latitude":-19.06667,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ankadinandriana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073399,
+    "gn:latitude":-19.06667,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankadinandriana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankadinadriana",
+        "Ankadinandriana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073399
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e5952ad4045e05ff988bae51c4737eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801111,
+            "locality_id":1327149499,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1327149499,
+    "wof:lastmodified":1537664743,
+    "wof:name":"Ankadinandriana",
+    "wof:parent_id":1108801111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    -19.06667,
+    47.66667,
+    -19.06667
+],
+  "geometry": {"coordinates":[47.66667,-19.06667],"type":"Point"}
+}

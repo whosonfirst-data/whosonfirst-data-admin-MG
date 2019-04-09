@@ -1,0 +1,61 @@
+{
+  "id": 1260300515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1,-19.08333,49.1,-19.08333",
+    "geom:latitude":-19.08333,
+    "geom:longitude":49.1,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andrafia",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075750,
+    "gn:latitude":-19.08333,
+    "gn:longitude":49.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andrafia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075750
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d9d9ed4b42a22373ed986a8e76b056b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260300515,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260300515,
+    "wof:lastmodified":1536689033,
+    "wof:name":"Andrafia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1,
+    -19.08333,
+    49.1,
+    -19.08333
+],
+  "geometry": {"coordinates":[49.1,-19.08333],"type":"Point"}
+}

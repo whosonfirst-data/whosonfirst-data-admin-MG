@@ -1,0 +1,67 @@
+{
+  "id": 1243473043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01667,-21.3,46.01667,-21.3",
+    "geom:latitude":-21.3,
+    "geom:longitude":46.01667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsarabitsihy",
+    "gn:country_code":"MG",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055252,
+    "gn:latitude":-21.3,
+    "gn:longitude":46.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsarabitsihy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055252
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d6a8b0e46846d5d0316cc46138f2e944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801153,
+            "locality_id":1243473043,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1243473043,
+    "wof:lastmodified":1536767629,
+    "wof:name":"Tsarabitsihy",
+    "wof:parent_id":1108801153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01667,
+    -21.3,
+    46.01667,
+    -21.3
+],
+  "geometry": {"coordinates":[46.01667,-21.3],"type":"Point"}
+}

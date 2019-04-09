@@ -1,0 +1,74 @@
+{
+  "id": 1309916185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53333,-24.8,44.53333,-24.8",
+    "geom:latitude":-24.8,
+    "geom:longitude":44.53333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Etrobeke",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065344,
+    "gn:latitude":-24.8,
+    "gn:longitude":44.53333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Etrobeke",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itrobiky",
+        "Itrobeka",
+        "Etroboky",
+        "Etrobeke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065344
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a732b75c6f0c85513ae5679c5d92a4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1309916185,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1309916185,
+    "wof:lastmodified":1537664666,
+    "wof:name":"Etrobeke",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53333,
+    -24.8,
+    44.53333,
+    -24.8
+],
+  "geometry": {"coordinates":[44.53333,-24.8],"type":"Point"}
+}

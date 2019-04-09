@@ -1,0 +1,67 @@
+{
+  "id": 1327348767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9,-13.71667,47.9,-13.71667",
+    "geom:latitude":-13.71667,
+    "geom:longitude":47.9,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambariomena",
+    "gn:country_code":"MG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083430,
+    "gn:latitude":-13.71667,
+    "gn:longitude":47.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambariomena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083430
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"53c27fcde74b22231620c22d48de8937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801077,
+            "locality_id":1327348767,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1327348767,
+    "wof:lastmodified":1536801538,
+    "wof:name":"Ambariomena",
+    "wof:parent_id":1108801077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9,
+    -13.71667,
+    47.9,
+    -13.71667
+],
+  "geometry": {"coordinates":[47.9,-13.71667],"type":"Point"}
+}

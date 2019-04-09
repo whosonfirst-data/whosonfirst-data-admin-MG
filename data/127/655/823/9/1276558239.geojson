@@ -1,0 +1,67 @@
+{
+  "id": 1276558239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95,-20.3,46.95,-20.3",
+    "geom:latitude":-20.3,
+    "geom:longitude":46.95,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Andranovory",
+    "gn:country_code":"MG",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074631,
+    "gn:latitude":-20.3,
+    "gn:longitude":46.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranovory",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074631
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9c28c619962dfcce4002913d8bcdc0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1276558239,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1276558239,
+    "wof:lastmodified":1536974164,
+    "wof:name":"Andranovory",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95,
+    -20.3,
+    46.95,
+    -20.3
+],
+  "geometry": {"coordinates":[46.95,-20.3],"type":"Point"}
+}

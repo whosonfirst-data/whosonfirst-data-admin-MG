@@ -1,0 +1,67 @@
+{
+  "id": 1242788243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.55,-23.2,45.55,-23.2",
+    "geom:latitude":-23.2,
+    "geom:longitude":45.55,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sakaharo",
+    "gn:country_code":"MG",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057187,
+    "gn:latitude":-23.2,
+    "gn:longitude":45.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sakaharo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057187
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f564e457f0bb9ef060a409c2fe7f31f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1242788243,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1242788243,
+    "wof:lastmodified":1536760349,
+    "wof:name":"Sakaharo",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.55,
+    -23.2,
+    45.55,
+    -23.2
+],
+  "geometry": {"coordinates":[45.55,-23.2],"type":"Point"}
+}

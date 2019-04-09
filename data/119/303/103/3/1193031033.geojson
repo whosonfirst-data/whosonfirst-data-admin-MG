@@ -1,0 +1,67 @@
+{
+  "id": 1193031033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.85,-18.13333,47.85,-18.13333",
+    "geom:latitude":-18.13333,
+    "geom:longitude":47.85,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Andohala",
+    "gn:country_code":"MG",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076070,
+    "gn:latitude":-18.13333,
+    "gn:longitude":47.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andohala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076070
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6368f95fa892afe70c1fe78f55a25556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1193031033,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1193031033,
+    "wof:lastmodified":1536364229,
+    "wof:name":"Andohala",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.85,
+    -18.13333,
+    47.85,
+    -18.13333
+],
+  "geometry": {"coordinates":[47.85,-18.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226352901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.33333,-14.78333,49.33333,-14.78333",
+    "geom:latitude":-14.78333,
+    "geom:longitude":49.33333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodivohitra",
+    "gn:country_code":"MG",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080774,
+    "gn:latitude":-14.78333,
+    "gn:longitude":49.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodivohitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080774
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9d03349402753d96993b5b12f1b0b51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1226352901,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1226352901,
+    "wof:lastmodified":1536779574,
+    "wof:name":"Ambodivohitra",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.33333,
+    -14.78333,
+    49.33333,
+    -14.78333
+],
+  "geometry": {"coordinates":[49.33333,-14.78333],"type":"Point"}
+}

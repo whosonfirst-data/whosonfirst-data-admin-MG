@@ -1,0 +1,61 @@
+{
+  "id": 1209019547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.71667,-22.33333,47.71667,-22.33333",
+    "geom:latitude":-22.33333,
+    "geom:longitude":47.71667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sosobahy",
+    "gn:country_code":"MG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056078,
+    "gn:latitude":-22.33333,
+    "gn:longitude":47.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sosobahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056078
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"88db147bb67da48699c5b105146c4748",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209019547
+        }
+    ],
+    "wof:id":1209019547,
+    "wof:lastmodified":1536300187,
+    "wof:name":"Sosobahy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.71667,
+    -22.33333,
+    47.71667,
+    -22.33333
+],
+  "geometry": {"coordinates":[47.71667,-22.33333],"type":"Point"}
+}

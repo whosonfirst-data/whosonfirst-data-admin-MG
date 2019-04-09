@@ -1,0 +1,72 @@
+{
+  "id": 1225954803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28333,-22.33333,44.28333,-22.33333",
+    "geom:latitude":-22.33333,
+    "geom:longitude":44.28333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mamakiala Ambony",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061746,
+    "gn:latitude":-22.33333,
+    "gn:longitude":44.28333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mamakiala Ambony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namakia Haut",
+        "Mamakiala Ambony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061746
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"613445587641ac0e16bf8f3b9fe1b6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1225954803,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1225954803,
+    "wof:lastmodified":1537664636,
+    "wof:name":"Mamakiala Ambony",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28333,
+    -22.33333,
+    44.28333,
+    -22.33333
+],
+  "geometry": {"coordinates":[44.28333,-22.33333],"type":"Point"}
+}

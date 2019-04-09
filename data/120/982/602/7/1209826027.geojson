@@ -1,0 +1,67 @@
+{
+  "id": 1209826027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66667,-22.76667,45.66667,-22.76667",
+    "geom:latitude":-22.76667,
+    "geom:longitude":45.66667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iankara",
+    "gn:country_code":"MG",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064425,
+    "gn:latitude":-22.76667,
+    "gn:longitude":45.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Iankara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064425
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"addf4dd77cf3e0905231fe3b552976d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1209826027,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1209826027,
+    "wof:lastmodified":1536373598,
+    "wof:name":"Iankara",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66667,
+    -22.76667,
+    45.66667,
+    -22.76667
+],
+  "geometry": {"coordinates":[45.66667,-22.76667],"type":"Point"}
+}

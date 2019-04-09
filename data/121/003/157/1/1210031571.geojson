@@ -1,0 +1,72 @@
+{
+  "id": 1210031571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08333,-20.41667,45.08333,-20.41667",
+    "geom:latitude":-20.41667,
+    "geom:longitude":45.08333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampandramamy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078695,
+    "gn:latitude":-20.41667,
+    "gn:longitude":45.08333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampandramamy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampandramainy",
+        "Ampandramamy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078695
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2b1d86ba734d4e513d742aa8ef9e5044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801165,
+            "locality_id":1210031571,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1210031571,
+    "wof:lastmodified":1537664783,
+    "wof:name":"Ampandramamy",
+    "wof:parent_id":1108801165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08333,
+    -20.41667,
+    45.08333,
+    -20.41667
+],
+  "geometry": {"coordinates":[45.08333,-20.41667],"type":"Point"}
+}

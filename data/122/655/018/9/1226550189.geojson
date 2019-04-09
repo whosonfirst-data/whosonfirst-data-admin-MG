@@ -1,0 +1,67 @@
+{
+  "id": 1226550189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.63333,-24.93333,45.63333,-24.93333",
+    "geom:latitude":-24.93333,
+    "geom:longitude":45.63333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antanisoa",
+    "gn:country_code":"MG",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070435,
+    "gn:latitude":-24.93333,
+    "gn:longitude":45.63333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanisoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070435
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b9033f8d5c03470d2bcde290ad635361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1226550189,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1226550189,
+    "wof:lastmodified":1536990718,
+    "wof:name":"Antanisoa",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.63333,
+    -24.93333,
+    45.63333,
+    -24.93333
+],
+  "geometry": {"coordinates":[45.63333,-24.93333],"type":"Point"}
+}

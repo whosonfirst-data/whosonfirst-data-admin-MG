@@ -1,0 +1,68 @@
+{
+  "id": 1193155771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71667,-15.93333,48.71667,-15.93333",
+    "geom:latitude":-15.93333,
+    "geom:longitude":48.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amboaboa",
+    "gn:country_code":"MG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081971,
+    "gn:latitude":-15.93333,
+    "gn:longitude":48.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboaboa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081971,
+        "wk:page":"Amboaboa"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3530577ddc96c5e38a2313111ea3e046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801185,
+            "locality_id":1193155771,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1193155771,
+    "wof:lastmodified":1537568376,
+    "wof:name":"Amboaboa",
+    "wof:parent_id":1108801185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71667,
+    -15.93333,
+    48.71667,
+    -15.93333
+],
+  "geometry": {"coordinates":[48.71667,-15.93333],"type":"Point"}
+}

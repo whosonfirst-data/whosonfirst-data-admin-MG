@@ -1,0 +1,72 @@
+{
+  "id": 1344175581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23333,-15.85,46.23333,-15.85",
+    "geom:latitude":-15.85,
+    "geom:longitude":46.23333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saboany",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057710,
+    "gn:latitude":-15.85,
+    "gn:longitude":46.23333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Saboany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakoany",
+        "Saboany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        1108801193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057710
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"09c309eb27a3fe1770fc87d02c0d2f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801193,
+            "locality_id":1344175581,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1344175581,
+    "wof:lastmodified":1537664603,
+    "wof:name":"Saboany",
+    "wof:parent_id":1108801193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23333,
+    -15.85,
+    46.23333,
+    -15.85
+],
+  "geometry": {"coordinates":[46.23333,-15.85],"type":"Point"}
+}

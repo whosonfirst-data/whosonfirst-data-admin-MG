@@ -1,0 +1,67 @@
+{
+  "id": 1259898725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81667,-17.46667,48.81667,-17.46667",
+    "geom:latitude":-17.46667,
+    "geom:longitude":48.81667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampisarahana",
+    "gn:country_code":"MG",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077760,
+    "gn:latitude":-17.46667,
+    "gn:longitude":48.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampisarahana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077760
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"63f52a75e4bb128c046642760f831b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801081,
+            "locality_id":1259898725,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1259898725,
+    "wof:lastmodified":1536757285,
+    "wof:name":"Ampisarahana",
+    "wof:parent_id":1108801081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81667,
+    -17.46667,
+    48.81667,
+    -17.46667
+],
+  "geometry": {"coordinates":[48.81667,-17.46667],"type":"Point"}
+}

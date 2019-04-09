@@ -1,0 +1,67 @@
+{
+  "id": 1326548597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.98333,-19.26667,47.98333,-19.26667",
+    "geom:latitude":-19.26667,
+    "geom:longitude":47.98333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andapa",
+    "gn:country_code":"MG",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076445,
+    "gn:latitude":-19.26667,
+    "gn:longitude":47.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andapa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076445
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"48029800a1f795e252cbcb65fda02bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1326548597,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1326548597,
+    "wof:lastmodified":1536960337,
+    "wof:name":"Andapa",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.98333,
+    -19.26667,
+    47.98333,
+    -19.26667
+],
+  "geometry": {"coordinates":[47.98333,-19.26667],"type":"Point"}
+}

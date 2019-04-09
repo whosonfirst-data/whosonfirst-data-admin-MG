@@ -1,0 +1,67 @@
+{
+  "id": 1259502357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.53333,-14.18333,49.53333,-14.18333",
+    "geom:latitude":-14.18333,
+    "geom:longitude":49.53333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antafiambe",
+    "gn:country_code":"MG",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071355,
+    "gn:latitude":-14.18333,
+    "gn:longitude":49.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antafiambe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        1108801095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071355
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"de806656a0013f6657cf265768c6a9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801095,
+            "locality_id":1259502357,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1259502357,
+    "wof:lastmodified":1536830688,
+    "wof:name":"Antafiambe",
+    "wof:parent_id":1108801095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.53333,
+    -14.18333,
+    49.53333,
+    -14.18333
+],
+  "geometry": {"coordinates":[49.53333,-14.18333],"type":"Point"}
+}

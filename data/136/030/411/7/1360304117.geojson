@@ -1,0 +1,67 @@
+{
+  "id": 1360304117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.53333,-16.95,49.53333,-16.95",
+    "geom:latitude":-16.95,
+    "geom:longitude":49.53333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampasimbola",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078112,
+    "gn:latitude":-16.95,
+    "gn:longitude":49.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasimbola",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078112
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"db71138c18793e9396f1ccd95395b315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801207,
+            "locality_id":1360304117,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1360304117,
+    "wof:lastmodified":1536627908,
+    "wof:name":"Ampasimbola",
+    "wof:parent_id":1108801207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.53333,
+    -16.95,
+    49.53333,
+    -16.95
+],
+  "geometry": {"coordinates":[49.53333,-16.95],"type":"Point"}
+}

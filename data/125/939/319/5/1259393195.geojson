@@ -1,0 +1,67 @@
+{
+  "id": 1259393195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81667,-22.8,44.81667,-22.8",
+    "geom:latitude":-22.8,
+    "geom:longitude":44.81667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andoharimbo",
+    "gn:country_code":"MG",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075944,
+    "gn:latitude":-22.8,
+    "gn:longitude":44.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andoharimbo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075944
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d499bb9b18fea3fe383cdaaea60a2a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1259393195,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259393195,
+    "wof:lastmodified":1536987383,
+    "wof:name":"Andoharimbo",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81667,
+    -22.8,
+    44.81667,
+    -22.8
+],
+  "geometry": {"coordinates":[44.81667,-22.8],"type":"Point"}
+}

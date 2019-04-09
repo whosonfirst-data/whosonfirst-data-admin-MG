@@ -1,0 +1,73 @@
+{
+  "id": 1243082741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.05,-21.4,48.05,-21.4",
+    "geom:latitude":-21.4,
+    "geom:longitude":48.05,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antsenavolo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069339,
+    "gn:latitude":-21.4,
+    "gn:longitude":48.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsenavolo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsanavolo",
+        "Antsenavolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069339,
+        "wk:page":"Antsenavolo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8858edfebdfe2824576996b1177857db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1243082741,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1243082741,
+    "wof:lastmodified":1537664706,
+    "wof:name":"Antsenavolo",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.05,
+    -21.4,
+    48.05,
+    -21.4
+],
+  "geometry": {"coordinates":[48.05,-21.4],"type":"Point"}
+}

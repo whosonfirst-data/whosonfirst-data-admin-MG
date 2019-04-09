@@ -1,0 +1,67 @@
+{
+  "id": 1276778653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.81667,-22.6,47.81667,-22.6",
+    "geom:latitude":-22.6,
+    "geom:longitude":47.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Salohy",
+    "gn:country_code":"MG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056934,
+    "gn:latitude":-22.6,
+    "gn:longitude":47.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Salohy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056934
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c1ba561f718e498b5fb0ae74c72d9c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801147,
+            "locality_id":1276778653,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1276778653,
+    "wof:lastmodified":1536679100,
+    "wof:name":"Salohy",
+    "wof:parent_id":1108801147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.81667,
+    -22.6,
+    47.81667,
+    -22.6
+],
+  "geometry": {"coordinates":[47.81667,-22.6],"type":"Point"}
+}

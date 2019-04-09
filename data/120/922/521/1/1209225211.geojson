@@ -1,0 +1,61 @@
+{
+  "id": 1209225211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98333,-19.08333,46.98333,-19.08333",
+    "geom:latitude":-19.08333,
+    "geom:longitude":46.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Miadanimamo",
+    "gn:country_code":"MG",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059087,
+    "gn:latitude":-19.08333,
+    "gn:longitude":46.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Miadanimamo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059087
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f7a747a79ff1916619b17b35e6c52133",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209225211
+        }
+    ],
+    "wof:id":1209225211,
+    "wof:lastmodified":1536293820,
+    "wof:name":"Miadanimamo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98333,
+    -19.08333,
+    46.98333,
+    -19.08333
+],
+  "geometry": {"coordinates":[46.98333,-19.08333],"type":"Point"}
+}

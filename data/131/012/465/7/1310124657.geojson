@@ -1,0 +1,67 @@
+{
+  "id": 1310124657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81667,-19.8,48.81667,-19.8",
+    "geom:latitude":-19.8,
+    "geom:longitude":48.81667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambilabe",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082265,
+    "gn:latitude":-19.8,
+    "gn:longitude":48.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambilabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082265
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5cdaf6f45a6203dee0aaa7b7bcbc236b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801169,
+            "locality_id":1310124657,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1310124657,
+    "wof:lastmodified":1536968562,
+    "wof:name":"Ambilabe",
+    "wof:parent_id":1108801169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81667,
+    -19.8,
+    48.81667,
+    -19.8
+],
+  "geometry": {"coordinates":[48.81667,-19.8],"type":"Point"}
+}

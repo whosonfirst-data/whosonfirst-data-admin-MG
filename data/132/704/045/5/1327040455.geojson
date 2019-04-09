@@ -1,0 +1,68 @@
+{
+  "id": 1327040455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.59841,-20.34865,45.59841,-20.34865",
+    "geom:latitude":-20.34865,
+    "geom:longitude":45.59841,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Malaimbandy",
+    "gn:country_code":"MG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061831,
+    "gn:latitude":-20.34865,
+    "gn:longitude":45.59841,
+    "gn:modification_date":"2012-06-21",
+    "gn:name":"Malaimbandy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061831,
+        "wk:page":"Malaimbandy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6cb93a18602fbb6b614e0868432fa3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801165,
+            "locality_id":1327040455,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1327040455,
+    "wof:lastmodified":1537568347,
+    "wof:name":"Malaimbandy",
+    "wof:parent_id":1108801165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.59841,
+    -20.34865,
+    45.59841,
+    -20.34865
+],
+  "geometry": {"coordinates":[45.59841,-20.34865],"type":"Point"}
+}

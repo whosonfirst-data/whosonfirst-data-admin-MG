@@ -1,0 +1,61 @@
+{
+  "id": 1209233283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.88333,-16.88333,49.88333,-16.88333",
+    "geom:latitude":-16.88333,
+    "geom:longitude":49.88333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lokintsy",
+    "gn:country_code":"MG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063005,
+    "gn:latitude":-16.88333,
+    "gn:longitude":49.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Lokintsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063005
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a52c51be1ab90044b6d2426b5f56e557",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209233283
+        }
+    ],
+    "wof:id":1209233283,
+    "wof:lastmodified":1536293569,
+    "wof:name":"Lokintsy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.88333,
+    -16.883329999999994,
+    49.88333,
+    -16.883329999999994
+],
+  "geometry": {"coordinates":[49.88333,-16.88332999999999],"type":"Point"}
+}

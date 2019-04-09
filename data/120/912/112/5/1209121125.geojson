@@ -1,0 +1,61 @@
+{
+  "id": 1209121125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08333,-24.3,45.08333,-24.3",
+    "geom:latitude":-24.3,
+    "geom:longitude":45.08333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankilimalanga",
+    "gn:country_code":"MG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072279,
+    "gn:latitude":-24.3,
+    "gn:longitude":45.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankilimalanga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072279
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"82413119de6183d02fb900bc745b9491",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209121125
+        }
+    ],
+    "wof:id":1209121125,
+    "wof:lastmodified":1536297094,
+    "wof:name":"Ankilimalanga",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08333,
+    -24.3,
+    45.08333,
+    -24.3
+],
+  "geometry": {"coordinates":[45.08333,-24.3],"type":"Point"}
+}

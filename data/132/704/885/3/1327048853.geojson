@@ -1,0 +1,67 @@
+{
+  "id": 1327048853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5,-19.8,47.5,-19.8",
+    "geom:latitude":-19.8,
+    "geom:longitude":47.5,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Andohanilaka",
+    "gn:country_code":"MG",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076027,
+    "gn:latitude":-19.8,
+    "gn:longitude":47.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andohanilaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421184621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076027
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"84250c44001d085130331b90ef9e2489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184621,
+            "locality_id":1327048853,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1327048853,
+    "wof:lastmodified":1536736703,
+    "wof:name":"Andohanilaka",
+    "wof:parent_id":421184621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5,
+    -19.8,
+    47.5,
+    -19.8
+],
+  "geometry": {"coordinates":[47.5,-19.8],"type":"Point"}
+}

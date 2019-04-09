@@ -1,0 +1,73 @@
+{
+  "id": 1310416255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23333,-24.35,46.23333,-24.35",
+    "geom:latitude":-24.35,
+    "geom:longitude":46.23333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Besakoa Atsimo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066709,
+    "gn:latitude":-24.35,
+    "gn:longitude":46.23333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Besakoa Atsimo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basakoa",
+        "Besakoa Sud",
+        "Besakoa Atsimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066709
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7284fa030252c87a8149768a721e7725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1310416255,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1310416255,
+    "wof:lastmodified":1537664679,
+    "wof:name":"Besakoa Atsimo",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23333,
+    -24.35,
+    46.23333,
+    -24.35
+],
+  "geometry": {"coordinates":[46.23333,-24.35],"type":"Point"}
+}

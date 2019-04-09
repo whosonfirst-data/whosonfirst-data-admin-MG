@@ -1,0 +1,67 @@
+{
+  "id": 1209924697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46667,-19.63333,45.46667,-19.63333",
+    "geom:latitude":-19.63333,
+    "geom:longitude":45.46667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andoharano",
+    "gn:country_code":"MG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075983,
+    "gn:latitude":-19.63333,
+    "gn:longitude":45.46667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andoharano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075983
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cfc53335d4c12cebf9aa3df3b9ecc7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169603,
+            "locality_id":1209924697,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1209924697,
+    "wof:lastmodified":1536395422,
+    "wof:name":"Andoharano",
+    "wof:parent_id":421169603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46667,
+    -19.63333,
+    45.46667,
+    -19.63333
+],
+  "geometry": {"coordinates":[45.46667,-19.63333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226261359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,-13.16667,49.01667,-13.16667",
+    "geom:latitude":-13.16667,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Matsoborikilandy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059265,
+    "gn:latitude":-13.16667,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Matsoborikilandy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matsaborikilandy",
+        "Matsoborikilandy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        421180171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059265
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d934135b786c9cfd29a40fa1ba7150a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421180171,
+            "locality_id":1226261359,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1226261359,
+    "wof:lastmodified":1537664614,
+    "wof:name":"Matsoborikilandy",
+    "wof:parent_id":421180171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    -13.16667,
+    49.01667,
+    -13.16667
+],
+  "geometry": {"coordinates":[49.01667,-13.16667],"type":"Point"}
+}

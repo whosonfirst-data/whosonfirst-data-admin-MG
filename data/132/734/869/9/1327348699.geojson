@@ -1,0 +1,61 @@
+{
+  "id": 1327348699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46667,-13.3,48.46667,-13.3",
+    "geom:latitude":-13.3,
+    "geom:longitude":48.46667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antsiridriatra",
+    "gn:country_code":"MG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069077,
+    "gn:latitude":-13.3,
+    "gn:longitude":48.46667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsiridriatra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069077
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fcd2c801530c71a03504095d4d5fe72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327348699,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327348699,
+    "wof:lastmodified":1536801629,
+    "wof:name":"Antsiridriatra",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46667,
+    -13.3,
+    48.46667,
+    -13.3
+],
+  "geometry": {"coordinates":[48.46667,-13.3],"type":"Point"}
+}

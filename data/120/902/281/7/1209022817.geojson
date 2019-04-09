@@ -1,0 +1,61 @@
+{
+  "id": 1209022817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83333,-24.35,45.83333,-24.35",
+    "geom:latitude":-24.35,
+    "geom:longitude":45.83333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampilofily",
+    "gn:country_code":"MG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077789,
+    "gn:latitude":-24.35,
+    "gn:longitude":45.83333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampilofily",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077789
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4bec31663965f7b19085d46b0b29dfcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209022817
+        }
+    ],
+    "wof:id":1209022817,
+    "wof:lastmodified":1536300093,
+    "wof:name":"Ampilofily",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83333,
+    -24.35,
+    45.83333,
+    -24.35
+],
+  "geometry": {"coordinates":[45.83333,-24.35],"type":"Point"}
+}

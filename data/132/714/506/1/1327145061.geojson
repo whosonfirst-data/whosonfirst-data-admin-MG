@@ -1,0 +1,67 @@
+{
+  "id": 1327145061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93333,-21.21667,46.93333,-21.21667",
+    "geom:latitude":-21.21667,
+    "geom:longitude":46.93333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anjoma-Fanjakana",
+    "gn:country_code":"MG",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073506,
+    "gn:latitude":-21.21667,
+    "gn:longitude":46.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjoma-Fanjakana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073506
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"20de3470e992506886c63e1c960c42ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801155,
+            "locality_id":1327145061,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1327145061,
+    "wof:lastmodified":1537092374,
+    "wof:name":"Anjoma-Fanjakana",
+    "wof:parent_id":1108801155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93333,
+    -21.21667,
+    46.93333,
+    -21.21667
+],
+  "geometry": {"coordinates":[46.93333,-21.21667],"type":"Point"}
+}

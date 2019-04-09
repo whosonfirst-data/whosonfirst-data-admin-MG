@@ -1,0 +1,68 @@
+{
+  "id": 1309813925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88333,-21.65,45.88333,-21.65",
+    "geom:latitude":-21.65,
+    "geom:longitude":45.88333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bekisopa",
+    "gn:country_code":"MG",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067922,
+    "gn:latitude":-21.65,
+    "gn:longitude":45.88333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bekisopa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067922,
+        "wk:page":"Bekisopa"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"da19dde742ef97838d80969116d8e600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801153,
+            "locality_id":1309813925,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1309813925,
+    "wof:lastmodified":1537568357,
+    "wof:name":"Bekisopa",
+    "wof:parent_id":1108801153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88333,
+    -21.65,
+    45.88333,
+    -21.65
+],
+  "geometry": {"coordinates":[45.88333,-21.65],"type":"Point"}
+}

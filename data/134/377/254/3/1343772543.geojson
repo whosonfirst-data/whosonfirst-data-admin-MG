@@ -1,0 +1,68 @@
+{
+  "id": 1343772543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95698,-24.56598,46.95698,-24.56598",
+    "geom:latitude":-24.56598,
+    "geom:longitude":46.95698,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ranomafana",
+    "gn:country_code":"MG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057911,
+    "gn:latitude":-24.56598,
+    "gn:longitude":46.95698,
+    "gn:modification_date":"2015-01-30",
+    "gn:name":"Ranomafana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057911,
+        "wk:page":"Ranomafana%2C_Taolanaro"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4c4fd0648a20625f7fe0a64b3b1a4efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1343772543,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1343772543,
+    "wof:lastmodified":1537568340,
+    "wof:name":"Ranomafana",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95698,
+    -24.56598,
+    46.95698,
+    -24.56598
+],
+  "geometry": {"coordinates":[46.95698,-24.56598],"type":"Point"}
+}

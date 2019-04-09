@@ -1,0 +1,67 @@
+{
+  "id": 1242892481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23333,-18.13333,45.23333,-18.13333",
+    "geom:latitude":-18.13333,
+    "geom:longitude":45.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Baraiketa",
+    "gn:country_code":"MG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068743,
+    "gn:latitude":-18.13333,
+    "gn:longitude":45.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Baraiketa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068743
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"942179fd2c3ca672dcd730f3ffa52c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801195,
+            "locality_id":1242892481,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1242892481,
+    "wof:lastmodified":1536607275,
+    "wof:name":"Baraiketa",
+    "wof:parent_id":1108801195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23333,
+    -18.13333,
+    45.23333,
+    -18.13333
+],
+  "geometry": {"coordinates":[45.23333,-18.13333],"type":"Point"}
+}

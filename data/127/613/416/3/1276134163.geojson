@@ -1,0 +1,67 @@
+{
+  "id": 1276134163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26667,-21.93333,45.26667,-21.93333",
+    "geom:latitude":-21.93333,
+    "geom:longitude":45.26667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambalabe",
+    "gn:country_code":"MG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084470,
+    "gn:latitude":-21.93333,
+    "gn:longitude":45.26667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambalabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084470
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ff85a11aa7110ea5bb88fc0c2973d50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1276134163,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1276134163,
+    "wof:lastmodified":1537043642,
+    "wof:name":"Ambalabe",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26667,
+    -21.93333,
+    45.26667,
+    -21.93333
+],
+  "geometry": {"coordinates":[45.26667,-21.93333],"type":"Point"}
+}

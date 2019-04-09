@@ -1,0 +1,72 @@
+{
+  "id": 1276558261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.43333,-17.48333,49.43333,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":49.43333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andranonaomby",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074842,
+    "gn:latitude":-17.48333,
+    "gn:longitude":49.43333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andranonaomby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranaomby",
+        "Andranonaomby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074842
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"31249526d4384a8af7130f83933bc8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801149,
+            "locality_id":1276558261,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1276558261,
+    "wof:lastmodified":1537664754,
+    "wof:name":"Andranonaomby",
+    "wof:parent_id":1108801149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.43333,
+    -17.48333,
+    49.43333,
+    -17.48333
+],
+  "geometry": {"coordinates":[49.43333,-17.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360304185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05,-20.36667,45.05,-20.36667",
+    "geom:latitude":-20.36667,
+    "geom:longitude":45.05,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saraha",
+    "gn:country_code":"MG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056796,
+    "gn:latitude":-20.36667,
+    "gn:longitude":45.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Saraha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056796
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0ed217f14bf610bd7a7c4db042c30350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801165,
+            "locality_id":1360304185,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1360304185,
+    "wof:lastmodified":1536627809,
+    "wof:name":"Saraha",
+    "wof:parent_id":1108801165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05,
+    -20.36667000000001,
+    45.05,
+    -20.36667000000001
+],
+  "geometry": {"coordinates":[45.05,-20.36667000000001],"type":"Point"}
+}

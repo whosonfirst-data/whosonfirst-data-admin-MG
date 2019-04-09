@@ -1,0 +1,62 @@
+{
+  "id": 1209116671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5,-16.1,47.5,-16.1",
+    "geom:latitude":-16.1,
+    "geom:longitude":47.5,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bekoratsaka",
+    "gn:country_code":"MG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067845,
+    "gn:latitude":-16.1,
+    "gn:longitude":47.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bekoratsaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067845,
+        "wk:page":"Bekoratsaka"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0b0c99023451dcc179058d54b258cdb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116671
+        }
+    ],
+    "wof:id":1209116671,
+    "wof:lastmodified":1537568357,
+    "wof:name":"Bekoratsaka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5,
+    -16.1,
+    47.5,
+    -16.1
+],
+  "geometry": {"coordinates":[47.5,-16.1],"type":"Point"}
+}

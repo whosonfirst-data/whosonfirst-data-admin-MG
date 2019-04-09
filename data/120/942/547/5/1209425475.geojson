@@ -1,0 +1,61 @@
+{
+  "id": 1209425475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0,-18.58333,46.0,-18.58333",
+    "geom:latitude":-18.58333,
+    "geom:longitude":46.0,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ampanomiongana",
+    "gn:country_code":"MG",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078497,
+    "gn:latitude":-18.58333,
+    "gn:longitude":46.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampanomiongana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078497
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2e6ff066ca8b470390ed302ab1623935",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425475
+        }
+    ],
+    "wof:id":1209425475,
+    "wof:lastmodified":1536287394,
+    "wof:name":"Ampanomiongana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0,
+    -18.58333,
+    46.0,
+    -18.58333
+],
+  "geometry": {"coordinates":[46.0,-18.58333],"type":"Point"}
+}

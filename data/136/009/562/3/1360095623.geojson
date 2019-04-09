@@ -1,0 +1,67 @@
+{
+  "id": 1360095623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.45,-23.38333,47.45,-23.38333",
+    "geom:latitude":-23.38333,
+    "geom:longitude":47.45,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antsingirifiry",
+    "gn:country_code":"MG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069217,
+    "gn:latitude":-23.38333,
+    "gn:longitude":47.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsingirifiry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069217
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"53085d4ad1bbbb2b5ea902a3e7abde40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1360095623,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1360095623,
+    "wof:lastmodified":1536931104,
+    "wof:name":"Antsingirifiry",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.45,
+    -23.38333,
+    47.45,
+    -23.38333
+],
+  "geometry": {"coordinates":[47.45,-23.38333],"type":"Point"}
+}

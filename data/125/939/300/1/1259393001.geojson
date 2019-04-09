@@ -1,0 +1,72 @@
+{
+  "id": 1259393001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.06667,-23.28333,46.06667,-23.28333",
+    "geom:latitude":-23.28333,
+    "geom:longitude":46.06667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Marovotry",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059487,
+    "gn:latitude":-23.28333,
+    "gn:longitude":46.06667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Marovotry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marovatry",
+        "Marovotry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059487
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8c573440e811dae1d4f2b474c15bea2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1259393001,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1259393001,
+    "wof:lastmodified":1537664616,
+    "wof:name":"Marovotry",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.06667,
+    -23.28333,
+    46.06667,
+    -23.28333
+],
+  "geometry": {"coordinates":[46.06667,-23.28333],"type":"Point"}
+}

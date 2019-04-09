@@ -1,0 +1,68 @@
+{
+  "id": 1277084887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84965,-16.36005,46.84965,-16.36005",
+    "geom:latitude":-16.36005,
+    "geom:longitude":46.84965,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Andranofasika",
+    "gn:country_code":"MG",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075384,
+    "gn:latitude":-16.36005,
+    "gn:longitude":46.84965,
+    "gn:modification_date":"2014-11-16",
+    "gn:name":"Andranofasika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421175085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075384,
+        "wk:page":"Andranofasika"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e40ea719988f147ae8edbc0e5bb76d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175085,
+            "locality_id":1277084887,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1277084887,
+    "wof:lastmodified":1537568367,
+    "wof:name":"Andranofasika",
+    "wof:parent_id":421175085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84965,
+    -16.36005,
+    46.84965,
+    -16.36005
+],
+  "geometry": {"coordinates":[46.84965,-16.36005],"type":"Point"}
+}

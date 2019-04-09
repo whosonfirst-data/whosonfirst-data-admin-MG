@@ -1,0 +1,67 @@
+{
+  "id": 1327246475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.06667,-17.16667,48.06667,-17.16667",
+    "geom:latitude":-17.16667,
+    "geom:longitude":48.06667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beandrarezinkely",
+    "gn:country_code":"MG",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068568,
+    "gn:latitude":-17.16667,
+    "gn:longitude":48.06667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beandrarezinkely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068568
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cae82b03e0d70ed0cc867ba435de6d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801211,
+            "locality_id":1327246475,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1327246475,
+    "wof:lastmodified":1536949413,
+    "wof:name":"Beandrarezinkely",
+    "wof:parent_id":1108801211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.06667,
+    -17.16667,
+    48.06667,
+    -17.16667
+],
+  "geometry": {"coordinates":[48.06667,-17.16667],"type":"Point"}
+}

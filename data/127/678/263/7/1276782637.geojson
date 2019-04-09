@@ -1,0 +1,68 @@
+{
+  "id": 1276782637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.31667,-24.28333,47.31667,-24.28333",
+    "geom:latitude":-24.28333,
+    "geom:longitude":47.31667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Manantenina",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061297,
+    "gn:latitude":-24.28333,
+    "gn:longitude":47.31667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Manantenina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061297,
+        "wk:page":"Manantenina"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b04ba3add72990fd830917b3f333c917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1276782637,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1276782637,
+    "wof:lastmodified":1537568346,
+    "wof:name":"Manantenina",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.31667,
+    -24.28333,
+    47.31667,
+    -24.28333
+],
+  "geometry": {"coordinates":[47.31667,-24.28333],"type":"Point"}
+}

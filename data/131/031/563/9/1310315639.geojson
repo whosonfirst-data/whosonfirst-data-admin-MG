@@ -1,0 +1,72 @@
+{
+  "id": 1310315639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.01667,-23.73333,45.01667,-23.73333",
+    "geom:latitude":-23.73333,
+    "geom:longitude":45.01667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bohaky Ambany",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065695,
+    "gn:latitude":-23.73333,
+    "gn:longitude":45.01667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bohaky Ambany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bohaky Ambony",
+        "Bohaky Ambany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065695
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dc960adf6a80368c558f6b8ed31c2b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1310315639,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310315639,
+    "wof:lastmodified":1537664669,
+    "wof:name":"Bohaky Ambany",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.01667,
+    -23.73333,
+    45.01667,
+    -23.73333
+],
+  "geometry": {"coordinates":[45.01667,-23.73333],"type":"Point"}
+}

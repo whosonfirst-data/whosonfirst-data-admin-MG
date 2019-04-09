@@ -1,0 +1,61 @@
+{
+  "id": 1209019623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.56667,-15.85,47.56667,-15.85",
+    "geom:latitude":-15.85,
+    "geom:longitude":47.56667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Miadana",
+    "gn:country_code":"MG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059108,
+    "gn:latitude":-15.85,
+    "gn:longitude":47.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Miadana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059108
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4152c1e2132937ec1ca39027ef874947",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209019623
+        }
+    ],
+    "wof:id":1209019623,
+    "wof:lastmodified":1536300184,
+    "wof:name":"Miadana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.56667,
+    -15.85,
+    47.56667,
+    -15.85
+],
+  "geometry": {"coordinates":[47.56667,-15.85],"type":"Point"}
+}

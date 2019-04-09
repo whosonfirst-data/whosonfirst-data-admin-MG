@@ -1,0 +1,61 @@
+{
+  "id": 1209225233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95,-15.63333,48.95,-15.63333",
+    "geom:latitude":-15.63333,
+    "geom:longitude":48.95,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Betsingala",
+    "gn:country_code":"MG",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066172,
+    "gn:latitude":-15.63333,
+    "gn:longitude":48.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betsingala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066172
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4eaa9bf1cc5dbcb556cbfc3536a0614a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209225233
+        }
+    ],
+    "wof:id":1209225233,
+    "wof:lastmodified":1536293819,
+    "wof:name":"Betsingala",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95,
+    -15.63333,
+    48.95,
+    -15.63333
+],
+  "geometry": {"coordinates":[48.95,-15.63333],"type":"Point"}
+}

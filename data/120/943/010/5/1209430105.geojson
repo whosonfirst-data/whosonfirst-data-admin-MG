@@ -1,0 +1,61 @@
+{
+  "id": 1209430105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43333,-15.58333,46.43333,-15.58333",
+    "geom:latitude":-15.58333,
+    "geom:longitude":46.43333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsiamotaha",
+    "gn:country_code":"MG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054923,
+    "gn:latitude":-15.58333,
+    "gn:longitude":46.43333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsiamotaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054923
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"04b328597e8deb1d901491f3d3ff4035",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209430105
+        }
+    ],
+    "wof:id":1209430105,
+    "wof:lastmodified":1536287260,
+    "wof:name":"Tsiamotaha",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43333,
+    -15.583329999999998,
+    46.43333,
+    -15.583329999999998
+],
+  "geometry": {"coordinates":[46.43333,-15.58333],"type":"Point"}
+}

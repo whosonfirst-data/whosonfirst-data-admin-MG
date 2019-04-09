@@ -1,0 +1,66 @@
+{
+  "id": 1226664885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.51667,-17.1,49.51667,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":49.51667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Manatsatrana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061211,
+    "gn:latitude":-17.1,
+    "gn:longitude":49.51667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manatsatrana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manantsatrana",
+        "Manatsatrana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061211
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0b63103b26cc8c2773f2210ce412abfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226664885,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226664885,
+    "wof:lastmodified":1537664631,
+    "wof:name":"Manatsatrana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.51667,
+    -17.1,
+    49.51667,
+    -17.1
+],
+  "geometry": {"coordinates":[49.51667,-17.1],"type":"Point"}
+}

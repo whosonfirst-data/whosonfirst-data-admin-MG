@@ -1,0 +1,67 @@
+{
+  "id": 1242989529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.08333,-17.18333,48.08333,-17.18333",
+    "geom:latitude":-17.18333,
+    "geom:longitude":48.08333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambodifarihy",
+    "gn:country_code":"MG",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081558,
+    "gn:latitude":-17.18333,
+    "gn:longitude":48.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodifarihy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081558
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9fe06b7ab7f9f08d9dd7f7363f014b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801211,
+            "locality_id":1242989529,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1242989529,
+    "wof:lastmodified":1536967042,
+    "wof:name":"Ambodifarihy",
+    "wof:parent_id":1108801211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08333,
+    -17.18333,
+    48.08333,
+    -17.18333
+],
+  "geometry": {"coordinates":[48.08333,-17.18333],"type":"Point"}
+}

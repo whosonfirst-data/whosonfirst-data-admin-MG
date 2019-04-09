@@ -1,0 +1,61 @@
+{
+  "id": 1209625759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35,-24.68333,45.35,-24.68333",
+    "geom:latitude":-24.68333,
+    "geom:longitude":45.35,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bingily",
+    "gn:country_code":"MG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065746,
+    "gn:latitude":-24.68333,
+    "gn:longitude":45.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bingily",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065746
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1c98e390897cc10a2c4384febbd4b79f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209625759
+        }
+    ],
+    "wof:id":1209625759,
+    "wof:lastmodified":1536281359,
+    "wof:name":"Bingily",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35,
+    -24.68333,
+    45.35,
+    -24.68333
+],
+  "geometry": {"coordinates":[45.35,-24.68333],"type":"Point"}
+}

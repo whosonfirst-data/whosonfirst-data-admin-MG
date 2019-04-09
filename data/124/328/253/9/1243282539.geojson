@@ -1,0 +1,67 @@
+{
+  "id": 1243282539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88333,-22.8,45.88333,-22.8",
+    "geom:latitude":-22.8,
+    "geom:longitude":45.88333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sakamahily",
+    "gn:country_code":"MG",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057146,
+    "gn:latitude":-22.8,
+    "gn:longitude":45.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sakamahily",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057146
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"01230624917f6251c3241fa34c9d2e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1243282539,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1243282539,
+    "wof:lastmodified":1537040117,
+    "wof:name":"Sakamahily",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88333,
+    -22.8,
+    45.88333,
+    -22.8
+],
+  "geometry": {"coordinates":[45.88333,-22.8],"type":"Point"}
+}

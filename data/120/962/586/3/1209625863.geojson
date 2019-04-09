@@ -1,0 +1,61 @@
+{
+  "id": 1209625863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85,-18.55,44.85,-18.55",
+    "geom:latitude":-18.55,
+    "geom:longitude":44.85,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sakasorohitra",
+    "gn:country_code":"MG",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057071,
+    "gn:latitude":-18.55,
+    "gn:longitude":44.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sakasorohitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057071
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2df59973e33f100de60c5be2c820ba4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209625863
+        }
+    ],
+    "wof:id":1209625863,
+    "wof:lastmodified":1536281356,
+    "wof:name":"Sakasorohitra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85,
+    -18.55,
+    44.85,
+    -18.55
+],
+  "geometry": {"coordinates":[44.85,-18.55],"type":"Point"}
+}

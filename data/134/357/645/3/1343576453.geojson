@@ -1,0 +1,68 @@
+{
+  "id": 1343576453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.56667,-22.51667,47.56667,-22.51667",
+    "geom:latitude":-22.51667,
+    "geom:longitude":47.56667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sahamadio",
+    "gn:country_code":"MG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057574,
+    "gn:latitude":-22.51667,
+    "gn:longitude":47.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sahamadio",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057574,
+        "wk:page":"Sahamadio%2C_Farafangana"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f463c4af16b4fcd2b0db7643ab6e8aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801147,
+            "locality_id":1343576453,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1343576453,
+    "wof:lastmodified":1537568340,
+    "wof:name":"Sahamadio",
+    "wof:parent_id":1108801147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.56667,
+    -22.51667,
+    47.56667,
+    -22.51667
+],
+  "geometry": {"coordinates":[47.56667,-22.51667],"type":"Point"}
+}

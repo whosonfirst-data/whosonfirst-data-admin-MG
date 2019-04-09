@@ -1,0 +1,72 @@
+{
+  "id": 1327144913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55,-22.95,44.55,-22.95",
+    "geom:latitude":-22.95,
+    "geom:longitude":44.55,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampandra II",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078707,
+    "gn:latitude":-22.95,
+    "gn:longitude":44.55,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampandra II",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampandra 2",
+        "Ampandra II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078707
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"968c16f7290bcaac5d6872dbf43846d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1327144913,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1327144913,
+    "wof:lastmodified":1537664784,
+    "wof:name":"Ampandra II",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55,
+    -22.95,
+    44.55,
+    -22.95
+],
+  "geometry": {"coordinates":[44.55,-22.95],"type":"Point"}
+}

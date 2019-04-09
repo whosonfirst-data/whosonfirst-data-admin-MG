@@ -1,0 +1,67 @@
+{
+  "id": 1343873513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08333,-21.26667,46.08333,-21.26667",
+    "geom:latitude":-21.26667,
+    "geom:longitude":46.08333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sahamanjary",
+    "gn:country_code":"MG",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057535,
+    "gn:latitude":-21.26667,
+    "gn:longitude":46.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sahamanjary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057535
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d166fac1944badf0b831cda97bc84550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801153,
+            "locality_id":1343873513,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1343873513,
+    "wof:lastmodified":1536647279,
+    "wof:name":"Sahamanjary",
+    "wof:parent_id":1108801153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08333,
+    -21.26667,
+    46.08333,
+    -21.26667
+],
+  "geometry": {"coordinates":[46.08333,-21.26667],"type":"Point"}
+}

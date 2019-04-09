@@ -1,0 +1,72 @@
+{
+  "id": 1344072085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.05,-19.68333,48.05,-19.68333",
+    "geom:latitude":-19.68333,
+    "geom:longitude":48.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sandranoro",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056834,
+    "gn:latitude":-19.68333,
+    "gn:longitude":48.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sandranoro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sampandrano",
+        "Sandranoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056834
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e28f4f5ea5eb9a9a4e9ae55066da7a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801105,
+            "locality_id":1344072085,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1344072085,
+    "wof:lastmodified":1537664595,
+    "wof:name":"Sandranoro",
+    "wof:parent_id":1108801105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.05,
+    -19.68333,
+    48.05,
+    -19.68333
+],
+  "geometry": {"coordinates":[48.05,-19.68333],"type":"Point"}
+}

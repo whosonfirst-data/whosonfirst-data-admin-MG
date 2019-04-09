@@ -1,0 +1,67 @@
+{
+  "id": 1259702461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15,-17.95,48.15,-17.95",
+    "geom:latitude":-17.95,
+    "geom:longitude":48.15,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambarinakanga",
+    "gn:country_code":"MG",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083457,
+    "gn:latitude":-17.95,
+    "gn:longitude":48.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambarinakanga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083457
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b3a7c867cf5f53e3b2ac8e8b478b391f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801081,
+            "locality_id":1259702461,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1259702461,
+    "wof:lastmodified":1537038073,
+    "wof:name":"Ambarinakanga",
+    "wof:parent_id":1108801081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15,
+    -17.95,
+    48.15,
+    -17.95
+],
+  "geometry": {"coordinates":[48.15,-17.95],"type":"Point"}
+}

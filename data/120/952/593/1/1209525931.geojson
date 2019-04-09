@@ -1,0 +1,61 @@
+{
+  "id": 1209525931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.9,-13.01667,49.9,-13.01667",
+    "geom:latitude":-13.01667,
+    "geom:longitude":49.9,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nongitra",
+    "gn:country_code":"MG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058157,
+    "gn:latitude":-13.01667,
+    "gn:longitude":49.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nongitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058157
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3a6b6258bea72700aed26b5c8324830a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209525931
+        }
+    ],
+    "wof:id":1209525931,
+    "wof:lastmodified":1536284430,
+    "wof:name":"Nongitra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.9,
+    -13.01667,
+    49.9,
+    -13.01667
+],
+  "geometry": {"coordinates":[49.9,-13.01667],"type":"Point"}
+}

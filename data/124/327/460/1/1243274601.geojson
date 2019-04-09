@@ -1,0 +1,72 @@
+{
+  "id": 1243274601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31667,-17.78333,48.31667,-17.78333",
+    "geom:latitude":-17.78333,
+    "geom:longitude":48.31667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antanimena",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070530,
+    "gn:latitude":-17.78333,
+    "gn:longitude":48.31667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antanimena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antanimenakely",
+        "Antanimena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070530
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"57667b88f2e508df045934d0eb528114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801081,
+            "locality_id":1243274601,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1243274601,
+    "wof:lastmodified":1537664718,
+    "wof:name":"Antanimena",
+    "wof:parent_id":1108801081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31667,
+    -17.78333,
+    48.31667,
+    -17.78333
+],
+  "geometry": {"coordinates":[48.31667,-17.78333],"type":"Point"}
+}

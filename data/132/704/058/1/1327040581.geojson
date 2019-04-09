@@ -1,0 +1,67 @@
+{
+  "id": 1327040581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.85,-22.16667,47.85,-22.16667",
+    "geom:latitude":-22.16667,
+    "geom:longitude":47.85,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Andranombary",
+    "gn:country_code":"MG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075017,
+    "gn:latitude":-22.16667,
+    "gn:longitude":47.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranombary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075017
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0d7ec993cf13f9b5eccf4a39370dd9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801175,
+            "locality_id":1327040581,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1327040581,
+    "wof:lastmodified":1536748347,
+    "wof:name":"Andranombary",
+    "wof:parent_id":1108801175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.85,
+    -22.16667,
+    47.85,
+    -22.16667
+],
+  "geometry": {"coordinates":[47.85,-22.16667],"type":"Point"}
+}

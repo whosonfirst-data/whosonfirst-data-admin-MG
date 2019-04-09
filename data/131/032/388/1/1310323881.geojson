@@ -1,0 +1,72 @@
+{
+  "id": 1310323881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91667,-19.4,44.91667,-19.4",
+    "geom:latitude":-19.4,
+    "geom:longitude":44.91667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andranomiely",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074913,
+    "gn:latitude":-19.4,
+    "gn:longitude":44.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andranomiely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranomidy",
+        "Andranomiely"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074913
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"19f7e05263bd4dd70ea091c631f3b027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169785,
+            "locality_id":1310323881,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1310323881,
+    "wof:lastmodified":1537664755,
+    "wof:name":"Andranomiely",
+    "wof:parent_id":421169785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91667,
+    -19.4,
+    44.91667,
+    -19.4
+],
+  "geometry": {"coordinates":[44.91667,-19.4],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 890443137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3448,-13.40448,48.3448,-13.40448",
+    "geom:latitude":-13.40448,
+    "geom:longitude":48.3448,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":70,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0431\u0430\u043b\u0430\u0445\u043e\u043d\u043a\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Ambalahonko"
+    ],
+    "name:eng_x_preferred":[
+        "Ambalahonko"
+    ],
+    "name:fre_x_preferred":[
+        "Ambalahonko"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u0647\u0648\u0646\u06a9\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Ambalahonko"
+    ],
+    "qs:name":"Ambalahonko",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        890452057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7115595,
+        "gp:id":1353794,
+        "qs:id":656663,
+        "wd:id":"Q2841500",
+        "wk:page":"Ambalahonko"
+    },
+    "wof:country":"MG",
+    "wof:created":1469052403,
+    "wof:geomhash":"7d76703d49ab628d4e8adce041d7772d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452057,
+            "locality_id":890443137,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":890443137,
+    "wof:lastmodified":1527787065,
+    "wof:name":"Ambalahonko",
+    "wof:parent_id":890452057,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3448,
+    -13.40448,
+    48.3448,
+    -13.40448
+],
+  "geometry": {"coordinates":[48.3448,-13.40448],"type":"Point"}
+}

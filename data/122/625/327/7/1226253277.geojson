@@ -1,0 +1,67 @@
+{
+  "id": 1226253277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55,-25.26667,44.55,-25.26667",
+    "geom:latitude":-25.26667,
+    "geom:longitude":44.55,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mahabo",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062736,
+    "gn:latitude":-25.26667,
+    "gn:longitude":44.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahabo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062736
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9cd2293925a8f8f79e57777468bcd96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1226253277,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1226253277,
+    "wof:lastmodified":1536923383,
+    "wof:name":"Mahabo",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55,
+    -25.26667,
+    44.55,
+    -25.26667
+],
+  "geometry": {"coordinates":[44.55,-25.26667],"type":"Point"}
+}

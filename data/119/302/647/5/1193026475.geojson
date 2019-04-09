@@ -1,0 +1,67 @@
+{
+  "id": 1193026475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.96667,-20.33333,47.96667,-20.33333",
+    "geom:latitude":-20.33333,
+    "geom:longitude":47.96667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Betaretra",
+    "gn:country_code":"MG",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066351,
+    "gn:latitude":-20.33333,
+    "gn:longitude":47.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betaretra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066351
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"666a634adb59ae2e05b668adfacca70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801189,
+            "locality_id":1193026475,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1193026475,
+    "wof:lastmodified":1536367359,
+    "wof:name":"Betaretra",
+    "wof:parent_id":1108801189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96667,
+    -20.33333,
+    47.96667,
+    -20.33333
+],
+  "geometry": {"coordinates":[47.96667,-20.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293307825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21667,-18.08333,45.21667,-18.08333",
+    "geom:latitude":-18.08333,
+    "geom:longitude":45.21667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amboloando",
+    "gn:country_code":"MG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079555,
+    "gn:latitude":-18.08333,
+    "gn:longitude":45.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboloando",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079555
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"22189900737cd35e3fb59a521fb0094c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801195,
+            "locality_id":1293307825,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1293307825,
+    "wof:lastmodified":1537044148,
+    "wof:name":"Amboloando",
+    "wof:parent_id":1108801195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21667,
+    -18.08333,
+    45.21667,
+    -18.08333
+],
+  "geometry": {"coordinates":[45.21667,-18.08333],"type":"Point"}
+}

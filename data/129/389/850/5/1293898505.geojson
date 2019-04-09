@@ -1,0 +1,68 @@
+{
+  "id": 1293898505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2,-17.21667,49.2,-17.21667",
+    "geom:latitude":-17.21667,
+    "geom:longitude":49.2,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Miorimivalana",
+    "gn:country_code":"MG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058866,
+    "gn:latitude":-17.21667,
+    "gn:longitude":49.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Miorimivalana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058866,
+        "wk:page":"Miorimivalana"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fe0467f1f3670fb445af034403060b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801149,
+            "locality_id":1293898505,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1293898505,
+    "wof:lastmodified":1537568342,
+    "wof:name":"Miorimivalana",
+    "wof:parent_id":1108801149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2,
+    -17.21667,
+    49.2,
+    -17.21667
+],
+  "geometry": {"coordinates":[49.2,-17.21667],"type":"Point"}
+}

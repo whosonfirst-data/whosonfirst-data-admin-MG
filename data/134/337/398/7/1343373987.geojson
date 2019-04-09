@@ -1,0 +1,73 @@
+{
+  "id": 1343373987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.41667,-17.21667,49.41667,-17.21667",
+    "geom:latitude":-17.21667,
+    "geom:longitude":49.41667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampasina-Maningory",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078028,
+    "gn:latitude":-17.21667,
+    "gn:longitude":49.41667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampasina-Maningory",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampasina",
+        "Ampasina-Maningory"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078028,
+        "wk:page":"Ampasina_Maningory"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f4554a8db66a1569d52d1d5e3f2a18c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801149,
+            "locality_id":1343373987,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1343373987,
+    "wof:lastmodified":1537664779,
+    "wof:name":"Ampasina-Maningory",
+    "wof:parent_id":1108801149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.41667,
+    -17.21667,
+    49.41667,
+    -17.21667
+],
+  "geometry": {"coordinates":[49.41667,-17.21667],"type":"Point"}
+}

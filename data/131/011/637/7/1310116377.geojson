@@ -1,0 +1,73 @@
+{
+  "id": 1310116377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.26667,-23.56667,46.26667,-23.56667",
+    "geom:latitude":-23.56667,
+    "geom:longitude":46.26667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Benonoka II",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067121,
+    "gn:latitude":-23.56667,
+    "gn:longitude":46.26667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Benonoka II",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambinda",
+        "Benonoka",
+        "Benonoka II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067121
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c53b5665206eb630f865c16ee77a2187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1310116377,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1310116377,
+    "wof:lastmodified":1537664684,
+    "wof:name":"Benonoka II",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.26667,
+    -23.56667,
+    46.26667,
+    -23.56667
+],
+  "geometry": {"coordinates":[46.26667,-23.56667],"type":"Point"}
+}

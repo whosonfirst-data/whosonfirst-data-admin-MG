@@ -1,0 +1,75 @@
+{
+  "id": 421175327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"47.807006,-21.87042,47.807006,-21.87042",
+    "geom:latitude":-21.87042,
+    "geom:longitude":47.807006,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Manakara",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Fianarantsoa",
+    "qs:photos":55,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":281,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":368108,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":23706559,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":239,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23706559,
+        "qs:id":368108,
+        "wd:id":"Q991066"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009063,
+    "wof:geomhash":"9a6e39df837bfc39ce023456fa425c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175327,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":421175327,
+    "wof:lastmodified":1527716345,
+    "wof:name":"Manakara",
+    "wof:parent_id":85674045,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.807006,
+    -21.87042,
+    47.807006,
+    -21.87042
+],
+  "geometry": {"coordinates":[47.807006,-21.87042],"type":"Point"}
+}

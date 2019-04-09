@@ -1,0 +1,68 @@
+{
+  "id": 1276453789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.65,-14.01667,49.65,-14.01667",
+    "geom:latitude":-14.01667,
+    "geom:longitude":49.65,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antsahavaribe",
+    "gn:country_code":"MG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069747,
+    "gn:latitude":-14.01667,
+    "gn:longitude":49.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsahavaribe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069747,
+        "wk:page":"Antsahavaribe%2C_Sambava"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cac52cdf9fc22add59e2cacf02e1aac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1276453789,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1276453789,
+    "wof:lastmodified":1537568360,
+    "wof:name":"Antsahavaribe",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.65,
+    -14.01667,
+    49.65,
+    -14.01667
+],
+  "geometry": {"coordinates":[49.65,-14.01667],"type":"Point"}
+}

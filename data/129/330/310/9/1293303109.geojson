@@ -1,0 +1,67 @@
+{
+  "id": 1293303109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83333,-20.91667,47.83333,-20.91667",
+    "geom:latitude":-20.91667,
+    "geom:longitude":47.83333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Analamarina",
+    "gn:country_code":"MG",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077132,
+    "gn:latitude":-20.91667,
+    "gn:longitude":47.83333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Analamarina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077132
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"395e00f5e82aca6dd5f96c551272faf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1293303109,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1293303109,
+    "wof:lastmodified":1537050598,
+    "wof:name":"Analamarina",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83333,
+    -20.91667,
+    47.83333,
+    -20.91667
+],
+  "geometry": {"coordinates":[47.83333,-20.91667],"type":"Point"}
+}

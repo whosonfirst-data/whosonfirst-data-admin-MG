@@ -1,0 +1,67 @@
+{
+  "id": 1360199593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3,-18.43333,47.3,-18.43333",
+    "geom:latitude":-18.43333,
+    "geom:longitude":47.3,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Filomana",
+    "gn:country_code":"MG",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064821,
+    "gn:latitude":-18.43333,
+    "gn:longitude":47.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Filomana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064821
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"91e8c0d8f60966215b422db32d866f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1360199593,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1360199593,
+    "wof:lastmodified":1536780904,
+    "wof:name":"Filomana",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3,
+    -18.43333,
+    47.3,
+    -18.43333
+],
+  "geometry": {"coordinates":[47.3,-18.43333],"type":"Point"}
+}

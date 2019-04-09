@@ -1,0 +1,78 @@
+{
+  "id": 1310040879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.75,-22.4,47.75,-22.4",
+    "geom:latitude":-22.4,
+    "geom:longitude":47.75,
+    "gn:admin1_code":"7670906",
+    "gn:asciiname":"Ifatsy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064334,
+    "gn:latitude":-22.4,
+    "gn:longitude":47.75,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ifatsy",
+    "gn:population":15000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lfatsy",
+        "Efasy",
+        "Efatsy",
+        "Ifatsy"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421184623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064334,
+        "wk:page":"Ifatsy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0ff2a17172ebe523595888978d10d10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184623,
+            "locality_id":1310040879,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1310040879,
+    "wof:lastmodified":1537664655,
+    "wof:name":"Ifatsy",
+    "wof:parent_id":421184623,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.75,
+    -22.4,
+    47.75,
+    -22.4
+],
+  "geometry": {"coordinates":[47.75,-22.4],"type":"Point"}
+}

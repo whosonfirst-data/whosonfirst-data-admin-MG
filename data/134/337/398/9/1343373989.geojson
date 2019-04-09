@@ -1,0 +1,67 @@
+{
+  "id": 1343373989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56667,-21.3,44.56667,-21.3",
+    "geom:latitude":-21.3,
+    "geom:longitude":44.56667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andemodemoky",
+    "gn:country_code":"MG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076244,
+    "gn:latitude":-21.3,
+    "gn:longitude":44.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andemodemoky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076244
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"877349c4af899ba0314c56e4a25a07b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1343373989,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1343373989,
+    "wof:lastmodified":1536869782,
+    "wof:name":"Andemodemoky",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56667,
+    -21.3,
+    44.56667,
+    -21.3
+],
+  "geometry": {"coordinates":[44.56667,-21.3],"type":"Point"}
+}

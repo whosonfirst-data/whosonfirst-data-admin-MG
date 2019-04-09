@@ -1,0 +1,72 @@
+{
+  "id": 1243274395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68333,-25.16667,44.68333,-25.16667",
+    "geom:latitude":-25.16667,
+    "geom:longitude":44.68333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsivokony",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054400,
+    "gn:latitude":-25.16667,
+    "gn:longitude":44.68333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsivokony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsivokoana",
+        "Tsivokony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054400
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"93f3abfa120f73c0209e9cb0f347105e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1243274395,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1243274395,
+    "wof:lastmodified":1537664571,
+    "wof:name":"Tsivokony",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68333,
+    -25.16667,
+    44.68333,
+    -25.16667
+],
+  "geometry": {"coordinates":[44.68333,-25.16667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226352775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65,-18.23333,47.65,-18.23333",
+    "geom:latitude":-18.23333,
+    "geom:longitude":47.65,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Miadana",
+    "gn:country_code":"MG",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059105,
+    "gn:latitude":-18.23333,
+    "gn:longitude":47.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Miadana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059105
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"842c4e84db7db6fcb66bee22d89e0d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1226352775,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1226352775,
+    "wof:lastmodified":1536779760,
+    "wof:name":"Miadana",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65,
+    -18.23333,
+    47.65,
+    -18.23333
+],
+  "geometry": {"coordinates":[47.65,-18.23333],"type":"Point"}
+}

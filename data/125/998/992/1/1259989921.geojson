@@ -1,0 +1,68 @@
+{
+  "id": 1259989921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9,-21.6,47.9,-21.6",
+    "geom:latitude":-21.6,
+    "geom:longitude":47.9,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sandrohy",
+    "gn:country_code":"MG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056822,
+    "gn:latitude":-21.6,
+    "gn:longitude":47.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sandrohy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056822,
+        "wk:page":"Sandrohy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"286db7162f924991eb19b76d29c6f31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1259989921,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1259989921,
+    "wof:lastmodified":1537568339,
+    "wof:name":"Sandrohy",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9,
+    -21.6,
+    47.9,
+    -21.6
+],
+  "geometry": {"coordinates":[47.9,-21.6],"type":"Point"}
+}

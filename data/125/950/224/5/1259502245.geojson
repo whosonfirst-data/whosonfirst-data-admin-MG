@@ -1,0 +1,67 @@
+{
+  "id": 1259502245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55,-16.66667,44.55,-16.66667",
+    "geom:latitude":-16.66667,
+    "geom:longitude":44.55,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsianaloka",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054918,
+    "gn:latitude":-16.66667,
+    "gn:longitude":44.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsianaloka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054918
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"300585eabe5225eb22c81db40d428b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1259502245,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1259502245,
+    "wof:lastmodified":1536830841,
+    "wof:name":"Tsianaloka",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55,
+    -16.66667,
+    44.55,
+    -16.66667
+],
+  "geometry": {"coordinates":[44.55,-16.66667],"type":"Point"}
+}

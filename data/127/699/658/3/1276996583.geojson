@@ -1,0 +1,67 @@
+{
+  "id": 1276996583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.28333,-23.2,47.28333,-23.2",
+    "geom:latitude":-23.2,
+    "geom:longitude":47.28333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Betsipaky",
+    "gn:country_code":"MG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066131,
+    "gn:latitude":-23.2,
+    "gn:longitude":47.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betsipaky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066131
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"69f8389cd078ee55d636a5fb2ecf1fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1276996583,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1276996583,
+    "wof:lastmodified":1536883993,
+    "wof:name":"Betsipaky",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28333,
+    -23.2,
+    47.28333,
+    -23.2
+],
+  "geometry": {"coordinates":[47.28333,-23.2],"type":"Point"}
+}

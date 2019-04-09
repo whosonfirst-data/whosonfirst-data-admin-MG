@@ -1,0 +1,67 @@
+{
+  "id": 1243469409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.96667,-18.85,47.96667,-18.85",
+    "geom:latitude":-18.85,
+    "geom:longitude":47.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Amboanjobe",
+    "gn:country_code":"MG",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081859,
+    "gn:latitude":-18.85,
+    "gn:longitude":47.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboanjobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081859
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"40c4b89c5928951fbad93c92a377282d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1243469409,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1243469409,
+    "wof:lastmodified":1536772986,
+    "wof:name":"Amboanjobe",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96667,
+    -18.85,
+    47.96667,
+    -18.85
+],
+  "geometry": {"coordinates":[47.96667,-18.85],"type":"Point"}
+}

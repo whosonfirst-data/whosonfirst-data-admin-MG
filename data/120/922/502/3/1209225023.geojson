@@ -1,0 +1,62 @@
+{
+  "id": 1209225023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11667,-15.66667,47.11667,-15.66667",
+    "geom:latitude":-15.66667,
+    "geom:longitude":47.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amparihy",
+    "gn:country_code":"MG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078333,
+    "gn:latitude":-15.66667,
+    "gn:longitude":47.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amparihy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078333,
+        "wk:page":"Amparihy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dd9f32a2b221e57373b174803c3d0f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209225023
+        }
+    ],
+    "wof:id":1209225023,
+    "wof:lastmodified":1537568370,
+    "wof:name":"Amparihy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11667,
+    -15.66667,
+    47.11667,
+    -15.66667
+],
+  "geometry": {"coordinates":[47.11667,-15.66667],"type":"Point"}
+}

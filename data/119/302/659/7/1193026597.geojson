@@ -1,0 +1,72 @@
+{
+  "id": 1193026597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81667,-17.45,48.81667,-17.45",
+    "geom:latitude":-17.45,
+    "geom:longitude":48.81667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Manambato",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061550,
+    "gn:latitude":-17.45,
+    "gn:longitude":48.81667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manambato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manambo",
+        "Manambato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061550
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"45e06ba8ea44e508e7b010d7e3ea3982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801217,
+            "locality_id":1193026597,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1193026597,
+    "wof:lastmodified":1537664634,
+    "wof:name":"Manambato",
+    "wof:parent_id":1108801217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81667,
+    -17.45,
+    48.81667,
+    -17.45
+],
+  "geometry": {"coordinates":[48.81667,-17.45],"type":"Point"}
+}

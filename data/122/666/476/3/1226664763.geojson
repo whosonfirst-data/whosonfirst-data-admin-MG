@@ -1,0 +1,67 @@
+{
+  "id": 1226664763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.53333,-22.26667,46.53333,-22.26667",
+    "geom:latitude":-22.26667,
+    "geom:longitude":46.53333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ankaditany",
+    "gn:country_code":"MG",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073380,
+    "gn:latitude":-22.26667,
+    "gn:longitude":46.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankaditany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073380
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8fe29bd0b2bc50f58d9f745ad64ba7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1226664763,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1226664763,
+    "wof:lastmodified":1536831109,
+    "wof:name":"Ankaditany",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.53333,
+    -22.26667,
+    46.53333,
+    -22.26667
+],
+  "geometry": {"coordinates":[46.53333,-22.26667],"type":"Point"}
+}

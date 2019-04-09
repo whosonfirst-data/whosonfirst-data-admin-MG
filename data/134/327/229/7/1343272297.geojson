@@ -1,0 +1,67 @@
+{
+  "id": 1343272297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91667,-16.8,46.91667,-16.8",
+    "geom:latitude":-16.8,
+    "geom:longitude":46.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankazomahitsy",
+    "gn:country_code":"MG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072814,
+    "gn:latitude":-16.8,
+    "gn:longitude":46.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankazomahitsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072814
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"42f7864c383991398bc44d0b94476bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1343272297,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1343272297,
+    "wof:lastmodified":1537017011,
+    "wof:name":"Ankazomahitsy",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91667,
+    -16.8,
+    46.91667,
+    -16.8
+],
+  "geometry": {"coordinates":[46.91667,-16.8],"type":"Point"}
+}

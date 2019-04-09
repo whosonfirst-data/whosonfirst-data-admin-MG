@@ -1,0 +1,67 @@
+{
+  "id": 1327152919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61667,-23.85,46.61667,-23.85",
+    "geom:latitude":-23.85,
+    "geom:longitude":46.61667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ifandana",
+    "gn:country_code":"MG",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064362,
+    "gn:latitude":-23.85,
+    "gn:longitude":46.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ifandana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064362
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ca4abb10d7eb38eb26e004d03bf15df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1327152919,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1327152919,
+    "wof:lastmodified":1537081179,
+    "wof:name":"Ifandana",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61667,
+    -23.85,
+    46.61667,
+    -23.85
+],
+  "geometry": {"coordinates":[46.61667,-23.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310416367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.73333,-14.68333,47.73333,-14.68333",
+    "geom:latitude":-14.68333,
+    "geom:longitude":47.73333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsimahasenga",
+    "gn:country_code":"MG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054701,
+    "gn:latitude":-14.68333,
+    "gn:longitude":47.73333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsimahasenga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054701
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b81fff0975722e7136a24d5b31e497fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1310416367,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1310416367,
+    "wof:lastmodified":1537043722,
+    "wof:name":"Tsimahasenga",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.73333,
+    -14.68333,
+    47.73333,
+    -14.68333
+],
+  "geometry": {"coordinates":[47.73333,-14.68333],"type":"Point"}
+}

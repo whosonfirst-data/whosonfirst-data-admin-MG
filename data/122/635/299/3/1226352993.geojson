@@ -1,0 +1,72 @@
+{
+  "id": 1226352993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16667,-21.21667,44.16667,-21.21667",
+    "geom:latitude":-21.21667,
+    "geom:longitude":44.16667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Miary-Soalengo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058965,
+    "gn:latitude":-21.21667,
+    "gn:longitude":44.16667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Miary-Soalengo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mihary",
+        "Miary-Soalengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058965
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cf2c1c6165fabd2e713deb6b8670697d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1226352993,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1226352993,
+    "wof:lastmodified":1537664611,
+    "wof:name":"Miary-Soalengo",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16667,
+    -21.21667,
+    44.16667,
+    -21.21667
+],
+  "geometry": {"coordinates":[44.16667,-21.21667],"type":"Point"}
+}

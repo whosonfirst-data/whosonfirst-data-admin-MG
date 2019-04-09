@@ -1,0 +1,67 @@
+{
+  "id": 1226253381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.53333,-19.38333,48.53333,-19.38333",
+    "geom:latitude":-19.38333,
+    "geom:longitude":48.53333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fanantsarana",
+    "gn:country_code":"MG",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065258,
+    "gn:latitude":-19.38333,
+    "gn:longitude":48.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Fanantsarana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065258
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"de3e53d06840a4c22a983495a7a2c8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801109,
+            "locality_id":1226253381,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1226253381,
+    "wof:lastmodified":1536923230,
+    "wof:name":"Fanantsarana",
+    "wof:parent_id":1108801109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.53333,
+    -19.38333,
+    48.53333,
+    -19.38333
+],
+  "geometry": {"coordinates":[48.53333,-19.38333],"type":"Point"}
+}

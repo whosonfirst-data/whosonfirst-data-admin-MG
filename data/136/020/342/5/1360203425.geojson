@@ -1,0 +1,67 @@
+{
+  "id": 1360203425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.56667,-20.6,47.56667,-20.6",
+    "geom:latitude":-20.6,
+    "geom:longitude":47.56667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambodirafia",
+    "gn:country_code":"MG",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081093,
+    "gn:latitude":-20.6,
+    "gn:longitude":47.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodirafia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421191749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081093
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0980d18b6d8ae699b3982d1a77d2904f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421191749,
+            "locality_id":1360203425,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1360203425,
+    "wof:lastmodified":1536775582,
+    "wof:name":"Ambodirafia",
+    "wof:parent_id":421191749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.56667,
+    -20.6,
+    47.56667,
+    -20.6
+],
+  "geometry": {"coordinates":[47.56667,-20.6],"type":"Point"}
+}

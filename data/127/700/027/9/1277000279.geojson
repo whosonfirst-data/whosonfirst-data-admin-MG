@@ -1,0 +1,67 @@
+{
+  "id": 1277000279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.36667,-20.4,47.36667,-20.4",
+    "geom:latitude":-20.4,
+    "geom:longitude":47.36667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambohitrarivo",
+    "gn:country_code":"MG",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079825,
+    "gn:latitude":-20.4,
+    "gn:longitude":47.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohitrarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421171215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079825
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e6a23c9a84bfc06328351ee2018f067e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171215,
+            "locality_id":1277000279,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1277000279,
+    "wof:lastmodified":1536878966,
+    "wof:name":"Ambohitrarivo",
+    "wof:parent_id":421171215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.36667,
+    -20.4,
+    47.36667,
+    -20.4
+],
+  "geometry": {"coordinates":[47.36667,-20.4],"type":"Point"}
+}

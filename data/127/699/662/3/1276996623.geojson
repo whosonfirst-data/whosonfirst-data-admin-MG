@@ -1,0 +1,67 @@
+{
+  "id": 1276996623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,-18.45,47.66667,-18.45",
+    "geom:latitude":-18.45,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antoby Sud",
+    "gn:country_code":"MG",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070153,
+    "gn:latitude":-18.45,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antoby Sud",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070153
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"123b56c68cedcbdbc8ae3ade562b5c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1276996623,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1276996623,
+    "wof:lastmodified":1536883937,
+    "wof:name":"Antoby Sud",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    -18.45,
+    47.66667,
+    -18.45
+],
+  "geometry": {"coordinates":[47.66667,-18.45],"type":"Point"}
+}

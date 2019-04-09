@@ -1,0 +1,67 @@
+{
+  "id": 1343677061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.88333,-18.63333,47.88333,-18.63333",
+    "geom:latitude":-18.63333,
+    "geom:longitude":47.88333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Beorana",
+    "gn:country_code":"MG",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067091,
+    "gn:latitude":-18.63333,
+    "gn:longitude":47.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Beorana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067091
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ac154e5131116a285b5e12e2911cd22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1343677061,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1343677061,
+    "wof:lastmodified":1536931774,
+    "wof:name":"Beorana",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.88333,
+    -18.63333,
+    47.88333,
+    -18.63333
+],
+  "geometry": {"coordinates":[47.88333,-18.63333],"type":"Point"}
+}

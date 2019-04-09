@@ -1,0 +1,67 @@
+{
+  "id": 1226357463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.96667,-21.31667,47.96667,-21.31667",
+    "geom:latitude":-21.31667,
+    "geom:longitude":47.96667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sahasondroka",
+    "gn:country_code":"MG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057348,
+    "gn:latitude":-21.31667,
+    "gn:longitude":47.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sahasondroka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057348
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"026f23f80470437987d0f25f0d812255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1226357463,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1226357463,
+    "wof:lastmodified":1536773174,
+    "wof:name":"Sahasondroka",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96667,
+    -21.31667,
+    47.96667,
+    -21.31667
+],
+  "geometry": {"coordinates":[47.96667,-21.31667],"type":"Point"}
+}

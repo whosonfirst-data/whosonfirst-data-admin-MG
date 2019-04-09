@@ -1,0 +1,67 @@
+{
+  "id": 1260304475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.48333,-18.75,46.48333,-18.75",
+    "geom:latitude":-18.75,
+    "geom:longitude":46.48333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antsikirity",
+    "gn:country_code":"MG",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069250,
+    "gn:latitude":-18.75,
+    "gn:longitude":46.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsikirity",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069250
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"829fa17f1e9689359aee592739075988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1260304475,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1260304475,
+    "wof:lastmodified":1536683711,
+    "wof:name":"Antsikirity",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.48333,
+    -18.75,
+    46.48333,
+    -18.75
+],
+  "geometry": {"coordinates":[46.48333,-18.75],"type":"Point"}
+}

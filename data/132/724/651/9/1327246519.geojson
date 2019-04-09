@@ -1,0 +1,67 @@
+{
+  "id": 1327246519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.45,-25.08333,44.45,-25.08333",
+    "geom:latitude":-25.08333,
+    "geom:longitude":44.45,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Amboromisampy",
+    "gn:country_code":"MG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079142,
+    "gn:latitude":-25.08333,
+    "gn:longitude":44.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboromisampy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079142
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e3e8f87d6d6a1a78561a892b9135779c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1327246519,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1327246519,
+    "wof:lastmodified":1536949353,
+    "wof:name":"Amboromisampy",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.45,
+    -25.08333,
+    44.45,
+    -25.08333
+],
+  "geometry": {"coordinates":[44.45,-25.08333],"type":"Point"}
+}

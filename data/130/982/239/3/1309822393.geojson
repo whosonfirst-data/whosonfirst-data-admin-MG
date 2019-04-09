@@ -1,0 +1,67 @@
+{
+  "id": 1309822393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.65,-22.45,45.65,-22.45",
+    "geom:latitude":-22.45,
+    "geom:longitude":45.65,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambararatabe",
+    "gn:country_code":"MG",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083553,
+    "gn:latitude":-22.45,
+    "gn:longitude":45.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambararatabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083553
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5d546631bea35a6972b715ae0cf3f1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1309822393,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1309822393,
+    "wof:lastmodified":1536907447,
+    "wof:name":"Ambararatabe",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.65,
+    -22.45,
+    45.65,
+    -22.45
+],
+  "geometry": {"coordinates":[45.65,-22.45],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327045211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56667,-21.25,44.56667,-21.25",
+    "geom:latitude":-21.25,
+    "geom:longitude":44.56667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anjaha",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073828,
+    "gn:latitude":-21.25,
+    "gn:longitude":44.56667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anjaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anjahana",
+        "Anjaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073828
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"21d9895c673d0078157e381513a6d810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1327045211,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1327045211,
+    "wof:lastmodified":1537664747,
+    "wof:name":"Anjaha",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56667,
+    -21.25,
+    44.56667,
+    -21.25
+],
+  "geometry": {"coordinates":[44.56667,-21.25],"type":"Point"}
+}

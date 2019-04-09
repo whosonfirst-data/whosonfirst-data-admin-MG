@@ -1,0 +1,74 @@
+{
+  "id": 1193026565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13333,-23.61667,45.13333,-23.61667",
+    "geom:latitude":-23.61667,
+    "geom:longitude":45.13333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ianapera",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064453,
+    "gn:latitude":-23.61667,
+    "gn:longitude":45.13333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ianapera",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakalava Haut",
+        "Sakalava Ambony",
+        "Ianapera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064453,
+        "wk:page":"Ianapera"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b1a238f2d174af15a9cb922501dcd682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801135,
+            "locality_id":1193026565,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1193026565,
+    "wof:lastmodified":1537664657,
+    "wof:name":"Ianapera",
+    "wof:parent_id":1108801135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13333,
+    -23.61667000000001,
+    45.13333,
+    -23.61667000000001
+],
+  "geometry": {"coordinates":[45.13333,-23.61667000000001],"type":"Point"}
+}

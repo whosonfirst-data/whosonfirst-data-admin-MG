@@ -1,0 +1,67 @@
+{
+  "id": 1259601775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.78333,-14.11667,49.78333,-14.11667",
+    "geom:latitude":-14.11667,
+    "geom:longitude":49.78333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antsirabe",
+    "gn:country_code":"MG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069181,
+    "gn:latitude":-14.11667,
+    "gn:longitude":49.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsirabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069181
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0f682d12128099e3a4ad404ce654bcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1259601775,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1259601775,
+    "wof:lastmodified":1536688523,
+    "wof:name":"Antsirabe",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.78333,
+    -14.11667,
+    49.78333,
+    -14.11667
+],
+  "geometry": {"coordinates":[49.78333,-14.11667],"type":"Point"}
+}

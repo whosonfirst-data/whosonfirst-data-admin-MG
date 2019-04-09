@@ -1,0 +1,67 @@
+{
+  "id": 1260300471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36667,-21.85,44.36667,-21.85",
+    "geom:latitude":-21.85,
+    "geom:longitude":44.36667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Amokoty",
+    "gn:country_code":"MG",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078982,
+    "gn:latitude":-21.85,
+    "gn:longitude":44.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amokoty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078982
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"491334558cbb6cf5ff6254fd060f7a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1260300471,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1260300471,
+    "wof:lastmodified":1536689098,
+    "wof:name":"Amokoty",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36667,
+    -21.85,
+    44.36667,
+    -21.85
+],
+  "geometry": {"coordinates":[44.36667,-21.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276134231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95,-21.63333,43.95,-21.63333",
+    "geom:latitude":-21.63333,
+    "geom:longitude":43.95,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iabohompy",
+    "gn:country_code":"MG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064610,
+    "gn:latitude":-21.63333,
+    "gn:longitude":43.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Iabohompy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064610
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"06ca45d2e913db0ee77f93872196b40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1276134231,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1276134231,
+    "wof:lastmodified":1537043549,
+    "wof:name":"Iabohompy",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95,
+    -21.63333,
+    43.95,
+    -21.63333
+],
+  "geometry": {"coordinates":[43.95,-21.63333],"type":"Point"}
+}

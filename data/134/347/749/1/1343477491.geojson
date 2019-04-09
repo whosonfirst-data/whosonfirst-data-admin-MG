@@ -1,0 +1,67 @@
+{
+  "id": 1343477491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,-16.71667,47.66667,-16.71667",
+    "geom:latitude":-16.71667,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsarabanja",
+    "gn:country_code":"MG",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055259,
+    "gn:latitude":-16.71667,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsarabanja",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055259
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a063292a2d15c31b4f556971d7a0556c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801211,
+            "locality_id":1343477491,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1343477491,
+    "wof:lastmodified":1536721892,
+    "wof:name":"Tsarabanja",
+    "wof:parent_id":1108801211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    -16.71667,
+    47.66667,
+    -16.71667
+],
+  "geometry": {"coordinates":[47.66667,-16.71667],"type":"Point"}
+}

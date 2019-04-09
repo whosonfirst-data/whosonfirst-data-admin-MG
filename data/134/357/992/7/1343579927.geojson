@@ -1,0 +1,73 @@
+{
+  "id": 1343579927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.16667,-14.78333,48.16667,-14.78333",
+    "geom:latitude":-14.78333,
+    "geom:longitude":48.16667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antombodriho",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070101,
+    "gn:latitude":-14.78333,
+    "gn:longitude":48.16667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antombodriho",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tombodriha",
+        "Antombodriha",
+        "Antombodriho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070101
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1a39e0ae4dcd288be3a9fc9d64604a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801119,
+            "locality_id":1343579927,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1343579927,
+    "wof:lastmodified":1537664714,
+    "wof:name":"Antombodriho",
+    "wof:parent_id":1108801119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.16667,
+    -14.78333,
+    48.16667,
+    -14.78333
+],
+  "geometry": {"coordinates":[48.16667,-14.78333],"type":"Point"}
+}

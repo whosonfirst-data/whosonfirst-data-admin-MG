@@ -1,0 +1,77 @@
+{
+  "id": 1242709105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96667,-15.95,48.96667,-15.95",
+    "geom:latitude":-15.95,
+    "geom:longitude":48.96667,
+    "gn:admin1_code":"7670847",
+    "gn:asciiname":"Antsirabe Afovoany",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069164,
+    "gn:latitude":-15.95,
+    "gn:longitude":48.96667,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Antsirabe Afovoany",
+    "gn:population":13000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ansirabe",
+        "Antsirabe",
+        "Antsirabe Afovoany"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069164,
+        "wk:page":"Antsirabe_Afovoany"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1faa03e4eb860378ba5afcbca859d4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801185,
+            "locality_id":1242709105,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1242709105,
+    "wof:lastmodified":1537664704,
+    "wof:name":"Antsirabe Afovoany",
+    "wof:parent_id":1108801185,
+    "wof:placetype":"locality",
+    "wof:population":13000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96667,
+    -15.95,
+    48.96667,
+    -15.95
+],
+  "geometry": {"coordinates":[48.96667,-15.95],"type":"Point"}
+}

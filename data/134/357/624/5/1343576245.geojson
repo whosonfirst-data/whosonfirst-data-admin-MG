@@ -1,0 +1,61 @@
+{
+  "id": 1343576245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36667,-13.45,48.36667,-13.45",
+    "geom:latitude":-13.45,
+    "geom:longitude":48.36667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambalavelona",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083892,
+    "gn:latitude":-13.45,
+    "gn:longitude":48.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambalavelona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083892
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"18ad13f778034c42627734fac32e14d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343576245,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343576245,
+    "wof:lastmodified":1537073530,
+    "wof:name":"Ambalavelona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36667,
+    -13.45,
+    48.36667,
+    -13.45
+],
+  "geometry": {"coordinates":[48.36667,-13.45],"type":"Point"}
+}

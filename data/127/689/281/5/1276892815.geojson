@@ -1,0 +1,73 @@
+{
+  "id": 1276892815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01667,-18.98333,47.01667,-18.98333",
+    "geom:latitude":-18.98333,
+    "geom:longitude":47.01667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Soamahamanina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056468,
+    "gn:latitude":-18.98333,
+    "gn:longitude":47.01667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Soamahamanina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soamhamanina",
+        "Soamahamanina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421191751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056468,
+        "wk:page":"Soamahamanina"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dbbef6f0a3204f5acb152120a6bf58e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421191751,
+            "locality_id":1276892815,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1276892815,
+    "wof:lastmodified":1537664591,
+    "wof:name":"Soamahamanina",
+    "wof:parent_id":421191751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01667,
+    -18.98333,
+    47.01667,
+    -18.98333
+],
+  "geometry": {"coordinates":[47.01667,-18.98333],"type":"Point"}
+}

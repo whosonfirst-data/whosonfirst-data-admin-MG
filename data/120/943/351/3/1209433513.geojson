@@ -1,0 +1,68 @@
+{
+  "id": 1209433513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.96667,-13.96667,49.96667,-13.96667",
+    "geom:latitude":-13.96667,
+    "geom:longitude":49.96667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antsirabe Avaratra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069163,
+    "gn:latitude":-13.96667,
+    "gn:longitude":49.96667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsirabe Avaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsirabe",
+        "Antsirabe Nord",
+        "Antsirabe Avaratra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069163,
+        "wk:page":"Antsirabe_Nord"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"982c1a015727f7963874e022470f70d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209433513
+        }
+    ],
+    "wof:id":1209433513,
+    "wof:lastmodified":1537664704,
+    "wof:name":"Antsirabe Avaratra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.96667,
+    -13.96667,
+    49.96667,
+    -13.96667
+],
+  "geometry": {"coordinates":[49.96667,-13.96667],"type":"Point"}
+}

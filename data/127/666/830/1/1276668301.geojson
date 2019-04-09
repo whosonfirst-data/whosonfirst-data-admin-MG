@@ -1,0 +1,67 @@
+{
+  "id": 1276668301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96667,-17.76667,44.96667,-17.76667",
+    "geom:latitude":-17.76667,
+    "geom:longitude":44.96667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Androta",
+    "gn:country_code":"MG",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074144,
+    "gn:latitude":-17.76667,
+    "gn:longitude":44.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Androta",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074144
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"04eca5e6cda5964afd9e9d5a338517c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801195,
+            "locality_id":1276668301,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1276668301,
+    "wof:lastmodified":1536825921,
+    "wof:name":"Androta",
+    "wof:parent_id":1108801195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96667,
+    -17.76667,
+    44.96667,
+    -17.76667
+],
+  "geometry": {"coordinates":[44.96667,-17.76667],"type":"Point"}
+}

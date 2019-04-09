@@ -1,0 +1,67 @@
+{
+  "id": 1343976743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.38333,-14.8,49.38333,-14.8",
+    "geom:latitude":-14.8,
+    "geom:longitude":49.38333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bemanevika",
+    "gn:country_code":"MG",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067422,
+    "gn:latitude":-14.8,
+    "gn:longitude":49.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bemanevika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067422
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f4c55087228921e137349d8e3e23e5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1343976743,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1343976743,
+    "wof:lastmodified":1536995713,
+    "wof:name":"Bemanevika",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.38333,
+    -14.8,
+    49.38333,
+    -14.8
+],
+  "geometry": {"coordinates":[49.38333,-14.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310416419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03333,-17.85,45.03333,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":45.03333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Befondro",
+    "gn:country_code":"MG",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068320,
+    "gn:latitude":-17.85,
+    "gn:longitude":45.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Befondro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068320
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"afee11b0d7a5ca7fc39f41e0e206283a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801195,
+            "locality_id":1310416419,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1310416419,
+    "wof:lastmodified":1537043650,
+    "wof:name":"Befondro",
+    "wof:parent_id":1108801195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03333,
+    -17.85,
+    45.03333,
+    -17.85
+],
+  "geometry": {"coordinates":[45.03333,-17.85],"type":"Point"}
+}

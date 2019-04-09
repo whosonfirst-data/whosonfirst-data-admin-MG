@@ -1,0 +1,61 @@
+{
+  "id": 1209433611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65,-14.8,47.65,-14.8",
+    "geom:latitude":-14.8,
+    "geom:longitude":47.65,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antsahankary",
+    "gn:country_code":"MG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069777,
+    "gn:latitude":-14.8,
+    "gn:longitude":47.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsahankary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069777
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a8aff423742ec4305d3970380f1ba1eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209433611
+        }
+    ],
+    "wof:id":1209433611,
+    "wof:lastmodified":1536287165,
+    "wof:name":"Antsahankary",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65,
+    -14.8,
+    47.65,
+    -14.8
+],
+  "geometry": {"coordinates":[47.65,-14.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343277131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4,-18.4,47.4,-18.4",
+    "geom:latitude":-18.4,
+    "geom:longitude":47.4,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ampihadiambola",
+    "gn:country_code":"MG",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077849,
+    "gn:latitude":-18.4,
+    "gn:longitude":47.4,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampihadiambola",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077849
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d42dd958cd341f50947d294e29f96deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1343277131,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1343277131,
+    "wof:lastmodified":1537010094,
+    "wof:name":"Ampihadiambola",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4,
+    -18.4,
+    47.4,
+    -18.4
+],
+  "geometry": {"coordinates":[47.4,-18.4],"type":"Point"}
+}

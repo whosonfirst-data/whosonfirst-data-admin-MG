@@ -1,0 +1,67 @@
+{
+  "id": 1243078115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48333,-19.73333,44.48333,-19.73333",
+    "geom:latitude":-19.73333,
+    "geom:longitude":44.48333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samaka",
+    "gn:country_code":"MG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056928,
+    "gn:latitude":-19.73333,
+    "gn:longitude":44.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Samaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056928
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"33483f15080b7ef4973b1d8ec4794e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169785,
+            "locality_id":1243078115,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1243078115,
+    "wof:lastmodified":1536838362,
+    "wof:name":"Samaka",
+    "wof:parent_id":421169785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48333,
+    -19.73333,
+    44.48333,
+    -19.73333
+],
+  "geometry": {"coordinates":[44.48333,-19.73333],"type":"Point"}
+}

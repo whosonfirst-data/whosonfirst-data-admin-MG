@@ -1,0 +1,67 @@
+{
+  "id": 1293799069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.81667,-22.98333,46.81667,-22.98333",
+    "geom:latitude":-22.98333,
+    "geom:longitude":46.81667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Androa",
+    "gn:country_code":"MG",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074309,
+    "gn:latitude":-22.98333,
+    "gn:longitude":46.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Androa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074309
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"78b706d1a44ff75a761d2a0bf7a85af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801191,
+            "locality_id":1293799069,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1293799069,
+    "wof:lastmodified":1536833853,
+    "wof:name":"Androa",
+    "wof:parent_id":1108801191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.81667,
+    -22.98333,
+    46.81667,
+    -22.98333
+],
+  "geometry": {"coordinates":[46.81667,-22.98333],"type":"Point"}
+}

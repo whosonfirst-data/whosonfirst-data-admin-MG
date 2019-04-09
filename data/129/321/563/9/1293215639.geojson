@@ -1,0 +1,67 @@
+{
+  "id": 1293215639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.18333,-18.83333,48.18333,-18.83333",
+    "geom:latitude":-18.83333,
+    "geom:longitude":48.18333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambohimiadana",
+    "gn:country_code":"MG",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080132,
+    "gn:latitude":-18.83333,
+    "gn:longitude":48.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohimiadana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080132
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f81d6f3293ff7f54a4baef94a7cd8471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1293215639,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1293215639,
+    "wof:lastmodified":1536681812,
+    "wof:name":"Ambohimiadana",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.18333,
+    -18.83333,
+    48.18333,
+    -18.83333
+],
+  "geometry": {"coordinates":[48.18333,-18.83333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242985737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61667,-21.28333,46.61667,-21.28333",
+    "geom:latitude":-21.28333,
+    "geom:longitude":46.61667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manindroavio",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060733,
+    "gn:latitude":-21.28333,
+    "gn:longitude":46.61667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Manindroavio",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manindrohavia",
+        "Manindroavio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060733
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"74c9f70aa34142d9227617b02890b359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801153,
+            "locality_id":1242985737,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1242985737,
+    "wof:lastmodified":1537664627,
+    "wof:name":"Manindroavio",
+    "wof:parent_id":1108801153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61667,
+    -21.28333,
+    46.61667,
+    -21.28333
+],
+  "geometry": {"coordinates":[46.61667,-21.28333],"type":"Point"}
+}

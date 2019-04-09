@@ -1,0 +1,61 @@
+{
+  "id": 1209116697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.65,-16.75,49.65,-16.75",
+    "geom:latitude":-16.75,
+    "geom:longitude":49.65,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambodivoasihy",
+    "gn:country_code":"MG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080779,
+    "gn:latitude":-16.75,
+    "gn:longitude":49.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodivoasihy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080779
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f4cf95ea31df77435cbcac2fc1746ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116697
+        }
+    ],
+    "wof:id":1209116697,
+    "wof:lastmodified":1536297230,
+    "wof:name":"Ambodivoasihy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.65,
+    -16.75,
+    49.65,
+    -16.75
+],
+  "geometry": {"coordinates":[49.65,-16.75],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209225219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.31667,-13.1,49.31667,-13.1",
+    "geom:latitude":-13.1,
+    "geom:longitude":49.31667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mahasoa",
+    "gn:country_code":"MG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062488,
+    "gn:latitude":-13.1,
+    "gn:longitude":49.31667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahasoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062488
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"63899c79a5e80157e7c145d82cd80272",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209225219
+        }
+    ],
+    "wof:id":1209225219,
+    "wof:lastmodified":1536293819,
+    "wof:name":"Mahasoa",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.31667,
+    -13.1,
+    49.31667,
+    -13.1
+],
+  "geometry": {"coordinates":[49.31667,-13.1],"type":"Point"}
+}

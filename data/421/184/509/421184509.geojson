@@ -1,0 +1,75 @@
+{
+  "id": 421184509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"45.840454,-25.055745,45.840454,-25.055745",
+    "geom:latitude":-25.055745,
+    "geom:longitude":45.840454,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ambovombe",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toliara",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1000788,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":23706524,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23706524,
+        "qs:id":1000788,
+        "wd:id":"Q458507"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009413,
+    "wof:geomhash":"e0335cb5b5e0efda7c7d06c591f1c347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184509,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":421184509,
+    "wof:lastmodified":1527716451,
+    "wof:name":"Ambovombe",
+    "wof:parent_id":85673973,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.840454,
+    -25.055745,
+    45.840454,
+    -25.055745
+],
+  "geometry": {"coordinates":[45.840454,-25.055745],"type":"Point"}
+}

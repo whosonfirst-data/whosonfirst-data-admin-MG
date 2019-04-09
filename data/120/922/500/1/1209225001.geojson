@@ -1,0 +1,61 @@
+{
+  "id": 1209225001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66667,-18.11667,47.66667,-18.11667",
+    "geom:latitude":-18.11667,
+    "geom:longitude":47.66667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vohitsara",
+    "gn:country_code":"MG",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053614,
+    "gn:latitude":-18.11667,
+    "gn:longitude":47.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohitsara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053614
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6f2a1c4dd4f9047c1553515f0a02940d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209225001
+        }
+    ],
+    "wof:id":1209225001,
+    "wof:lastmodified":1536293827,
+    "wof:name":"Vohitsara",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66667,
+    -18.116670000000006,
+    47.66667,
+    -18.116670000000006
+],
+  "geometry": {"coordinates":[47.66667,-18.11667000000001],"type":"Point"}
+}

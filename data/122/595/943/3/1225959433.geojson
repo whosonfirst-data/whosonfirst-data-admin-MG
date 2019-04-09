@@ -1,0 +1,67 @@
+{
+  "id": 1225959433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41667,-17.73333,45.41667,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":45.41667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Belapa",
+    "gn:country_code":"MG",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067701,
+    "gn:latitude":-17.73333,
+    "gn:longitude":45.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Belapa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067701
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"97be74d9bb2c1d3e88bf6929a66ca6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801079,
+            "locality_id":1225959433,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1225959433,
+    "wof:lastmodified":1536848387,
+    "wof:name":"Belapa",
+    "wof:parent_id":1108801079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41667,
+    -17.73333,
+    45.41667,
+    -17.73333
+],
+  "geometry": {"coordinates":[45.41667,-17.73333],"type":"Point"}
+}

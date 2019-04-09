@@ -1,0 +1,67 @@
+{
+  "id": 1209633899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71667,-15.6,48.71667,-15.6",
+    "geom:latitude":-15.6,
+    "geom:longitude":48.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankiabe-Salohy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072491,
+    "gn:latitude":-15.6,
+    "gn:longitude":48.71667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankiabe-Salohy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankiabe",
+        "Ankiabe-Salohy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072491,
+        "wk:page":"Ankiabe_Salohy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9c0debe9e9ee4f27c11f2554492eb447",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209633899
+        }
+    ],
+    "wof:id":1209633899,
+    "wof:lastmodified":1537664737,
+    "wof:name":"Ankiabe-Salohy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71667,
+    -15.6,
+    48.71667,
+    -15.6
+],
+  "geometry": {"coordinates":[48.71667,-15.6],"type":"Point"}
+}

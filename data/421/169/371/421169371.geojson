@@ -1,0 +1,103 @@
+{
+  "id": 421169371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58333,-21.15,46.58333,-21.15",
+    "geom:latitude":-21.15,
+    "geom:longitude":46.58333,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ikalamavony"
+    ],
+    "name:eng_x_preferred":[
+        "Ikalamavony"
+    ],
+    "name:fra_x_preferred":[
+        "Ikalamavony"
+    ],
+    "name:fre_x_preferred":[
+        "Ikalamavony"
+    ],
+    "name:mlg_x_preferred":[
+        "Ikalamavony"
+    ],
+    "name:nld_x_preferred":[
+        "Ikalamavony"
+    ],
+    "name:pol_x_preferred":[
+        "Ikalamavony"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1064258,
+    "qs:gn_pop":15601,
+    "qs:name":"Ikalamavony",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Fianarantsoa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1297725,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1361282,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064258,
+        "gp:id":1361282,
+        "qs:id":1297725,
+        "wd:id":"Q3148385",
+        "wk:page":"Ikalamavony"
+    },
+    "wof:country":"MG",
+    "wof:created":1459008807,
+    "wof:geomhash":"9af7c9dfc0eb638bf5774ecc8301a2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801153,
+            "locality_id":421169371,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":421169371,
+    "wof:lastmodified":1527716169,
+    "wof:name":"Ikalamavony",
+    "wof:parent_id":1108801153,
+    "wof:placetype":"locality",
+    "wof:population":15601,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58333,
+    -21.15,
+    46.58333,
+    -21.15
+],
+  "geometry": {"coordinates":[46.58333,-21.15],"type":"Point"}
+}

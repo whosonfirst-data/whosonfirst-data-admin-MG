@@ -1,0 +1,61 @@
+{
+  "id": 1209530729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25,-20.6,48.25,-20.6",
+    "geom:latitude":-20.6,
+    "geom:longitude":48.25,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pomanitra",
+    "gn:country_code":"MG",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058000,
+    "gn:latitude":-20.6,
+    "gn:longitude":48.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Pomanitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058000
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c1675457fccef009b49d28083821b40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209530729
+        }
+    ],
+    "wof:id":1209530729,
+    "wof:lastmodified":1536284288,
+    "wof:name":"Pomanitra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25,
+    -20.6,
+    48.25,
+    -20.6
+],
+  "geometry": {"coordinates":[48.25,-20.6],"type":"Point"}
+}

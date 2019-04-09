@@ -1,0 +1,72 @@
+{
+  "id": 1360199825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83333,-21.36667,44.83333,-21.36667",
+    "geom:latitude":-21.36667,
+    "geom:longitude":44.83333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vohemary",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054085,
+    "gn:latitude":-21.36667,
+    "gn:longitude":44.83333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Vohemary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vohonary",
+        "Vohemary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054085
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"72cb5a7d1b6425a2b47b14986517dc04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801137,
+            "locality_id":1360199825,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1360199825,
+    "wof:lastmodified":1537664568,
+    "wof:name":"Vohemary",
+    "wof:parent_id":1108801137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83333,
+    -21.36667000000001,
+    44.83333,
+    -21.36667000000001
+],
+  "geometry": {"coordinates":[44.83333,-21.36667000000001],"type":"Point"}
+}

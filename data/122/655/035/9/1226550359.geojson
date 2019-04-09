@@ -1,0 +1,73 @@
+{
+  "id": 1226550359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.06667,-22.75,44.06667,-22.75",
+    "geom:latitude":-22.75,
+    "geom:longitude":44.06667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mikoboka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058904,
+    "gn:latitude":-22.75,
+    "gn:longitude":44.06667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mikoboka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soatanana",
+        "Mikoboka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058904,
+        "wk:page":"Mikoboka"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1896030d94d7d63a49b451fe5676d042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1226550359,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1226550359,
+    "wof:lastmodified":1537664611,
+    "wof:name":"Mikoboka",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.06667,
+    -22.75,
+    44.06667,
+    -22.75
+],
+  "geometry": {"coordinates":[44.06667,-22.75],"type":"Point"}
+}

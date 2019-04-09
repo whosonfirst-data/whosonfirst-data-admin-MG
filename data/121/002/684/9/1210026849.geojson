@@ -1,0 +1,67 @@
+{
+  "id": 1210026849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91667,-15.43333,46.91667,-15.43333",
+    "geom:latitude":-15.43333,
+    "geom:longitude":46.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antsanifera",
+    "gn:country_code":"MG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069479,
+    "gn:latitude":-15.43333,
+    "gn:longitude":46.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsanifera",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        890442887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069479
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6d65b642356acefca24fa270bccd04b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890442887,
+            "locality_id":1210026849,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1210026849,
+    "wof:lastmodified":1536390338,
+    "wof:name":"Antsanifera",
+    "wof:parent_id":890442887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91667,
+    -15.43333,
+    46.91667,
+    -15.43333
+],
+  "geometry": {"coordinates":[46.91667,-15.43333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242592629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88333,-21.4,44.88333,-21.4",
+    "geom:latitude":-21.4,
+    "geom:longitude":44.88333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsaravinany",
+    "gn:country_code":"MG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055007,
+    "gn:latitude":-21.4,
+    "gn:longitude":44.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsaravinany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055007
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"842db02fba3ac9ac22fc7fb27538833a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801137,
+            "locality_id":1242592629,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1242592629,
+    "wof:lastmodified":1537040207,
+    "wof:name":"Tsaravinany",
+    "wof:parent_id":1108801137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88333,
+    -21.4,
+    44.88333,
+    -21.4
+],
+  "geometry": {"coordinates":[44.88333,-21.4],"type":"Point"}
+}

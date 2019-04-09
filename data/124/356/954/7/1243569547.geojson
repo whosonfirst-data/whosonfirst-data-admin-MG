@@ -1,0 +1,67 @@
+{
+  "id": 1243569547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.21667,-14.83333,50.21667,-14.83333",
+    "geom:latitude":-14.83333,
+    "geom:longitude":50.21667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Androranga",
+    "gn:country_code":"MG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074181,
+    "gn:latitude":-14.83333,
+    "gn:longitude":50.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Androranga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421196875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074181
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b605d66e49fb0504613f4325d730b3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421196875,
+            "locality_id":1243569547,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1243569547,
+    "wof:lastmodified":1536626225,
+    "wof:name":"Androranga",
+    "wof:parent_id":421196875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.21667,
+    -14.83333,
+    50.21667,
+    -14.83333
+],
+  "geometry": {"coordinates":[50.21667,-14.83333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293794273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.53333,-24.0,46.53333,-24.0",
+    "geom:latitude":-24.0,
+    "geom:longitude":46.53333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Elovia",
+    "gn:country_code":"MG",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065432,
+    "gn:latitude":-24.0,
+    "gn:longitude":46.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Elovia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065432
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d7ea07035b6780ed5bc3fe86f8b57313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1293794273,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1293794273,
+    "wof:lastmodified":1536840745,
+    "wof:name":"Elovia",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.53333,
+    -24.0,
+    46.53333,
+    -24.0
+],
+  "geometry": {"coordinates":[46.53333,-24.0],"type":"Point"}
+}

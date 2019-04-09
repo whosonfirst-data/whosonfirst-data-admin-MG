@@ -1,0 +1,65 @@
+{
+  "id": 102542343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9558333333,-25.0380555556,46.9558333333,-25.0380555556",
+    "geom:latitude":-25.038056,
+    "geom:longitude":46.955833,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"29",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706580,
+        "planet_id":1,
+        "state_id":2346151
+    },
+    "wof:belongsto":[
+        85632223,
+        85673977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514709,
+        "iata:code":"FTU",
+        "icao:code":"FMSD",
+        "oa:id":"2927",
+        "wd:id":"Q939516"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"08e8b996857a03fce241d6f6a3d31b03",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542343,
+            "country_id":85632223,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":102542343,
+    "wof:lastmodified":1543856641,
+    "wof:name":"Tolagnaro Airport",
+    "wof:parent_id":85673977,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    46.955833333333,
+    -25.038055555556,
+    46.955833333333,
+    -25.038055555556
+],
+  "geometry": {"coordinates":[46.955833333333,-25.038055555556],"type":"Point"}
+}

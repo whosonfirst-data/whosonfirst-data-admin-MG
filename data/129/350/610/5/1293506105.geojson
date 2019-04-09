@@ -1,0 +1,67 @@
+{
+  "id": 1293506105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98333,-24.61667,46.98333,-24.61667",
+    "geom:latitude":-24.61667,
+    "geom:longitude":46.98333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anonobe",
+    "gn:country_code":"MG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071554,
+    "gn:latitude":-24.61667,
+    "gn:longitude":46.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anonobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071554
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5fe296d44b4a7619331842a06a7fbd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1293506105,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1293506105,
+    "wof:lastmodified":1536760398,
+    "wof:name":"Anonobe",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98333,
+    -24.61667000000001,
+    46.98333,
+    -24.61667000000001
+],
+  "geometry": {"coordinates":[46.98333,-24.61667000000001],"type":"Point"}
+}

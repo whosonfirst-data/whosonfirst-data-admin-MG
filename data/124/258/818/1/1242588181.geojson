@@ -1,0 +1,67 @@
+{
+  "id": 1242588181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78333,-19.25,48.78333,-19.25",
+    "geom:latitude":-19.25,
+    "geom:longitude":48.78333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Morarano",
+    "gn:country_code":"MG",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058480,
+    "gn:latitude":-19.25,
+    "gn:longitude":48.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Morarano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        421184617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058480
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f7add6a14cbebece063430dd6b49ac52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184617,
+            "locality_id":1242588181,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1242588181,
+    "wof:lastmodified":1537046360,
+    "wof:name":"Morarano",
+    "wof:parent_id":421184617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78333,
+    -19.25,
+    48.78333,
+    -19.25
+],
+  "geometry": {"coordinates":[48.78333,-19.25],"type":"Point"}
+}

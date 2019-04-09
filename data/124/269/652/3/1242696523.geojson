@@ -1,0 +1,72 @@
+{
+  "id": 1242696523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6,-24.08333,44.6,-24.08333",
+    "geom:latitude":-24.08333,
+    "geom:longitude":44.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bekatsakatsa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068023,
+    "gn:latitude":-24.08333,
+    "gn:longitude":44.6,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bekatsakatsa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekatakatsa",
+        "Bekatsakatsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068023
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a256bc13bbbd141e3325bd363a5f8d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1242696523,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1242696523,
+    "wof:lastmodified":1537664693,
+    "wof:name":"Bekatsakatsa",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6,
+    -24.08333,
+    44.6,
+    -24.08333
+],
+  "geometry": {"coordinates":[44.6,-24.08333],"type":"Point"}
+}

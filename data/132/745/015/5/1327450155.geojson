@@ -1,0 +1,67 @@
+{
+  "id": 1327450155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23333,-15.73333,46.23333,-15.73333",
+    "geom:latitude":-15.73333,
+    "geom:longitude":46.23333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amparihilava",
+    "gn:country_code":"MG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078392,
+    "gn:latitude":-15.73333,
+    "gn:longitude":46.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amparihilava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        1108801193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078392
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0ce5185eab8b23ee8e076cf94ad6c2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801193,
+            "locality_id":1327450155,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1327450155,
+    "wof:lastmodified":1536655125,
+    "wof:name":"Amparihilava",
+    "wof:parent_id":1108801193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23333,
+    -15.73333,
+    46.23333,
+    -15.73333
+],
+  "geometry": {"coordinates":[46.23333,-15.73333],"type":"Point"}
+}

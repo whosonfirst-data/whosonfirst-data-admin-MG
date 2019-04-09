@@ -1,0 +1,61 @@
+{
+  "id": 1209534347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75,-23.3,43.75,-23.3",
+    "geom:latitude":-23.3,
+    "geom:longitude":43.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anolaka",
+    "gn:country_code":"MG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071565,
+    "gn:latitude":-23.3,
+    "gn:longitude":43.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anolaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071565
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"abc13b8cc0fcf00611dfb56d038ae316",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209534347
+        }
+    ],
+    "wof:id":1209534347,
+    "wof:lastmodified":1536284185,
+    "wof:name":"Anolaka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75,
+    -23.3,
+    43.75,
+    -23.3
+],
+  "geometry": {"coordinates":[43.75,-23.3],"type":"Point"}
+}

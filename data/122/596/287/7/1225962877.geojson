@@ -1,0 +1,67 @@
+{
+  "id": 1225962877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.38333,-19.81667,47.38333,-19.81667",
+    "geom:latitude":-19.81667,
+    "geom:longitude":47.38333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Avaratsena",
+    "gn:country_code":"MG",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068786,
+    "gn:latitude":-19.81667,
+    "gn:longitude":47.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Avaratsena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421204565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068786
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cc791aee1db6955744ba1981e4e90ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421204565,
+            "locality_id":1225962877,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1225962877,
+    "wof:lastmodified":1536843525,
+    "wof:name":"Avaratsena",
+    "wof:parent_id":421204565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.38333,
+    -19.81667,
+    47.38333,
+    -19.81667
+],
+  "geometry": {"coordinates":[47.38333,-19.81667],"type":"Point"}
+}

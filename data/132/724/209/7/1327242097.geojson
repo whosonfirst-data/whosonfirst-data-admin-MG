@@ -1,0 +1,67 @@
+{
+  "id": 1327242097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.538,-18.976,47.538,-18.976",
+    "geom:latitude":-18.976,
+    "geom:longitude":47.538,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Andoharanofotsy",
+    "gn:country_code":"MG",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075956,
+    "gn:latitude":-18.976,
+    "gn:longitude":47.538,
+    "gn:modification_date":"2016-10-04",
+    "gn:name":"Andoharanofotsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421200823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075956
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"89bb9174fc83c6939360640fb92835d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421200823,
+            "locality_id":1327242097,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1327242097,
+    "wof:lastmodified":1536955528,
+    "wof:name":"Andoharanofotsy",
+    "wof:parent_id":421200823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.538,
+    -18.976,
+    47.538,
+    -18.976
+],
+  "geometry": {"coordinates":[47.538,-18.976],"type":"Point"}
+}

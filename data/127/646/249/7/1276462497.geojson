@@ -1,0 +1,67 @@
+{
+  "id": 1276462497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51667,-20.05,45.51667,-20.05",
+    "geom:latitude":-20.05,
+    "geom:longitude":45.51667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andraketa",
+    "gn:country_code":"MG",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075622,
+    "gn:latitude":-20.05,
+    "gn:longitude":45.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andraketa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075622
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"63af4be78973458078a5883926642536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169603,
+            "locality_id":1276462497,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1276462497,
+    "wof:lastmodified":1536602560,
+    "wof:name":"Andraketa",
+    "wof:parent_id":421169603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51667,
+    -20.05,
+    45.51667,
+    -20.05
+],
+  "geometry": {"coordinates":[45.51667,-20.05],"type":"Point"}
+}

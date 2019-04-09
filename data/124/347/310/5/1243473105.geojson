@@ -1,0 +1,67 @@
+{
+  "id": 1243473105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.33333,-17.63333,49.33333,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":49.33333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sandramalo",
+    "gn:country_code":"MG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056852,
+    "gn:latitude":-17.63333,
+    "gn:longitude":49.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sandramalo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056852
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"168708e5ffc5f66459747910e780a466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1243473105,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1243473105,
+    "wof:lastmodified":1536767535,
+    "wof:name":"Sandramalo",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.33333,
+    -17.63332999999999,
+    49.33333,
+    -17.63332999999999
+],
+  "geometry": {"coordinates":[49.33333,-17.63332999999999],"type":"Point"}
+}

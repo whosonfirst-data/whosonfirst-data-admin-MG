@@ -1,0 +1,93 @@
+{
+  "id": 421169687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7,-23.26667,43.7,-23.26667",
+    "geom:latitude":-23.26667,
+    "geom:longitude":43.7,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Maromiandra"
+    ],
+    "name:eng_x_preferred":[
+        "Maromiandra"
+    ],
+    "name:fre_x_preferred":[
+        "Maromiandra"
+    ],
+    "name:mlg_x_preferred":[
+        "Maromiandra"
+    ],
+    "name:unk_x_variant":[
+        "Maromandra"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1059881,
+    "qs:gn_pop":0,
+    "qs:name":"Maromiandra",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toliara",
+    "qs:photos":152,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":152,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":229272,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1498329,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059881,
+        "gp:id":1498329,
+        "qs:id":229272,
+        "wd:id":"Q3294601",
+        "wk:page":"Maromiandra, Toliara II"
+    },
+    "wof:country":"MG",
+    "wof:created":1459008820,
+    "wof:geomhash":"f2b3e37d069a757e37ad4b519d5de18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":421169687,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":421169687,
+    "wof:lastmodified":1553816358,
+    "wof:name":"Maromiandra",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7,
+    -23.26667,
+    43.7,
+    -23.26667
+],
+  "geometry": {"coordinates":[43.7,-23.26667],"type":"Point"}
+}

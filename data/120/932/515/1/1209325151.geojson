@@ -1,0 +1,66 @@
+{
+  "id": 1209325151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01667,-24.73333,46.01667,-24.73333",
+    "geom:latitude":-24.73333,
+    "geom:longitude":46.01667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bebakaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068510,
+    "gn:latitude":-24.73333,
+    "gn:longitude":46.01667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bebakaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobokara",
+        "Bebakaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068510
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ad3a51c7f9834444ed3586773ffe8b10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209325151
+        }
+    ],
+    "wof:id":1209325151,
+    "wof:lastmodified":1537664698,
+    "wof:name":"Bebakaka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01667,
+    -24.73333,
+    46.01667,
+    -24.73333
+],
+  "geometry": {"coordinates":[46.01667,-24.73333],"type":"Point"}
+}

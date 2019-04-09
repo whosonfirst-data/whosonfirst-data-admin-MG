@@ -1,0 +1,72 @@
+{
+  "id": 1259898707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35,-24.8,45.35,-24.8",
+    "geom:latitude":-24.8,
+    "geom:longitude":45.35,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambinanitelo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082142,
+    "gn:latitude":-24.8,
+    "gn:longitude":45.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambinanitelo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambinanytelo",
+        "Ambinanitelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082142
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2ec7ee3aac4ee79f1f58c59dbca1be0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1259898707,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1259898707,
+    "wof:lastmodified":1537664809,
+    "wof:name":"Ambinanitelo",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35,
+    -24.8,
+    45.35,
+    -24.8
+],
+  "geometry": {"coordinates":[45.35,-24.8],"type":"Point"}
+}

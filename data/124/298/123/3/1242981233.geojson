@@ -1,0 +1,67 @@
+{
+  "id": 1242981233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.18333,-18.18333,46.18333,-18.18333",
+    "geom:latitude":-18.18333,
+    "geom:longitude":46.18333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohimenakely",
+    "gn:country_code":"MG",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080135,
+    "gn:latitude":-18.18333,
+    "gn:longitude":46.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohimenakely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        1108801151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080135
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7ec1e7f5a000d233ec0fead470a149fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801151,
+            "locality_id":1242981233,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1242981233,
+    "wof:lastmodified":1536978558,
+    "wof:name":"Ambohimenakely",
+    "wof:parent_id":1108801151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.18333,
+    -18.18333,
+    46.18333,
+    -18.18333
+],
+  "geometry": {"coordinates":[46.18333,-18.18333],"type":"Point"}
+}

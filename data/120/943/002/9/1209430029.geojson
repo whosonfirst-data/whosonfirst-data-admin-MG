@@ -1,0 +1,61 @@
+{
+  "id": 1209430029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.71667,-22.73333,47.71667,-22.73333",
+    "geom:latitude":-22.73333,
+    "geom:longitude":47.71667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohilava",
+    "gn:country_code":"MG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053940,
+    "gn:latitude":-22.73333,
+    "gn:longitude":47.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohilava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053940
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7a3513706409dda2a695649df307c352",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209430029
+        }
+    ],
+    "wof:id":1209430029,
+    "wof:lastmodified":1536287263,
+    "wof:name":"Vohilava",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.71667,
+    -22.73333,
+    47.71667,
+    -22.73333
+],
+  "geometry": {"coordinates":[47.71667,-22.73333],"type":"Point"}
+}

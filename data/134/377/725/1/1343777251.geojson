@@ -1,0 +1,67 @@
+{
+  "id": 1343777251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11667,-20.65,47.11667,-20.65",
+    "geom:latitude":-20.65,
+    "geom:longitude":47.11667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsarafandry",
+    "gn:country_code":"MG",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055247,
+    "gn:latitude":-20.65,
+    "gn:longitude":47.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsarafandry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        1108801177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055247
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d89f126d7dcbb3a187ee9a410f115d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801177,
+            "locality_id":1343777251,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1343777251,
+    "wof:lastmodified":1536787123,
+    "wof:name":"Tsarafandry",
+    "wof:parent_id":1108801177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11667,
+    -20.65,
+    47.11667,
+    -20.65
+],
+  "geometry": {"coordinates":[47.11667,-20.65],"type":"Point"}
+}

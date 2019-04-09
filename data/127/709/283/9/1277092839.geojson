@@ -1,0 +1,70 @@
+{
+  "id": 1277092839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.35,-12.23333,49.35,-12.23333",
+    "geom:latitude":-12.23333,
+    "geom:longitude":49.35,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Anoronjia",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071521,
+    "gn:latitude":-12.23333,
+    "gn:longitude":49.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Anoronjia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amoronjia-Orang\u00e9a",
+        "Orangia",
+        "Orong\u00e9a",
+        "Oronjia",
+        "Orang\u00e9a",
+        "Anoronjia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071521
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7fedd0996b4f4de1da2471554fc203d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277092839,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277092839,
+    "wof:lastmodified":1537664727,
+    "wof:name":"Anoronjia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35,
+    -12.23333,
+    49.35,
+    -12.23333
+],
+  "geometry": {"coordinates":[49.35,-12.23333],"type":"Point"}
+}

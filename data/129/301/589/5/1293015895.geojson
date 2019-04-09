@@ -1,0 +1,72 @@
+{
+  "id": 1293015895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33333,-22.91667,44.33333,-22.91667",
+    "geom:latitude":-22.91667,
+    "geom:longitude":44.33333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankiloka Avaratra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072074,
+    "gn:latitude":-22.91667,
+    "gn:longitude":44.33333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankiloka Avaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankiloka",
+        "Ankiloka Avaratra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072074
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9507b2292ed019434d4c726a7c69c31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1293015895,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293015895,
+    "wof:lastmodified":1537664732,
+    "wof:name":"Ankiloka Avaratra",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33333,
+    -22.91667,
+    44.33333,
+    -22.91667
+],
+  "geometry": {"coordinates":[44.33333,-22.91667],"type":"Point"}
+}

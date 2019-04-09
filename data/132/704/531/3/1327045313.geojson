@@ -1,0 +1,67 @@
+{
+  "id": 1327045313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8,-21.45,47.8,-21.45",
+    "geom:latitude":-21.45,
+    "geom:longitude":47.8,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ampasimbe",
+    "gn:country_code":"MG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078120,
+    "gn:latitude":-21.45,
+    "gn:longitude":47.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampasimbe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421197047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078120
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4b69ab5dac2208024754fa284f77aef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421197047,
+            "locality_id":1327045313,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1327045313,
+    "wof:lastmodified":1536741547,
+    "wof:name":"Ampasimbe",
+    "wof:parent_id":421197047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8,
+    -21.45,
+    47.8,
+    -21.45
+],
+  "geometry": {"coordinates":[47.8,-21.45],"type":"Point"}
+}

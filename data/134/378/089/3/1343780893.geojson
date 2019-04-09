@@ -1,0 +1,72 @@
+{
+  "id": 1343780893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36667,-16.76667,48.36667,-16.76667",
+    "geom:latitude":-16.76667,
+    "geom:longitude":48.36667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tanonanifololahy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055559,
+    "gn:latitude":-16.76667,
+    "gn:longitude":48.36667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tanonanifololahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antananifololahy",
+        "Tanonanifololahy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055559
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7272c49692b5b61f484dc36a8ff188c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1343780893,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1343780893,
+    "wof:lastmodified":1537664582,
+    "wof:name":"Tanonanifololahy",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36667,
+    -16.76667,
+    48.36667,
+    -16.76667
+],
+  "geometry": {"coordinates":[48.36667,-16.76667],"type":"Point"}
+}

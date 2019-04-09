@@ -1,0 +1,67 @@
+{
+  "id": 1344167477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75,-21.46667,43.75,-21.46667",
+    "geom:latitude":-21.46667,
+    "geom:longitude":43.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Marovala",
+    "gn:country_code":"MG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059637,
+    "gn:latitude":-21.46667,
+    "gn:longitude":43.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marovala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059637
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bd4b3d0548f8e31e696b350e2584817b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1344167477,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1344167477,
+    "wof:lastmodified":1536721422,
+    "wof:name":"Marovala",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75,
+    -21.46667,
+    43.75,
+    -21.46667
+],
+  "geometry": {"coordinates":[43.75,-21.46667],"type":"Point"}
+}

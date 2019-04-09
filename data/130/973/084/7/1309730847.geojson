@@ -1,0 +1,67 @@
+{
+  "id": 1309730847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.41667,-24.41667,46.41667,-24.41667",
+    "geom:latitude":-24.41667,
+    "geom:longitude":46.41667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsakoamiary",
+    "gn:country_code":"MG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069630,
+    "gn:latitude":-24.41667,
+    "gn:longitude":46.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsakoamiary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069630
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a8f2a36c75d7bc6620da5802d91d4161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1309730847,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1309730847,
+    "wof:lastmodified":1537037524,
+    "wof:name":"Antsakoamiary",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.41667,
+    -24.41667,
+    46.41667,
+    -24.41667
+],
+  "geometry": {"coordinates":[46.41667,-24.41667],"type":"Point"}
+}

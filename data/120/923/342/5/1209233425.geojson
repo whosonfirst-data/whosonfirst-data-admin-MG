@@ -1,0 +1,61 @@
+{
+  "id": 1209233425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38333,-22.66667,45.38333,-22.66667",
+    "geom:latitude":-22.66667,
+    "geom:longitude":45.38333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tambohitra",
+    "gn:country_code":"MG",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055972,
+    "gn:latitude":-22.66667,
+    "gn:longitude":45.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tambohitra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055972
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bc7df5bdca9b2dd2e63c57640b56b51f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209233425
+        }
+    ],
+    "wof:id":1209233425,
+    "wof:lastmodified":1536293564,
+    "wof:name":"Tambohitra",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38333,
+    -22.66667,
+    45.38333,
+    -22.66667
+],
+  "geometry": {"coordinates":[45.38333,-22.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276892747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25,-20.88333,46.25,-20.88333",
+    "geom:latitude":-20.88333,
+    "geom:longitude":46.25,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambalamafina",
+    "gn:country_code":"MG",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084307,
+    "gn:latitude":-20.88333,
+    "gn:longitude":46.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambalamafina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084307
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dc9b6e15e967e122651313dc3f8a4b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1276892747,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1276892747,
+    "wof:lastmodified":1537022886,
+    "wof:name":"Ambalamafina",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25,
+    -20.88333,
+    46.25,
+    -20.88333
+],
+  "geometry": {"coordinates":[46.25,-20.88333],"type":"Point"}
+}

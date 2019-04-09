@@ -1,0 +1,73 @@
+{
+  "id": 1242989553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43333,-16.25,45.43333,-16.25",
+    "geom:latitude":-16.25,
+    "geom:longitude":45.43333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Madiromileka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062887,
+    "gn:latitude":-16.25,
+    "gn:longitude":45.43333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Madiromileka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madiromena",
+        "Madiromanera",
+        "Madiromileka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        1108801205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062887
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3df3ed3f2b2bc53c25accfe35f73eab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801205,
+            "locality_id":1242989553,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1242989553,
+    "wof:lastmodified":1537664643,
+    "wof:name":"Madiromileka",
+    "wof:parent_id":1108801205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43333,
+    -16.25,
+    45.43333,
+    -16.25
+],
+  "geometry": {"coordinates":[45.43333,-16.25],"type":"Point"}
+}

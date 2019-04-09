@@ -1,0 +1,61 @@
+{
+  "id": 1209022829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41667,-24.75,45.41667,-24.75",
+    "geom:latitude":-24.75,
+    "geom:longitude":45.41667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antafianampela Ambany",
+    "gn:country_code":"MG",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071347,
+    "gn:latitude":-24.75,
+    "gn:longitude":45.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antafianampela Ambany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071347
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e00b647a255023d8e434a388e488d045",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209022829
+        }
+    ],
+    "wof:id":1209022829,
+    "wof:lastmodified":1536300092,
+    "wof:name":"Antafianampela Ambany",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41667,
+    -24.75,
+    45.41667,
+    -24.75
+],
+  "geometry": {"coordinates":[45.41667,-24.75],"type":"Point"}
+}

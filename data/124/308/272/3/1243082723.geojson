@@ -1,0 +1,73 @@
+{
+  "id": 1243082723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05,-24.35,45.05,-24.35",
+    "geom:latitude":-24.35,
+    "geom:longitude":45.05,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Votovoatavo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053464,
+    "gn:latitude":-24.35,
+    "gn:longitude":45.05,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Votovoatavo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Votovoatava",
+        "Vontovoatavo",
+        "Votovoatavo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053464
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bd57b07d168f3856ebd3ad05b668b526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1243082723,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243082723,
+    "wof:lastmodified":1537664564,
+    "wof:name":"Votovoatavo",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05,
+    -24.35,
+    45.05,
+    -24.35
+],
+  "geometry": {"coordinates":[45.05,-24.35],"type":"Point"}
+}

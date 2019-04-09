@@ -1,0 +1,68 @@
+{
+  "id": 1225863523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.65,-15.65,49.65,-15.65",
+    "geom:latitude":-15.65,
+    "geom:longitude":49.65,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rantahely",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057838,
+    "gn:latitude":-15.65,
+    "gn:longitude":49.65,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Rantahely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rantohely",
+        "Rantahely"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057838
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"41d3f2a8492be3dc9485948167323e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1225863523,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225863523,
+    "wof:lastmodified":1537664603,
+    "wof:name":"Rantahely",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.65,
+    -15.65,
+    49.65,
+    -15.65
+],
+  "geometry": {"coordinates":[49.65,-15.65],"type":"Point"}
+}

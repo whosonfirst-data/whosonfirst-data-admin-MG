@@ -1,0 +1,61 @@
+{
+  "id": 1209124781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75,-23.55,43.75,-23.55",
+    "geom:latitude":-23.55,
+    "geom:longitude":43.75,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tambohoabo",
+    "gn:country_code":"MG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055970,
+    "gn:latitude":-23.55,
+    "gn:longitude":43.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tambohoabo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055970
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cf1931df261f2796bb38fb22c12e6a2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209124781
+        }
+    ],
+    "wof:id":1209124781,
+    "wof:lastmodified":1536296987,
+    "wof:name":"Tambohoabo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75,
+    -23.55,
+    43.75,
+    -23.55
+],
+  "geometry": {"coordinates":[43.75,-23.55],"type":"Point"}
+}

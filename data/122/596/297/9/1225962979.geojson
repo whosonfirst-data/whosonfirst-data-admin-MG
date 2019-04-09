@@ -1,0 +1,67 @@
+{
+  "id": 1225962979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.73333,-25.16667,45.73333,-25.16667",
+    "geom:latitude":-25.16667,
+    "geom:longitude":45.73333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tanambao",
+    "gn:country_code":"MG",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055740,
+    "gn:latitude":-25.16667,
+    "gn:longitude":45.73333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tanambao",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055740
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0097c4bdc68923dab1e009c2bf8f8719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1225962979,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1225962979,
+    "wof:lastmodified":1536843383,
+    "wof:name":"Tanambao",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.73333,
+    -25.16667,
+    45.73333,
+    -25.16667
+],
+  "geometry": {"coordinates":[45.73333,-25.16667],"type":"Point"}
+}

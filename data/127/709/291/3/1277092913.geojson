@@ -1,0 +1,66 @@
+{
+  "id": 1277092913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25,-22.0,43.25,-22.0",
+    "geom:latitude":-22.0,
+    "geom:longitude":43.25,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsatramoroy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069392,
+    "gn:latitude":-22.0,
+    "gn:longitude":43.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antsatramoroy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsatsamoroy",
+        "Antsatramoroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069392
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1afabc4711f59ea78db8f4ea64bf1710",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277092913,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277092913,
+    "wof:lastmodified":1537664706,
+    "wof:name":"Antsatramoroy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25,
+    -22.0,
+    43.25,
+    -22.0
+],
+  "geometry": {"coordinates":[43.25,-22.0],"type":"Point"}
+}

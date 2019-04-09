@@ -1,0 +1,67 @@
+{
+  "id": 1276134195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21667,-19.98333,48.21667,-19.98333",
+    "geom:latitude":-19.98333,
+    "geom:longitude":48.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tsivalana",
+    "gn:country_code":"MG",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054404,
+    "gn:latitude":-19.98333,
+    "gn:longitude":48.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsivalana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        1108801189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054404
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dc2a37f65039613fe97387f44e4fb6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801189,
+            "locality_id":1276134195,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1276134195,
+    "wof:lastmodified":1537043603,
+    "wof:name":"Tsivalana",
+    "wof:parent_id":1108801189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21667,
+    -19.98333,
+    48.21667,
+    -19.98333
+],
+  "geometry": {"coordinates":[48.21667,-19.98333],"type":"Point"}
+}

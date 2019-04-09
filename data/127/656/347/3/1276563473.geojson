@@ -1,0 +1,67 @@
+{
+  "id": 1276563473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.93333,-25.1,44.93333,-25.1",
+    "geom:latitude":-25.1,
+    "geom:longitude":44.93333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Itilihitsy",
+    "gn:country_code":"MG",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063912,
+    "gn:latitude":-25.1,
+    "gn:longitude":44.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Itilihitsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063912
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2e5e8c48d2d2c08e25c0f6ff0f48b0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1276563473,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1276563473,
+    "wof:lastmodified":1536967407,
+    "wof:name":"Itilihitsy",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.93333,
+    -25.1,
+    44.93333,
+    -25.1
+],
+  "geometry": {"coordinates":[44.93333,-25.1],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310511997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05,-23.78333,47.05,-23.78333",
+    "geom:latitude":-23.78333,
+    "geom:longitude":47.05,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohitetso",
+    "gn:country_code":"MG",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053716,
+    "gn:latitude":-23.78333,
+    "gn:longitude":47.05,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohitetso",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053716
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7b83bcfa93f382e21898d7850e4b6a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1310511997,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1310511997,
+    "wof:lastmodified":1536907721,
+    "wof:name":"Vohitetso",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05,
+    -23.78333,
+    47.05,
+    -23.78333
+],
+  "geometry": {"coordinates":[47.05,-23.78333],"type":"Point"}
+}

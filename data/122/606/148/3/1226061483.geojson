@@ -1,0 +1,67 @@
+{
+  "id": 1226061483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7,-21.05,47.7,-21.05",
+    "geom:latitude":-21.05,
+    "geom:longitude":47.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marofototra",
+    "gn:country_code":"MG",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060162,
+    "gn:latitude":-21.05,
+    "gn:longitude":47.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marofototra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421197047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060162
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"56e2dc73bd8ba13333bd889e190ddfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421197047,
+            "locality_id":1226061483,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1226061483,
+    "wof:lastmodified":1536702758,
+    "wof:name":"Marofototra",
+    "wof:parent_id":421197047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7,
+    -21.05,
+    47.7,
+    -21.05
+],
+  "geometry": {"coordinates":[47.7,-21.05],"type":"Point"}
+}

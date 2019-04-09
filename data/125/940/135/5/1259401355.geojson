@@ -1,0 +1,67 @@
+{
+  "id": 1259401355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8,-22.5,47.8,-22.5",
+    "geom:latitude":-22.5,
+    "geom:longitude":47.8,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ebono",
+    "gn:country_code":"MG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065473,
+    "gn:latitude":-22.5,
+    "gn:longitude":47.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ebono",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065473
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9f26a0b21b5b56cc63b561cbb3cb7654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801147,
+            "locality_id":1259401355,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1259401355,
+    "wof:lastmodified":1536976133,
+    "wof:name":"Ebono",
+    "wof:parent_id":1108801147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8,
+    -22.5,
+    47.8,
+    -22.5
+],
+  "geometry": {"coordinates":[47.8,-22.5],"type":"Point"}
+}

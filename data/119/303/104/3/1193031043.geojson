@@ -1,0 +1,72 @@
+{
+  "id": 1193031043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.35,-14.95,49.35,-14.95",
+    "geom:latitude":-14.95,
+    "geom:longitude":49.35,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Andripamena",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074316,
+    "gn:latitude":-14.95,
+    "gn:longitude":49.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andripamena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andriapamena",
+        "Andripamena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074316
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5f25fc94b2b4e74a91f864bc6a04b096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1193031043,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1193031043,
+    "wof:lastmodified":1537664750,
+    "wof:name":"Andripamena",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35,
+    -14.95,
+    49.35,
+    -14.95
+],
+  "geometry": {"coordinates":[49.35,-14.95],"type":"Point"}
+}

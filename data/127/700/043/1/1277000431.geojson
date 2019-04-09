@@ -1,0 +1,72 @@
+{
+  "id": 1277000431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.91667,-23.1,45.91667,-23.1",
+    "geom:latitude":-23.1,
+    "geom:longitude":45.91667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tafia",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056039,
+    "gn:latitude":-23.1,
+    "gn:longitude":45.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tafia",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafia Ambony",
+        "Tafia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056039
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e57b41dd16801bbda7d3949158afb9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1277000431,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1277000431,
+    "wof:lastmodified":1537664586,
+    "wof:name":"Tafia",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.91667,
+    -23.1,
+    45.91667,
+    -23.1
+],
+  "geometry": {"coordinates":[45.91667,-23.1],"type":"Point"}
+}

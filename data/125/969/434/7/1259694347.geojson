@@ -1,0 +1,68 @@
+{
+  "id": 1259694347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.36667,-20.56667,44.36667,-20.56667",
+    "geom:latitude":-20.56667,
+    "geom:longitude":44.36667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Befasy",
+    "gn:country_code":"MG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068359,
+    "gn:latitude":-20.56667,
+    "gn:longitude":44.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Befasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421190797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068359,
+        "wk:page":"Befasy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"abe64aef4d9b638380cb96595baa106f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190797,
+            "locality_id":1259694347,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1259694347,
+    "wof:lastmodified":1537568358,
+    "wof:name":"Befasy",
+    "wof:parent_id":421190797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.36667,
+    -20.56667,
+    44.36667,
+    -20.56667
+],
+  "geometry": {"coordinates":[44.36667,-20.56667],"type":"Point"}
+}

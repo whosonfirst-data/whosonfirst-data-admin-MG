@@ -1,0 +1,72 @@
+{
+  "id": 1343868731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11667,-22.15,44.11667,-22.15",
+    "geom:latitude":-22.15,
+    "geom:longitude":44.11667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iandafiha",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064441,
+    "gn:latitude":-22.15,
+    "gn:longitude":44.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Iandafiha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landafiha",
+        "Iandafiha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064441
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"45067f59322fec27868bee36b00e2d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1343868731,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1343868731,
+    "wof:lastmodified":1537664656,
+    "wof:name":"Iandafiha",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11667,
+    -22.15,
+    44.11667,
+    -22.15
+],
+  "geometry": {"coordinates":[44.11667,-22.15],"type":"Point"}
+}

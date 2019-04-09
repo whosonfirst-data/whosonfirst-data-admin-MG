@@ -1,0 +1,67 @@
+{
+  "id": 1226656529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,-21.31667,48.03333,-21.31667",
+    "geom:latitude":-21.31667,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ankaranila",
+    "gn:country_code":"MG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073106,
+    "gn:latitude":-21.31667,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankaranila",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073106
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"53b48c541cd0c5ffcdce4d16db92f466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1226656529,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1226656529,
+    "wof:lastmodified":1536842755,
+    "wof:name":"Ankaranila",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    -21.31667,
+    48.03333,
+    -21.31667
+],
+  "geometry": {"coordinates":[48.03333,-21.31667],"type":"Point"}
+}

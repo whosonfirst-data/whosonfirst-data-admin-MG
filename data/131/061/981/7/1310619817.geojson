@@ -1,0 +1,67 @@
+{
+  "id": 1310619817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66667,-22.73333,43.66667,-22.73333",
+    "geom:latitude":-22.73333,
+    "geom:longitude":43.66667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampariaky",
+    "gn:country_code":"MG",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078426,
+    "gn:latitude":-22.73333,
+    "gn:longitude":43.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampariaky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078426
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d78097e49c8156689c66cbc6c0d5325e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1310619817,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310619817,
+    "wof:lastmodified":1536751979,
+    "wof:name":"Ampariaky",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66667,
+    -22.73333,
+    43.66667,
+    -22.73333
+],
+  "geometry": {"coordinates":[43.66667,-22.73333],"type":"Point"}
+}

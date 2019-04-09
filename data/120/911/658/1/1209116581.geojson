@@ -1,0 +1,61 @@
+{
+  "id": 1209116581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31667,-19.31667,46.31667,-19.31667",
+    "geom:latitude":-19.31667,
+    "geom:longitude":46.31667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ankelitokana",
+    "gn:country_code":"MG",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072644,
+    "gn:latitude":-19.31667,
+    "gn:longitude":46.31667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankelitokana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072644
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"facf12e591bf2932809265bf4d522a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116581
+        }
+    ],
+    "wof:id":1209116581,
+    "wof:lastmodified":1536297233,
+    "wof:name":"Ankelitokana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31667,
+    -19.31667,
+    46.31667,
+    -19.31667
+],
+  "geometry": {"coordinates":[46.31667,-19.31667],"type":"Point"}
+}

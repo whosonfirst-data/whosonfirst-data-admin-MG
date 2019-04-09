@@ -1,0 +1,67 @@
+{
+  "id": 1293902183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85,-17.23333,46.85,-17.23333",
+    "geom:latitude":-17.23333,
+    "geom:longitude":46.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ranomandry",
+    "gn:country_code":"MG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057885,
+    "gn:latitude":-17.23333,
+    "gn:longitude":46.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ranomandry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057885
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"676eabfa8af8edca257ef44fcb09f4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1293902183,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1293902183,
+    "wof:lastmodified":1536686425,
+    "wof:name":"Ranomandry",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85,
+    -17.23333,
+    46.85,
+    -17.23333
+],
+  "geometry": {"coordinates":[46.85,-17.23333],"type":"Point"}
+}

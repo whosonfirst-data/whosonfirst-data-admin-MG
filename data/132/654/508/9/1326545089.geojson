@@ -1,0 +1,67 @@
+{
+  "id": 1326545089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25,-21.38333,48.25,-21.38333",
+    "geom:latitude":-21.38333,
+    "geom:longitude":48.25,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambalavaro",
+    "gn:country_code":"MG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083949,
+    "gn:latitude":-21.38333,
+    "gn:longitude":48.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambalavaro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083949
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fe69bbd8bae08b282586afeb7497e19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1326545089,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1326545089,
+    "wof:lastmodified":1536965162,
+    "wof:name":"Ambalavaro",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25,
+    -21.38333,
+    48.25,
+    -21.38333
+],
+  "geometry": {"coordinates":[48.25,-21.38333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259593825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83333,-18.55,45.83333,-18.55",
+    "geom:latitude":-18.55,
+    "geom:longitude":45.83333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bepoaka-Manazary",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067031,
+    "gn:latitude":-18.55,
+    "gn:longitude":45.83333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Bepoaka-Manazary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bepoaka Ambony",
+        "Bepoaka-Manazary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067031
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4d6d33bc26a4b5d082aefba663568706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1259593825,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1259593825,
+    "wof:lastmodified":1537664683,
+    "wof:name":"Bepoaka-Manazary",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83333,
+    -18.55,
+    45.83333,
+    -18.55
+],
+  "geometry": {"coordinates":[45.83333,-18.55],"type":"Point"}
+}

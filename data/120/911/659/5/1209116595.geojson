@@ -1,0 +1,61 @@
+{
+  "id": 1209116595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5,-15.61667,46.5,-15.61667",
+    "geom:latitude":-15.61667,
+    "geom:longitude":46.5,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Domaine d'Ankoakabo",
+    "gn:country_code":"MG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065495,
+    "gn:latitude":-15.61667,
+    "gn:longitude":46.5,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Domaine d\u2019Ankoakabo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065495
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4fa405af62aaca060ec7512e24646904",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116595
+        }
+    ],
+    "wof:id":1209116595,
+    "wof:lastmodified":1536297233,
+    "wof:name":"Domaine d'Ankoakabo",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5,
+    -15.61667,
+    46.5,
+    -15.61667
+],
+  "geometry": {"coordinates":[46.5,-15.61667],"type":"Point"}
+}

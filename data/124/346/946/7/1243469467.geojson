@@ -1,0 +1,72 @@
+{
+  "id": 1243469467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66667,-24.81667,45.66667,-24.81667",
+    "geom:latitude":-24.81667,
+    "geom:longitude":45.66667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antanimora Atsinanana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070465,
+    "gn:latitude":-24.81667,
+    "gn:longitude":45.66667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antanimora Atsinanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antanimora",
+        "Antanimora Atsinanana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070465
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bd4b5ca587bd385fe47116258855190f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1243469467,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1243469467,
+    "wof:lastmodified":1537664717,
+    "wof:name":"Antanimora Atsinanana",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66667,
+    -24.81667,
+    45.66667,
+    -24.81667
+],
+  "geometry": {"coordinates":[45.66667,-24.81667],"type":"Point"}
+}

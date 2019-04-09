@@ -1,0 +1,72 @@
+{
+  "id": 1310716841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03333,-22.26667,45.03333,-22.26667",
+    "geom:latitude":-22.26667,
+    "geom:longitude":45.03333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsinjorano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054519,
+    "gn:latitude":-22.26667,
+    "gn:longitude":45.03333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tsinjorano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranomanintsy",
+        "Tsinjorano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054519
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9b60d279c645f5e1aac577108327e217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1310716841,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310716841,
+    "wof:lastmodified":1537664572,
+    "wof:name":"Tsinjorano",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03333,
+    -22.26667,
+    45.03333,
+    -22.26667
+],
+  "geometry": {"coordinates":[45.03333,-22.26667],"type":"Point"}
+}

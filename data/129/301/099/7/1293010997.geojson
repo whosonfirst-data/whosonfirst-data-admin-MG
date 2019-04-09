@@ -1,0 +1,67 @@
+{
+  "id": 1293010997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65,-22.71667,43.65,-22.71667",
+    "geom:latitude":-22.71667,
+    "geom:longitude":43.65,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Borano",
+    "gn:country_code":"MG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065643,
+    "gn:latitude":-22.71667,
+    "gn:longitude":43.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Borano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065643
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"38fcafb9421eb78814e39b70bd1250e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1293010997,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293010997,
+    "wof:lastmodified":1536976291,
+    "wof:name":"Borano",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65,
+    -22.71667,
+    43.65,
+    -22.71667
+],
+  "geometry": {"coordinates":[43.65,-22.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292913787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.46667,-18.53333,47.46667,-18.53333",
+    "geom:latitude":-18.53333,
+    "geom:longitude":47.46667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohitrondry",
+    "gn:country_code":"MG",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079754,
+    "gn:latitude":-18.53333,
+    "gn:longitude":47.46667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohitrondry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421201527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079754
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"bf870e0e246a0a03f51b5d29cbc99735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421201527,
+            "locality_id":1292913787,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1292913787,
+    "wof:lastmodified":1536617761,
+    "wof:name":"Ambohitrondry",
+    "wof:parent_id":421201527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.46667,
+    -18.53333,
+    47.46667,
+    -18.53333
+],
+  "geometry": {"coordinates":[47.46667,-18.53333],"type":"Point"}
+}

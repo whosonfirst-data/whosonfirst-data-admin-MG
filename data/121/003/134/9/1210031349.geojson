@@ -1,0 +1,72 @@
+{
+  "id": 1210031349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91667,-21.13333,46.91667,-21.13333",
+    "geom:latitude":-21.13333,
+    "geom:longitude":46.91667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambalamirary",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084193,
+    "gn:latitude":-21.13333,
+    "gn:longitude":46.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambalamirary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambalamiary",
+        "Ambalamirary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084193
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"747100183e1cb17391a1c68f71b1113d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801155,
+            "locality_id":1210031349,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1210031349,
+    "wof:lastmodified":1537664825,
+    "wof:name":"Ambalamirary",
+    "wof:parent_id":1108801155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91667,
+    -21.13333,
+    46.91667,
+    -21.13333
+],
+  "geometry": {"coordinates":[46.91667,-21.13333],"type":"Point"}
+}

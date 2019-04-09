@@ -1,0 +1,67 @@
+{
+  "id": 1343473955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56667,-19.0,48.56667,-19.0",
+    "geom:latitude":-19.0,
+    "geom:longitude":48.56667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aharana",
+    "gn:country_code":"MG",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084794,
+    "gn:latitude":-19.0,
+    "gn:longitude":48.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Aharana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        421169605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084794
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e426c72a38adcec51af42c6897b1088a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169605,
+            "locality_id":1343473955,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1343473955,
+    "wof:lastmodified":1536726953,
+    "wof:name":"Aharana",
+    "wof:parent_id":421169605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56667,
+    -19.0,
+    48.56667,
+    -19.0
+],
+  "geometry": {"coordinates":[48.56667,-19.0],"type":"Point"}
+}

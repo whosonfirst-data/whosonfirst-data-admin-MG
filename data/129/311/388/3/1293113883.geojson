@@ -1,0 +1,73 @@
+{
+  "id": 1293113883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11667,-21.68333,45.11667,-21.68333",
+    "geom:latitude":-21.68333,
+    "geom:longitude":45.11667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mahabo Fanjakana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062724,
+    "gn:latitude":-21.68333,
+    "gn:longitude":45.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mahabo Fanjakana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanjakana",
+        "Mahabo Fanjakana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062724,
+        "wk:page":"Fanjakana%2C_Beroroha"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3939625762671b9c9a4d451f95f45333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801137,
+            "locality_id":1293113883,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293113883,
+    "wof:lastmodified":1537664642,
+    "wof:name":"Mahabo Fanjakana",
+    "wof:parent_id":1108801137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11667,
+    -21.68333,
+    45.11667,
+    -21.68333
+],
+  "geometry": {"coordinates":[45.11667,-21.68333],"type":"Point"}
+}

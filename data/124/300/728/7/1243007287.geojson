@@ -1,0 +1,67 @@
+{
+  "id": 1243007287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4,-21.71667,43.4,-21.71667",
+    "geom:latitude":-21.71667,
+    "geom:longitude":43.4,
+    "gn:admin1_code":"7670913.0",
+    "gn:asciiname":"Vorisy",
+    "gn:country_code":"MG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053487,
+    "gn:latitude":-21.71667,
+    "gn:longitude":43.4,
+    "gn:modification_date":"2013-09-21",
+    "gn:name":"Vorisy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053487
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e2f0f3d60349932ae4f6c35a4a01ab10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1243007287,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243007287,
+    "wof:lastmodified":1536942282,
+    "wof:name":"Vorisy",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4,
+    -21.71667,
+    43.4,
+    -21.71667
+],
+  "geometry": {"coordinates":[43.4,-21.71667],"type":"Point"}
+}

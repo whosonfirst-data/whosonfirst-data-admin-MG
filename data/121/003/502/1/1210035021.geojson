@@ -1,0 +1,67 @@
+{
+  "id": 1210035021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.75,-22.25,46.75,-22.25",
+    "geom:latitude":-22.25,
+    "geom:longitude":46.75,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Behasina",
+    "gn:country_code":"MG",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068205,
+    "gn:latitude":-22.25,
+    "gn:longitude":46.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Behasina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421201529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068205
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"422e14607fbc6cd8152bcc28bad434ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421201529,
+            "locality_id":1210035021,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1210035021,
+    "wof:lastmodified":1536386874,
+    "wof:name":"Behasina",
+    "wof:parent_id":421201529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.75,
+    -22.25,
+    46.75,
+    -22.25
+],
+  "geometry": {"coordinates":[46.75,-22.25],"type":"Point"}
+}

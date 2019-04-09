@@ -1,0 +1,67 @@
+{
+  "id": 1344075567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51667,-16.8,44.51667,-16.8",
+    "geom:latitude":-16.8,
+    "geom:longitude":44.51667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bejofo",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068093,
+    "gn:latitude":-16.8,
+    "gn:longitude":44.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bejofo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068093
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7751a59a74579471980c4d34588d6f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1344075567,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1344075567,
+    "wof:lastmodified":1536852683,
+    "wof:name":"Bejofo",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51667,
+    -16.8,
+    44.51667,
+    -16.8
+],
+  "geometry": {"coordinates":[44.51667,-16.8],"type":"Point"}
+}

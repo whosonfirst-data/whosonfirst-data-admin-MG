@@ -1,0 +1,67 @@
+{
+  "id": 1310220301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.3,-24.98333,46.3,-24.98333",
+    "geom:latitude":-24.98333,
+    "geom:longitude":46.3,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andavabaza",
+    "gn:country_code":"MG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076346,
+    "gn:latitude":-24.98333,
+    "gn:longitude":46.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andavabaza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076346
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d367004142ec878d163ef39cd23d0ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1310220301,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1310220301,
+    "wof:lastmodified":1536829850,
+    "wof:name":"Andavabaza",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.3,
+    -24.98333,
+    46.3,
+    -24.98333
+],
+  "geometry": {"coordinates":[46.3,-24.98333],"type":"Point"}
+}

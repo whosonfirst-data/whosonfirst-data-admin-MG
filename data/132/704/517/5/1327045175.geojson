@@ -1,0 +1,67 @@
+{
+  "id": 1327045175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95,-20.31667,46.95,-20.31667",
+    "geom:latitude":-20.31667,
+    "geom:longitude":46.95,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tsinjorano",
+    "gn:country_code":"MG",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054526,
+    "gn:latitude":-20.31667,
+    "gn:longitude":46.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsinjorano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054526
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"45e63d97f9fc1dcd275abc7b708c880b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1327045175,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1327045175,
+    "wof:lastmodified":1536741739,
+    "wof:name":"Tsinjorano",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95,
+    -20.31667,
+    46.95,
+    -20.31667
+],
+  "geometry": {"coordinates":[46.95,-20.31667],"type":"Point"}
+}

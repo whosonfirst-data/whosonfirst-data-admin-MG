@@ -1,0 +1,72 @@
+{
+  "id": 1242592863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46667,-24.5,44.46667,-24.5",
+    "geom:latitude":-24.5,
+    "geom:longitude":44.46667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankazota",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072691,
+    "gn:latitude":-24.5,
+    "gn:longitude":44.46667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankazota",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankazontaha",
+        "Ankazota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072691
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ecaaa43625e6f70262f99394eca38c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1242592863,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1242592863,
+    "wof:lastmodified":1537664738,
+    "wof:name":"Ankazota",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46667,
+    -24.5,
+    44.46667,
+    -24.5
+],
+  "geometry": {"coordinates":[44.46667,-24.5],"type":"Point"}
+}

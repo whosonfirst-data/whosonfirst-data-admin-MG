@@ -1,0 +1,61 @@
+{
+  "id": 1209633913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.06667,-19.03333,49.06667,-19.03333",
+    "geom:latitude":-19.03333,
+    "geom:longitude":49.06667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Amboditafara",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080923,
+    "gn:latitude":-19.03333,
+    "gn:longitude":49.06667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboditafara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080923
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4370233efcb4309c1461a509e44c10be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209633913
+        }
+    ],
+    "wof:id":1209633913,
+    "wof:lastmodified":1536281103,
+    "wof:name":"Amboditafara",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.06667,
+    -19.03333,
+    49.06667,
+    -19.03333
+],
+  "geometry": {"coordinates":[49.06667,-19.03333],"type":"Point"}
+}

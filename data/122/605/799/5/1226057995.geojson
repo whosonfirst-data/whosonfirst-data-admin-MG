@@ -1,0 +1,67 @@
+{
+  "id": 1226057995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.76667,-18.4,47.76667,-18.4",
+    "geom:latitude":-18.4,
+    "geom:longitude":47.76667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manohilahy",
+    "gn:country_code":"MG",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060641,
+    "gn:latitude":-18.4,
+    "gn:longitude":47.76667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Manohilahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060641
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2b2c3d3808bb180093989e61554c0823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1226057995,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1226057995,
+    "wof:lastmodified":1536707722,
+    "wof:name":"Manohilahy",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.76667,
+    -18.4,
+    47.76667,
+    -18.4
+],
+  "geometry": {"coordinates":[47.76667,-18.4],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344075665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.43333,-13.48333,49.43333,-13.48333",
+    "geom:latitude":-13.48333,
+    "geom:longitude":49.43333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampanasana-Anandrea",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078783,
+    "gn:latitude":-13.48333,
+    "gn:longitude":49.43333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampanasana-Anandrea",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampanasana-Andrea",
+        "Ampanasana-Anandrea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078783
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"028f8b47cfc1097178f572b708dcce10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1344075665,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1344075665,
+    "wof:lastmodified":1537664784,
+    "wof:name":"Ampanasana-Anandrea",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.43333,
+    -13.48333,
+    49.43333,
+    -13.48333
+],
+  "geometry": {"coordinates":[49.43333,-13.48333],"type":"Point"}
+}

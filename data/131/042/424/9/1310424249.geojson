@@ -1,0 +1,72 @@
+{
+  "id": 1310424249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.08333,-21.91667,48.08333,-21.91667",
+    "geom:latitude":-21.91667,
+    "geom:longitude":48.08333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambohitrabo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079901,
+    "gn:latitude":-21.91667,
+    "gn:longitude":48.08333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambohitrabo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambohitrambo",
+        "Ambohitrabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079901
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4d41cdc1727068c8af301fcb22bb836b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801175,
+            "locality_id":1310424249,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1310424249,
+    "wof:lastmodified":1537664792,
+    "wof:name":"Ambohitrabo",
+    "wof:parent_id":1108801175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08333,
+    -21.91667,
+    48.08333,
+    -21.91667
+],
+  "geometry": {"coordinates":[48.08333,-21.91667],"type":"Point"}
+}

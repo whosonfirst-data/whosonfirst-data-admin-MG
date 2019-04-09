@@ -1,0 +1,66 @@
+{
+  "id": 1209019499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.43333,-20.45,47.43333,-20.45",
+    "geom:latitude":-20.45,
+    "geom:longitude":47.43333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambohinamboarina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080034,
+    "gn:latitude":-20.45,
+    "gn:longitude":47.43333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambohinamboarina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambohinamboara",
+        "Ambohinamboarina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080034
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"991be99db113d7c602558b4e2be3e6ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209019499
+        }
+    ],
+    "wof:id":1209019499,
+    "wof:lastmodified":1537664794,
+    "wof:name":"Ambohinamboarina",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.43333,
+    -20.45,
+    47.43333,
+    -20.45
+],
+  "geometry": {"coordinates":[47.43333,-20.45],"type":"Point"}
+}

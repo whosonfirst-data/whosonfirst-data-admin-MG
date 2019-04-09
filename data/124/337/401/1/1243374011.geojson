@@ -1,0 +1,72 @@
+{
+  "id": 1243374011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21667,-22.4,44.21667,-22.4",
+    "geom:latitude":-22.4,
+    "geom:longitude":44.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ambatolahy-Sarodrano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083033,
+    "gn:latitude":-22.4,
+    "gn:longitude":44.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambatolahy-Sarodrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambatolahy",
+        "Ambatolahy-Sarodrano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083033
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3b45ad0c2191f14657d75b666041f8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1243374011,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243374011,
+    "wof:lastmodified":1537664816,
+    "wof:name":"Ambatolahy-Sarodrano",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21667,
+    -22.4,
+    44.21667,
+    -22.4
+],
+  "geometry": {"coordinates":[44.21667,-22.4],"type":"Point"}
+}

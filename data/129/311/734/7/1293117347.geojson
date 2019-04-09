@@ -1,0 +1,73 @@
+{
+  "id": 1293117347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65,-19.15,46.65,-19.15",
+    "geom:latitude":-19.15,
+    "geom:longitude":46.65,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mananasy-Tsitakondaza",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061409,
+    "gn:latitude":-19.15,
+    "gn:longitude":46.65,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mananasy-Tsitakondaza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mananasy",
+        "Mananasy-Tsitakondaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421171621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061409,
+        "wk:page":"Mananasy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"302cdf0ca285aa0997aa49b126899cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171621,
+            "locality_id":1293117347,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1293117347,
+    "wof:lastmodified":1537664633,
+    "wof:name":"Mananasy-Tsitakondaza",
+    "wof:parent_id":421171621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65,
+    -19.15,
+    46.65,
+    -19.15
+],
+  "geometry": {"coordinates":[46.65,-19.15],"type":"Point"}
+}

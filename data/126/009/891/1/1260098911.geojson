@@ -1,0 +1,72 @@
+{
+  "id": 1260098911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91667,-20.46667,46.91667,-20.46667",
+    "geom:latitude":-20.46667,
+    "geom:longitude":46.91667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambohijafimatra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080492,
+    "gn:latitude":-20.46667,
+    "gn:longitude":46.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambohijafimatra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambohirafimahantra",
+        "Ambohijafimatra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080492
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0f03db90c59df68e31f818e0052f46a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1260098911,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1260098911,
+    "wof:lastmodified":1537664797,
+    "wof:name":"Ambohijafimatra",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91667,
+    -20.46667,
+    46.91667,
+    -20.46667
+],
+  "geometry": {"coordinates":[46.91667,-20.46667],"type":"Point"}
+}

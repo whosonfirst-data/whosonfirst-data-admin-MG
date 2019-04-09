@@ -1,0 +1,72 @@
+{
+  "id": 1360100153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.13333,-23.23333,46.13333,-23.23333",
+    "geom:latitude":-23.23333,
+    "geom:longitude":46.13333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Morahariva",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058543,
+    "gn:latitude":-23.23333,
+    "gn:longitude":46.13333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Morahariva",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahazoarivo",
+        "Morahariva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058543
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fee20c214e60f0c452539393ab3ccde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1360100153,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1360100153,
+    "wof:lastmodified":1537664608,
+    "wof:name":"Morahariva",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.13333,
+    -23.23333,
+    46.13333,
+    -23.23333
+],
+  "geometry": {"coordinates":[46.13333,-23.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360095605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21667,-21.16667,48.21667,-21.16667",
+    "geom:latitude":-21.16667,
+    "geom:longitude":48.21667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Torombo",
+    "gn:country_code":"MG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055345,
+    "gn:latitude":-21.16667,
+    "gn:longitude":48.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Torombo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055345
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"19d897fe88ca605bc3d1fdf02ba6adac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1360095605,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1360095605,
+    "wof:lastmodified":1536931130,
+    "wof:name":"Torombo",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21667,
+    -21.16667,
+    48.21667,
+    -21.16667
+],
+  "geometry": {"coordinates":[48.21667,-21.16667],"type":"Point"}
+}

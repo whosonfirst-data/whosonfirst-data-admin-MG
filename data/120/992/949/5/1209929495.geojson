@@ -1,0 +1,68 @@
+{
+  "id": 1209929495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.81667,-24.43333,45.81667,-24.43333",
+    "geom:latitude":-24.43333,
+    "geom:longitude":45.81667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Imanombo",
+    "gn:country_code":"MG",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064148,
+    "gn:latitude":-24.43333,
+    "gn:longitude":45.81667,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Imanombo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064148,
+        "wk:page":"Imanombo"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2028d961f2786f3981de639ce344af69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1209929495,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1209929495,
+    "wof:lastmodified":1537568350,
+    "wof:name":"Imanombo",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.81667,
+    -24.43333,
+    45.81667,
+    -24.43333
+],
+  "geometry": {"coordinates":[45.81667,-24.43333],"type":"Point"}
+}

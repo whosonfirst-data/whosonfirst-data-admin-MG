@@ -1,0 +1,67 @@
+{
+  "id": 1242588075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.91667,-13.8,47.91667,-13.8",
+    "geom:latitude":-13.8,
+    "geom:longitude":47.91667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Betsiriry",
+    "gn:country_code":"MG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066105,
+    "gn:latitude":-13.8,
+    "gn:longitude":47.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Betsiriry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066105
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"332a34fcac79de0de7cf83c53a73fb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801077,
+            "locality_id":1242588075,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1242588075,
+    "wof:lastmodified":1537046509,
+    "wof:name":"Betsiriry",
+    "wof:parent_id":1108801077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.91667,
+    -13.8,
+    47.91667,
+    -13.8
+],
+  "geometry": {"coordinates":[47.91667,-13.8],"type":"Point"}
+}

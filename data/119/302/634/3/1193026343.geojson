@@ -1,0 +1,72 @@
+{
+  "id": 1193026343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6,-14.91667,47.6,-14.91667",
+    "geom:latitude":-14.91667,
+    "geom:longitude":47.6,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambolikily",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079577,
+    "gn:latitude":-14.91667,
+    "gn:longitude":47.6,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambolikily",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambodykily",
+        "Ambolikily"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079577
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"017cd6c7d1a6bd4c40dbe4f685460732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1193026343,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1193026343,
+    "wof:lastmodified":1537664791,
+    "wof:name":"Ambolikily",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6,
+    -14.91667,
+    47.6,
+    -14.91667
+],
+  "geometry": {"coordinates":[47.6,-14.91667],"type":"Point"}
+}

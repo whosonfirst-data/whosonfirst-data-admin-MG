@@ -1,0 +1,61 @@
+{
+  "id": 1209333371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96667,-18.95,45.96667,-18.95",
+    "geom:latitude":-18.95,
+    "geom:longitude":45.96667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vohitsoa",
+    "gn:country_code":"MG",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053591,
+    "gn:latitude":-18.95,
+    "gn:longitude":45.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohitsoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053591
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"793414f0723d018c564007c7c30bc0f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209333371
+        }
+    ],
+    "wof:id":1209333371,
+    "wof:lastmodified":1536290301,
+    "wof:name":"Vohitsoa",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96667,
+    -18.95,
+    45.96667,
+    -18.95
+],
+  "geometry": {"coordinates":[45.96667,-18.95],"type":"Point"}
+}

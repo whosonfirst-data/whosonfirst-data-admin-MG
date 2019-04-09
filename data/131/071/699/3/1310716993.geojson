@@ -1,0 +1,67 @@
+{
+  "id": 1310716993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.68333,-19.5,47.68333,-19.5",
+    "geom:latitude":-19.5,
+    "geom:longitude":47.68333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohitranjombo",
+    "gn:country_code":"MG",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079831,
+    "gn:latitude":-19.5,
+    "gn:longitude":47.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohitranjombo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421194677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079831
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"fda02c6b32e99b4d7d0201ca2bc43573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421194677,
+            "locality_id":1310716993,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1310716993,
+    "wof:lastmodified":1536609065,
+    "wof:name":"Ambohitranjombo",
+    "wof:parent_id":421194677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.68333,
+    -19.5,
+    47.68333,
+    -19.5
+],
+  "geometry": {"coordinates":[47.68333,-19.5],"type":"Point"}
+}

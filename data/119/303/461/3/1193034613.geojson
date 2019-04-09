@@ -1,0 +1,67 @@
+{
+  "id": 1193034613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38333,-24.5,45.38333,-24.5",
+    "geom:latitude":-24.5,
+    "geom:longitude":45.38333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bemohita",
+    "gn:country_code":"MG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067247,
+    "gn:latitude":-24.5,
+    "gn:longitude":45.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bemohita",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067247
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2cb7ab0dc3f211b9e74d28607bc77a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801131,
+            "locality_id":1193034613,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1193034613,
+    "wof:lastmodified":1536382376,
+    "wof:name":"Bemohita",
+    "wof:parent_id":1108801131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38333,
+    -24.5,
+    45.38333,
+    -24.5
+],
+  "geometry": {"coordinates":[45.38333,-24.5],"type":"Point"}
+}

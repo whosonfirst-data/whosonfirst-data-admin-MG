@@ -1,0 +1,73 @@
+{
+  "id": 1343868789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73333,-19.26667,46.73333,-19.26667",
+    "geom:latitude":-19.26667,
+    "geom:longitude":46.73333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Masindray Mandiavato",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059396,
+    "gn:latitude":-19.26667,
+    "gn:longitude":46.73333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Masindray Mandiavato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masindray",
+        "Masindray Mandiavato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421171621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059396,
+        "wk:page":"Masindray%2C_Soavinandriana"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"42b57edfe24df3e0b16ce032853d9574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171621,
+            "locality_id":1343868789,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1343868789,
+    "wof:lastmodified":1537664615,
+    "wof:name":"Masindray Mandiavato",
+    "wof:parent_id":421171621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73333,
+    -19.26667,
+    46.73333,
+    -19.26667
+],
+  "geometry": {"coordinates":[46.73333,-19.26667],"type":"Point"}
+}

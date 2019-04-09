@@ -1,0 +1,67 @@
+{
+  "id": 1327250057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78333,-15.33333,48.78333,-15.33333",
+    "geom:latitude":-15.33333,
+    "geom:longitude":48.78333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Antsingitritzy",
+    "gn:country_code":"MG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069216,
+    "gn:latitude":-15.33333,
+    "gn:longitude":48.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsingitritzy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069216
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f80f7916ee49c7d03654e934aff7bee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1327250057,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1327250057,
+    "wof:lastmodified":1536944522,
+    "wof:name":"Antsingitritzy",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78333,
+    -15.33333,
+    48.78333,
+    -15.33333
+],
+  "geometry": {"coordinates":[48.78333,-15.33333],"type":"Point"}
+}

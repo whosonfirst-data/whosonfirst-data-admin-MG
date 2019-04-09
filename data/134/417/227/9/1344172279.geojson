@@ -1,0 +1,67 @@
+{
+  "id": 1344172279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.95,-18.15,47.95,-18.15",
+    "geom:latitude":-18.15,
+    "geom:longitude":47.95,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Androva",
+    "gn:country_code":"MG",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074060,
+    "gn:latitude":-18.15,
+    "gn:longitude":47.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Androva",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074060
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"72aa785eb6a4f4bae1ac96c25fa7c55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1344172279,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1344172279,
+    "wof:lastmodified":1536714472,
+    "wof:name":"Androva",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.95,
+    -18.15,
+    47.95,
+    -18.15
+],
+  "geometry": {"coordinates":[47.95,-18.15],"type":"Point"}
+}

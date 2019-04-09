@@ -1,0 +1,82 @@
+{
+  "id": 1125848329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.094268,-24.963572,47.094268,-24.963572",
+    "geom:latitude":-24.963572,
+    "geom:longitude":47.094268,
+    "gn:gn_country":"MG",
+    "iso:country":"MG",
+    "lbl:latitude":-24.963572,
+    "lbl:longitude":47.094268,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MG",
+    "qs_pg:gn_country":"MG",
+    "qs_pg:name":"Lokara",
+    "qs_pg:name_adm0":"Madagascar",
+    "qs_pg:name_adm1":"Toliara",
+    "qs_pg:photos":226,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":226,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":562237,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424883,
+    "qs_pg:woe_id":1361827,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424883,
+    "woe:name_adm0":"Madagascar",
+    "woe:name_adm1":"Toliara",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1361827,
+        "qs_pg:id":562237
+    },
+    "wof:country":"MG",
+    "wof:created":1497293270,
+    "wof:geomhash":"d4a659f90cc8e6726098cf186423af43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1125848329,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1125848329,
+    "wof:lastmodified":1509395773,
+    "wof:name":"Lokara",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.094268,
+    -24.963572,
+    47.094268,
+    -24.963572
+],
+  "geometry": {"coordinates":[47.094268,-24.963572],"type":"Point"}
+}

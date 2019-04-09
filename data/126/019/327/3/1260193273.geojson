@@ -1,0 +1,67 @@
+{
+  "id": 1260193273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.86667,-17.98333,46.86667,-17.98333",
+    "geom:latitude":-17.98333,
+    "geom:longitude":46.86667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Andakana",
+    "gn:country_code":"MG",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076609,
+    "gn:latitude":-17.98333,
+    "gn:longitude":46.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andakana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076609
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7c935ffa2f4ce3d022a4efe13bf80662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1260193273,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1260193273,
+    "wof:lastmodified":1536833428,
+    "wof:name":"Andakana",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.86667,
+    -17.98333,
+    46.86667,
+    -17.98333
+],
+  "geometry": {"coordinates":[46.86667,-17.98333],"type":"Point"}
+}

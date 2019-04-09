@@ -1,0 +1,67 @@
+{
+  "id": 1327446569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95,-14.73333,48.95,-14.73333",
+    "geom:latitude":-14.73333,
+    "geom:longitude":48.95,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Andasibe",
+    "gn:country_code":"MG",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076414,
+    "gn:latitude":-14.73333,
+    "gn:longitude":48.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andasibe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076414
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"73ce1b896ede5d9731f712607fe4d19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801123,
+            "locality_id":1327446569,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1327446569,
+    "wof:lastmodified":1536660288,
+    "wof:name":"Andasibe",
+    "wof:parent_id":1108801123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95,
+    -14.73333,
+    48.95,
+    -14.73333
+],
+  "geometry": {"coordinates":[48.95,-14.73333],"type":"Point"}
+}

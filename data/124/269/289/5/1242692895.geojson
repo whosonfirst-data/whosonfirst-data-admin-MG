@@ -1,0 +1,67 @@
+{
+  "id": 1242692895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03333,-24.51667,47.03333,-24.51667",
+    "geom:latitude":-24.51667,
+    "geom:longitude":47.03333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampany",
+    "gn:country_code":"MG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078471,
+    "gn:latitude":-24.51667,
+    "gn:longitude":47.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078471
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0c195f991e52d7705891ad2538b296bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1242692895,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1242692895,
+    "wof:lastmodified":1536897532,
+    "wof:name":"Ampany",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03333,
+    -24.51667,
+    47.03333,
+    -24.51667
+],
+  "geometry": {"coordinates":[47.03333,-24.51667],"type":"Point"}
+}

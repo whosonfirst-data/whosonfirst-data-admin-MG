@@ -1,0 +1,67 @@
+{
+  "id": 1276346001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.35,-14.78333,47.35,-14.78333",
+    "geom:latitude":-14.78333,
+    "geom:longitude":47.35,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ampitily",
+    "gn:country_code":"MG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077681,
+    "gn:latitude":-14.78333,
+    "gn:longitude":47.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampitily",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077681
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4509aa748a4fb2a0ead26454e87f2b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1276346001,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1276346001,
+    "wof:lastmodified":1536761636,
+    "wof:name":"Ampitily",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.35,
+    -14.78333,
+    47.35,
+    -14.78333
+],
+  "geometry": {"coordinates":[47.35,-14.78333],"type":"Point"}
+}

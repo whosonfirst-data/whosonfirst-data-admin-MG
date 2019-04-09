@@ -1,0 +1,67 @@
+{
+  "id": 1276458641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93333,-25.01667,46.93333,-25.01667",
+    "geom:latitude":-25.01667,
+    "geom:longitude":46.93333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Emeriaka",
+    "gn:country_code":"MG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065419,
+    "gn:latitude":-25.01667,
+    "gn:longitude":46.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Emeriaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065419
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"25332ff4cb2ef4847ae37e2d7cb5dcc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1276458641,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1276458641,
+    "wof:lastmodified":1536607949,
+    "wof:name":"Emeriaka",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93333,
+    -25.01667,
+    46.93333,
+    -25.01667
+],
+  "geometry": {"coordinates":[46.93333,-25.01667],"type":"Point"}
+}

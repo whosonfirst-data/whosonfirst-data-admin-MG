@@ -1,0 +1,67 @@
+{
+  "id": 1293113809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71667,-24.35,46.71667,-24.35",
+    "geom:latitude":-24.35,
+    "geom:longitude":46.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Anara",
+    "gn:country_code":"MG",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076801,
+    "gn:latitude":-24.35,
+    "gn:longitude":46.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        1108801083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076801
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f0ef0d4c12087241f4e9ab5bc1aa9bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801083,
+            "locality_id":1293113809,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1293113809,
+    "wof:lastmodified":1536827796,
+    "wof:name":"Anara",
+    "wof:parent_id":1108801083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71667,
+    -24.35,
+    46.71667,
+    -24.35
+],
+  "geometry": {"coordinates":[46.71667,-24.35],"type":"Point"}
+}

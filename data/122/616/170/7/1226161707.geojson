@@ -1,0 +1,67 @@
+{
+  "id": 1226161707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95,-24.55,44.95,-24.55",
+    "geom:latitude":-24.55,
+    "geom:longitude":44.95,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Emotombe",
+    "gn:country_code":"MG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065408,
+    "gn:latitude":-24.55,
+    "gn:longitude":44.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Emotombe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065408
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c688b3dc19e094daa37afc18c23fafee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1226161707,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1226161707,
+    "wof:lastmodified":1537052468,
+    "wof:name":"Emotombe",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95,
+    -24.55,
+    44.95,
+    -24.55
+],
+  "geometry": {"coordinates":[44.95,-24.55],"type":"Point"}
+}

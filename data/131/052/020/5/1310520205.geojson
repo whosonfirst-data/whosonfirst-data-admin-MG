@@ -1,0 +1,72 @@
+{
+  "id": 1310520205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51667,-16.88333,44.51667,-16.88333",
+    "geom:latitude":-16.88333,
+    "geom:longitude":44.51667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beloka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067561,
+    "gn:latitude":-16.88333,
+    "gn:longitude":44.51667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Beloka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Befoka",
+        "Beloka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067561
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ca78704e6fb441b0df1f79492b85418d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1310520205,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1310520205,
+    "wof:lastmodified":1537664688,
+    "wof:name":"Beloka",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51667,
+    -16.88332999999999,
+    44.51667,
+    -16.88332999999999
+],
+  "geometry": {"coordinates":[44.51667,-16.88332999999999],"type":"Point"}
+}

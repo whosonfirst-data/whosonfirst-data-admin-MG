@@ -1,0 +1,72 @@
+{
+  "id": 1293802725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53333,-23.61667,47.53333,-23.61667",
+    "geom:latitude":-23.61667,
+    "geom:longitude":47.53333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sahamoro",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053385,
+    "gn:latitude":-23.61667,
+    "gn:longitude":47.53333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sahamoro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samoro",
+        "Sahamoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053385
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"16de0272696226cfaaaf134e96824349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1293802725,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1293802725,
+    "wof:lastmodified":1537664563,
+    "wof:name":"Sahamoro",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53333,
+    -23.61667000000001,
+    47.53333,
+    -23.61667000000001
+],
+  "geometry": {"coordinates":[47.53333,-23.61667000000001],"type":"Point"}
+}

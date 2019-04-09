@@ -1,0 +1,72 @@
+{
+  "id": 1276134049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.48333,-21.78333,47.48333,-21.78333",
+    "geom:latitude":-21.78333,
+    "geom:longitude":47.48333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ampiantsaha",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077861,
+    "gn:latitude":-21.78333,
+    "gn:longitude":47.48333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampiantsaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampilatsaha",
+        "Ampiantsaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        421198091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077861
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"78a9e3927a912cfc8c78f08e2b837c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421198091,
+            "locality_id":1276134049,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1276134049,
+    "wof:lastmodified":1537664778,
+    "wof:name":"Ampiantsaha",
+    "wof:parent_id":421198091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.48333,
+    -21.78333,
+    47.48333,
+    -21.78333
+],
+  "geometry": {"coordinates":[47.48333,-21.78333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343280619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.56667,-18.8,44.56667,-18.8",
+    "geom:latitude":-18.8,
+    "geom:longitude":44.56667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Arendrano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068869,
+    "gn:latitude":-18.8,
+    "gn:longitude":44.56667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Arendrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arindrano",
+        "Arendrano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        421199279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068869
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a8f7630455faa39ba9a1c37c2b5d5007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199279,
+            "locality_id":1343280619,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1343280619,
+    "wof:lastmodified":1537664702,
+    "wof:name":"Arendrano",
+    "wof:parent_id":421199279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.56667,
+    -18.8,
+    44.56667,
+    -18.8
+],
+  "geometry": {"coordinates":[44.56667,-18.8],"type":"Point"}
+}

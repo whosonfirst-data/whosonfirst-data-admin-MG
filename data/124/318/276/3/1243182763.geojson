@@ -1,0 +1,67 @@
+{
+  "id": 1243182763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8,-17.38333,46.8,-17.38333",
+    "geom:latitude":-17.38333,
+    "geom:longitude":46.8,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodiriamy",
+    "gn:country_code":"MG",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081065,
+    "gn:latitude":-17.38333,
+    "gn:longitude":46.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodiriamy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081065
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"44359c0688e0f2dc5312e38bf4871710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1243182763,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1243182763,
+    "wof:lastmodified":1536688701,
+    "wof:name":"Ambodiriamy",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8,
+    -17.38332999999999,
+    46.8,
+    -17.38332999999999
+],
+  "geometry": {"coordinates":[46.8,-17.38332999999999],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209633943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7,-18.85,48.7,-18.85",
+    "geom:latitude":-18.85,
+    "geom:longitude":48.7,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Marolomato",
+    "gn:country_code":"MG",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059971,
+    "gn:latitude":-18.85,
+    "gn:longitude":48.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marolomato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059971
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6e6325070f978a1474041c1653b63137",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209633943
+        }
+    ],
+    "wof:id":1209633943,
+    "wof:lastmodified":1536281102,
+    "wof:name":"Marolomato",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7,
+    -18.85,
+    48.7,
+    -18.85
+],
+  "geometry": {"coordinates":[48.7,-18.85],"type":"Point"}
+}

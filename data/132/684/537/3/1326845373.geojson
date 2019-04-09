@@ -1,0 +1,67 @@
+{
+  "id": 1326845373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18333,-25.08333,45.18333,-25.08333",
+    "geom:latitude":-25.08333,
+    "geom:longitude":45.18333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sihanakapaha",
+    "gn:country_code":"MG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056573,
+    "gn:latitude":-25.08333,
+    "gn:longitude":45.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sihanakapaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056573
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4daba86699b6b9eb015773b28b42d617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1326845373,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1326845373,
+    "wof:lastmodified":1537028526,
+    "wof:name":"Sihanakapaha",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18333,
+    -25.08333,
+    45.18333,
+    -25.08333
+],
+  "geometry": {"coordinates":[45.18333,-25.08333],"type":"Point"}
+}

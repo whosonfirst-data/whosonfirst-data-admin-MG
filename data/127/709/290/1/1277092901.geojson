@@ -1,0 +1,67 @@
+{
+  "id": 1277092901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.35,-19.5,47.35,-19.5",
+    "geom:latitude":-19.5,
+    "geom:longitude":47.35,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Amberobe",
+    "gn:country_code":"MG",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082358,
+    "gn:latitude":-19.5,
+    "gn:longitude":47.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amberobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421184621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082358
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"13d2ce5726e36677300ab41d00ef580a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184621,
+            "locality_id":1277092901,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1277092901,
+    "wof:lastmodified":1536752930,
+    "wof:name":"Amberobe",
+    "wof:parent_id":421184621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.35,
+    -19.5,
+    47.35,
+    -19.5
+],
+  "geometry": {"coordinates":[47.35,-19.5],"type":"Point"}
+}

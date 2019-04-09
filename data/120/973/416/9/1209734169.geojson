@@ -1,0 +1,72 @@
+{
+  "id": 1209734169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08333,-18.4,46.08333,-18.4",
+    "geom:latitude":-18.4,
+    "geom:longitude":46.08333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Atanetibe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068828,
+    "gn:latitude":-18.4,
+    "gn:longitude":46.08333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Atanetibe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antanetibe",
+        "Atanetibe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        1108801151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068828
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9e2029c4bd04d0e16983f771cb23a88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801151,
+            "locality_id":1209734169,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1209734169,
+    "wof:lastmodified":1537664701,
+    "wof:name":"Atanetibe",
+    "wof:parent_id":1108801151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08333,
+    -18.4,
+    46.08333,
+    -18.4
+],
+  "geometry": {"coordinates":[46.08333,-18.4],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242788279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38333,-20.65,44.38333,-20.65",
+    "geom:latitude":-20.65,
+    "geom:longitude":44.38333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mitsitiky",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058773,
+    "gn:latitude":-20.65,
+    "gn:longitude":44.38333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mitsitiky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milsitiha",
+        "Mitsitika",
+        "Mitsitiky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421190797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058773
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0b221849a8881b7705750b0f20266f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190797,
+            "locality_id":1242788279,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1242788279,
+    "wof:lastmodified":1537664610,
+    "wof:name":"Mitsitiky",
+    "wof:parent_id":421190797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38333,
+    -20.65,
+    44.38333,
+    -20.65
+],
+  "geometry": {"coordinates":[44.38333,-20.65],"type":"Point"}
+}

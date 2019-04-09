@@ -1,0 +1,67 @@
+{
+  "id": 1327152941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.85,-18.45,45.85,-18.45",
+    "geom:latitude":-18.45,
+    "geom:longitude":45.85,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bory Bepoaka",
+    "gn:country_code":"MG",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065623,
+    "gn:latitude":-18.45,
+    "gn:longitude":45.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bory Bepoaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065623
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d6f82421ee0c7c7a7aa697f08e6788f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1327152941,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1327152941,
+    "wof:lastmodified":1537081148,
+    "wof:name":"Bory Bepoaka",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.85,
+    -18.45,
+    45.85,
+    -18.45
+],
+  "geometry": {"coordinates":[45.85,-18.45],"type":"Point"}
+}

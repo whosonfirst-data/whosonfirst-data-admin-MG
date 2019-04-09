@@ -1,0 +1,68 @@
+{
+  "id": 1209630271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63333,-22.11667,43.63333,-22.11667",
+    "geom:latitude":-22.11667,
+    "geom:longitude":43.63333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andranombilo-Antsirasira",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075010,
+    "gn:latitude":-22.11667,
+    "gn:longitude":43.63333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andranombilo-Antsirasira",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsirasira",
+        "Andranombilo",
+        "Andranombila",
+        "Andranombilo-Antsirasira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075010
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"83a1e88f7ff655d104d810a9ebe0a75d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209630271
+        }
+    ],
+    "wof:id":1209630271,
+    "wof:lastmodified":1537664756,
+    "wof:name":"Andranombilo-Antsirasira",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63333,
+    -22.11667000000001,
+    43.63333,
+    -22.11667000000001
+],
+  "geometry": {"coordinates":[43.63333,-22.11667000000001],"type":"Point"}
+}

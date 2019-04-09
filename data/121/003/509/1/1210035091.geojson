@@ -1,0 +1,67 @@
+{
+  "id": 1210035091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01667,-19.05,47.01667,-19.05",
+    "geom:latitude":-19.05,
+    "geom:longitude":47.01667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Andohafary",
+    "gn:country_code":"MG",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076078,
+    "gn:latitude":-19.05,
+    "gn:longitude":47.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andohafary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421191751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076078
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6bedb95e50b60ec5b8becefef5f317f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421191751,
+            "locality_id":1210035091,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1210035091,
+    "wof:lastmodified":1536386845,
+    "wof:name":"Andohafary",
+    "wof:parent_id":421191751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01667,
+    -19.05,
+    47.01667,
+    -19.05
+],
+  "geometry": {"coordinates":[47.01667,-19.05],"type":"Point"}
+}

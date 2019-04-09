@@ -1,0 +1,67 @@
+{
+  "id": 1242985789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08333,-20.2,46.08333,-20.2",
+    "geom:latitude":-20.2,
+    "geom:longitude":46.08333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Antanety",
+    "gn:country_code":"MG",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070693,
+    "gn:latitude":-20.2,
+    "gn:longitude":46.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanety",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070693
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9c32b554b0ae0c763381ff8b663fcfc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1242985789,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1242985789,
+    "wof:lastmodified":1536972219,
+    "wof:name":"Antanety",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08333,
+    -20.2,
+    46.08333,
+    -20.2
+],
+  "geometry": {"coordinates":[46.08333,-20.2],"type":"Point"}
+}

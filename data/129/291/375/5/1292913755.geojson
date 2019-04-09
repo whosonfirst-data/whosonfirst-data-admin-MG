@@ -1,0 +1,67 @@
+{
+  "id": 1292913755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2,-18.15,47.2,-18.15",
+    "geom:latitude":-18.15,
+    "geom:longitude":47.2,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manankazo",
+    "gn:country_code":"MG",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061320,
+    "gn:latitude":-18.15,
+    "gn:longitude":47.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Manankazo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061320
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c58852201e512ee1992c43a2dff10790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1292913755,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1292913755,
+    "wof:lastmodified":1536617805,
+    "wof:name":"Manankazo",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2,
+    -18.15,
+    47.2,
+    -18.15
+],
+  "geometry": {"coordinates":[47.2,-18.15],"type":"Point"}
+}

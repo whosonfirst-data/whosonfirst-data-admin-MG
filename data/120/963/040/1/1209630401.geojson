@@ -1,0 +1,62 @@
+{
+  "id": 1209630401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38333,-24.95,46.38333,-24.95",
+    "geom:latitude":-24.95,
+    "geom:longitude":46.38333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Behara",
+    "gn:country_code":"MG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068234,
+    "gn:latitude":-24.95,
+    "gn:longitude":46.38333,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Behara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068234,
+        "wk:page":"Behara"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"78b286889163611e0ce4d427654661ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209630401
+        }
+    ],
+    "wof:id":1209630401,
+    "wof:lastmodified":1537568358,
+    "wof:name":"Behara",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38333,
+    -24.95,
+    46.38333,
+    -24.95
+],
+  "geometry": {"coordinates":[46.38333,-24.95],"type":"Point"}
+}

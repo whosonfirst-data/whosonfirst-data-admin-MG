@@ -1,0 +1,67 @@
+{
+  "id": 1344072235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.48333,-13.78333,49.48333,-13.78333",
+    "geom:latitude":-13.78333,
+    "geom:longitude":49.48333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sahambatry",
+    "gn:country_code":"MG",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057509,
+    "gn:latitude":-13.78333,
+    "gn:longitude":49.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sahambatry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057509
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c3552784bd24fde2861b28a5a5cc16e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1344072235,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1344072235,
+    "wof:lastmodified":1536857230,
+    "wof:name":"Sahambatry",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.48333,
+    -13.78333,
+    49.48333,
+    -13.78333
+],
+  "geometry": {"coordinates":[49.48333,-13.78333],"type":"Point"}
+}

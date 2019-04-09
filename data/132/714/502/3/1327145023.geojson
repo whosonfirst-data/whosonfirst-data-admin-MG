@@ -1,0 +1,67 @@
+{
+  "id": 1327145023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6,-24.43333,45.6,-24.43333",
+    "geom:latitude":-24.43333,
+    "geom:longitude":45.6,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sorony",
+    "gn:country_code":"MG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056085,
+    "gn:latitude":-24.43333,
+    "gn:longitude":45.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sorony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056085
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ba65c32857632245fe8ed67abc9ab255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801085,
+            "locality_id":1327145023,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1327145023,
+    "wof:lastmodified":1537092426,
+    "wof:name":"Sorony",
+    "wof:parent_id":1108801085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6,
+    -24.43333,
+    45.6,
+    -24.43333
+],
+  "geometry": {"coordinates":[45.6,-24.43333],"type":"Point"}
+}

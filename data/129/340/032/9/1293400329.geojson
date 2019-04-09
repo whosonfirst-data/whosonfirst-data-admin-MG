@@ -1,0 +1,72 @@
+{
+  "id": 1293400329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.73333,-25.25,44.73333,-25.25",
+    "geom:latitude":-25.25,
+    "geom:longitude":44.73333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Monorofanana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058731,
+    "gn:latitude":-25.25,
+    "gn:longitude":44.73333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Monorofanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manorofanana",
+        "Monorofanana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058731
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c00c02bb64412d3f841700799c3d7897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1293400329,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1293400329,
+    "wof:lastmodified":1537664609,
+    "wof:name":"Monorofanana",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.73333,
+    -25.25,
+    44.73333,
+    -25.25
+],
+  "geometry": {"coordinates":[44.73333,-25.25],"type":"Point"}
+}

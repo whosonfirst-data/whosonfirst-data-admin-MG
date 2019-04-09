@@ -1,0 +1,67 @@
+{
+  "id": 1309730713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.75,-19.05,46.75,-19.05",
+    "geom:latitude":-19.05,
+    "geom:longitude":46.75,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambatomboro",
+    "gn:country_code":"MG",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082778,
+    "gn:latitude":-19.05,
+    "gn:longitude":46.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatomboro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421171621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082778
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c657b1b7e0a8486db25d73e5768c05f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171621,
+            "locality_id":1309730713,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1309730713,
+    "wof:lastmodified":1537037705,
+    "wof:name":"Ambatomboro",
+    "wof:parent_id":421171621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.75,
+    -19.05,
+    46.75,
+    -19.05
+],
+  "geometry": {"coordinates":[46.75,-19.05],"type":"Point"}
+}

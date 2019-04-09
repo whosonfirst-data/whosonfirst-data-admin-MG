@@ -1,0 +1,61 @@
+{
+  "id": 1209933033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25,-21.95,43.25,-21.95",
+    "geom:latitude":-21.95,
+    "geom:longitude":43.25,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Belavenoka",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067689,
+    "gn:latitude":-21.95,
+    "gn:longitude":43.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Belavenoka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067689
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e46bf615600c9a54d7403a7ec7599130",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209933033,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209933033,
+    "wof:lastmodified":1536391878,
+    "wof:name":"Belavenoka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25,
+    -21.95,
+    43.25,
+    -21.95
+],
+  "geometry": {"coordinates":[43.25,-21.95],"type":"Point"}
+}

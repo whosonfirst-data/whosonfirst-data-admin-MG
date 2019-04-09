@@ -1,0 +1,67 @@
+{
+  "id": 1276243675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68333,-14.23333,48.68333,-14.23333",
+    "geom:latitude":-14.23333,
+    "geom:longitude":48.68333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodimadiro",
+    "gn:country_code":"MG",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081413,
+    "gn:latitude":-14.23333,
+    "gn:longitude":48.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodimadiro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081413
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"57493a63b6839df52dab46e23406f67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801077,
+            "locality_id":1276243675,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1276243675,
+    "wof:lastmodified":1536898713,
+    "wof:name":"Ambodimadiro",
+    "wof:parent_id":1108801077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68333,
+    -14.23333,
+    48.68333,
+    -14.23333
+],
+  "geometry": {"coordinates":[48.68333,-14.23333],"type":"Point"}
+}

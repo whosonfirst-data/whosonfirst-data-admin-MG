@@ -1,0 +1,67 @@
+{
+  "id": 1310616161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.61667,-22.08333,43.61667,-22.08333",
+    "geom:latitude":-22.08333,
+    "geom:longitude":43.61667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Marolinta",
+    "gn:country_code":"MG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059988,
+    "gn:latitude":-22.08333,
+    "gn:longitude":43.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Marolinta",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059988
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"632831b8407feffcd10ec12265481cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1310616161,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310616161,
+    "wof:lastmodified":1536757354,
+    "wof:name":"Marolinta",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.61667,
+    -22.08333,
+    43.61667,
+    -22.08333
+],
+  "geometry": {"coordinates":[43.61667,-22.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193155593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26667,-25.41667,45.26667,-25.41667",
+    "geom:latitude":-25.41667,
+    "geom:longitude":45.26667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsinavahana",
+    "gn:country_code":"MG",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054614,
+    "gn:latitude":-25.41667,
+    "gn:longitude":45.26667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsinavahana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        421184615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054614
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c1b3cacef0a818c0319a5a6fbce4dc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184615,
+            "locality_id":1193155593,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1193155593,
+    "wof:lastmodified":1536373582,
+    "wof:name":"Tsinavahana",
+    "wof:parent_id":421184615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26667,
+    -25.41667,
+    45.26667,
+    -25.41667
+],
+  "geometry": {"coordinates":[45.26667,-25.41667],"type":"Point"}
+}

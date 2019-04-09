@@ -1,0 +1,67 @@
+{
+  "id": 1343276965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.78333,-21.83333,45.78333,-21.83333",
+    "geom:latitude":-21.83333,
+    "geom:longitude":45.78333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsiahohoka",
+    "gn:country_code":"MG",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054945,
+    "gn:latitude":-21.83333,
+    "gn:longitude":45.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsiahohoka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054945
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3836a64276d4305685bb56849662a22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1343276965,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1343276965,
+    "wof:lastmodified":1537010331,
+    "wof:name":"Tsiahohoka",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.78333,
+    -21.83333,
+    45.78333,
+    -21.83333
+],
+  "geometry": {"coordinates":[45.78333,-21.83333],"type":"Point"}
+}

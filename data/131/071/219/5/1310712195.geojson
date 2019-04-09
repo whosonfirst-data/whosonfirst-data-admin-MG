@@ -1,0 +1,67 @@
+{
+  "id": 1310712195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06667,-17.1,45.06667,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":45.06667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Anjiakely",
+    "gn:country_code":"MG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073597,
+    "gn:latitude":-17.1,
+    "gn:longitude":45.06667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjiakely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073597
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b2268835affbfd08366a7405fb11db89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1310712195,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1310712195,
+    "wof:lastmodified":1536616327,
+    "wof:name":"Anjiakely",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06667,
+    -17.1,
+    45.06667,
+    -17.1
+],
+  "geometry": {"coordinates":[45.06667,-17.1],"type":"Point"}
+}

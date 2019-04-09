@@ -1,0 +1,67 @@
+{
+  "id": 1259890349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55,-22.3,44.55,-22.3",
+    "geom:latitude":-22.3,
+    "geom:longitude":44.55,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsampana",
+    "gn:country_code":"MG",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069539,
+    "gn:latitude":-22.3,
+    "gn:longitude":44.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsampana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069539
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7eae25918c2cae78ab0f0f9d8d6c4a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1259890349,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259890349,
+    "wof:lastmodified":1536769645,
+    "wof:name":"Antsampana",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55,
+    -22.3,
+    44.55,
+    -22.3
+],
+  "geometry": {"coordinates":[44.55,-22.3],"type":"Point"}
+}

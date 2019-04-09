@@ -1,0 +1,103 @@
+{
+  "id": 421181169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96667,-19.88333,46.96667,-19.88333",
+    "geom:latitude":-19.88333,
+    "geom:longitude":46.96667,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u044f\u0437\u0430\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Belazao"
+    ],
+    "name:eng_x_preferred":[
+        "Belazao"
+    ],
+    "name:fra_x_preferred":[
+        "Belazao"
+    ],
+    "name:fre_x_preferred":[
+        "Belazao"
+    ],
+    "name:mlg_x_preferred":[
+        "Belazao"
+    ],
+    "name:nld_x_preferred":[
+        "Belazao"
+    ],
+    "name:pol_x_preferred":[
+        "Belazao"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1067661,
+    "qs:gn_pop":0,
+    "qs:name":"Belazao",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antananarivo",
+    "qs:photos":163,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":163,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":478915,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1359949,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421204565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067661,
+        "gp:id":1359949,
+        "qs:id":478915,
+        "wd:id":"Q2894253",
+        "wk:page":"Belazao"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009287,
+    "wof:geomhash":"29497242be31ade009d7c950053504de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421204565,
+            "locality_id":421181169,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":421181169,
+    "wof:lastmodified":1527716321,
+    "wof:name":"Belazao",
+    "wof:parent_id":421204565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96667,
+    -19.88333,
+    46.96667,
+    -19.88333
+],
+  "geometry": {"coordinates":[46.96667,-19.88333],"type":"Point"}
+}

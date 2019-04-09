@@ -1,0 +1,67 @@
+{
+  "id": 1310220393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.03333,-13.81667,50.03333,-13.81667",
+    "geom:latitude":-13.81667,
+    "geom:longitude":50.03333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ankovohova",
+    "gn:country_code":"MG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071580,
+    "gn:latitude":-13.81667,
+    "gn:longitude":50.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankovohova",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071580
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"870adbfb47bbaf4803fe102d02f0be11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1310220393,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1310220393,
+    "wof:lastmodified":1536829717,
+    "wof:name":"Ankovohova",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.03333,
+    -13.81667,
+    50.03333,
+    -13.81667
+],
+  "geometry": {"coordinates":[50.03333,-13.81667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421193777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53333,-18.91667,47.53333,-18.91667",
+    "geom:latitude":-18.91667,
+    "geom:longitude":47.53333,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":1080049,
+    "qs:gn_pop":0,
+    "qs:name":"Ambohimitsimbina",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antananarivo",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1189714,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1354942,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        1108801113,
+        85673965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080049,
+        "gp:id":1354942,
+        "qs:id":1189714
+    },
+    "wof:country":"MG",
+    "wof:created":1459009783,
+    "wof:geomhash":"94114a2e1bf619d78396a1f2945cc63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801113,
+            "locality_id":-1,
+            "neighbourhood_id":421193777,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":421193777,
+    "wof:lastmodified":1531858720,
+    "wof:name":"Ambohimitsimbina",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53333,
+    -18.91667,
+    47.53333,
+    -18.91667
+],
+  "geometry": {"coordinates":[47.53333,-18.91667],"type":"Point"}
+}

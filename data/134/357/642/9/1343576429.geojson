@@ -1,0 +1,67 @@
+{
+  "id": 1343576429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91667,-16.4,48.91667,-16.4",
+    "geom:latitude":-16.4,
+    "geom:longitude":48.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodivoahangy",
+    "gn:country_code":"MG",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080855,
+    "gn:latitude":-16.4,
+    "gn:longitude":48.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodivoahangy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080855
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"cd6691a615279d131d4481dcd24b9c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801185,
+            "locality_id":1343576429,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1343576429,
+    "wof:lastmodified":1537073265,
+    "wof:name":"Ambodivoahangy",
+    "wof:parent_id":1108801185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91667,
+    -16.4,
+    48.91667,
+    -16.4
+],
+  "geometry": {"coordinates":[48.91667,-16.4],"type":"Point"}
+}

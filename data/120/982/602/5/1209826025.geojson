@@ -1,0 +1,68 @@
+{
+  "id": 1209826025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.68333,-19.63333,47.68333,-19.63333",
+    "geom:latitude":-19.63333,
+    "geom:longitude":47.68333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tsinjoarivo",
+    "gn:country_code":"MG",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054580,
+    "gn:latitude":-19.63333,
+    "gn:longitude":47.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsinjoarivo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421194677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054580,
+        "wk:page":"Tsinjoarivo%2C_Ambatolampy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6bc77896c6301a3ae27ef7abbdd41843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421194677,
+            "locality_id":1209826025,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1209826025,
+    "wof:lastmodified":1537568335,
+    "wof:name":"Tsinjoarivo",
+    "wof:parent_id":421194677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.68333,
+    -19.63333,
+    47.68333,
+    -19.63333
+],
+  "geometry": {"coordinates":[47.68333,-19.63333],"type":"Point"}
+}

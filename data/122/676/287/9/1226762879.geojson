@@ -1,0 +1,67 @@
+{
+  "id": 1226762879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95,-19.75,46.95,-19.75",
+    "geom:latitude":-19.75,
+    "geom:longitude":46.95,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Miarinavaratra",
+    "gn:country_code":"MG",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059000,
+    "gn:latitude":-19.75,
+    "gn:longitude":46.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Miarinavaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421175087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059000
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"463a36a4eaf678b69647badb3bb06eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175087,
+            "locality_id":1226762879,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1226762879,
+    "wof:lastmodified":1536690946,
+    "wof:name":"Miarinavaratra",
+    "wof:parent_id":421175087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95,
+    -19.75,
+    46.95,
+    -19.75
+],
+  "geometry": {"coordinates":[46.95,-19.75],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 421190175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"45.95,-24.33333,45.95,-24.33333",
+    "geom:latitude":-24.33333,
+    "geom:longitude":45.95,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Amboasary Sud"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0627\u0633\u0627\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Amboasary"
+    ],
+    "name:nld_x_preferred":[
+        "Amboasary"
+    ],
+    "name:pol_x_preferred":[
+        "Amboasary"
+    ],
+    "name:spa_x_preferred":[
+        "Amboasary"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1081798,
+    "qs:gn_pop":0,
+    "qs:name":"Amboasary",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toliara",
+    "qs:photos":835,
+    "qs:photos_1k":169,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":922,
+    "qs:photos_sr":9,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118943,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":23706521,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081798,
+        "gp:id":23706521,
+        "qs:id":1118943,
+        "wd:id":"Q988775"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009649,
+    "wof:geomhash":"f6aa1a5edbefce7adba1f1643e36dd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190175,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":421190175,
+    "wof:lastmodified":1527716393,
+    "wof:name":"Amboasary",
+    "wof:parent_id":85673977,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.95,
+    -24.33333,
+    45.95,
+    -24.33333
+],
+  "geometry": {"coordinates":[45.95,-24.33333],"type":"Point"}
+}

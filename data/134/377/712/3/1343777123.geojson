@@ -1,0 +1,67 @@
+{
+  "id": 1343777123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.15,-12.3,49.15,-12.3",
+    "geom:latitude":-12.3,
+    "geom:longitude":49.15,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambatojobijoby",
+    "gn:country_code":"MG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083096,
+    "gn:latitude":-12.3,
+    "gn:longitude":49.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatojobijoby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083096
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1eb9cc73997f38ce438d89e963f863d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1343777123,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1343777123,
+    "wof:lastmodified":1536787303,
+    "wof:name":"Ambatojobijoby",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.15,
+    -12.3,
+    49.15,
+    -12.3
+],
+  "geometry": {"coordinates":[49.15,-12.3],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259392989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21667,-13.9,48.21667,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":48.21667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Antanambaonibotomorima",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071021,
+    "gn:latitude":-13.9,
+    "gn:longitude":48.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Antanambaonibotomorima",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antanambao",
+        "Antanambaonibotomorima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071021
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3d8c3fd36a7607679424e9d42ea3b74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1259392989,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1259392989,
+    "wof:lastmodified":1537664722,
+    "wof:name":"Antanambaonibotomorima",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21667,
+    -13.9,
+    48.21667,
+    -13.9
+],
+  "geometry": {"coordinates":[48.21667,-13.9],"type":"Point"}
+}

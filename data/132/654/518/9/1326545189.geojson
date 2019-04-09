@@ -1,0 +1,67 @@
+{
+  "id": 1326545189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03333,-24.05,45.03333,-24.05",
+    "geom:latitude":-24.05,
+    "geom:longitude":45.03333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andranoboa",
+    "gn:country_code":"MG",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075429,
+    "gn:latitude":-24.05,
+    "gn:longitude":45.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranoboa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075429
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c186949fc3aa36084059598f5d1b6651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1326545189,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1326545189,
+    "wof:lastmodified":1536965020,
+    "wof:name":"Andranoboa",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03333,
+    -24.05,
+    45.03333,
+    -24.05
+],
+  "geometry": {"coordinates":[45.03333,-24.05],"type":"Point"}
+}

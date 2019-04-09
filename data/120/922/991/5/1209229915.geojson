@@ -1,0 +1,60 @@
+{
+  "id": 1209229915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53782,-22.91527,44.53782,-22.91527",
+    "geom:latitude":-22.91527,
+    "geom:longitude":44.53782,
+    "gn:asciiname":"Andasy Tanala",
+    "gn:country_code":"MG",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11377076,
+    "gn:latitude":-22.91527,
+    "gn:longitude":44.53782,
+    "gn:modification_date":"2016-12-07",
+    "gn:name":"Andasy Tanala",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11377076
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"802632bf9ea1a58f569d64ce05a1f2cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209229915
+        }
+    ],
+    "wof:id":1209229915,
+    "wof:lastmodified":1536293669,
+    "wof:name":"Andasy Tanala",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53782,
+    -22.91527,
+    44.53782,
+    -22.91527
+],
+  "geometry": {"coordinates":[44.53782,-22.91527],"type":"Point"}
+}

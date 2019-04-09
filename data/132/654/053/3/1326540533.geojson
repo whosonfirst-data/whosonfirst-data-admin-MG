@@ -1,0 +1,67 @@
+{
+  "id": 1326540533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51667,-23.8,47.51667,-23.8",
+    "geom:latitude":-23.8,
+    "geom:longitude":47.51667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Befeno",
+    "gn:country_code":"MG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068342,
+    "gn:latitude":-23.8,
+    "gn:longitude":47.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Befeno",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068342
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"93c88cf598c87a65bc9f7f746315522c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1326540533,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1326540533,
+    "wof:lastmodified":1536971591,
+    "wof:name":"Befeno",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51667,
+    -23.8,
+    47.51667,
+    -23.8
+],
+  "geometry": {"coordinates":[47.51667,-23.8],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259794285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96667,-17.76667,48.96667,-17.76667",
+    "geom:latitude":-17.76667,
+    "geom:longitude":48.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fotsialonana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064721,
+    "gn:latitude":-17.76667,
+    "gn:longitude":48.96667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Fotsialonana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fotsialana",
+        "Fotsialonana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064721
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2134332b9309e190f3e074ecafc2c7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1259794285,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1259794285,
+    "wof:lastmodified":1537664660,
+    "wof:name":"Fotsialonana",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96667,
+    -17.76667,
+    48.96667,
+    -17.76667
+],
+  "geometry": {"coordinates":[48.96667,-17.76667],"type":"Point"}
+}

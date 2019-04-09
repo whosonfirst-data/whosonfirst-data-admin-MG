@@ -1,0 +1,61 @@
+{
+  "id": 1209121393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71667,-21.25,46.71667,-21.25",
+    "geom:latitude":-21.25,
+    "geom:longitude":46.71667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambovony",
+    "gn:country_code":"MG",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079032,
+    "gn:latitude":-21.25,
+    "gn:longitude":46.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambovony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079032
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f0a11813813e4378a3e26201fed9456a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209121393
+        }
+    ],
+    "wof:id":1209121393,
+    "wof:lastmodified":1536297086,
+    "wof:name":"Ambovony",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71667,
+    -21.25,
+    46.71667,
+    -21.25
+],
+  "geometry": {"coordinates":[46.71667,-21.25],"type":"Point"}
+}

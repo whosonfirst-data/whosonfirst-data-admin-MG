@@ -1,0 +1,61 @@
+{
+  "id": 1209430149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.28333,-23.2,46.28333,-23.2",
+    "geom:latitude":-23.2,
+    "geom:longitude":46.28333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sahamahailahy",
+    "gn:country_code":"MG",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057569,
+    "gn:latitude":-23.2,
+    "gn:longitude":46.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sahamahailahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057569
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b265b6eb62c1ff4e7c196ec3b3d03202",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209430149
+        }
+    ],
+    "wof:id":1209430149,
+    "wof:lastmodified":1536287259,
+    "wof:name":"Sahamahailahy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.28333,
+    -23.2,
+    46.28333,
+    -23.2
+],
+  "geometry": {"coordinates":[46.28333,-23.2],"type":"Point"}
+}

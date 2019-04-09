@@ -1,0 +1,67 @@
+{
+  "id": 1310516719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35,-13.53333,48.35,-13.53333",
+    "geom:latitude":-13.53333,
+    "geom:longitude":48.35,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ankify",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072451,
+    "gn:latitude":-13.53333,
+    "gn:longitude":48.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankify",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankifi",
+        "Ankify"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072451,
+        "wk:page":"Ankify"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ef50752f9c462f47152cc0f9c720e57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310516719,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310516719,
+    "wof:lastmodified":1537664736,
+    "wof:name":"Ankify",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35,
+    -13.53333,
+    48.35,
+    -13.53333
+],
+  "geometry": {"coordinates":[48.35,-13.53333],"type":"Point"}
+}

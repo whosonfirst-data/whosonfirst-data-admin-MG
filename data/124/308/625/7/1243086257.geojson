@@ -1,0 +1,61 @@
+{
+  "id": 1243086257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.8,-15.93333,49.8,-15.93333",
+    "geom:latitude":-15.93333,
+    "geom:longitude":49.8,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andranomena",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074995,
+    "gn:latitude":-15.93333,
+    "gn:longitude":49.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andranomena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074995
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a61f862cca35d6f6b96cef9c6ac6af18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243086257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243086257,
+    "wof:lastmodified":1536826805,
+    "wof:name":"Andranomena",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.8,
+    -15.93333,
+    49.8,
+    -15.93333
+],
+  "geometry": {"coordinates":[49.8,-15.93333],"type":"Point"}
+}

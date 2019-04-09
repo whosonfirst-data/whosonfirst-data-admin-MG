@@ -1,0 +1,73 @@
+{
+  "id": 1225860077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.78333,-22.85,45.78333,-22.85",
+    "geom:latitude":-22.85,
+    "geom:longitude":45.78333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jangany",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063777,
+    "gn:latitude":-22.85,
+    "gn:longitude":45.78333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Jangany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jangana",
+        "Jangany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063777,
+        "wk:page":"Jangany"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9b020cc384d5126146256fd4c8cac724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1225860077,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1225860077,
+    "wof:lastmodified":1537664650,
+    "wof:name":"Jangany",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.78333,
+    -22.85,
+    45.78333,
+    -22.85
+],
+  "geometry": {"coordinates":[45.78333,-22.85],"type":"Point"}
+}

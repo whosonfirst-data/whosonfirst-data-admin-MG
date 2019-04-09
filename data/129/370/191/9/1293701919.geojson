@@ -1,0 +1,67 @@
+{
+  "id": 1293701919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.58333,-19.3,47.58333,-19.3",
+    "geom:latitude":-19.3,
+    "geom:longitude":47.58333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rakalavao",
+    "gn:country_code":"MG",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057975,
+    "gn:latitude":-19.3,
+    "gn:longitude":47.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Rakalavao",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057975
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f25dc51102e405f581cea2d8a3a181be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801099,
+            "locality_id":1293701919,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1293701919,
+    "wof:lastmodified":1536974660,
+    "wof:name":"Rakalavao",
+    "wof:parent_id":1108801099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.58333,
+    -19.3,
+    47.58333,
+    -19.3
+],
+  "geometry": {"coordinates":[47.58333,-19.3],"type":"Point"}
+}

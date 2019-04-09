@@ -1,0 +1,67 @@
+{
+  "id": 1193147503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98333,-23.48333,44.98333,-23.48333",
+    "geom:latitude":-23.48333,
+    "geom:longitude":44.98333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mainty",
+    "gn:country_code":"MG",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1061906,
+    "gn:latitude":-23.48333,
+    "gn:longitude":44.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mainty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1061906
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2f0c9a3814c21393d40f2227d23e56a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801135,
+            "locality_id":1193147503,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1193147503,
+    "wof:lastmodified":1536381799,
+    "wof:name":"Mainty",
+    "wof:parent_id":1108801135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98333,
+    -23.48333,
+    44.98333,
+    -23.48333
+],
+  "geometry": {"coordinates":[44.98333,-23.48333],"type":"Point"}
+}

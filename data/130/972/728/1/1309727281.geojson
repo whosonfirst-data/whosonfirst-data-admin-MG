@@ -1,0 +1,72 @@
+{
+  "id": 1309727281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55,-15.7,46.55,-15.7",
+    "geom:latitude":-15.7,
+    "geom:longitude":46.55,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Marosakoa",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059778,
+    "gn:latitude":-15.7,
+    "gn:longitude":46.55,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Marosakoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manosakoa",
+        "Marosakoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        890442887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059778
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8f2297d2578cf9e2556481e77b147e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890442887,
+            "locality_id":1309727281,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1309727281,
+    "wof:lastmodified":1537664618,
+    "wof:name":"Marosakoa",
+    "wof:parent_id":890442887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55,
+    -15.7,
+    46.55,
+    -15.7
+],
+  "geometry": {"coordinates":[46.55,-15.7],"type":"Point"}
+}

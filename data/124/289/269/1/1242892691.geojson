@@ -1,0 +1,67 @@
+{
+  "id": 1242892691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0,-17.11667,45.0,-17.11667",
+    "geom:latitude":-17.11667,
+    "geom:longitude":45.0,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manintsiarana",
+    "gn:country_code":"MG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060724,
+    "gn:latitude":-17.11667,
+    "gn:longitude":45.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Manintsiarana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060724
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7ece1841cf86e4f25d18b4409f9cfe31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "locality_id":1242892691,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1242892691,
+    "wof:lastmodified":1536606959,
+    "wof:name":"Manintsiarana",
+    "wof:parent_id":1108801139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0,
+    -17.11667000000001,
+    45.0,
+    -17.11667000000001
+],
+  "geometry": {"coordinates":[45.0,-17.11667000000001],"type":"Point"}
+}

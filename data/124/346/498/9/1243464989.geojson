@@ -1,0 +1,67 @@
+{
+  "id": 1243464989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48333,-23.15,44.48333,-23.15",
+    "geom:latitude":-23.15,
+    "geom:longitude":44.48333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Miary-Andranotsara",
+    "gn:country_code":"MG",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058972,
+    "gn:latitude":-23.15,
+    "gn:longitude":44.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Miary-Andranotsara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058972
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2b5c694fda3d0288deed0d9ba7b4ad48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1243464989,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1243464989,
+    "wof:lastmodified":1536779218,
+    "wof:name":"Miary-Andranotsara",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48333,
+    -23.15,
+    44.48333,
+    -23.15
+],
+  "geometry": {"coordinates":[44.48333,-23.15],"type":"Point"}
+}

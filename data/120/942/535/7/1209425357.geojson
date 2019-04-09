@@ -1,0 +1,61 @@
+{
+  "id": 1209425357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.13333,-19.21667,47.13333,-19.21667",
+    "geom:latitude":-19.21667,
+    "geom:longitude":47.13333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Fanahely",
+    "gn:country_code":"MG",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065270,
+    "gn:latitude":-19.21667,
+    "gn:longitude":47.13333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Fanahely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065270
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0026c2cddb49e39134759f8636d509ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425357
+        }
+    ],
+    "wof:id":1209425357,
+    "wof:lastmodified":1536287397,
+    "wof:name":"Fanahely",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.13333,
+    -19.21667,
+    47.13333,
+    -19.21667
+],
+  "geometry": {"coordinates":[47.13333,-19.21667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292913735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61667,-23.93333,44.61667,-23.93333",
+    "geom:latitude":-23.93333,
+    "geom:longitude":44.61667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bevato",
+    "gn:country_code":"MG",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065984,
+    "gn:latitude":-23.93333,
+    "gn:longitude":44.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bevato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065984
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"81ea020d42bef9c3a1a62a6b4cb41826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1292913735,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1292913735,
+    "wof:lastmodified":1536617838,
+    "wof:name":"Bevato",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61667,
+    -23.93333,
+    44.61667,
+    -23.93333
+],
+  "geometry": {"coordinates":[44.61667,-23.93333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242796417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33333,-15.66667,46.33333,-15.66667",
+    "geom:latitude":-15.66667,
+    "geom:longitude":46.33333,
+    "gn:admin1_code":"7670849",
+    "gn:admin2_code":"11072817",
+    "gn:asciiname":"Amborovy",
+    "gn:country_code":"MG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079096,
+    "gn:latitude":-15.66667,
+    "gn:longitude":46.33333,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Amborovy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        1108801167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079096
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"91581ddfdecc9908a692404a59a541a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801167,
+            "locality_id":1242796417,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1242796417,
+    "wof:lastmodified":1536748289,
+    "wof:name":"Amborovy",
+    "wof:parent_id":1108801167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33333,
+    -15.66667,
+    46.33333,
+    -15.66667
+],
+  "geometry": {"coordinates":[46.33333,-15.66667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226361013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61667,-19.63333,46.61667,-19.63333",
+    "geom:latitude":-19.63333,
+    "geom:longitude":46.61667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ambohitrinirina",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079789,
+    "gn:latitude":-19.63333,
+    "gn:longitude":46.61667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambohitrinirina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambohitrinivina",
+        "Ambohitrinirina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421175087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079789
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"267aa6bdbad0588a5b1c3876bfd33263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175087,
+            "locality_id":1226361013,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1226361013,
+    "wof:lastmodified":1537664792,
+    "wof:name":"Ambohitrinirina",
+    "wof:parent_id":421175087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61667,
+    -19.63333,
+    46.61667,
+    -19.63333
+],
+  "geometry": {"coordinates":[46.61667,-19.63333],"type":"Point"}
+}

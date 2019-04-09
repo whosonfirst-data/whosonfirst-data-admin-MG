@@ -1,0 +1,67 @@
+{
+  "id": 1343469337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.33333,-21.6,47.33333,-21.6",
+    "geom:latitude":-21.6,
+    "geom:longitude":47.33333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambodivarony",
+    "gn:country_code":"MG",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080875,
+    "gn:latitude":-21.6,
+    "gn:longitude":47.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodivarony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080875
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2c98ce18fedc03ce2bf03f47075a1a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801219,
+            "locality_id":1343469337,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1343469337,
+    "wof:lastmodified":1536733439,
+    "wof:name":"Ambodivarony",
+    "wof:parent_id":1108801219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.33333,
+    -21.6,
+    47.33333,
+    -21.6
+],
+  "geometry": {"coordinates":[47.33333,-21.6],"type":"Point"}
+}

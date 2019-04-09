@@ -1,0 +1,67 @@
+{
+  "id": 1344075789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.75,-13.61667,49.75,-13.61667",
+    "geom:latitude":-13.61667,
+    "geom:longitude":49.75,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampandilo",
+    "gn:country_code":"MG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1078757,
+    "gn:latitude":-13.61667,
+    "gn:longitude":49.75,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampandilo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421183931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1078757
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ef883ff6a1ad9eeca8fe390667ec4c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183931,
+            "locality_id":1344075789,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1344075789,
+    "wof:lastmodified":1536852366,
+    "wof:name":"Ampandilo",
+    "wof:parent_id":421183931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.75,
+    -13.61667,
+    49.75,
+    -13.61667
+],
+  "geometry": {"coordinates":[49.75,-13.61667],"type":"Point"}
+}

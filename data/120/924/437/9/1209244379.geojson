@@ -1,0 +1,64 @@
+{
+  "id": 1209244379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.31554,-14.99748,50.31554,-14.99748",
+    "geom:latitude":-14.99748,
+    "geom:longitude":50.31554,
+    "gn:admin1_code":"7670846",
+    "gn:asciiname":"Antsirabato",
+    "gn:country_code":"MG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069188,
+    "gn:latitude":-14.99748,
+    "gn:longitude":50.31554,
+    "gn:modification_date":"2013-06-09",
+    "gn:name":"Antsirabato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Antsirabato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069188
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d65bccc230d5431ca8997f1c5794aef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209244379
+        }
+    ],
+    "wof:id":1209244379,
+    "wof:lastmodified":1537664704,
+    "wof:name":"Antsirabato",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.31554000000001,
+    -14.99748,
+    50.31554000000001,
+    -14.99748
+],
+  "geometry": {"coordinates":[50.31554000000001,-14.99748],"type":"Point"}
+}

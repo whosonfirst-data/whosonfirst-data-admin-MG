@@ -1,0 +1,67 @@
+{
+  "id": 1310516753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85,-16.91667,46.85,-16.91667",
+    "geom:latitude":-16.91667,
+    "geom:longitude":46.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankirisimasy",
+    "gn:country_code":"MG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071991,
+    "gn:latitude":-16.91667,
+    "gn:longitude":46.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankirisimasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071991
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"754cc5126a02d0a6d396cb0621255261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1310516753,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1310516753,
+    "wof:lastmodified":1536900627,
+    "wof:name":"Ankirisimasy",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85,
+    -16.91667,
+    46.85,
+    -16.91667
+],
+  "geometry": {"coordinates":[46.85,-16.91667],"type":"Point"}
+}

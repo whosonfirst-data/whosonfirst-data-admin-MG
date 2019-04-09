@@ -1,0 +1,72 @@
+{
+  "id": 1242588197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.62138,-15.37549,49.62138,-15.37549",
+    "geom:latitude":-15.37549,
+    "geom:longitude":49.62138,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fampanambo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065278,
+    "gn:latitude":-15.37549,
+    "gn:longitude":49.62138,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Fampanambo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pampanambo",
+        "Fampanambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        890451979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065278
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"dc277a7a3ccd63b5d8f308966c418814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890451979,
+            "locality_id":1242588197,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1242588197,
+    "wof:lastmodified":1537664665,
+    "wof:name":"Fampanambo",
+    "wof:parent_id":890451979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.62138,
+    -15.37549,
+    49.62138,
+    -15.37549
+],
+  "geometry": {"coordinates":[49.62138,-15.37549],"type":"Point"}
+}

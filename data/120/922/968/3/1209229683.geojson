@@ -1,0 +1,61 @@
+{
+  "id": 1209229683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43333,-25.1,46.43333,-25.1",
+    "geom:latitude":-25.1,
+    "geom:longitude":46.43333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Toby",
+    "gn:country_code":"MG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055449,
+    "gn:latitude":-25.1,
+    "gn:longitude":46.43333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Toby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055449
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1e4f4b325a1b5bc2df7ce74f3b32888e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209229683
+        }
+    ],
+    "wof:id":1209229683,
+    "wof:lastmodified":1536293677,
+    "wof:name":"Toby",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43333,
+    -25.1,
+    46.43333,
+    -25.1
+],
+  "geometry": {"coordinates":[46.43333,-25.1],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327040499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.18333,-15.11667,50.18333,-15.11667",
+    "geom:latitude":-15.11667,
+    "geom:longitude":50.18333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ankesihesy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072546,
+    "gn:latitude":-15.11667,
+    "gn:longitude":50.18333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankesihesy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankesiasa",
+        "Ankesihesy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421196875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072546
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c42665dd36b45a8aa56c97b3ff582ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421196875,
+            "locality_id":1327040499,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1327040499,
+    "wof:lastmodified":1537664737,
+    "wof:name":"Ankesihesy",
+    "wof:parent_id":421196875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.18333,
+    -15.11667,
+    50.18333,
+    -15.11667
+],
+  "geometry": {"coordinates":[50.18333,-15.11667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293215707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13333,-21.21667,48.13333,-21.21667",
+    "geom:latitude":-21.21667,
+    "geom:longitude":48.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marokarima",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060058,
+    "gn:latitude":-21.21667,
+    "gn:longitude":48.13333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Marokarima",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marokarimo",
+        "Marokarima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060058,
+        "wk:page":"Marokarima"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"608016bc032d9719c95d1cf2f7c1ef8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1293215707,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1293215707,
+    "wof:lastmodified":1537664621,
+    "wof:name":"Marokarima",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13333,
+    -21.21667,
+    48.13333,
+    -21.21667
+],
+  "geometry": {"coordinates":[48.13333,-21.21667],"type":"Point"}
+}

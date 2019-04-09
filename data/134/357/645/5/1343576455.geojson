@@ -1,0 +1,72 @@
+{
+  "id": 1343576455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31667,-21.91667,46.31667,-21.91667",
+    "geom:latitude":-21.91667,
+    "geom:longitude":46.31667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Keliberano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063613,
+    "gn:latitude":-21.91667,
+    "gn:longitude":46.31667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Keliberano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelibarano",
+        "Keliberano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063613
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"93c95e9b21941afd410f026837577000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1343576455,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1343576455,
+    "wof:lastmodified":1537664648,
+    "wof:name":"Keliberano",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31667,
+    -21.91667,
+    46.31667,
+    -21.91667
+],
+  "geometry": {"coordinates":[46.31667,-21.91667],"type":"Point"}
+}

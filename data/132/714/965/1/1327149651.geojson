@@ -1,0 +1,67 @@
+{
+  "id": 1327149651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25,-18.48333,44.25,-18.48333",
+    "geom:latitude":-18.48333,
+    "geom:longitude":44.25,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tamotamo",
+    "gn:country_code":"MG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055938,
+    "gn:latitude":-18.48333,
+    "gn:longitude":44.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tamotamo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055938
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c7fa3b33280dca5c138ed85185975ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801171,
+            "locality_id":1327149651,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1327149651,
+    "wof:lastmodified":1537085802,
+    "wof:name":"Tamotamo",
+    "wof:parent_id":1108801171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25,
+    -18.48333,
+    44.25,
+    -18.48333
+],
+  "geometry": {"coordinates":[44.25,-18.48333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309730927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.18333,-16.61667,48.18333,-16.61667",
+    "geom:latitude":-16.61667,
+    "geom:longitude":48.18333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambolomborona",
+    "gn:country_code":"MG",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079497,
+    "gn:latitude":-16.61667,
+    "gn:longitude":48.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambolomborona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079497,
+        "wk:page":"Ambolomborona"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"326a0114877ed0f3a192594265430598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1309730927,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1309730927,
+    "wof:lastmodified":1537568372,
+    "wof:name":"Ambolomborona",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.18333,
+    -16.61667000000001,
+    48.18333,
+    -16.61667000000001
+],
+  "geometry": {"coordinates":[48.18333,-16.61667000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209530833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.25,-17.33333,49.25,-17.33333",
+    "geom:latitude":-17.33333,
+    "geom:longitude":49.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sahabelafika",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057660,
+    "gn:latitude":-17.33333,
+    "gn:longitude":49.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sahabelafika",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabelafika",
+        "Sahabelafika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057660
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a9af2eee06fc559186ac2ed3dd4fd2bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209530833
+        }
+    ],
+    "wof:id":1209530833,
+    "wof:lastmodified":1537664602,
+    "wof:name":"Sahabelafika",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25,
+    -17.33333,
+    49.25,
+    -17.33333
+],
+  "geometry": {"coordinates":[49.25,-17.33333],"type":"Point"}
+}

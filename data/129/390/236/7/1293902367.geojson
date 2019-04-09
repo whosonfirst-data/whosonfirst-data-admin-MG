@@ -1,0 +1,72 @@
+{
+  "id": 1293902367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31667,-14.4,48.31667,-14.4",
+    "geom:latitude":-14.4,
+    "geom:longitude":48.31667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodimangatelo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081181,
+    "gn:latitude":-14.4,
+    "gn:longitude":48.31667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambodimangatelo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambodimanga",
+        "Ambodimangatelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081181
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"22d0d5dc7db2e483ac916f2f102cb25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1293902367,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1293902367,
+    "wof:lastmodified":1537664803,
+    "wof:name":"Ambodimangatelo",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31667,
+    -14.4,
+    48.31667,
+    -14.4
+],
+  "geometry": {"coordinates":[48.31667,-14.4],"type":"Point"}
+}

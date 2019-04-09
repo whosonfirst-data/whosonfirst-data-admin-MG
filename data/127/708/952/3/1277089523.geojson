@@ -1,0 +1,72 @@
+{
+  "id": 1277089523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03333,-22.81667,44.03333,-22.81667",
+    "geom:latitude":-22.81667,
+    "geom:longitude":44.03333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iaborano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064582,
+    "gn:latitude":-22.81667,
+    "gn:longitude":44.03333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Iaborano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laborano",
+        "Iaborano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064582
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"1eb0067efb30f7b17c3cd604c464b68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1277089523,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1277089523,
+    "wof:lastmodified":1537664658,
+    "wof:name":"Iaborano",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03333,
+    -22.81667,
+    44.03333,
+    -22.81667
+],
+  "geometry": {"coordinates":[44.03333,-22.81667],"type":"Point"}
+}

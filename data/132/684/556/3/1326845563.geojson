@@ -1,0 +1,68 @@
+{
+  "id": 1326845563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.26667,-22.41667,47.26667,-22.41667",
+    "geom:latitude":-22.41667,
+    "geom:longitude":47.26667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ivato",
+    "gn:country_code":"MG",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063852,
+    "gn:latitude":-22.41667,
+    "gn:longitude":47.26667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ivato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063852,
+        "wk:page":"Ivato%2C_Vohipeno"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d57629e83b1cd1f4985f589a13fff8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801221,
+            "locality_id":1326845563,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1326845563,
+    "wof:lastmodified":1537568349,
+    "wof:name":"Ivato",
+    "wof:parent_id":1108801221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.26667,
+    -22.41667,
+    47.26667,
+    -22.41667
+],
+  "geometry": {"coordinates":[47.26667,-22.41667],"type":"Point"}
+}

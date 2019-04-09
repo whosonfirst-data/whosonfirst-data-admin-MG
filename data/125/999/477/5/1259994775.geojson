@@ -1,0 +1,68 @@
+{
+  "id": 1259994775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55,-21.31667,43.55,-21.31667",
+    "geom:latitude":-21.31667,
+    "geom:longitude":43.55,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andalandy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076558,
+    "gn:latitude":-21.31667,
+    "gn:longitude":43.55,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andalandy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andalanda",
+        "Andalandy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076558
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"12c286f93889b47dbf8ff76cdcdfe804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259994775,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259994775,
+    "wof:lastmodified":1537664767,
+    "wof:name":"Andalandy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55,
+    -21.31667,
+    43.55,
+    -21.31667
+],
+  "geometry": {"coordinates":[43.55,-21.31667],"type":"Point"}
+}

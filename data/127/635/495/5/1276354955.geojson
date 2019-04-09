@@ -1,0 +1,67 @@
+{
+  "id": 1276354955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1,-17.9,49.1,-17.9",
+    "geom:latitude":-17.9,
+    "geom:longitude":49.1,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Andratambazaha",
+    "gn:country_code":"MG",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074572,
+    "gn:latitude":-17.9,
+    "gn:longitude":49.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andratambazaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991,
+        890454551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074572
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d1f8b3c9662157ea1d7df8fdaea3b114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890454551,
+            "locality_id":1276354955,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":1276354955,
+    "wof:lastmodified":1536749449,
+    "wof:name":"Andratambazaha",
+    "wof:parent_id":890454551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1,
+    -17.9,
+    49.1,
+    -17.9
+],
+  "geometry": {"coordinates":[49.1,-17.9],"type":"Point"}
+}

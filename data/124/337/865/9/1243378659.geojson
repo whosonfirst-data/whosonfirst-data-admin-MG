@@ -1,0 +1,66 @@
+{
+  "id": 1243378659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08511,-21.43704,47.08511,-21.43704",
+    "geom:latitude":-21.43704,
+    "geom:longitude":47.08511,
+    "gn:asciiname":"Sahalava",
+    "gn:country_code":"MG",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427438,
+    "gn:latitude":-21.43704,
+    "gn:longitude":47.08511,
+    "gn:modification_date":"2017-01-14",
+    "gn:name":"Sahalava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421200825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427438
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"c9910efa5fc9b6a42b0524e9cc2f4e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421200825,
+            "locality_id":1243378659,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1243378659,
+    "wof:lastmodified":1536903418,
+    "wof:name":"Sahalava",
+    "wof:parent_id":421200825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08511,
+    -21.43704,
+    47.08511,
+    -21.43704
+],
+  "geometry": {"coordinates":[47.08511,-21.43704],"type":"Point"}
+}

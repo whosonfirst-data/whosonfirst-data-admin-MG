@@ -1,0 +1,73 @@
+{
+  "id": 1310716779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7,-15.48333,46.7,-15.48333",
+    "geom:latitude":-15.48333,
+    "geom:longitude":46.7,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mariarano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060449,
+    "gn:latitude":-15.48333,
+    "gn:longitude":46.7,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mariarano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marirano",
+        "Mariarano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        890442887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060449,
+        "wk:page":"Mariarano"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9d9b505f4f87d28438c11c6ca1b2eb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890442887,
+            "locality_id":1310716779,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1310716779,
+    "wof:lastmodified":1537664624,
+    "wof:name":"Mariarano",
+    "wof:parent_id":890442887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7,
+    -15.48333,
+    46.7,
+    -15.48333
+],
+  "geometry": {"coordinates":[46.7,-15.48333],"type":"Point"}
+}

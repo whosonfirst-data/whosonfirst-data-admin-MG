@@ -1,0 +1,67 @@
+{
+  "id": 1243382287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96667,-24.01667,46.96667,-24.01667",
+    "geom:latitude":-24.01667,
+    "geom:longitude":46.96667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambatomanjaka",
+    "gn:country_code":"MG",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082816,
+    "gn:latitude":-24.01667,
+    "gn:longitude":46.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatomanjaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082816
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4f53b015e0acbe6f688b6aa9d0b7e910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1243382287,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1243382287,
+    "wof:lastmodified":1536898018,
+    "wof:name":"Ambatomanjaka",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96667,
+    -24.01667,
+    46.96667,
+    -24.01667
+],
+  "geometry": {"coordinates":[46.96667,-24.01667],"type":"Point"}
+}

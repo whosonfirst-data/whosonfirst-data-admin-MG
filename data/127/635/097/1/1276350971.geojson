@@ -1,0 +1,67 @@
+{
+  "id": 1276350971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0,-23.88333,47.0,-23.88333",
+    "geom:latitude":-23.88333,
+    "geom:longitude":47.0,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hazolava",
+    "gn:country_code":"MG",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064656,
+    "gn:latitude":-23.88333,
+    "gn:longitude":47.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Hazolava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064656
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"988316a06771ed87fff2383aef9df632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801129,
+            "locality_id":1276350971,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1276350971,
+    "wof:lastmodified":1536754853,
+    "wof:name":"Hazolava",
+    "wof:parent_id":1108801129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0,
+    -23.88333,
+    47.0,
+    -23.88333
+],
+  "geometry": {"coordinates":[47.0,-23.88333],"type":"Point"}
+}

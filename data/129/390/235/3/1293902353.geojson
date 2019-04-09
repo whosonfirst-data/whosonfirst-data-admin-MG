@@ -1,0 +1,67 @@
+{
+  "id": 1293902353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83333,-21.08333,47.83333,-21.08333",
+    "geom:latitude":-21.08333,
+    "geom:longitude":47.83333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambohitsara",
+    "gn:country_code":"MG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079707,
+    "gn:latitude":-21.08333,
+    "gn:longitude":47.83333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambohitsara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079707
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"54401590c90f218b97dde1189583c478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1293902353,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1293902353,
+    "wof:lastmodified":1536686179,
+    "wof:name":"Ambohitsara",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83333,
+    -21.08333,
+    47.83333,
+    -21.08333
+],
+  "geometry": {"coordinates":[47.83333,-21.08333],"type":"Point"}
+}

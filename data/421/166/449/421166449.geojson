@@ -1,0 +1,109 @@
+{
+  "id": 421166449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58333,-16.91667,49.58333,-16.91667",
+    "geom:latitude":-16.91667,
+    "geom:longitude":49.58333,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8607\u963f\u6d85\u62c9\u7d0d\u4f0a\u7fc1\u53e4"
+    ],
+    "name:dut_x_preferred":[
+        "Soanierana Ivongo"
+    ],
+    "name:eng_x_preferred":[
+        "Soanierana Ivongo"
+    ],
+    "name:fre_x_preferred":[
+        "Soanierana Ivongo"
+    ],
+    "name:hrv_x_preferred":[
+        "Soanierana Ivongo"
+    ],
+    "name:mlg_x_preferred":[
+        "Soanierana Ivongo"
+    ],
+    "name:pol_x_preferred":[
+        "Soanierana Ivongo"
+    ],
+    "name:por_x_preferred":[
+        "Soanierana Ivongo"
+    ],
+    "name:unk_x_variant":[
+        "Saanierana"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1056386,
+    "qs:gn_pop":39271,
+    "qs:name":"Soanierana Ivongo",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toamasina",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":266857,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1364374,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056386,
+        "gp:id":1364374,
+        "qs:id":266857,
+        "wd:id":"Q2387366",
+        "wk:page":"Soanierana Ivongo"
+    },
+    "wof:country":"MG",
+    "wof:created":1459008690,
+    "wof:geomhash":"932440c3566ee004d8b97592e3b3ba64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801207,
+            "locality_id":421166449,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":421166449,
+    "wof:lastmodified":1527716102,
+    "wof:name":"Soanierana Ivongo",
+    "wof:parent_id":1108801207,
+    "wof:placetype":"locality",
+    "wof:population":39271,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58333,
+    -16.91667,
+    49.58333,
+    -16.91667
+],
+  "geometry": {"coordinates":[49.58333,-16.91667],"type":"Point"}
+}

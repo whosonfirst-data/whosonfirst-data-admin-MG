@@ -1,0 +1,72 @@
+{
+  "id": 1293219309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98333,-23.7,44.98333,-23.7",
+    "geom:latitude":-23.7,
+    "geom:longitude":44.98333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andakato",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076575,
+    "gn:latitude":-23.7,
+    "gn:longitude":44.98333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andakato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andakata",
+        "Andakato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076575
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"71b99ac4e23770f5bef15fa8fc686a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":1293219309,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293219309,
+    "wof:lastmodified":1537664767,
+    "wof:name":"Andakato",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98333,
+    -23.7,
+    44.98333,
+    -23.7
+],
+  "geometry": {"coordinates":[44.98333,-23.7],"type":"Point"}
+}

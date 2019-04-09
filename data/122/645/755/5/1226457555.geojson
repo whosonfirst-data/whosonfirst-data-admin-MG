@@ -1,0 +1,68 @@
+{
+  "id": 1226457555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83333,-23.48333,44.83333,-23.48333",
+    "geom:latitude":-23.48333,
+    "geom:longitude":44.83333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ehara",
+    "gn:country_code":"MG",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065459,
+    "gn:latitude":-23.48333,
+    "gn:longitude":44.83333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ehara",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065459,
+        "wk:page":"Ehara"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a7549852d7947beaac3e43542a32f198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801135,
+            "locality_id":1226457555,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1226457555,
+    "wof:lastmodified":1537568353,
+    "wof:name":"Ehara",
+    "wof:parent_id":1108801135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83333,
+    -23.48333,
+    44.83333,
+    -23.48333
+],
+  "geometry": {"coordinates":[44.83333,-23.48333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243298117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.78333,-18.7,47.78333,-18.7",
+    "geom:latitude":-18.7,
+    "geom:longitude":47.78333,
+    "gn:admin1_code":"7670856",
+    "gn:asciiname":"Ankazondandy",
+    "gn:country_code":"MG",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072711,
+    "gn:latitude":-18.7,
+    "gn:longitude":47.78333,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ankazondandy",
+    "gn:population":16000,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421190795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072711,
+        "wk:page":"Ankazondandy"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9519bf321aed5ea3f3f10f3ec5b761c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190795,
+            "locality_id":1243298117,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1243298117,
+    "wof:lastmodified":1537568364,
+    "wof:name":"Ankazondandy",
+    "wof:parent_id":421190795,
+    "wof:placetype":"locality",
+    "wof:population":16000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.78333,
+    -18.7,
+    47.78333,
+    -18.7
+],
+  "geometry": {"coordinates":[47.78333,-18.7],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209333227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53333,-23.63333,45.53333,-23.63333",
+    "geom:latitude":-23.63333,
+    "geom:longitude":45.53333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Besakoa",
+    "gn:country_code":"MG",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066743,
+    "gn:latitude":-23.63333,
+    "gn:longitude":45.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Besakoa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066743
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8488f0ea69d6d9f7ccb8ede180df06ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209333227
+        }
+    ],
+    "wof:id":1209333227,
+    "wof:lastmodified":1536290306,
+    "wof:name":"Besakoa",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53333,
+    -23.63333,
+    45.53333,
+    -23.63333
+],
+  "geometry": {"coordinates":[45.53333,-23.63333],"type":"Point"}
+}

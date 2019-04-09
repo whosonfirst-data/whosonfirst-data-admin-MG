@@ -1,0 +1,72 @@
+{
+  "id": 1293400369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,-16.05,49.01667,-16.05",
+    "geom:latitude":-16.05,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Behola",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068133,
+    "gn:latitude":-16.05,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Behola",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bebota",
+        "Behola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068133
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9fddf7dbd3026f42a3f1ba64bdfa67a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801185,
+            "locality_id":1293400369,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1293400369,
+    "wof:lastmodified":1537664694,
+    "wof:name":"Behola",
+    "wof:parent_id":1108801185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    -16.05,
+    49.01667,
+    -16.05
+],
+  "geometry": {"coordinates":[49.01667,-16.05],"type":"Point"}
+}

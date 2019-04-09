@@ -1,0 +1,67 @@
+{
+  "id": 1344267689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85,-18.96667,46.85,-18.96667",
+    "geom:latitude":-18.96667,
+    "geom:longitude":46.85,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mahatsinjo",
+    "gn:country_code":"MG",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062267,
+    "gn:latitude":-18.96667,
+    "gn:longitude":46.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahatsinjo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        421191751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062267
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"39b5870bf6c5ab946f3749064bafe002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421191751,
+            "locality_id":1344267689,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1344267689,
+    "wof:lastmodified":1537070559,
+    "wof:name":"Mahatsinjo",
+    "wof:parent_id":421191751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85,
+    -18.96667,
+    46.85,
+    -18.96667
+],
+  "geometry": {"coordinates":[46.85,-18.96667],"type":"Point"}
+}

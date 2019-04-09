@@ -1,0 +1,72 @@
+{
+  "id": 1260202085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65,-17.53333,44.65,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":44.65,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mafaibony",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053392,
+    "gn:latitude":-17.53333,
+    "gn:longitude":44.65,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mafaibony",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mafaimbony",
+        "Mafaibony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053392
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"afdd55d7f4eeb9214fdbc4b5d67c7118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801195,
+            "locality_id":1260202085,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1260202085,
+    "wof:lastmodified":1537664563,
+    "wof:name":"Mafaibony",
+    "wof:parent_id":1108801195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65,
+    -17.53333,
+    44.65,
+    -17.53333
+],
+  "geometry": {"coordinates":[44.65,-17.53333],"type":"Point"}
+}

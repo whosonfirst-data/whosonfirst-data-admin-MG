@@ -1,0 +1,76 @@
+{
+  "id": 1259517801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85,-13.08333,48.85,-13.08333",
+    "geom:latitude":-13.08333,
+    "geom:longitude":48.85,
+    "gn:admin1_code":"7670842",
+    "gn:asciiname":"Antsohimbondrona",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068955,
+    "gn:latitude":-13.08333,
+    "gn:longitude":48.85,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Antsohimbondrona",
+    "gn:population":32080,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Port Saint-Louis",
+        "Antsohimbondrona"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        421180171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068955,
+        "wk:page":"Antsohimbondrona"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"beb7a59ac8831826e0c85a987501f8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421180171,
+            "locality_id":1259517801,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1259517801,
+    "wof:lastmodified":1537664703,
+    "wof:name":"Antsohimbondrona",
+    "wof:parent_id":421180171,
+    "wof:placetype":"locality",
+    "wof:population":32080,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85,
+    -13.08333,
+    48.85,
+    -13.08333
+],
+  "geometry": {"coordinates":[48.85,-13.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310616105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.71667,-17.48333,47.71667,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":47.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambatofolaka",
+    "gn:country_code":"MG",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1083224,
+    "gn:latitude":-17.48333,
+    "gn:longitude":47.71667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatofolaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1083224
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"22799f7b04fd949baddf39fc41896d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801211,
+            "locality_id":1310616105,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1310616105,
+    "wof:lastmodified":1536757442,
+    "wof:name":"Ambatofolaka",
+    "wof:parent_id":1108801211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.71667,
+    -17.48333,
+    47.71667,
+    -17.48333
+],
+  "geometry": {"coordinates":[47.71667,-17.48333],"type":"Point"}
+}

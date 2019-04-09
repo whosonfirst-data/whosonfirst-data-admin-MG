@@ -1,0 +1,99 @@
+{
+  "id": 421176923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38333,-23.71667,44.38333,-23.71667",
+    "geom:latitude":-23.71667,
+    "geom:longitude":44.38333,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Betioky"
+    ],
+    "name:eng_x_preferred":[
+        "Betioky"
+    ],
+    "name:fra_x_preferred":[
+        "Betioky"
+    ],
+    "name:mlg_x_preferred":[
+        "Betioky"
+    ],
+    "name:nld_x_preferred":[
+        "Betioky"
+    ],
+    "name:pol_x_preferred":[
+        "Betioky"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1066310,
+    "qs:gn_pop":31102,
+    "qs:name":"Betioky",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toliara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1090620,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1496464,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066310,
+        "gp:id":1496464,
+        "qs:id":1090620,
+        "wd:id":"Q831450",
+        "wk:page":"Betioky"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009124,
+    "wof:geomhash":"505499d3a4ccdd054430d3a6470da730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801141,
+            "locality_id":421176923,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":421176923,
+    "wof:lastmodified":1505340630,
+    "wof:name":"Betioky",
+    "wof:parent_id":1108801141,
+    "wof:placetype":"locality",
+    "wof:population":31102,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38333,
+    -23.71667,
+    44.38333,
+    -23.71667
+],
+  "geometry": {"coordinates":[44.38333,-23.71667],"type":"Point"}
+}

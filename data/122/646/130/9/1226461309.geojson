@@ -1,0 +1,67 @@
+{
+  "id": 1226461309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.5,-12.4,49.5,-12.4",
+    "geom:latitude":-12.4,
+    "geom:longitude":49.5,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ambavarano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082438,
+    "gn:latitude":-12.4,
+    "gn:longitude":49.5,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambavarano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambavarane",
+        "Ambavarne",
+        "Ambavarano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082438
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"8ca11e99d539bbf91dbdb68dedb1c803",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226461309,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226461309,
+    "wof:lastmodified":1537664813,
+    "wof:name":"Ambavarano",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.5,
+    -12.4,
+    49.5,
+    -12.4
+],
+  "geometry": {"coordinates":[49.5,-12.4],"type":"Point"}
+}

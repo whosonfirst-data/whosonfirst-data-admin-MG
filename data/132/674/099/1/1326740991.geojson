@@ -1,0 +1,67 @@
+{
+  "id": 1326740991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.23333,-19.18333,47.23333,-19.18333",
+    "geom:latitude":-19.18333,
+    "geom:longitude":47.23333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Alatsinainy",
+    "gn:country_code":"MG",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084732,
+    "gn:latitude":-19.18333,
+    "gn:longitude":47.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Alatsinainy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674025,
+        1108801121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084732
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0dfdcbc5a58ff9d5cac29644800591e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801121,
+            "locality_id":1326740991,
+            "region_id":85674025
+        }
+    ],
+    "wof:id":1326740991,
+    "wof:lastmodified":1536682950,
+    "wof:name":"Alatsinainy",
+    "wof:parent_id":1108801121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.23333,
+    -19.18333,
+    47.23333,
+    -19.18333
+],
+  "geometry": {"coordinates":[47.23333,-19.18333],"type":"Point"}
+}

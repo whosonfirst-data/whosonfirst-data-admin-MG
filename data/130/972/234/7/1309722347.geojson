@@ -1,0 +1,67 @@
+{
+  "id": 1309722347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.98333,-13.88333,47.98333,-13.88333",
+    "geom:latitude":-13.88333,
+    "geom:longitude":47.98333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Andrevorevolava",
+    "gn:country_code":"MG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074442,
+    "gn:latitude":-13.88333,
+    "gn:longitude":47.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andrevorevolava",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074442
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ebce86a7b2d90ab90dd40a5830067c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801077,
+            "locality_id":1309722347,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1309722347,
+    "wof:lastmodified":1537049231,
+    "wof:name":"Andrevorevolava",
+    "wof:parent_id":1108801077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.98333,
+    -13.88333,
+    47.98333,
+    -13.88333
+],
+  "geometry": {"coordinates":[47.98333,-13.88333],"type":"Point"}
+}

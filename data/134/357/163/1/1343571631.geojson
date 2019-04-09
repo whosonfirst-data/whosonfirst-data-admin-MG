@@ -1,0 +1,72 @@
+{
+  "id": 1343571631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.25,-15.13333,49.25,-15.13333",
+    "geom:latitude":-15.13333,
+    "geom:longitude":49.25,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ankorakabe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071723,
+    "gn:latitude":-15.13333,
+    "gn:longitude":49.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ankorakabe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambinaninanjozoro",
+        "Ankorakabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071723
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2679d5d449371efe4807660753625b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801127,
+            "locality_id":1343571631,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1343571631,
+    "wof:lastmodified":1537664729,
+    "wof:name":"Ankorakabe",
+    "wof:parent_id":1108801127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25,
+    -15.13333,
+    49.25,
+    -15.13333
+],
+  "geometry": {"coordinates":[49.25,-15.13333],"type":"Point"}
+}

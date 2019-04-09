@@ -1,0 +1,68 @@
+{
+  "id": 1259502289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68333,-23.9,43.68333,-23.9",
+    "geom:latitude":-23.9,
+    "geom:longitude":43.68333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankiririsa",
+    "gn:country_code":"MG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1071994,
+    "gn:latitude":-23.9,
+    "gn:longitude":43.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankiririsa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1071994,
+        "wk:page":"Ankiririsa"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9c40e807b823c9fb57fbc8b335df3922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1259502289,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259502289,
+    "wof:lastmodified":1537568363,
+    "wof:name":"Ankiririsa",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68333,
+    -23.9,
+    43.68333,
+    -23.9
+],
+  "geometry": {"coordinates":[43.68333,-23.9],"type":"Point"}
+}

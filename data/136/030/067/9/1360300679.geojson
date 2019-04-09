@@ -1,0 +1,72 @@
+{
+  "id": 1360300679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6,-14.73333,49.6,-14.73333",
+    "geom:latitude":-14.73333,
+    "geom:longitude":49.6,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ampontsilahy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077513,
+    "gn:latitude":-14.73333,
+    "gn:longitude":49.6,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ampontsilahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ampotsilahy",
+        "Ampontsilahy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        1108801095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077513
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"03b28a96172b4e6fca7979a30f66bdb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801095,
+            "locality_id":1360300679,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1360300679,
+    "wof:lastmodified":1537664774,
+    "wof:name":"Ampontsilahy",
+    "wof:parent_id":1108801095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6,
+    -14.73333,
+    49.6,
+    -14.73333
+],
+  "geometry": {"coordinates":[49.6,-14.73333],"type":"Point"}
+}

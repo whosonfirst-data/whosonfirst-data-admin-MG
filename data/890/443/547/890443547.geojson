@@ -1,0 +1,96 @@
+{
+  "id": 890443547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.38333,-20.23333,47.38333,-20.23333",
+    "geom:latitude":-20.23333,
+    "geom:longitude":47.38333,
+    "gn:country":"MG",
+    "gn:fcode":"PPL",
+    "gn:pop":31437,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u51e1\u5fb7\u91cc\u4e9e\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Fandriana"
+    ],
+    "name:eng_x_preferred":[
+        "Fandriana"
+    ],
+    "name:fre_x_preferred":[
+        "Fandriana"
+    ],
+    "name:ger_x_preferred":[
+        "Fandriana"
+    ],
+    "name:mlg_x_preferred":[
+        "Fandriana"
+    ],
+    "name:pol_x_preferred":[
+        "Fandriana"
+    ],
+    "name:por_x_preferred":[
+        "Fandriana"
+    ],
+    "name:unk_x_variant":[
+        "Ifandriana"
+    ],
+    "qs:name":"Fandriana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":155,
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421171215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065222,
+        "gp:id":1496742,
+        "qs:id":1029630,
+        "wd:id":"Q1395492",
+        "wk:page":"Fandriana"
+    },
+    "wof:country":"MG",
+    "wof:created":1469052428,
+    "wof:geomhash":"7fb7a4761bfeafed006f4883136b2d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171215,
+            "locality_id":890443547,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":890443547,
+    "wof:lastmodified":1527787071,
+    "wof:name":"Fandriana",
+    "wof:parent_id":421171215,
+    "wof:placetype":"locality",
+    "wof:population":31437,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.38333,
+    -20.23333,
+    47.38333,
+    -20.23333
+],
+  "geometry": {"coordinates":[47.38333,-20.23333],"type":"Point"}
+}

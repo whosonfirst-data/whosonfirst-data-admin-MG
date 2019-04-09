@@ -1,0 +1,67 @@
+{
+  "id": 1293607857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86667,-21.85,43.86667,-21.85",
+    "geom:latitude":-21.85,
+    "geom:longitude":43.86667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bevoay",
+    "gn:country_code":"MG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065882,
+    "gn:latitude":-21.85,
+    "gn:longitude":43.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bevoay",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065882
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9d8a0cd7909fa7a955155f3ed814a1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1293607857,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293607857,
+    "wof:lastmodified":1536611027,
+    "wof:name":"Bevoay",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86667,
+    -21.85,
+    43.86667,
+    -21.85
+],
+  "geometry": {"coordinates":[43.86667,-21.85],"type":"Point"}
+}

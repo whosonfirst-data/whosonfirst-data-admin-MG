@@ -1,0 +1,61 @@
+{
+  "id": 1209023011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.15,-20.91667,47.15,-20.91667",
+    "geom:latitude":-20.91667,
+    "geom:longitude":47.15,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambatovory",
+    "gn:country_code":"MG",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082488,
+    "gn:latitude":-20.91667,
+    "gn:longitude":47.15,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatovory",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082488
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d18d92039af7e42a2b3c6a5d0af94682",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209023011
+        }
+    ],
+    "wof:id":1209023011,
+    "wof:lastmodified":1536300087,
+    "wof:name":"Ambatovory",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.15,
+    -20.91667,
+    47.15,
+    -20.91667
+],
+  "geometry": {"coordinates":[47.15,-20.91667],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 421198531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.48333,-25.3,45.48333,-25.3",
+    "geom:latitude":-25.3,
+    "geom:longitude":45.48333,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0426\u0438\u043e\u043c\u0431\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Tsihombe"
+    ],
+    "name:eng_x_preferred":[
+        "Tsiombe"
+    ],
+    "name:fra_x_preferred":[
+        "Tsihombe"
+    ],
+    "name:fre_x_preferred":[
+        "Tsihombe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a3\u30aa\u30f3\u30d9"
+    ],
+    "name:mlg_x_preferred":[
+        "Tsihombe"
+    ],
+    "name:nld_x_preferred":[
+        "Tsihombe"
+    ],
+    "name:pol_x_preferred":[
+        "Tsiombe"
+    ],
+    "name:swe_x_preferred":[
+        "Tsiombe"
+    ],
+    "name:unk_x_variant":[
+        "Tsiombe"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1054500,
+    "qs:gn_pop":29825,
+    "qs:name":"Tsihombe",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toliara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":183487,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1364977,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        421184615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054500,
+        "gp:id":1364977,
+        "qs:id":183487,
+        "wd:id":"Q3541560",
+        "wk:page":"Tsiombe"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009951,
+    "wof:geomhash":"5d966f109c92ba2ec9e187ee2d315401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421184615,
+            "locality_id":421198531,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":421198531,
+    "wof:lastmodified":1514484667,
+    "wof:name":"Tsihombe",
+    "wof:parent_id":421184615,
+    "wof:placetype":"locality",
+    "wof:population":29825,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.48333,
+    -25.3,
+    45.48333,
+    -25.3
+],
+  "geometry": {"coordinates":[45.48333,-25.3],"type":"Point"}
+}

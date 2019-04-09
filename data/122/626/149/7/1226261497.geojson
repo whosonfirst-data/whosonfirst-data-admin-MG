@@ -1,0 +1,67 @@
+{
+  "id": 1226261497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.45,-16.3,49.45,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":49.45,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ampisokina",
+    "gn:country_code":"MG",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077753,
+    "gn:latitude":-16.3,
+    "gn:longitude":49.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampisokina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        421189045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077753
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"379f81d99866eb0af648e507fb824e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421189045,
+            "locality_id":1226261497,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1226261497,
+    "wof:lastmodified":1536911277,
+    "wof:name":"Ampisokina",
+    "wof:parent_id":421189045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.45,
+    -16.3,
+    49.45,
+    -16.3
+],
+  "geometry": {"coordinates":[49.45,-16.3],"type":"Point"}
+}

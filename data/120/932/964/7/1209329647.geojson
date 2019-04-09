@@ -1,0 +1,66 @@
+{
+  "id": 1209329647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58333,-19.95,44.58333,-19.95",
+    "geom:latitude":-19.95,
+    "geom:longitude":44.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Morafena",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1058717,
+    "gn:latitude":-19.95,
+    "gn:longitude":44.58333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Morafena",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morafeno",
+        "Morafena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1058717
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"24651cf665c8be0faa767beabecfe49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209329647
+        }
+    ],
+    "wof:id":1209329647,
+    "wof:lastmodified":1537664609,
+    "wof:name":"Morafena",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58333,
+    -19.95,
+    44.58333,
+    -19.95
+],
+  "geometry": {"coordinates":[44.58333,-19.95],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209633945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.88333,-19.86667,44.88333,-19.86667",
+    "geom:latitude":-19.86667,
+    "geom:longitude":44.88333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ampozaloaka",
+    "gn:country_code":"MG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077431,
+    "gn:latitude":-19.86667,
+    "gn:longitude":44.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ampozaloaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077431
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"abc3030095d8862c48b6e698998eabae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209633945
+        }
+    ],
+    "wof:id":1209633945,
+    "wof:lastmodified":1536281102,
+    "wof:name":"Ampozaloaka",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.88333,
+    -19.866670000000006,
+    44.88333,
+    -19.866670000000006
+],
+  "geometry": {"coordinates":[44.88333,-19.86667000000001],"type":"Point"}
+}

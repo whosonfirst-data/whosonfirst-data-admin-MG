@@ -1,0 +1,67 @@
+{
+  "id": 1293405135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95,-22.56667,44.95,-22.56667",
+    "geom:latitude":-22.56667,
+    "geom:longitude":44.95,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bonaky",
+    "gn:country_code":"MG",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065669,
+    "gn:latitude":-22.56667,
+    "gn:longitude":44.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bonaky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065669
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"048aca704276bb2d1e6e3dc4a5d04686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1293405135,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293405135,
+    "wof:lastmodified":1536905874,
+    "wof:name":"Bonaky",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95,
+    -22.56667,
+    44.95,
+    -22.56667
+],
+  "geometry": {"coordinates":[44.95,-22.56667],"type":"Point"}
+}

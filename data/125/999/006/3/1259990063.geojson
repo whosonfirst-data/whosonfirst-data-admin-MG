@@ -1,0 +1,67 @@
+{
+  "id": 1259990063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58333,-21.53333,43.58333,-21.53333",
+    "geom:latitude":-21.53333,
+    "geom:longitude":43.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsoha",
+    "gn:country_code":"MG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1069005,
+    "gn:latitude":-21.53333,
+    "gn:longitude":43.58333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsoha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1069005
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ec7048c448a51ff3f6749fb39262c915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "locality_id":1259990063,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259990063,
+    "wof:lastmodified":1536623602,
+    "wof:name":"Antsoha",
+    "wof:parent_id":890452055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58333,
+    -21.53333,
+    43.58333,
+    -21.53333
+],
+  "geometry": {"coordinates":[43.58333,-21.53333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209116465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1,-18.16667,47.1,-18.16667",
+    "geom:latitude":-18.16667,
+    "geom:longitude":47.1,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mantatsiloza Sud",
+    "gn:country_code":"MG",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1060525,
+    "gn:latitude":-18.16667,
+    "gn:longitude":47.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mantatsiloza Sud",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060525
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"03d1f2f2db2d8a7568cd99254beb07bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209116465
+        }
+    ],
+    "wof:id":1209116465,
+    "wof:lastmodified":1536297237,
+    "wof:name":"Mantatsiloza Sud",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1,
+    -18.16667,
+    47.1,
+    -18.16667
+],
+  "geometry": {"coordinates":[47.1,-18.16667],"type":"Point"}
+}

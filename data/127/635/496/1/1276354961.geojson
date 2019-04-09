@@ -1,0 +1,67 @@
+{
+  "id": 1276354961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61667,-16.88333,48.61667,-16.88333",
+    "geom:latitude":-16.88333,
+    "geom:longitude":48.61667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambatoteza",
+    "gn:country_code":"MG",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082551,
+    "gn:latitude":-16.88333,
+    "gn:longitude":48.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambatoteza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082551
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0fa84cf2eb175a34d9af5042ec2cf44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801097,
+            "locality_id":1276354961,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1276354961,
+    "wof:lastmodified":1536749438,
+    "wof:name":"Ambatoteza",
+    "wof:parent_id":1108801097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61667,
+    -16.88332999999999,
+    48.61667,
+    -16.88332999999999
+],
+  "geometry": {"coordinates":[48.61667,-16.88332999999999],"type":"Point"}
+}

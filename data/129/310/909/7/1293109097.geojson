@@ -1,0 +1,68 @@
+{
+  "id": 1293109097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13333,-17.38333,49.13333,-17.38333",
+    "geom:latitude":-17.38333,
+    "geom:longitude":49.13333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Anjahambe",
+    "gn:country_code":"MG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073799,
+    "gn:latitude":-17.38333,
+    "gn:longitude":49.13333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjahambe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073799,
+        "wk:page":"Anjahambe"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"9837ef49af48350093c85f4e60b2a916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801217,
+            "locality_id":1293109097,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1293109097,
+    "wof:lastmodified":1537568365,
+    "wof:name":"Anjahambe",
+    "wof:parent_id":1108801217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13333,
+    -17.38332999999999,
+    49.13333,
+    -17.38332999999999
+],
+  "geometry": {"coordinates":[49.13333,-17.38332999999999],"type":"Point"}
+}

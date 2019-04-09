@@ -1,0 +1,66 @@
+{
+  "id": 1209530913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.41667,-14.76667,47.41667,-14.76667",
+    "geom:latitude":-14.76667,
+    "geom:longitude":47.41667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Singalana",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056548,
+    "gn:latitude":-14.76667,
+    "gn:longitude":47.41667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Singalana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antsingilava",
+        "Singalana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056548
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"48545168eb63f926b64ffc0b9e63c84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209530913
+        }
+    ],
+    "wof:id":1209530913,
+    "wof:lastmodified":1537664592,
+    "wof:name":"Singalana",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.41667,
+    -14.76667,
+    47.41667,
+    -14.76667
+],
+  "geometry": {"coordinates":[47.41667,-14.76667],"type":"Point"}
+}

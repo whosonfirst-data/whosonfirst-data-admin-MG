@@ -1,0 +1,72 @@
+{
+  "id": 1293502597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.48333,-22.36667,45.48333,-22.36667",
+    "geom:latitude":-22.36667,
+    "geom:longitude":45.48333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vatombe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054253,
+    "gn:latitude":-22.36667,
+    "gn:longitude":45.48333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Vatombe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vatambe",
+        "Vatombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674019,
+        421175325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054253
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3d0881e0791f0ffadcdf404f1e8a037f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175325,
+            "locality_id":1293502597,
+            "region_id":85674019
+        }
+    ],
+    "wof:id":1293502597,
+    "wof:lastmodified":1537664570,
+    "wof:name":"Vatombe",
+    "wof:parent_id":421175325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.48333,
+    -22.36667000000001,
+    45.48333,
+    -22.36667000000001
+],
+  "geometry": {"coordinates":[45.48333,-22.36667000000001],"type":"Point"}
+}

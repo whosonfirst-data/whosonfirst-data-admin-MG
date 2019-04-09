@@ -1,0 +1,67 @@
+{
+  "id": 1276134233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53333,-15.13333,47.53333,-15.13333",
+    "geom:latitude":-15.13333,
+    "geom:longitude":47.53333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bemafaika Ambany",
+    "gn:country_code":"MG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067525,
+    "gn:latitude":-15.13333,
+    "gn:longitude":47.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bemafaika Ambany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067525
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b35623833bff78d5f675d1470c9d9738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "locality_id":1276134233,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1276134233,
+    "wof:lastmodified":1537043547,
+    "wof:name":"Bemafaika Ambany",
+    "wof:parent_id":1108801093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53333,
+    -15.13333,
+    47.53333,
+    -15.13333
+],
+  "geometry": {"coordinates":[47.53333,-15.13333],"type":"Point"}
+}

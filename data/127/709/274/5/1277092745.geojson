@@ -1,0 +1,67 @@
+{
+  "id": 1277092745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7,-22.15,47.7,-22.15",
+    "geom:latitude":-22.15,
+    "geom:longitude":47.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Farafasy",
+    "gn:country_code":"MG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065156,
+    "gn:latitude":-22.15,
+    "gn:longitude":47.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Farafasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065156
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"092501b56d56d13e255719eead7313e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801175,
+            "locality_id":1277092745,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1277092745,
+    "wof:lastmodified":1536753165,
+    "wof:name":"Farafasy",
+    "wof:parent_id":1108801175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7,
+    -22.15,
+    47.7,
+    -22.15
+],
+  "geometry": {"coordinates":[47.7,-22.15],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310024559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.25,-17.6,49.25,-17.6",
+    "geom:latitude":-17.6,
+    "geom:longitude":49.25,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Anjahamarina",
+    "gn:country_code":"MG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073805,
+    "gn:latitude":-17.6,
+    "gn:longitude":49.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Anjahamarina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073805
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"797974b86a81f47af57eb03d015ffdd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801217,
+            "locality_id":1310024559,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1310024559,
+    "wof:lastmodified":1536613429,
+    "wof:name":"Anjahamarina",
+    "wof:parent_id":1108801217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25,
+    -17.6,
+    49.25,
+    -17.6
+],
+  "geometry": {"coordinates":[49.25,-17.6],"type":"Point"}
+}

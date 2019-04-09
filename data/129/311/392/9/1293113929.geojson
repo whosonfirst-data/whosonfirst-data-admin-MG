@@ -1,0 +1,67 @@
+{
+  "id": 1293113929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.33333,-22.68333,43.33333,-22.68333",
+    "geom:latitude":-22.68333,
+    "geom:longitude":43.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tsiandamba",
+    "gn:country_code":"MG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1054891,
+    "gn:latitude":-22.68333,
+    "gn:longitude":43.33333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsiandamba",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1054891
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b11cbe5d89008464c95ed68c425b54e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1293113929,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1293113929,
+    "wof:lastmodified":1536827633,
+    "wof:name":"Tsiandamba",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.33333,
+    -22.68333,
+    43.33333,
+    -22.68333
+],
+  "geometry": {"coordinates":[43.33333,-22.68333],"type":"Point"}
+}

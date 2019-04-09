@@ -1,0 +1,67 @@
+{
+  "id": 1343374131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23333,-24.86667,45.23333,-24.86667",
+    "geom:latitude":-24.86667,
+    "geom:longitude":45.23333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Boboky",
+    "gn:country_code":"MG",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065705,
+    "gn:latitude":-24.86667,
+    "gn:longitude":45.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Boboky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065705
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0f9b3caa1046be3c713444f0b4799950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801133,
+            "locality_id":1343374131,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1343374131,
+    "wof:lastmodified":1536869572,
+    "wof:name":"Boboky",
+    "wof:parent_id":1108801133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23333,
+    -24.86667000000001,
+    45.23333,
+    -24.86667000000001
+],
+  "geometry": {"coordinates":[45.23333,-24.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327153085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85,-16.88333,46.85,-16.88333",
+    "geom:latitude":-16.88333,
+    "geom:longitude":46.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ambodimanga",
+    "gn:country_code":"MG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081274,
+    "gn:latitude":-16.88333,
+    "gn:longitude":46.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodimanga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673995,
+        1108801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081274
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6173c322a1f61a980555fc9a90735048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801163,
+            "locality_id":1327153085,
+            "region_id":85673995
+        }
+    ],
+    "wof:id":1327153085,
+    "wof:lastmodified":1537080950,
+    "wof:name":"Ambodimanga",
+    "wof:parent_id":1108801163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85,
+    -16.88332999999999,
+    46.85,
+    -16.88332999999999
+],
+  "geometry": {"coordinates":[46.85,-16.88332999999999],"type":"Point"}
+}

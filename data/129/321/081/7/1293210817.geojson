@@ -1,0 +1,67 @@
+{
+  "id": 1293210817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21667,-18.5,47.21667,-18.5",
+    "geom:latitude":-18.5,
+    "geom:longitude":47.21667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Antongombato",
+    "gn:country_code":"MG",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070050,
+    "gn:latitude":-18.5,
+    "gn:longitude":47.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antongombato",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070050
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"98015f9d4930254595e8a41974b27304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1293210817,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1293210817,
+    "wof:lastmodified":1536688912,
+    "wof:name":"Antongombato",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21667,
+    -18.5,
+    47.21667,
+    -18.5
+],
+  "geometry": {"coordinates":[47.21667,-18.5],"type":"Point"}
+}

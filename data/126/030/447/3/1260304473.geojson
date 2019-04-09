@@ -1,0 +1,73 @@
+{
+  "id": 1260304473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95,-24.48333,46.95,-24.48333",
+    "geom:latitude":-24.48333,
+    "geom:longitude":46.95,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tananeva",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055638,
+    "gn:latitude":-24.48333,
+    "gn:longitude":46.95,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Tananeva",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esama",
+        "Tananevo",
+        "Tananeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055638
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3a2e5b7fb92fb59fca7fb982b3fe05d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1260304473,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1260304473,
+    "wof:lastmodified":1537664582,
+    "wof:name":"Tananeva",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95,
+    -24.48333,
+    46.95,
+    -24.48333
+],
+  "geometry": {"coordinates":[46.95,-24.48333],"type":"Point"}
+}

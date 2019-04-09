@@ -1,0 +1,75 @@
+{
+  "id": 1310511875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6,-19.98333,44.6,-19.98333",
+    "geom:latitude":-19.98333,
+    "geom:longitude":44.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beroboka Atsimo",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066886,
+    "gn:latitude":-19.98333,
+    "gn:longitude":44.6,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Beroboka Atsimo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beroboka Ville",
+        "Beroboka Sud",
+        "Beroboka",
+        "Beroboka Atsimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421190797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066886,
+        "wk:page":"Beroboka"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"eac8928209366c3b6423281d2bfa49e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190797,
+            "locality_id":1310511875,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1310511875,
+    "wof:lastmodified":1537664681,
+    "wof:name":"Beroboka Atsimo",
+    "wof:parent_id":421190797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6,
+    -19.98333,
+    44.6,
+    -19.98333
+],
+  "geometry": {"coordinates":[44.6,-19.98333],"type":"Point"}
+}

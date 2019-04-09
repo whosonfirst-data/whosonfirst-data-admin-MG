@@ -1,0 +1,72 @@
+{
+  "id": 1226061419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88333,-18.58333,45.88333,-18.58333",
+    "geom:latitude":-18.58333,
+    "geom:longitude":45.88333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Belobakakely",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067572,
+    "gn:latitude":-18.58333,
+    "gn:longitude":45.88333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Belobakakely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankavandrakely",
+        "Belobakakely"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674005,
+        421183937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067572
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d70710dbbc0c9b626080d208acf2092d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421183937,
+            "locality_id":1226061419,
+            "region_id":85674005
+        }
+    ],
+    "wof:id":1226061419,
+    "wof:lastmodified":1537664688,
+    "wof:name":"Belobakakely",
+    "wof:parent_id":421183937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88333,
+    -18.58333,
+    45.88333,
+    -18.58333
+],
+  "geometry": {"coordinates":[45.88333,-18.58333],"type":"Point"}
+}

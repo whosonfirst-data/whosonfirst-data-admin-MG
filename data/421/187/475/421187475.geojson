@@ -1,0 +1,78 @@
+{
+  "id": 421187475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"49.35,-12.23333,49.35,-12.23333",
+    "geom:latitude":-12.23333,
+    "geom:longitude":49.35,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Ramena"
+    ],
+    "name:nld_x_preferred":[
+        "Ramena"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1057969,
+    "qs:gn_pop":0,
+    "qs:name":"Ramena",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Antsiranana",
+    "qs:photos":250,
+    "qs:photos_1k":51,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":250,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083569,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1363669,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057969,
+        "gp:id":1363669,
+        "qs:id":1083569,
+        "wd:id":"Q3418455",
+        "wk:page":"Ramena"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009514,
+    "wof:geomhash":"7fedd0996b4f4de1da2471554fc203d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":421187475
+        }
+    ],
+    "wof:id":421187475,
+    "wof:lastmodified":1527716250,
+    "wof:name":"Ramena",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35,
+    -12.23333,
+    49.35,
+    -12.23333
+],
+  "geometry": {"coordinates":[49.35,-12.23333],"type":"Point"}
+}

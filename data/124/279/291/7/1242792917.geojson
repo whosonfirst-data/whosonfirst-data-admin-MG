@@ -1,0 +1,67 @@
+{
+  "id": 1242792917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.06667,-24.78333,47.06667,-24.78333",
+    "geom:latitude":-24.78333,
+    "geom:longitude":47.06667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Androangady",
+    "gn:country_code":"MG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074303,
+    "gn:latitude":-24.78333,
+    "gn:longitude":47.06667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Androangady",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074303
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"59efe7a9ac84d19519f7a597e20a684d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1242792917,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1242792917,
+    "wof:lastmodified":1536753411,
+    "wof:name":"Androangady",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.06667,
+    -24.78333,
+    47.06667,
+    -24.78333
+],
+  "geometry": {"coordinates":[47.06667,-24.78333],"type":"Point"}
+}

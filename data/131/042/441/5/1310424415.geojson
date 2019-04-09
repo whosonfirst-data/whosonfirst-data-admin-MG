@@ -1,0 +1,72 @@
+{
+  "id": 1310424415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86667,-21.25,44.86667,-21.25",
+    "geom:latitude":-21.25,
+    "geom:longitude":44.86667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Soarano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056361,
+    "gn:latitude":-21.25,
+    "gn:longitude":44.86667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Soarano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soaranobe",
+        "Soarano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056361
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e8ef8f9e3d44cf0147d024a0df09666b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801137,
+            "locality_id":1310424415,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310424415,
+    "wof:lastmodified":1537664590,
+    "wof:name":"Soarano",
+    "wof:parent_id":1108801137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86667,
+    -21.25,
+    44.86667,
+    -21.25
+],
+  "geometry": {"coordinates":[44.86667,-21.25],"type":"Point"}
+}

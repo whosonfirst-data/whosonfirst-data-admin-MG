@@ -1,0 +1,67 @@
+{
+  "id": 1225863453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35,-22.86667,44.35,-22.86667",
+    "geom:latitude":-22.86667,
+    "geom:longitude":44.35,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kiliabo",
+    "gn:country_code":"MG",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063507,
+    "gn:latitude":-22.86667,
+    "gn:longitude":44.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kiliabo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063507
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"ed160a9bbf982723a08f8697d997483b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1225863453,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1225863453,
+    "wof:lastmodified":1536987340,
+    "wof:name":"Kiliabo",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35,
+    -22.86667000000001,
+    44.35,
+    -22.86667000000001
+],
+  "geometry": {"coordinates":[44.35,-22.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1125820079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8,-18.91667,47.8,-18.91667",
+    "geom:latitude":-18.91667,
+    "geom:longitude":47.8,
+    "gn:gn_country":"MG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":31840,
+    "gn:population":31840,
+    "iso:country":"MG",
+    "lbl:latitude":-18.91667,
+    "lbl:longitude":47.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:eng_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:fre_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:ger_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:mlg_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:pol_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:por_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:spa_x_preferred":[
+        "Manjakandriana"
+    ],
+    "qs_pg:aaroncc":"MG",
+    "qs_pg:gn_country":"MG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1060673,
+    "qs_pg:gn_pop":31840,
+    "qs_pg:name":"Manjakandriana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":130411,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        421190795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1060673,
+        "qs_pg:id":130411,
+        "wd:id":"Q1523009"
+    },
+    "wof:country":"MG",
+    "wof:created":1497292006,
+    "wof:geomhash":"47c7aeceb9802c9126e2137b64051e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421190795,
+            "locality_id":1125820079,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1125820079,
+    "wof:lastmodified":1514484661,
+    "wof:name":"Manjakandriana",
+    "wof:parent_id":421190795,
+    "wof:placetype":"locality",
+    "wof:population":31840,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8,
+    -18.91667,
+    47.8,
+    -18.91667
+],
+  "geometry": {"coordinates":[47.8,-18.91667],"type":"Point"}
+}

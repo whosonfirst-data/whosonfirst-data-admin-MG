@@ -1,0 +1,72 @@
+{
+  "id": 1193034647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.08333,-20.68333,48.08333,-20.68333",
+    "geom:latitude":-20.68333,
+    "geom:longitude":48.08333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambakobe",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084531,
+    "gn:latitude":-20.68333,
+    "gn:longitude":48.08333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Ambakobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambalafary",
+        "Ambakobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084531
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e9ba3b9d7ba3481fafdb8c5d07c43aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801199,
+            "locality_id":1193034647,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1193034647,
+    "wof:lastmodified":1537664828,
+    "wof:name":"Ambakobe",
+    "wof:parent_id":1108801199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08333,
+    -20.68333,
+    48.08333,
+    -20.68333
+],
+  "geometry": {"coordinates":[48.08333,-20.68333],"type":"Point"}
+}

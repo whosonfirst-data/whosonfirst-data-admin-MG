@@ -1,0 +1,72 @@
+{
+  "id": 1226664687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51667,-23.08333,45.51667,-23.08333",
+    "geom:latitude":-23.08333,
+    "geom:longitude":45.51667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sakaharo-Anivorano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057184,
+    "gn:latitude":-23.08333,
+    "gn:longitude":45.51667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sakaharo-Anivorano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakaharo",
+        "Sakaharo-Anivorano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421175089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057184
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0e8e84d444aa8a8a8ba11763bc539612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175089,
+            "locality_id":1226664687,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1226664687,
+    "wof:lastmodified":1537664598,
+    "wof:name":"Sakaharo-Anivorano",
+    "wof:parent_id":421175089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51667,
+    -23.08333,
+    45.51667,
+    -23.08333
+],
+  "geometry": {"coordinates":[45.51667,-23.08333],"type":"Point"}
+}

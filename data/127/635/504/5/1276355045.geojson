@@ -1,0 +1,67 @@
+{
+  "id": 1276355045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96667,-24.25,44.96667,-24.25",
+    "geom:latitude":-24.25,
+    "geom:longitude":44.96667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vohitsaomby",
+    "gn:country_code":"MG",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053621,
+    "gn:latitude":-24.25,
+    "gn:longitude":44.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohitsaomby",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053621
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"5cf9cc92a5c2c1438df9c4ed3134afb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1276355045,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1276355045,
+    "wof:lastmodified":1536749320,
+    "wof:name":"Vohitsaomby",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96667,
+    -24.25,
+    44.96667,
+    -24.25
+],
+  "geometry": {"coordinates":[44.96667,-24.25],"type":"Point"}
+}

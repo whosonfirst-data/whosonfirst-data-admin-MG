@@ -1,0 +1,61 @@
+{
+  "id": 1209425443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.01667,-24.38333,45.01667,-24.38333",
+    "geom:latitude":-24.38333,
+    "geom:longitude":45.01667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vohitsampela",
+    "gn:country_code":"MG",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053626,
+    "gn:latitude":-24.38333,
+    "gn:longitude":45.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohitsampela",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053626
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"0d18f396d479cf0009f487c019f36e81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425443
+        }
+    ],
+    "wof:id":1209425443,
+    "wof:lastmodified":1536287395,
+    "wof:name":"Vohitsampela",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.01667,
+    -24.38333,
+    45.01667,
+    -24.38333
+],
+  "geometry": {"coordinates":[45.01667,-24.38333],"type":"Point"}
+}

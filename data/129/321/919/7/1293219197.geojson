@@ -1,0 +1,67 @@
+{
+  "id": 1293219197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.78333,-16.36667,46.78333,-16.36667",
+    "geom:latitude":-16.36667,
+    "geom:longitude":46.78333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bemongo",
+    "gn:country_code":"MG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067206,
+    "gn:latitude":-16.36667,
+    "gn:longitude":46.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bemongo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        421175085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067206
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"59fb611e878b818d441d970dc117ae5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175085,
+            "locality_id":1293219197,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":1293219197,
+    "wof:lastmodified":1536676805,
+    "wof:name":"Bemongo",
+    "wof:parent_id":421175085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.78333,
+    -16.36667000000001,
+    46.78333,
+    -16.36667000000001
+],
+  "geometry": {"coordinates":[46.78333,-16.36667000000001],"type":"Point"}
+}

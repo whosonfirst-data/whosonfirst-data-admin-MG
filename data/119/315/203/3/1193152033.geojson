@@ -1,0 +1,67 @@
+{
+  "id": 1193152033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93333,-21.91667,46.93333,-21.91667",
+    "geom:latitude":-21.91667,
+    "geom:longitude":46.93333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambondrona",
+    "gn:country_code":"MG",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1079268,
+    "gn:latitude":-21.91667,
+    "gn:longitude":46.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambondrona",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1079268
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4be75ab20b86fe0bf0f53461886c1b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171625,
+            "locality_id":1193152033,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1193152033,
+    "wof:lastmodified":1536377204,
+    "wof:name":"Ambondrona",
+    "wof:parent_id":421171625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93333,
+    -21.91667,
+    46.93333,
+    -21.91667
+],
+  "geometry": {"coordinates":[46.93333,-21.91667],"type":"Point"}
+}

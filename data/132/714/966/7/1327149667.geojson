@@ -1,0 +1,72 @@
+{
+  "id": 1327149667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3,-18.11667,44.3,-18.11667",
+    "geom:latitude":-18.11667,
+    "geom:longitude":44.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Betrano",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066252,
+    "gn:latitude":-18.11667,
+    "gn:longitude":44.3,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Betrano",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Betrango",
+        "Betrano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066252
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"191481bb9a0f4abc9096a941b82b95fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801171,
+            "locality_id":1327149667,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":1327149667,
+    "wof:lastmodified":1537664674,
+    "wof:name":"Betrano",
+    "wof:parent_id":1108801171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3,
+    -18.11667000000001,
+    44.3,
+    -18.11667000000001
+],
+  "geometry": {"coordinates":[44.3,-18.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260090533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.3,-16.96667,49.3,-16.96667",
+    "geom:latitude":-16.96667,
+    "geom:longitude":49.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ambahy",
+    "gn:country_code":"MG",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084590,
+    "gn:latitude":-16.96667,
+    "gn:longitude":49.3,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambahy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084590
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"02e31ee86eab498196aa139a107a03de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801207,
+            "locality_id":1260090533,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1260090533,
+    "wof:lastmodified":1536977194,
+    "wof:name":"Ambahy",
+    "wof:parent_id":1108801207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.3,
+    -16.96667,
+    49.3,
+    -16.96667
+],
+  "geometry": {"coordinates":[49.3,-16.96667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343680525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53333,-18.45,47.53333,-18.45",
+    "geom:latitude":-18.45,
+    "geom:longitude":47.53333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Andrangy",
+    "gn:country_code":"MG",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1075499,
+    "gn:latitude":-18.45,
+    "gn:longitude":47.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Andrangy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1075499
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"280ad0916433ddfc730a1a96386d1e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801101,
+            "locality_id":1343680525,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1343680525,
+    "wof:lastmodified":1536926810,
+    "wof:name":"Andrangy",
+    "wof:parent_id":1108801101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53333,
+    -18.45,
+    47.53333,
+    -18.45
+],
+  "geometry": {"coordinates":[47.53333,-18.45],"type":"Point"}
+}

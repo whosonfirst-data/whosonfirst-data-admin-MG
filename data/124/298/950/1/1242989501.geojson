@@ -1,0 +1,67 @@
+{
+  "id": 1242989501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98333,-21.8,46.98333,-21.8",
+    "geom:latitude":-21.8,
+    "geom:longitude":46.98333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Isoaninana",
+    "gn:country_code":"MG",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063951,
+    "gn:latitude":-21.8,
+    "gn:longitude":46.98333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Isoaninana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421171625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063951
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a251aaac6a079cd4fc266854554ea4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421171625,
+            "locality_id":1242989501,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1242989501,
+    "wof:lastmodified":1536967081,
+    "wof:name":"Isoaninana",
+    "wof:parent_id":421171625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98333,
+    -21.8,
+    46.98333,
+    -21.8
+],
+  "geometry": {"coordinates":[46.98333,-21.8],"type":"Point"}
+}

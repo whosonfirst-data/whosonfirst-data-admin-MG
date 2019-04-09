@@ -1,0 +1,72 @@
+{
+  "id": 1260295423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.25,-22.51667,47.25,-22.51667",
+    "geom:latitude":-22.51667,
+    "geom:longitude":47.25,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Matsakafasy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059289,
+    "gn:latitude":-22.51667,
+    "gn:longitude":47.25,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Matsakafasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matsakafasina",
+        "Matsakafasy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059289
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b4ced877bcb7e22aca4a502c4bb92713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801221,
+            "locality_id":1260295423,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1260295423,
+    "wof:lastmodified":1537664614,
+    "wof:name":"Matsakafasy",
+    "wof:parent_id":1108801221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.25,
+    -22.51667,
+    47.25,
+    -22.51667
+],
+  "geometry": {"coordinates":[47.25,-22.51667],"type":"Point"}
+}

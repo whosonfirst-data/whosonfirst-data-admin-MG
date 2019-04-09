@@ -1,0 +1,67 @@
+{
+  "id": 1343473869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.1,-14.28333,50.1,-14.28333",
+    "geom:latitude":-14.28333,
+    "geom:longitude":50.1,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Soavinandriana",
+    "gn:country_code":"MG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056156,
+    "gn:latitude":-14.28333,
+    "gn:longitude":50.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Soavinandriana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        421188089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056156
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"e32cf0f3e7f78c63b4d2e75c81d4ce9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188089,
+            "locality_id":1343473869,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":1343473869,
+    "wof:lastmodified":1536727074,
+    "wof:name":"Soavinandriana",
+    "wof:parent_id":421188089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.1,
+    -14.28333,
+    50.1,
+    -14.28333
+],
+  "geometry": {"coordinates":[50.1,-14.28333],"type":"Point"}
+}

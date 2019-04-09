@@ -1,0 +1,67 @@
+{
+  "id": 1309727355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1,-19.83333,47.1,-19.83333",
+    "geom:latitude":-19.83333,
+    "geom:longitude":47.1,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Miarikofeno",
+    "gn:country_code":"MG",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1059029,
+    "gn:latitude":-19.83333,
+    "gn:longitude":47.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Miarikofeno",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421204565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1059029
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f7abf4896193f027cca393341c10c4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421204565,
+            "locality_id":1309727355,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1309727355,
+    "wof:lastmodified":1537042344,
+    "wof:name":"Miarikofeno",
+    "wof:parent_id":421204565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1,
+    -19.83333,
+    47.1,
+    -19.83333
+],
+  "geometry": {"coordinates":[47.1,-19.83333],"type":"Point"}
+}

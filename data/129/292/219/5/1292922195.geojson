@@ -1,0 +1,67 @@
+{
+  "id": 1292922195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66667,-18.1,48.66667,-18.1",
+    "geom:latitude":-18.1,
+    "geom:longitude":48.66667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Saratonga",
+    "gn:country_code":"MG",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056770,
+    "gn:latitude":-18.1,
+    "gn:longitude":48.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Saratonga",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673955,
+        1108801081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056770
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"3995bfbdd1eb4a19f3b0322fa7c3eef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801081,
+            "locality_id":1292922195,
+            "region_id":85673955
+        }
+    ],
+    "wof:id":1292922195,
+    "wof:lastmodified":1536604877,
+    "wof:name":"Saratonga",
+    "wof:parent_id":1108801081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66667,
+    -18.1,
+    48.66667,
+    -18.1
+],
+  "geometry": {"coordinates":[48.66667,-18.1],"type":"Point"}
+}

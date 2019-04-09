@@ -1,0 +1,68 @@
+{
+  "id": 1242892627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.45,-23.71667,47.45,-23.71667",
+    "geom:latitude":-23.71667,
+    "geom:longitude":47.45,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vohimalaza",
+    "gn:country_code":"MG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1053910,
+    "gn:latitude":-23.71667,
+    "gn:longitude":47.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Vohimalaza",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1053910,
+        "wk:page":"Vohimalaza"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"99bbaf470cf0c66c525fc666a4a89b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801213,
+            "locality_id":1242892627,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1242892627,
+    "wof:lastmodified":1537568334,
+    "wof:name":"Vohimalaza",
+    "wof:parent_id":1108801213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.45,
+    -23.71667,
+    47.45,
+    -23.71667
+],
+  "geometry": {"coordinates":[47.45,-23.71667],"type":"Point"}
+}

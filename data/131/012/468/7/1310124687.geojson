@@ -1,0 +1,72 @@
+{
+  "id": 1310124687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6,-19.23333,47.6,-19.23333",
+    "geom:latitude":-19.23333,
+    "geom:longitude":47.6,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sabotsy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1057697,
+    "gn:latitude":-19.23333,
+    "gn:longitude":47.6,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Sabotsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabotsy Ambohitromby",
+        "Sabotsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1057697
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b8c32bc4846c03d6cc3d6eb2ca9e4b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801099,
+            "locality_id":1310124687,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1310124687,
+    "wof:lastmodified":1537664603,
+    "wof:name":"Sabotsy",
+    "wof:parent_id":1108801099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6,
+    -19.23333,
+    47.6,
+    -19.23333
+],
+  "geometry": {"coordinates":[47.6,-19.23333],"type":"Point"}
+}

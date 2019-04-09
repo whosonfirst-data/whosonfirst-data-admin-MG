@@ -1,0 +1,99 @@
+{
+  "id": 421183745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76667,-23.55,43.76667,-23.55",
+    "geom:latitude":-23.55,
+    "geom:longitude":43.76667,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5967\u53e4\u65af\u5766"
+    ],
+    "name:dut_x_preferred":[
+        "Saint-Augustin"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Augustin"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Augustin"
+    ],
+    "name:mlg_x_preferred":[
+        "Saint-Augustin"
+    ],
+    "name:unk_x_variant":[
+        "Saint-Augustin"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0627\u0648\u06af\u0633\u0679\u0646\u060c \u0645\u0688\u06af\u0627\u0633\u06a9\u0631"
+    ],
+    "qs:gn_country":"MG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1064460,
+    "qs:gn_pop":0,
+    "qs:name":"Ianantsony",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toliara",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":983966,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":1361182,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064460,
+        "gp:id":1361182,
+        "qs:id":983966,
+        "wd:id":"Q3461830",
+        "wk:page":"Saint Augustin, Madagascar"
+    },
+    "wof:country":"MG",
+    "wof:created":1459009381,
+    "wof:geomhash":"5ff6cd9e4401f5759f91b7a4ad2a4def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":421183745,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":421183745,
+    "wof:lastmodified":1553816373,
+    "wof:name":"Ianantsony",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76667,
+    -23.55,
+    43.76667,
+    -23.55
+],
+  "geometry": {"coordinates":[43.76667,-23.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292918523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35,-24.28333,44.35,-24.28333",
+    "geom:latitude":-24.28333,
+    "geom:longitude":44.35,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Esifaka",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065363,
+    "gn:latitude":-24.28333,
+    "gn:longitude":44.35,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Esifaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esifaky",
+        "Esifaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065363
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d630a6b33e636966ae6146a768cf18de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801087,
+            "locality_id":1292918523,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1292918523,
+    "wof:lastmodified":1537664666,
+    "wof:name":"Esifaka",
+    "wof:parent_id":1108801087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35,
+    -24.28333,
+    44.35,
+    -24.28333
+],
+  "geometry": {"coordinates":[44.35,-24.28333],"type":"Point"}
+}

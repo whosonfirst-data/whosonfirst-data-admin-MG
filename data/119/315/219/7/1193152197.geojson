@@ -1,0 +1,67 @@
+{
+  "id": 1193152197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.43333,-12.93333,49.43333,-12.93333",
+    "geom:latitude":-12.93333,
+    "geom:longitude":49.43333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsaratanana",
+    "gn:country_code":"MG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1055072,
+    "gn:latitude":-12.93333,
+    "gn:longitude":49.43333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tsaratanana",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674009,
+        1108801117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1055072
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"f707ddf50e840791c3fedd34dff164a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801117,
+            "locality_id":1193152197,
+            "region_id":85674009
+        }
+    ],
+    "wof:id":1193152197,
+    "wof:lastmodified":1536377033,
+    "wof:name":"Tsaratanana",
+    "wof:parent_id":1108801117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.43333,
+    -12.93333,
+    49.43333,
+    -12.93333
+],
+  "geometry": {"coordinates":[49.43333,-12.93333],"type":"Point"}
+}

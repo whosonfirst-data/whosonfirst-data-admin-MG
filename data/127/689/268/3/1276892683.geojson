@@ -1,0 +1,67 @@
+{
+  "id": 1276892683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.16667,-21.63333,48.16667,-21.63333",
+    "geom:latitude":-21.63333,
+    "geom:longitude":48.16667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambinany Antsaka",
+    "gn:country_code":"MG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1082100,
+    "gn:latitude":-21.63333,
+    "gn:longitude":48.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambinany Antsaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1082100
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2fd985b492da36338f31fb8f8101f7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1276892683,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1276892683,
+    "wof:lastmodified":1537022962,
+    "wof:name":"Ambinany Antsaka",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.16667,
+    -21.63333,
+    48.16667,
+    -21.63333
+],
+  "geometry": {"coordinates":[48.16667,-21.63333],"type":"Point"}
+}

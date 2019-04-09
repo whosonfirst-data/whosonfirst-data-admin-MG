@@ -1,0 +1,72 @@
+{
+  "id": 1226061389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1,-23.83333,44.1,-23.83333",
+    "geom:latitude":-23.83333,
+    "geom:longitude":44.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Analamitaha",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077039,
+    "gn:latitude":-23.83333,
+    "gn:longitude":44.1,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Analamitaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anamitaha",
+        "Analamitaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077039
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"2c5f87865808a62c66df5ac69f3876d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "locality_id":1226061389,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1226061389,
+    "wof:lastmodified":1537664771,
+    "wof:name":"Analamitaha",
+    "wof:parent_id":1108801209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1,
+    -23.83333,
+    44.1,
+    -23.83333
+],
+  "geometry": {"coordinates":[44.1,-23.83333],"type":"Point"}
+}

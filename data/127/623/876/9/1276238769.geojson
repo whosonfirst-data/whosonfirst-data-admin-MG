@@ -1,0 +1,67 @@
+{
+  "id": 1276238769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.25,-16.08333,47.25,-16.08333",
+    "geom:latitude":-16.08333,
+    "geom:longitude":47.25,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mahatitso",
+    "gn:country_code":"MG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062377,
+    "gn:latitude":-16.08333,
+    "gn:longitude":47.25,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mahatitso",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062377
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d836031610a94bdb5052258ac0c62ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801173,
+            "locality_id":1276238769,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":1276238769,
+    "wof:lastmodified":1536905499,
+    "wof:name":"Mahatitso",
+    "wof:parent_id":1108801173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.25,
+    -16.08333,
+    47.25,
+    -16.08333
+],
+  "geometry": {"coordinates":[47.25,-16.08333],"type":"Point"}
+}

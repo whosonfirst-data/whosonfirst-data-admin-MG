@@ -1,0 +1,67 @@
+{
+  "id": 1276668365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.56667,-19.8,46.56667,-19.8",
+    "geom:latitude":-19.8,
+    "geom:longitude":46.56667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Fohiloha",
+    "gn:country_code":"MG",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1064771,
+    "gn:latitude":-19.8,
+    "gn:longitude":46.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Fohiloha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674043,
+        421175087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1064771
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"553c4cbf661b698c82ddbcfc96b856e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175087,
+            "locality_id":1276668365,
+            "region_id":85674043
+        }
+    ],
+    "wof:id":1276668365,
+    "wof:lastmodified":1536825837,
+    "wof:name":"Fohiloha",
+    "wof:parent_id":421175087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.56667,
+    -19.8,
+    46.56667,
+    -19.8
+],
+  "geometry": {"coordinates":[46.56667,-19.8],"type":"Point"}
+}

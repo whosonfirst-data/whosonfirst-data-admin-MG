@@ -1,0 +1,73 @@
+{
+  "id": 421188091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"49.375305,-18.09756,49.375305,-18.09756",
+    "geom:latitude":-18.09756,
+    "geom:longitude":49.375305,
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Toamasina",
+    "qs:name_adm0":"Madagascar",
+    "qs:name_adm1":"Toamasina",
+    "qs:photos":205,
+    "qs:photos_1k":42,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":841,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1087807,
+    "qs:woe_adm0":23424883,
+    "qs:woe_id":23706579,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23706579,
+        "qs:id":1087807
+    },
+    "wof:country":"MG",
+    "wof:created":1459009533,
+    "wof:geomhash":"1588dc73a8bfe8a9216ed844442cdf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188091,
+            "region_id":85673991
+        }
+    ],
+    "wof:id":421188091,
+    "wof:lastmodified":1484698083,
+    "wof:name":"Toamasina",
+    "wof:parent_id":85673991,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.375305,
+    -18.09756,
+    49.375305,
+    -18.09756
+],
+  "geometry": {"coordinates":[49.375305,-18.09756],"type":"Point"}
+}

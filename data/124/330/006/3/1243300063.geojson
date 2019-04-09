@@ -1,0 +1,65 @@
+{
+  "id": 1243300063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81667,-12.53333,48.81667,-12.53333",
+    "geom:latitude":-12.53333,
+    "geom:longitude":48.81667,
+    "gn:admin1_code":"7670842",
+    "gn:asciiname":"Mahalina",
+    "gn:country_code":"MG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1062626,
+    "gn:latitude":-12.53333,
+    "gn:longitude":48.81667,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Mahalina",
+    "gn:population":2217,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1062626,
+        "wk:page":"Mahalina"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7f980fcf87bee5515d1229580c4d9765",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243300063,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243300063,
+    "wof:lastmodified":1537568347,
+    "wof:name":"Mahalina",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2217,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81667,
+    -12.53333,
+    48.81667,
+    -12.53333
+],
+  "geometry": {"coordinates":[48.81667,-12.53333],"type":"Point"}
+}

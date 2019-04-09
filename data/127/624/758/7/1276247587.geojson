@@ -1,0 +1,72 @@
+{
+  "id": 1276247587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41667,-22.2,44.41667,-22.2",
+    "geom:latitude":-22.2,
+    "geom:longitude":44.41667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Berenty-Ankilimasy",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1066926,
+    "gn:latitude":-22.2,
+    "gn:longitude":44.41667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Berenty-Ankilimasy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berenty",
+        "Berenty-Ankilimasy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421199277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1066926
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a7f0817f88ddf3408c3e8a49c8470a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421199277,
+            "locality_id":1276247587,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1276247587,
+    "wof:lastmodified":1537664681,
+    "wof:name":"Berenty-Ankilimasy",
+    "wof:parent_id":421199277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41667,
+    -22.2,
+    44.41667,
+    -22.2
+],
+  "geometry": {"coordinates":[44.41667,-22.2],"type":"Point"}
+}

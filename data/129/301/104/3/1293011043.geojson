@@ -1,0 +1,73 @@
+{
+  "id": 1293011043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21667,-24.23333,47.21667,-24.23333",
+    "geom:latitude":-24.23333,
+    "geom:longitude":47.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Analamary",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1077118,
+    "gn:latitude":-24.23333,
+    "gn:longitude":47.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Analamary",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambalamany",
+        "Analamary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673977,
+        421188095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1077118,
+        "wk:page":"Analamary%2C_Taolanaro"
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7fc81d1fb181f4b02ec000bde8d8fd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188095,
+            "locality_id":1293011043,
+            "region_id":85673977
+        }
+    ],
+    "wof:id":1293011043,
+    "wof:lastmodified":1537664771,
+    "wof:name":"Analamary",
+    "wof:parent_id":421188095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21667,
+    -24.23333,
+    47.21667,
+    -24.23333
+],
+  "geometry": {"coordinates":[47.21667,-24.23333],"type":"Point"}
+}

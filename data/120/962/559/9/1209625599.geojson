@@ -1,0 +1,66 @@
+{
+  "id": 1209625599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.91667,-16.5,45.91667,-16.5",
+    "geom:latitude":-16.5,
+    "geom:longitude":45.91667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Befamonty",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068407,
+    "gn:latitude":-16.5,
+    "gn:longitude":45.91667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Befamonty",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Befamonto",
+        "Befamonty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068407
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"686cdd4a0b4089cb483e6e7ff09e9a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209625599
+        }
+    ],
+    "wof:id":1209625599,
+    "wof:lastmodified":1537664697,
+    "wof:name":"Befamonty",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.91667,
+    -16.5,
+    45.91667,
+    -16.5
+],
+  "geometry": {"coordinates":[45.91667,-16.5],"type":"Point"}
+}

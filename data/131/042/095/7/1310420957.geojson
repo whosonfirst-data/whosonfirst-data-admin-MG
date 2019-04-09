@@ -1,0 +1,67 @@
+{
+  "id": 1310420957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08333,-22.73333,44.08333,-22.73333",
+    "geom:latitude":-22.73333,
+    "geom:longitude":44.08333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Aborotsy",
+    "gn:country_code":"MG",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1084828,
+    "gn:latitude":-22.73333,
+    "gn:longitude":44.08333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Aborotsy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        421188087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1084828
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"22ba734813e383f28c681d1deed78453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421188087,
+            "locality_id":1310420957,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1310420957,
+    "wof:lastmodified":1537037280,
+    "wof:name":"Aborotsy",
+    "wof:parent_id":421188087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08333,
+    -22.73333,
+    44.08333,
+    -22.73333
+],
+  "geometry": {"coordinates":[44.08333,-22.73333],"type":"Point"}
+}

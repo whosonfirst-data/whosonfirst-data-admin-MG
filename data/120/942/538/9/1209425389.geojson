@@ -1,0 +1,61 @@
+{
+  "id": 1209425389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7,-18.88333,46.7,-18.88333",
+    "geom:latitude":-18.88333,
+    "geom:longitude":46.7,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Atolampy",
+    "gn:country_code":"MG",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068822,
+    "gn:latitude":-18.88333,
+    "gn:longitude":46.7,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Atolampy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068822
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a073667367b8f8178ee6d12dd1e79e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209425389
+        }
+    ],
+    "wof:id":1209425389,
+    "wof:lastmodified":1536287396,
+    "wof:name":"Atolampy",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7,
+    -18.88333,
+    46.7,
+    -18.88333
+],
+  "geometry": {"coordinates":[46.7,-18.88333],"type":"Point"}
+}

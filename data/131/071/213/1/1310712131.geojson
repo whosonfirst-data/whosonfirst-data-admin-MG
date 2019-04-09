@@ -1,0 +1,72 @@
+{
+  "id": 1310712131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78333,-19.41667,44.78333,-19.41667",
+    "geom:latitude":-19.41667,
+    "geom:longitude":44.78333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Andimaky",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1076135,
+    "gn:latitude":-19.41667,
+    "gn:longitude":44.78333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andimaky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andimaka",
+        "Andimaky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        421169785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1076135
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"7a3ac63d7db852185df670e1bbf9e8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421169785,
+            "locality_id":1310712131,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1310712131,
+    "wof:lastmodified":1537664763,
+    "wof:name":"Andimaky",
+    "wof:parent_id":421169785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78333,
+    -19.41667,
+    44.78333,
+    -19.41667
+],
+  "geometry": {"coordinates":[44.78333,-19.41667],"type":"Point"}
+}

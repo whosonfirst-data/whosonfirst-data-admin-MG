@@ -1,0 +1,67 @@
+{
+  "id": 1326940687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.13333,-18.35,47.13333,-18.35",
+    "geom:latitude":-18.35,
+    "geom:longitude":47.13333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bemasoandro",
+    "gn:country_code":"MG",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1067332,
+    "gn:latitude":-18.35,
+    "gn:longitude":47.13333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bemasoandro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1067332
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"48a102d89e5ed429b72e4b07335f8140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1326940687,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1326940687,
+    "wof:lastmodified":1536892190,
+    "wof:name":"Bemasoandro",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.13333,
+    -18.35,
+    47.13333,
+    -18.35
+],
+  "geometry": {"coordinates":[47.13333,-18.35],"type":"Point"}
+}

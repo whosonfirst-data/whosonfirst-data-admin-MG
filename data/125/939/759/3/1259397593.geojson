@@ -1,0 +1,67 @@
+{
+  "id": 1259397593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16667,-23.9,45.16667,-23.9",
+    "geom:latitude":-23.9,
+    "geom:longitude":45.16667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antsohamamy",
+    "gn:country_code":"MG",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1068996,
+    "gn:latitude":-23.9,
+    "gn:longitude":45.16667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antsohamamy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1068996
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"6fbceaa5c682a364f400cbb38a31d7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801135,
+            "locality_id":1259397593,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":1259397593,
+    "wof:lastmodified":1536981250,
+    "wof:name":"Antsohamamy",
+    "wof:parent_id":1108801135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16667,
+    -23.9,
+    45.16667,
+    -23.9
+],
+  "geometry": {"coordinates":[45.16667,-23.9],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243282685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.28333,-21.55,46.28333,-21.55",
+    "geom:latitude":-21.55,
+    "geom:longitude":46.28333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Soamatamaha",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1056435,
+    "gn:latitude":-21.55,
+    "gn:longitude":46.28333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Soamatamaha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soamahatamana",
+        "Soamatamaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        1108801153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1056435
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"a1a9943659ca979e2b6196d24b7dfb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801153,
+            "locality_id":1243282685,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":1243282685,
+    "wof:lastmodified":1537664591,
+    "wof:name":"Soamatamaha",
+    "wof:parent_id":1108801153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.28333,
+    -21.55,
+    46.28333,
+    -21.55
+],
+  "geometry": {"coordinates":[46.28333,-21.55],"type":"Point"}
+}

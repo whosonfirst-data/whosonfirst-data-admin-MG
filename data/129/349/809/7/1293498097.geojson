@@ -1,0 +1,67 @@
+{
+  "id": 1293498097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.68333,-23.06667,47.68333,-23.06667",
+    "geom:latitude":-23.06667,
+    "geom:longitude":47.68333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amboahangy",
+    "gn:country_code":"MG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1081931,
+    "gn:latitude":-23.06667,
+    "gn:longitude":47.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Amboahangy",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673987,
+        1108801147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1081931
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"d620e0c719ce54f78b9c7ec14c1f0839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801147,
+            "locality_id":1293498097,
+            "region_id":85673987
+        }
+    ],
+    "wof:id":1293498097,
+    "wof:lastmodified":1536772256,
+    "wof:name":"Amboahangy",
+    "wof:parent_id":1108801147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.68333,
+    -23.06667,
+    47.68333,
+    -23.06667
+],
+  "geometry": {"coordinates":[47.68333,-23.06667],"type":"Point"}
+}

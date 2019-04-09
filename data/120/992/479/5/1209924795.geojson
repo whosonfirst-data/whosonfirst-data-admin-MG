@@ -1,0 +1,67 @@
+{
+  "id": 1209924795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.18333,-16.6,49.18333,-16.6",
+    "geom:latitude":-16.6,
+    "geom:longitude":49.18333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ankaihely",
+    "gn:country_code":"MG",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1073322,
+    "gn:latitude":-16.6,
+    "gn:longitude":49.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankaihely",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        1108801207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1073322
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"760b128b5896fa12ceb0e8a50858142e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801207,
+            "locality_id":1209924795,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":1209924795,
+    "wof:lastmodified":1536395380,
+    "wof:name":"Ankaihely",
+    "wof:parent_id":1108801207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.18333,
+    -16.6,
+    49.18333,
+    -16.6
+],
+  "geometry": {"coordinates":[49.18333,-16.6],"type":"Point"}
+}

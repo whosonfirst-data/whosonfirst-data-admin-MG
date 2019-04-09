@@ -1,0 +1,67 @@
+{
+  "id": 1226161713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13333,-20.93333,48.13333,-20.93333",
+    "geom:latitude":-20.93333,
+    "geom:longitude":48.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambodisaina",
+    "gn:country_code":"MG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1080996,
+    "gn:latitude":-20.93333,
+    "gn:longitude":48.13333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ambodisaina",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1080996
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"38edd78556fda61dc82eb30a2dbd8cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801181,
+            "locality_id":1226161713,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":1226161713,
+    "wof:lastmodified":1537052459,
+    "wof:name":"Ambodisaina",
+    "wof:parent_id":1108801181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13333,
+    -20.93333,
+    48.13333,
+    -20.93333
+],
+  "geometry": {"coordinates":[48.13333,-20.93333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343973175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.91667,-21.68333,43.91667,-21.68333",
+    "geom:latitude":-21.68333,
+    "geom:longitude":43.91667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antanimangotroky",
+    "gn:country_code":"MG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1070614,
+    "gn:latitude":-21.68333,
+    "gn:longitude":43.91667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Antanimangotroky",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674035,
+        1108801187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1070614
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b5ea95661db506b86b7afeffb45fc66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801187,
+            "locality_id":1343973175,
+            "region_id":85674035
+        }
+    ],
+    "wof:id":1343973175,
+    "wof:lastmodified":1537000833,
+    "wof:name":"Antanimangotroky",
+    "wof:parent_id":1108801187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.91667,
+    -21.68333,
+    43.91667,
+    -21.68333
+],
+  "geometry": {"coordinates":[43.91667,-21.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209014895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11667,-22.41667,45.11667,-22.41667",
+    "geom:latitude":-22.41667,
+    "geom:longitude":45.11667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Fandoma-Ankifio",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1065242,
+    "gn:latitude":-22.41667,
+    "gn:longitude":45.11667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Fandoma-Ankifio",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankifio",
+        "Eandoma Ankifio",
+        "Fandoma-Ankifio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1065242
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"474268578d7e8dd85cd788190224f0a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632223,
+            "locality_id":1209014895
+        }
+    ],
+    "wof:id":1209014895,
+    "wof:lastmodified":1537664665,
+    "wof:name":"Fandoma-Ankifio",
+    "wof:parent_id":85632223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11667,
+    -22.41667,
+    45.11667,
+    -22.41667
+],
+  "geometry": {"coordinates":[45.11667,-22.41667],"type":"Point"}
+}

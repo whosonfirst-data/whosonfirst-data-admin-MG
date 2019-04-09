@@ -1,0 +1,67 @@
+{
+  "id": 1226057731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31667,-20.35,46.31667,-20.35",
+    "geom:latitude":-20.35,
+    "geom:longitude":46.31667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Isaka",
+    "gn:country_code":"MG",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1063998,
+    "gn:latitude":-20.35,
+    "gn:longitude":46.31667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Isaka",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673959,
+        421175319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1063998
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"efcf4e5183ac182dbbc09eec6d497bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421175319,
+            "locality_id":1226057731,
+            "region_id":85673959
+        }
+    ],
+    "wof:id":1226057731,
+    "wof:lastmodified":1536708116,
+    "wof:name":"Isaka",
+    "wof:parent_id":421175319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31667,
+    -20.35,
+    46.31667,
+    -20.35
+],
+  "geometry": {"coordinates":[46.31667,-20.35],"type":"Point"}
+}

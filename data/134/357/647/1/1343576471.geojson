@@ -1,0 +1,67 @@
+{
+  "id": 1343576471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46667,-24.55,45.46667,-24.55",
+    "geom:latitude":-24.55,
+    "geom:longitude":45.46667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ankazobe",
+    "gn:country_code":"MG",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1072844,
+    "gn:latitude":-24.55,
+    "gn:longitude":45.46667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ankazobe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673973,
+        1108801131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1072844
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"4f574c2f167521f0f354910e012dcaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801131,
+            "locality_id":1343576471,
+            "region_id":85673973
+        }
+    ],
+    "wof:id":1343576471,
+    "wof:lastmodified":1537073202,
+    "wof:name":"Ankazobe",
+    "wof:parent_id":1108801131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46667,
+    -24.55,
+    45.46667,
+    -24.55
+],
+  "geometry": {"coordinates":[45.46667,-24.55],"type":"Point"}
+}

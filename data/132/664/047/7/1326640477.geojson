@@ -1,0 +1,72 @@
+{
+  "id": 1326640477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21667,-17.81667,47.21667,-17.81667",
+    "geom:latitude":-17.81667,
+    "geom:longitude":47.21667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Andranomiely Avaratra",
+    "gn:cc2":"MG",
+    "gn:country_code":"MG",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1074910,
+    "gn:latitude":-17.81667,
+    "gn:longitude":47.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Andranomiely Avaratra",
+    "gn:population":0,
+    "gn:timezone":"Indian/Antananarivo",
+    "iso:country":"MG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andranomiely-Nord",
+        "Andranomiely Avaratra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673965,
+        1108801103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1074910
+    },
+    "wof:country":"MG",
+    "wof:geomhash":"b09429928a2e02679a6d2164b581d464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801103,
+            "locality_id":1326640477,
+            "region_id":85673965
+        }
+    ],
+    "wof:id":1326640477,
+    "wof:lastmodified":1537664755,
+    "wof:name":"Andranomiely Avaratra",
+    "wof:parent_id":1108801103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21667,
+    -17.81667000000001,
+    47.21667,
+    -17.81667000000001
+],
+  "geometry": {"coordinates":[47.21667,-17.81667000000001],"type":"Point"}
+}
