@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049925,
-    "geom:area_square_m":584046392.845068,
+    "geom:area_square_m":584046392.845143,
     "geom:bbox":"47.5089579153,-19.1452103814,47.74454673,-18.6882664325",
     "geom:latitude":-18.901721,
     "geom:longitude":47.62585,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antananarivo Avaradrano District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.817643,
     "lbl:longitude":47.604427,
     "meso:gadm_adm2":"Antananarivo-Nord",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Antananarivo Avaradrano",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801111,
-    "wof:lastmodified":1494545196,
+    "wof:lastmodified":1554489517,
     "wof:name":"Antananarivo Avaradrano",
     "wof:parent_id":85673965,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

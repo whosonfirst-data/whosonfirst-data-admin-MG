@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.645608,
-    "geom:area_square_m":7580510660.730201,
+    "geom:area_square_m":7580510660.72988,
     "geom:bbox":"45.729773054,-18.7443491343,47.0923556698,-17.7420942979",
     "geom:latitude":-18.271648,
     "geom:longitude":46.361775,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Fenoarivobe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.158051,
     "lbl:longitude":46.351463,
     "meso:gadm_adm2":"Fenoarivo-Centre",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Fenoarivobe",
     "meso:region":"Bongolava",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801151,
-    "wof:lastmodified":1494545203,
+    "wof:lastmodified":1554489520,
     "wof:name":"Fenoarivobe",
     "wof:parent_id":85674005,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.428801,
-    "geom:area_square_m":4801846040.426416,
+    "geom:area_square_m":4801846040.426201,
     "geom:bbox":"44.4969506426,-25.5376568962,45.3807357763,-24.5622414392",
     "geom:latitude":-25.090684,
     "geom:longitude":45.021652,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Beloha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.138062,
     "lbl:longitude":45.021603,
     "meso:gadm_adm2":"Beloha",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Beloha",
     "meso:region":"Androy",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801133,
-    "wof:lastmodified":1494545200,
+    "wof:lastmodified":1554489518,
     "wof:name":"Beloha",
     "wof:parent_id":85673973,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

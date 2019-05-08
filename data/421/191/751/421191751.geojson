@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221192,
+    "geom:area_square_m":2587509305.243097,
     "geom:bbox":"46.486240528,-19.208131646,47.1173128454,-18.6558004977",
     "geom:latitude":-18.906684,
     "geom:longitude":46.830894,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Miarinarivo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.887029,
     "lbl:longitude":46.836882,
     "meso:gadm_adm2":"Miarinarivo",
@@ -106,10 +113,11 @@
         }
     ],
     "wof:id":421191751,
-    "wof:lastmodified":1527716382,
+    "wof:lastmodified":1554489005,
     "wof:name":"Miarinarivo",
     "wof:parent_id":85674025,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

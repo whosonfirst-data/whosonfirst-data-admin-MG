@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.528789,
+    "geom:area_square_m":5943566325.693578,
     "geom:bbox":"46.4826836377,-25.200445175,47.416221619,-23.9746782317",
     "geom:latitude":-24.630786,
     "geom:longitude":46.960557,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Taolagnaro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.683394,
     "lbl:longitude":46.967552,
     "meso:gadm_adm2":"Taolagnaro",
@@ -97,10 +104,11 @@
         }
     ],
     "wof:id":421188095,
-    "wof:lastmodified":1527716293,
+    "wof:lastmodified":1554488966,
     "wof:name":"Taolagnaro",
     "wof:parent_id":85673977,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

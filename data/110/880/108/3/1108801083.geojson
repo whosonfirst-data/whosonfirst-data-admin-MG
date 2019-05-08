@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.880007,
-    "geom:area_square_m":9907529453.37924,
+    "geom:area_square_m":9907529453.378632,
     "geom:bbox":"45.8172822919,-25.2101093721,46.8999510129,-23.81243603",
     "geom:latitude":-24.423932,
     "geom:longitude":46.354147,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Amboasary-Atsimo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.33181,
     "lbl:longitude":46.391034,
     "meso:gadm_adm2":"Amboasary-Sud",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Amboasary-Atsimo",
     "meso:region":"Anosy",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801083,
-    "wof:lastmodified":1494545192,
+    "wof:lastmodified":1554489516,
     "wof:name":"Amboasary-Atsimo",
     "wof:parent_id":85673977,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

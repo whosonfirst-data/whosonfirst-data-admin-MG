@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.472252,
-    "geom:area_square_m":5556192277.184205,
+    "geom:area_square_m":5556192277.184472,
     "geom:bbox":"47.9013964292,-18.3619274441,48.848577894,-17.3745528653",
     "geom:latitude":-17.918628,
     "geom:longitude":48.451122,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambatondrazaka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.921925,
     "lbl:longitude":48.451078,
     "meso:gadm_adm2":"Ambatondrazaka",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Ambatondrazaka",
     "meso:region":"Alaotra Mangoro",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801081,
-    "wof:lastmodified":1494545192,
+    "wof:lastmodified":1554489516,
     "wof:name":"Ambatondrazaka",
     "wof:parent_id":85673955,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

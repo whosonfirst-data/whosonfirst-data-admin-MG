@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.653089,
-    "geom:area_square_m":7478514999.157609,
+    "geom:area_square_m":7478514999.157227,
     "geom:bbox":"44.0959873137,-22.5571215967,45.3035229587,-21.7078467048",
     "geom:latitude":-22.169491,
     "geom:longitude":44.679032,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ankazoabo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.156916,
     "lbl:longitude":44.569911,
     "meso:gadm_adm2":"Ankazoabo-Sud",
@@ -78,10 +84,11 @@
         }
     ],
     "wof:id":421199277,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1554489025,
     "wof:name":"Ankazoabo",
     "wof:parent_id":85673983,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

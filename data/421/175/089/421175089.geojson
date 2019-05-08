@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.206955,
-    "geom:area_square_m":13699407412.821695,
+    "geom:area_square_m":13699407412.821024,
     "geom:bbox":"45.2006503681,-24.1509455427,46.5008827541,-22.6755635093",
     "geom:latitude":-23.37231,
     "geom:longitude":45.877061,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Betroka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.35876,
     "lbl:longitude":45.88942,
     "meso:gadm_adm2":"Betroka",
@@ -66,10 +72,11 @@
         }
     ],
     "wof:id":421175089,
-    "wof:lastmodified":1527716342,
+    "wof:lastmodified":1554488777,
     "wof:name":"Betroka",
     "wof:parent_id":85673977,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

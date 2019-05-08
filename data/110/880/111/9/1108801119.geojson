@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401292,
-    "geom:area_square_m":4793092133.280447,
+    "geom:area_square_m":4793092133.280724,
     "geom:bbox":"47.6887794365,-15.4391988386,48.4692093374,-14.5071430237",
     "geom:latitude":-14.993259,
     "geom:longitude":48.054096,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antsohihy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.019136,
     "lbl:longitude":48.027482,
     "meso:gadm_adm2":"Antsihihy",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Antsohihy",
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801119,
-    "wof:lastmodified":1494545198,
+    "wof:lastmodified":1554489518,
     "wof:name":"Antsohihy",
     "wof:parent_id":85674041,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

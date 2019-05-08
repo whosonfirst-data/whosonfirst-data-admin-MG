@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.722337,
+    "geom:area_square_m":8556350023.485701,
     "geom:bbox":"45.6828377282,-17.2778405548,47.4372922587,-16.1559322414",
     "geom:latitude":-16.670733,
     "geom:longitude":46.475744,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambato Boeni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.780108,
     "lbl:longitude":46.402596,
     "meso:gadm_adm2":"Ambato-Boina",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421175085,
-    "wof:lastmodified":1527716337,
+    "wof:lastmodified":1554488776,
     "wof:name":"Ambato Boeni",
     "wof:parent_id":85674001,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

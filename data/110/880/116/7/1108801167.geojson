@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003705,
-    "geom:area_square_m":44098991.816834,
+    "geom:area_square_m":44098991.816833,
     "geom:bbox":"46.305389404,-15.732138634,46.3928385502,-15.6385510366",
     "geom:latitude":-15.700381,
     "geom:longitude":46.348088,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Mahajanga I District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.698887,
     "lbl:longitude":46.348097,
     "meso:gadm_adm2":"Mahajanga Urban",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Mahajanga I",
     "meso:region":"Boeny",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801167,
-    "wof:lastmodified":1494545205,
+    "wof:lastmodified":1554489520,
     "wof:name":"Mahajanga I",
     "wof:parent_id":85674001,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

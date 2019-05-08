@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005951,
+    "geom:area_square_m":71896240.153025,
     "geom:bbox":"49.217331259,-12.3501838941,49.313720703,-12.230416298",
     "geom:latitude":-12.291204,
     "geom:longitude":49.265524,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antsiranana I District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.316826,
     "lbl:longitude":49.275715,
     "meso:gadm_adm2":"Antsiranana Rural",
@@ -173,10 +180,11 @@
         }
     ],
     "wof:id":421169783,
-    "wof:lastmodified":1527716170,
+    "wof:lastmodified":1554488750,
     "wof:name":"Antsiranana I",
     "wof:parent_id":85674009,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

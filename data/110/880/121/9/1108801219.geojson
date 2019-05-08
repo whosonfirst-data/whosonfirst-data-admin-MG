@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15953,
-    "geom:area_square_m":1833268052.307467,
+    "geom:area_square_m":1833268052.307429,
     "geom:bbox":"46.7090589485,-21.8796932276,47.3976296042,-21.4621704563",
     "geom:latitude":-21.665194,
     "geom:longitude":47.087646,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Vohibato District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.66383,
     "lbl:longitude":47.092848,
     "meso:gadm_adm2":"Fianarantsoa Rural",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Vohibato",
     "meso:region":"Haute Matsiatra",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801219,
-    "wof:lastmodified":1494545213,
+    "wof:lastmodified":1554489522,
     "wof:name":"Vohibato",
     "wof:parent_id":85674013,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

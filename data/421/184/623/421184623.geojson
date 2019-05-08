@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10124,
+    "geom:area_square_m":1157869928.302249,
     "geom:bbox":"47.4173218413,-22.5005465986,47.948264203,-22.1839656412",
     "geom:latitude":-22.3428,
     "geom:longitude":47.707075,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Vohipeno District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.360359,
     "lbl:longitude":47.712146,
     "meso:gadm_adm2":"Vohipeno",
@@ -83,10 +90,11 @@
         }
     ],
     "wof:id":421184623,
-    "wof:lastmodified":1527716452,
+    "wof:lastmodified":1554488949,
     "wof:name":"Vohipeno",
     "wof:parent_id":85674045,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

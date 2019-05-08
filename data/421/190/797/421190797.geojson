@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.489381,
-    "geom:area_square_m":5664999482.836755,
+    "geom:area_square_m":5664999482.836185,
     "geom:bbox":"43.870418549,-21.1086073425,44.8227854669,-19.9247910229",
     "geom:latitude":-20.580983,
     "geom:longitude":44.381258,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Morondava District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.658781,
     "lbl:longitude":44.309185,
     "meso:gadm_adm2":"Morondava",
@@ -32,6 +38,9 @@
         "Morondava"
     ],
     "name:eng_x_preferred":[
+        "Morondava"
+    ],
+    "name:eng_x_variant":[
         "Morondava District"
     ],
     "name:fin_x_preferred":[
@@ -144,10 +153,11 @@
         }
     ],
     "wof:id":421190797,
-    "wof:lastmodified":1527716388,
+    "wof:lastmodified":1555220347,
     "wof:name":"Morondava",
     "wof:parent_id":85674035,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

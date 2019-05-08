@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.672865,
-    "geom:area_square_m":7713012606.232696,
+    "geom:area_square_m":7713012606.232762,
     "geom:bbox":"43.221221924,-22.446214264,44.3003034226,-21.309610367",
     "geom:latitude":-22.021745,
     "geom:longitude":43.708653,
     "gn:country":"MG",
     "gp:adm0":23424883,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Morombe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.038909,
     "lbl:longitude":43.627012,
     "meso:gadm_adm2":"Manja",
@@ -61,10 +67,11 @@
         }
     ],
     "wof:id":890452055,
-    "wof:lastmodified":1527734185,
+    "wof:lastmodified":1554489063,
     "wof:name":"Morombe",
     "wof:parent_id":85673983,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

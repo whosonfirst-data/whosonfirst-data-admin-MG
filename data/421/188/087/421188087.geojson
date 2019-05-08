@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.754041,
+    "geom:area_square_m":8596133080.138124,
     "geom:bbox":"43.6599032269,-23.2494382623,45.077470178,-22.4041917721",
     "geom:latitude":-22.786446,
     "geom:longitude":44.441217,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Sakaraha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.848721,
     "lbl:longitude":44.512074,
     "meso:gadm_adm2":"Sakaraha",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421188087,
-    "wof:lastmodified":1527716290,
+    "wof:lastmodified":1554488965,
     "wof:name":"Sakaraha",
     "wof:parent_id":85673983,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

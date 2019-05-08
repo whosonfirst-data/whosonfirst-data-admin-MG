@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.369777,
-    "geom:area_square_m":4378962549.325356,
+    "geom:area_square_m":4378962549.32535,
     "geom:bbox":"48.818926113,-17.0847290611,49.837081909,-16.2709751041",
     "geom:latitude":-16.723324,
     "geom:longitude":49.309512,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Soanierana Ivongo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.714799,
     "lbl:longitude":49.259675,
     "meso:gadm_adm2":"Soanierana-Ivongo",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Soanierana Ivongo",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801207,
-    "wof:lastmodified":1494545211,
+    "wof:lastmodified":1554489522,
     "wof:name":"Soanierana Ivongo",
     "wof:parent_id":85673967,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

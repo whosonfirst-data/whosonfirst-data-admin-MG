@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.417407,
-    "geom:area_square_m":4859739220.919583,
+    "geom:area_square_m":4859739220.919834,
     "geom:bbox":"45.7722934071,-20.083865247,46.6803121048,-19.3715874492",
     "geom:latitude":-19.682537,
     "geom:longitude":46.197653,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Mandoto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.680886,
     "lbl:longitude":46.197699,
     "meso:gadm_adm2":"Betafo",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Mandoto",
     "meso:region":"Vakinankaratra",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801183,
-    "wof:lastmodified":1494545207,
+    "wof:lastmodified":1554489521,
     "wof:name":"Mandoto",
     "wof:parent_id":85674043,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

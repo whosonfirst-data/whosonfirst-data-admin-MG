@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.852568,
-    "geom:area_square_m":9822730883.634106,
+    "geom:area_square_m":9822730883.633739,
     "geom:bbox":"45.5224499871,-21.7618341469,46.8854037966,-20.6918969608",
     "geom:latitude":-21.288467,
     "geom:longitude":46.218911,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ikalamavony District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.301014,
     "lbl:longitude":46.095087,
     "meso:gadm_adm2":"Ikalamavony",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Ikalamavony",
     "meso:region":"Haute Matsiatra",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801153,
-    "wof:lastmodified":1494545203,
+    "wof:lastmodified":1554489522,
     "wof:name":"Ikalamavony",
     "wof:parent_id":85674013,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

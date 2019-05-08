@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245991,
-    "geom:area_square_m":2867011093.265137,
+    "geom:area_square_m":2867011093.265265,
     "geom:bbox":"47.8369745301,-19.8106122112,48.4066964251,-19.1918119634",
     "geom:latitude":-19.513682,
     "geom:longitude":48.124567,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Anosibe-An'ala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.501855,
     "lbl:longitude":48.119175,
     "meso:gadm_adm2":"Anosibe",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Anosibe-An'ala",
     "meso:region":"Alaotra Mangoro",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801105,
-    "wof:lastmodified":1494545196,
+    "wof:lastmodified":1554489517,
     "wof:name":"Anosibe-An'ala",
     "wof:parent_id":85673955,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

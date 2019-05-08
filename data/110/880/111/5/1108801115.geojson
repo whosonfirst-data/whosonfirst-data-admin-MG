@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011576,
-    "geom:area_square_m":134607219.471968,
+    "geom:area_square_m":134607219.471942,
     "geom:bbox":"46.9618426184,-19.9516363835,47.0981989695,-19.8109768381",
     "geom:latitude":-19.881877,
     "geom:longitude":47.031661,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antsirabe I District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.88501,
     "lbl:longitude":47.037181,
     "meso:gadm_adm2":"Antsirabe Urban",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Antsirabe I",
     "meso:region":"Vakinankaratra",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801115,
-    "wof:lastmodified":1494545197,
+    "wof:lastmodified":1554489517,
     "wof:name":"Antsirabe I",
     "wof:parent_id":85674043,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

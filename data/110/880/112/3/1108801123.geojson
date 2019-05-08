@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572741,
-    "geom:area_square_m":6854790861.273623,
+    "geom:area_square_m":6854790861.27404,
     "geom:bbox":"48.3258573942,-14.9723272823,49.4376239076,-14.1477081248",
     "geom:latitude":-14.553133,
     "geom:longitude":48.835072,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Bealanana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.54301,
     "lbl:longitude":48.824483,
     "meso:gadm_adm2":"Bealanana",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Bealanana",
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801123,
-    "wof:lastmodified":1494545199,
+    "wof:lastmodified":1554489519,
     "wof:name":"Bealanana",
     "wof:parent_id":85674041,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

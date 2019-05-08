@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.33971,
-    "geom:area_square_m":3932855527.775434,
+    "geom:area_square_m":3932855527.775326,
     "geom:bbox":"47.646543478,-20.8532570957,48.618751526,-20.2123788538",
     "geom:latitude":-20.566367,
     "geom:longitude":48.182397,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Nosy-Varika District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.576118,
     "lbl:longitude":48.26341,
     "meso:gadm_adm2":"Nosy varika",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Nosy-Varika",
     "meso:region":"Vatovavy Fitovinany",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801199,
-    "wof:lastmodified":1494545209,
+    "wof:lastmodified":1554489522,
     "wof:name":"Nosy-Varika",
     "wof:parent_id":85674045,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

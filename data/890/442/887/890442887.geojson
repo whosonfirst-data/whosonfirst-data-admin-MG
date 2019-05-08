@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.374452,
-    "geom:area_square_m":4458805901.477454,
+    "geom:area_square_m":4458805901.476872,
     "geom:bbox":"46.306194305,-15.948004421,47.1770902558,-15.201277733",
     "geom:latitude":-15.636081,
     "geom:longitude":46.775773,
     "gn:country":"MG",
     "gp:adm0":23424883,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Mahajanga II District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.673964,
     "lbl:longitude":46.696987,
     "meso:gadm_adm2":"Mahajanga",
@@ -61,10 +67,11 @@
         }
     ],
     "wof:id":890442887,
-    "wof:lastmodified":1527792853,
+    "wof:lastmodified":1554489062,
     "wof:name":"Mahajanga II",
     "wof:parent_id":85674001,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

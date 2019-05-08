@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.46945,
+    "geom:area_square_m":5575433565.844097,
     "geom:bbox":"46.052662721,-16.5956528413,47.2654971831,-15.8630384308",
     "geom:latitude":-16.160994,
     "geom:longitude":46.626309,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Marovoay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.129293,
     "lbl:longitude":46.717748,
     "meso:gadm_adm2":"Marovoay",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421183933,
-    "wof:lastmodified":1527717694,
+    "wof:lastmodified":1554488942,
     "wof:name":"Marovoay",
     "wof:parent_id":85674001,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

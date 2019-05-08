@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159883,
-    "geom:area_square_m":1864594020.486184,
+    "geom:area_square_m":1864594020.48615,
     "geom:bbox":"46.5698627669,-19.6446472588,47.2232844101,-19.1916804902",
     "geom:latitude":-19.412196,
     "geom:longitude":46.90314,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Faratsiho District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.404967,
     "lbl:longitude":46.90309,
     "meso:gadm_adm2":"Faratsiho",
@@ -66,10 +72,11 @@
         }
     ],
     "wof:id":421200821,
-    "wof:lastmodified":1527716422,
+    "wof:lastmodified":1554489030,
     "wof:name":"Faratsiho",
     "wof:parent_id":85674043,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

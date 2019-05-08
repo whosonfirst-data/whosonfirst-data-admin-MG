@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.581915,
-    "geom:area_square_m":6528627661.862513,
+    "geom:area_square_m":6528627661.862741,
     "geom:bbox":"45.3083514613,-25.4067870108,46.2868011993,-24.1921677807",
     "geom:latitude":-24.860872,
     "geom:longitude":45.78702,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambovombe-Androy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.817943,
     "lbl:longitude":45.705586,
     "meso:gadm_adm2":"Ambovombe-Androy",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Ambovombe-Androy",
     "meso:region":"Androy",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801085,
-    "wof:lastmodified":1494545192,
+    "wof:lastmodified":1554489516,
     "wof:name":"Ambovombe-Androy",
     "wof:parent_id":85673973,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254076,
-    "geom:area_square_m":3001775473.57621,
+    "geom:area_square_m":3001775473.576317,
     "geom:bbox":"48.7867781229,-17.6161981047,49.519584656,-16.8808390908",
     "geom:latitude":-17.163542,
     "geom:longitude":49.202638,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Fenerive Est District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.155847,
     "lbl:longitude":49.23877,
     "meso:gadm_adm2":"Fenoarivo Atsinanana",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Fenerive Est",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801149,
-    "wof:lastmodified":1494545202,
+    "wof:lastmodified":1554489520,
     "wof:name":"Fenerive Est",
     "wof:parent_id":85673967,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

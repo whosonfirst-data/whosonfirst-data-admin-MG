@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345017,
+    "geom:area_square_m":3980336888.829462,
     "geom:bbox":"47.3331428929,-21.6441882437,47.8905488243,-20.4910416262",
     "geom:latitude":-21.092113,
     "geom:longitude":47.636644,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ifanadiana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.088068,
     "lbl:longitude":47.617642,
     "meso:gadm_adm2":"Ifanadiana",
@@ -83,10 +90,11 @@
         }
     ],
     "wof:id":421197047,
-    "wof:lastmodified":1527716401,
+    "wof:lastmodified":1554489022,
     "wof:name":"Ifanadiana",
     "wof:parent_id":85674045,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227324,
-    "geom:area_square_m":2680711329.093031,
+    "geom:area_square_m":2680711329.093044,
     "geom:bbox":"48.6877591414,-17.7765853244,49.3290911979,-17.1704410784",
     "geom:latitude":-17.505825,
     "geom:longitude":49.02122,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Vavatenina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.516468,
     "lbl:longitude":49.026047,
     "meso:gadm_adm2":"Vavatenina",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Vavatenina",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801217,
-    "wof:lastmodified":1494545212,
+    "wof:lastmodified":1554489521,
     "wof:name":"Vavatenina",
     "wof:parent_id":85673967,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

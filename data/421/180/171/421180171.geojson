@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.665503,
+    "geom:area_square_m":8002056302.463907,
     "geom:bbox":"48.5769744432,-14.2057141858,49.4742556118,-12.8469336128",
     "geom:latitude":-13.485704,
     "geom:longitude":49.080212,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambilobe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.565394,
     "lbl:longitude":49.049715,
     "meso:gadm_adm2":"Ambilobe",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421180171,
-    "wof:lastmodified":1527716243,
+    "wof:lastmodified":1554488791,
     "wof:name":"Ambilobe",
     "wof:parent_id":85674009,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.913119,
-    "geom:area_square_m":10783456166.500738,
+    "geom:area_square_m":10783456166.50075,
     "geom:bbox":"46.2890745814,-17.879452926,47.3987999064,-16.5604657415",
     "geom:latitude":-17.239623,
     "geom:longitude":46.891313,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Maevatanana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.330551,
     "lbl:longitude":46.791075,
     "meso:gadm_adm2":"Maevatanana",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Maevatanana",
     "meso:region":"Betsiboka",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801163,
-    "wof:lastmodified":1494545204,
+    "wof:lastmodified":1554489521,
     "wof:name":"Maevatanana",
     "wof:parent_id":85673995,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

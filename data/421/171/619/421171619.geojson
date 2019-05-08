@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167869,
+    "geom:area_square_m":1936968775.152509,
     "geom:bbox":"46.8452550283,-21.3222767987,47.4486489811,-20.7887859556",
     "geom:latitude":-21.068734,
     "geom:longitude":47.16888,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambohimahasoa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.061496,
     "lbl:longitude":47.168878,
     "meso:gadm_adm2":"Ambohimahasoa",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421171619,
-    "wof:lastmodified":1527726483,
+    "wof:lastmodified":1554488764,
     "wof:name":"Ambohimahasoa",
     "wof:parent_id":85674013,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

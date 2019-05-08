@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.732985,
-    "geom:area_square_m":8747846631.47283,
+    "geom:area_square_m":8747846631.472921,
     "geom:bbox":"48.0392178734,-15.6483256072,49.480519573,-14.654909411",
     "geom:latitude":-15.164438,
     "geom:longitude":48.772094,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Befandriana Nord District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.158339,
     "lbl:longitude":48.70127,
     "meso:gadm_adm2":"Befandriana-Nord",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Befandriana Nord",
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801127,
-    "wof:lastmodified":1494545199,
+    "wof:lastmodified":1554489519,
     "wof:name":"Befandriana Nord",
     "wof:parent_id":85674041,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.570432,
-    "geom:area_square_m":6805894557.702064,
+    "geom:area_square_m":6805894557.702439,
     "geom:bbox":"49.7897331904,-15.996277809,50.48374939,-14.5201168852",
     "geom:latitude":-15.222064,
     "geom:longitude":50.141938,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antalaha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.033204,
     "lbl:longitude":50.078841,
     "meso:gadm_adm2":"Antalaha",
@@ -29,6 +35,9 @@
         "Antalaha"
     ],
     "name:eng_x_preferred":[
+        "Antalaha"
+    ],
+    "name:eng_x_variant":[
         "Antalaha District"
     ],
     "name:est_x_preferred":[
@@ -129,10 +138,11 @@
         }
     ],
     "wof:id":421196875,
-    "wof:lastmodified":1527716362,
+    "wof:lastmodified":1555220347,
     "wof:name":"Antalaha",
     "wof:parent_id":85674037,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111744,
-    "geom:area_square_m":1302005942.505959,
+    "geom:area_square_m":1302005942.506124,
     "geom:bbox":"48.284629292,-19.8454768028,48.6491998978,-19.287576266",
     "geom:latitude":-19.558464,
     "geom:longitude":48.470273,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antanambao Manampontsy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.585677,
     "lbl:longitude":48.503384,
     "meso:gadm_adm2":"Antanambao manampotsy",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Antanambao Manampontsy",
     "meso:region":"Atsinanana",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801109,
-    "wof:lastmodified":1494545196,
+    "wof:lastmodified":1554489517,
     "wof:name":"Antanambao Manampontsy",
     "wof:parent_id":85673991,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228396,
+    "geom:area_square_m":2551924011.526689,
     "geom:bbox":"45.118554775,-25.607110977,45.8232522424,-25.0827168573",
     "geom:latitude":-25.363578,
     "geom:longitude":45.472466,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Tsihombe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-25.372379,
     "lbl:longitude":45.514257,
     "meso:gadm_adm2":"Tsiombe",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421184615,
-    "wof:lastmodified":1527716452,
+    "wof:lastmodified":1554488949,
     "wof:name":"Tsihombe",
     "wof:parent_id":85673973,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002802,
-    "geom:area_square_m":32927404.283443,
+    "geom:area_square_m":32927404.283457,
     "geom:bbox":"49.3666984709,-18.1961958212,49.431251526,-18.0979178063",
     "geom:latitude":-18.146473,
     "geom:longitude":49.395961,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":179045,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Toamasina I District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.146694,
     "lbl:longitude":49.395479,
     "meso:gadm_adm2":"Toamasina Rural",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":890424915,
-    "wof:lastmodified":1527727265,
+    "wof:lastmodified":1554489060,
     "wof:name":"Toamasina I",
     "wof:parent_id":85673991,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":179045,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-mg",

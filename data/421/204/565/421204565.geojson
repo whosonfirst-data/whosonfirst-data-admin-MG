@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212985,
+    "geom:area_square_m":2476607007.403215,
     "geom:bbox":"46.9203247782,-20.2206477748,47.4847713226,-19.4574512508",
     "geom:latitude":-19.882309,
     "geom:longitude":47.158516,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antsirabe II District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.929206,
     "lbl:longitude":47.226471,
     "meso:gadm_adm2":"Antsirabe Rural",
@@ -166,10 +173,11 @@
         }
     ],
     "wof:id":421204565,
-    "wof:lastmodified":1527716184,
+    "wof:lastmodified":1554489051,
     "wof:name":"Antsirabe II",
     "wof:parent_id":85674043,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

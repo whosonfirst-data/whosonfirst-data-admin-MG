@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.590302,
+    "geom:area_square_m":6908457854.998646,
     "geom:bbox":"44.1327569166,-19.3139996786,45.1155569325,-18.3173122946",
     "geom:latitude":-18.830792,
     "geom:longitude":44.629719,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antsalova District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.815195,
     "lbl:longitude":44.620416,
     "meso:gadm_adm2":"Antsalova",
@@ -83,10 +90,11 @@
         }
     ],
     "wof:id":421199279,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1554489025,
     "wof:name":"Antsalova",
     "wof:parent_id":85674029,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

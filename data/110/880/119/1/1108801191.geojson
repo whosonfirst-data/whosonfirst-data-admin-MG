@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.225076,
-    "geom:area_square_m":2555292287.306647,
+    "geom:area_square_m":2555292287.306903,
     "geom:bbox":"46.7677137158,-23.7887722944,47.1859143477,-22.9185305725",
     "geom:latitude":-23.343042,
     "geom:longitude":46.996934,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Midongy-Atsimo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.326938,
     "lbl:longitude":47.013848,
     "meso:gadm_adm2":"Midongy-Sud",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Midongy-Atsimo",
     "meso:region":"Atsimo Atsinanana",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801191,
-    "wof:lastmodified":1494545208,
+    "wof:lastmodified":1554489521,
     "wof:name":"Midongy-Atsimo",
     "wof:parent_id":85673987,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

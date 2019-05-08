@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160643,
+    "geom:area_square_m":1875578159.798366,
     "geom:bbox":"46.1664750989,-19.4282420393,46.9237770559,-19.0105273022",
     "geom:latitude":-19.226985,
     "geom:longitude":46.559507,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Soavinandriana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.252502,
     "lbl:longitude":46.533764,
     "meso:gadm_adm2":"Soavinandriana",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421171621,
-    "wof:lastmodified":1527726483,
+    "wof:lastmodified":1554488764,
     "wof:name":"Soavinandriana",
     "wof:parent_id":85674025,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

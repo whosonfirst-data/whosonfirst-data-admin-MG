@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.688186,
+    "geom:area_square_m":8014561882.901757,
     "geom:bbox":"44.2801678139,-20.1679617116,45.3112483499,-19.1569487697",
     "geom:latitude":-19.637173,
     "geom:longitude":44.844779,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Belo Sur Tsiribihina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.678704,
     "lbl:longitude":44.854616,
     "meso:gadm_adm2":"Belon-i Tsiribihina",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421169785,
-    "wof:lastmodified":1527716169,
+    "wof:lastmodified":1554488750,
     "wof:name":"Belo Sur Tsiribihina",
     "wof:parent_id":85674035,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

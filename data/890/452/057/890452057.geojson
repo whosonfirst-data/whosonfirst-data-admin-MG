@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024039,
-    "geom:area_square_m":289246814.161636,
+    "geom:area_square_m":289246814.161686,
     "geom:bbox":"48.172863007,-13.424583435,48.360416412,-13.197944641",
     "geom:latitude":-13.322721,
     "geom:longitude":48.267057,
     "gn:country":"MG",
     "gp:adm0":23424883,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Nosy-Be District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-13.334042,
     "lbl:longitude":48.260689,
     "meso:gadm_adm2":"Nosibe",
@@ -61,10 +67,11 @@
         }
     ],
     "wof:id":890452057,
-    "wof:lastmodified":1527734188,
+    "wof:lastmodified":1554489062,
     "wof:name":"Nosy-Be",
     "wof:parent_id":85674009,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

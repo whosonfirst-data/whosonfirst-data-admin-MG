@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120805,
-    "geom:area_square_m":1409829315.796001,
+    "geom:area_square_m":1409829315.795886,
     "geom:bbox":"47.5064316825,-19.5559484488,47.9555494253,-19.1142751339",
     "geom:latitude":-19.300281,
     "geom:longitude":47.74637,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Andramasina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.295594,
     "lbl:longitude":47.750636,
     "meso:gadm_adm2":"Andramasina",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Andramasina",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801099,
-    "wof:lastmodified":1494545195,
+    "wof:lastmodified":1554489517,
     "wof:name":"Andramasina",
     "wof:parent_id":85673965,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

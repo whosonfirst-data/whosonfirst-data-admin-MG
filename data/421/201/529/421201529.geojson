@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37888,
-    "geom:area_square_m":4327635132.217447,
+    "geom:area_square_m":4327635132.217398,
     "geom:bbox":"46.5253345679,-23.0125891449,47.2234700978,-22.078349957",
     "geom:latitude":-22.520592,
     "geom:longitude":46.915657,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ivohibe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.549101,
     "lbl:longitude":46.944746,
     "meso:gadm_adm2":"Ivohibe",
@@ -23,6 +29,9 @@
         "Ivohibe"
     ],
     "name:eng_x_preferred":[
+        "Ivohibe"
+    ],
+    "name:eng_x_variant":[
         "Ivohibe District"
     ],
     "name:fra_x_preferred":[
@@ -84,10 +93,11 @@
         }
     ],
     "wof:id":421201529,
-    "wof:lastmodified":1527716435,
+    "wof:lastmodified":1555220347,
     "wof:name":"Ivohibe",
     "wof:parent_id":85674019,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

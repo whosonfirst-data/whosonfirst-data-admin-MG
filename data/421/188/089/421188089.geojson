@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.392911,
-    "geom:area_square_m":4709489643.580291,
+    "geom:area_square_m":4709489643.579753,
     "geom:bbox":"49.1491343878,-14.6615957936,50.202110291,-13.8303727393",
     "geom:latitude":-14.222424,
     "geom:longitude":49.786552,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Sambava District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-14.223075,
     "lbl:longitude":49.78661,
     "meso:gadm_adm2":"Sambava",
@@ -35,6 +41,9 @@
         "\u03a3\u03b1\u03bc\u03c0\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Sambava"
+    ],
+    "name:eng_x_variant":[
         "Sambava District"
     ],
     "name:fra_x_preferred":[
@@ -135,10 +144,11 @@
         }
     ],
     "wof:id":421188089,
-    "wof:lastmodified":1527716290,
+    "wof:lastmodified":1555220347,
     "wof:name":"Sambava",
     "wof:parent_id":85674037,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

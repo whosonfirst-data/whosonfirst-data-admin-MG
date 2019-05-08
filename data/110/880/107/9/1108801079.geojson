@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404251,
-    "geom:area_square_m":4760849914.910458,
+    "geom:area_square_m":4760849914.910583,
     "geom:bbox":"45.041372957,-18.2469945575,45.9709927282,-17.3829607449",
     "geom:latitude":-17.742905,
     "geom:longitude":45.599597,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambatomainty District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.757284,
     "lbl:longitude":45.645298,
     "meso:gadm_adm2":"Ambatomainty",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Ambatomainty",
     "meso:region":"Melaky",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801079,
-    "wof:lastmodified":1494545191,
+    "wof:lastmodified":1554489516,
     "wof:name":"Ambatomainty",
     "wof:parent_id":85674029,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

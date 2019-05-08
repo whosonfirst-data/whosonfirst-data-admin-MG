@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.651154,
-    "geom:area_square_m":7711151440.078527,
+    "geom:area_square_m":7711151440.078075,
     "geom:bbox":"47.6985842257,-17.2325659815,48.9250651801,-16.238264855",
     "geom:latitude":-16.720504,
     "geom:longitude":48.349225,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Andilamena District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.681442,
     "lbl:longitude":48.288903,
     "meso:gadm_adm2":"Andilamena",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Andilamena",
     "meso:region":"Alaotra Mangoro",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801097,
-    "wof:lastmodified":1494545195,
+    "wof:lastmodified":1554489517,
     "wof:name":"Andilamena",
     "wof:parent_id":85673955,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

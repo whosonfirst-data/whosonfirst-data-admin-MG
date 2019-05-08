@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.423018,
-    "geom:area_square_m":4794811031.44374,
+    "geom:area_square_m":4794811031.443864,
     "geom:bbox":"47.1196681596,-24.1388671566,47.736251831,-23.0350943853",
     "geom:latitude":-23.555029,
     "geom:longitude":47.398337,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Vangaindrano District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.560634,
     "lbl:longitude":47.392425,
     "meso:gadm_adm2":"Vangaindrano",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Vangaindrano",
     "meso:region":"Atsimo Atsinanana",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801213,
-    "wof:lastmodified":1494545212,
+    "wof:lastmodified":1554489523,
     "wof:name":"Vangaindrano",
     "wof:parent_id":85673987,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

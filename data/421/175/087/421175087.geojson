@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358618,
+    "geom:area_square_m":4168327835.004612,
     "geom:bbox":"46.2503715398,-20.2777059356,47.0112379367,-19.510848483",
     "geom:latitude":-19.947142,
     "geom:longitude":46.667611,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Betafo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.937112,
     "lbl:longitude":46.705619,
     "meso:gadm_adm2":"Betafo",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421175087,
-    "wof:lastmodified":1527716343,
+    "wof:lastmodified":1554488776,
     "wof:name":"Betafo",
     "wof:parent_id":85674043,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.506882,
+    "geom:area_square_m":17233678078.847866,
     "geom:bbox":"44.9796306539,-23.1147473964,46.7217705893,-21.613970942",
     "geom:latitude":-22.343395,
     "geom:longitude":45.823333,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ihosy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-22.222338,
     "lbl:longitude":45.8102,
     "meso:gadm_adm2":"Ihosy",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421175325,
-    "wof:lastmodified":1527716340,
+    "wof:lastmodified":1554488777,
     "wof:name":"Ihosy",
     "wof:parent_id":85674019,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

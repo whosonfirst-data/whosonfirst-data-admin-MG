@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142416,
+    "geom:area_square_m":1660359773.175262,
     "geom:bbox":"47.2197107117,-19.7267622068,47.8615527612,-19.1165324174",
     "geom:latitude":-19.463433,
     "geom:longitude":47.565759,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambatolampy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.5743,
     "lbl:longitude":47.704294,
     "meso:gadm_adm2":"Ambatolampy",
@@ -107,10 +114,11 @@
         }
     ],
     "wof:id":421194677,
-    "wof:lastmodified":1527716135,
+    "wof:lastmodified":1554489017,
     "wof:name":"Ambatolampy",
     "wof:parent_id":85674043,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

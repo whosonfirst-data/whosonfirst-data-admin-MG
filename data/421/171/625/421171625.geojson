@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.419262,
-    "geom:area_square_m":4810915725.341583,
+    "geom:area_square_m":4810915725.341919,
     "geom:bbox":"46.1560635141,-22.2045045644,47.3214917195,-21.4620905829",
     "geom:latitude":-21.876616,
     "geom:longitude":46.72223,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambalavao District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.91845,
     "lbl:longitude":46.761865,
     "meso:gadm_adm2":"Ambalavao",
@@ -26,6 +32,9 @@
         "Ambalavao"
     ],
     "name:eng_x_preferred":[
+        "Ambalavao"
+    ],
+    "name:eng_x_variant":[
         "Ambalavao District"
     ],
     "name:epo_x_preferred":[
@@ -126,10 +135,11 @@
         }
     ],
     "wof:id":421171625,
-    "wof:lastmodified":1527726494,
+    "wof:lastmodified":1555220345,
     "wof:name":"Ambalavao",
     "wof:parent_id":85674013,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

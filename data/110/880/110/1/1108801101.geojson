@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364952,
-    "geom:area_square_m":4286853494.279431,
+    "geom:area_square_m":4286853494.279559,
     "geom:bbox":"47.4112902744,-18.6397261686,48.036867946,-17.7514621402",
     "geom:latitude":-18.202512,
     "geom:longitude":47.751457,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Anjozorobe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.218196,
     "lbl:longitude":47.745516,
     "meso:gadm_adm2":"Anjozorobe",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Anjozorobe",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801101,
-    "wof:lastmodified":1494545195,
+    "wof:lastmodified":1554489518,
     "wof:name":"Anjozorobe",
     "wof:parent_id":85673965,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

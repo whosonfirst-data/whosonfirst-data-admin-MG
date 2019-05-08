@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.393164,
-    "geom:area_square_m":4638015442.400885,
+    "geom:area_square_m":4638015442.400881,
     "geom:bbox":"47.9197001902,-17.9197614506,48.9109833893,-17.0043014461",
     "geom:latitude":-17.441032,
     "geom:longitude":48.342469,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Amparafaravola District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-17.432476,
     "lbl:longitude":48.308752,
     "meso:gadm_adm2":"Amparafaravola",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Amparafaravola",
     "meso:region":"Alaotra Mangoro",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801091,
-    "wof:lastmodified":1494545193,
+    "wof:lastmodified":1554489517,
     "wof:name":"Amparafaravola",
     "wof:parent_id":85673955,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

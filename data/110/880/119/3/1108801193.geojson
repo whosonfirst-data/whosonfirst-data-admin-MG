@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.378443,
-    "geom:area_square_m":4496066323.587498,
+    "geom:area_square_m":4496066323.587461,
     "geom:bbox":"45.5643824957,-16.5922944496,46.2856238087,-15.703749657",
     "geom:latitude":-16.095465,
     "geom:longitude":45.922256,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Mitsinjo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.099869,
     "lbl:longitude":45.892949,
     "meso:gadm_adm2":"Mitsinjo",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Mitsinjo",
     "meso:region":"Boeny",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801193,
-    "wof:lastmodified":1494545209,
+    "wof:lastmodified":1554489522,
     "wof:name":"Mitsinjo",
     "wof:parent_id":85674001,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

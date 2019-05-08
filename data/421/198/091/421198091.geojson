@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275677,
+    "geom:area_square_m":3162213615.337076,
     "geom:bbox":"47.0945594107,-22.3265981948,47.6882063409,-21.384039843",
     "geom:latitude":-21.925809,
     "geom:longitude":47.450178,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ikongo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-21.912566,
     "lbl:longitude":47.474902,
     "meso:gadm_adm2":"Ikongo",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421198091,
-    "wof:lastmodified":1527716351,
+    "wof:lastmodified":1554489023,
     "wof:name":"Ikongo",
     "wof:parent_id":85674045,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

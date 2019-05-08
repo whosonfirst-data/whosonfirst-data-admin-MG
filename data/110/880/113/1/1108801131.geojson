@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.456968,
-    "geom:area_square_m":5151784186.087427,
+    "geom:area_square_m":5151784186.087236,
     "geom:bbox":"45.0492667141,-24.7760128807,45.837123789,-23.7626141008",
     "geom:latitude":-24.252102,
     "geom:longitude":45.394997,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Bekily District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-24.232416,
     "lbl:longitude":45.400991,
     "meso:gadm_adm2":"Bekily",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Bekily",
     "meso:region":"Androy",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801131,
-    "wof:lastmodified":1494545200,
+    "wof:lastmodified":1554489519,
     "wof:name":"Bekily",
     "wof:parent_id":85673973,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

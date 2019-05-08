@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401891,
-    "geom:area_square_m":4569149009.39202,
+    "geom:area_square_m":4569149009.391938,
     "geom:bbox":"46.2810684316,-23.6618845039,46.9237037158,-22.6532263753",
     "geom:latitude":-23.153511,
     "geom:longitude":46.634574,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Iakora District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.127411,
     "lbl:longitude":46.640675,
     "meso:gadm_adm2":"Iakora",
@@ -23,6 +29,9 @@
         "Iakora"
     ],
     "name:eng_x_preferred":[
+        "Iakora"
+    ],
+    "name:eng_x_variant":[
         "Iakora District"
     ],
     "name:fra_x_preferred":[
@@ -84,10 +93,11 @@
         }
     ],
     "wof:id":421184613,
-    "wof:lastmodified":1527716452,
+    "wof:lastmodified":1555220346,
     "wof:name":"Iakora",
     "wof:parent_id":85674019,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.013421,
-    "geom:area_square_m":11989528401.342306,
+    "geom:area_square_m":11989528401.343748,
     "geom:bbox":"44.2926753349,-17.5301243031,45.5951014003,-16.175443649",
     "geom:latitude":-16.903712,
     "geom:longitude":44.912849,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Besalampy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.916061,
     "lbl:longitude":44.902997,
     "meso:gadm_adm2":"Besalampy",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Besalampy",
     "meso:region":"Melaky",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801139,
-    "wof:lastmodified":1494545201,
+    "wof:lastmodified":1554489520,
     "wof:name":"Besalampy",
     "wof:parent_id":85674029,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

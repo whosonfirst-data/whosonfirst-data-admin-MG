@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252263,
+    "geom:area_square_m":2920286754.324751,
     "geom:bbox":"46.9655587112,-20.9634970467,47.6794551813,-20.1580015212",
     "geom:latitude":-20.575575,
     "geom:longitude":47.299931,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Ambositra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.646738,
     "lbl:longitude":47.305313,
     "meso:gadm_adm2":"Ambositra",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421191749,
-    "wof:lastmodified":1527716379,
+    "wof:lastmodified":1554489006,
     "wof:name":"Ambositra",
     "wof:parent_id":85673959,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

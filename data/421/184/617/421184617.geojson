@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19817,
+    "geom:area_square_m":2311816151.271698,
     "geom:bbox":"48.5318117635,-19.7034031611,49.010360718,-19.0247860764",
     "geom:latitude":-19.361395,
     "geom:longitude":48.780689,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Vatomandry District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.330577,
     "lbl:longitude":48.780734,
     "meso:gadm_adm2":"Vatomandry",
@@ -86,10 +93,11 @@
         }
     ],
     "wof:id":421184617,
-    "wof:lastmodified":1527716445,
+    "wof:lastmodified":1554488949,
     "wof:name":"Vatomandry",
     "wof:parent_id":85673991,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

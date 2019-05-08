@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.462181,
-    "geom:area_square_m":5577549059.211683,
+    "geom:area_square_m":5577549059.211338,
     "geom:bbox":"48.72039032,-13.0436742394,49.663776398,-11.951250076",
     "geom:latitude":-12.587823,
     "geom:longitude":49.238047,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antsiranana II District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-12.627264,
     "lbl:longitude":49.270305,
     "meso:gadm_adm2":"Antsiranana Rural",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Antsiranana II",
     "meso:region":"Diana",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801117,
-    "wof:lastmodified":1494545198,
+    "wof:lastmodified":1554489518,
     "wof:name":"Antsiranana II",
     "wof:parent_id":85674009,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

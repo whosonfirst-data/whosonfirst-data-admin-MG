@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15412,
+    "geom:area_square_m":1803745666.264702,
     "geom:bbox":"47.5983176969,-19.1802790386,47.9480654506,-18.4644206673",
     "geom:latitude":-18.828303,
     "geom:longitude":47.790775,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Manjakandriana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-18.870247,
     "lbl:longitude":47.811541,
     "meso:gadm_adm2":"Manjakandriana",
@@ -83,10 +90,11 @@
         }
     ],
     "wof:id":421190795,
-    "wof:lastmodified":1527716394,
+    "wof:lastmodified":1554488989,
     "wof:name":"Manjakandriana",
     "wof:parent_id":85673965,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

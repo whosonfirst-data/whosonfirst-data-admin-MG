@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.583694,
-    "geom:area_square_m":6956243399.578935,
+    "geom:area_square_m":6956243399.579408,
     "geom:bbox":"49.0017252635,-15.9304312758,50.0678719352,-14.8163197657",
     "geom:latitude":-15.460754,
     "geom:longitude":49.498123,
     "gn:country":"MG",
     "gp:adm0":23424883,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Maroantsetra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-15.526603,
     "lbl:longitude":49.372996,
     "meso:gadm_adm2":"Maroansetra",
@@ -61,10 +67,11 @@
         }
     ],
     "wof:id":890451979,
-    "wof:lastmodified":1527792938,
+    "wof:lastmodified":1554489062,
     "wof:name":"Maroantsetra",
     "wof:parent_id":85673967,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

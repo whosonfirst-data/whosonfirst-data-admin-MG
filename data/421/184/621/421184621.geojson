@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.239744,
+    "geom:area_square_m":2790163557.149172,
     "geom:bbox":"47.1743912375,-20.0971290471,47.8898311898,-19.4017606249",
     "geom:latitude":-19.745686,
     "geom:longitude":47.498615,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Antanifotsy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-19.842293,
     "lbl:longitude":47.582583,
     "meso:gadm_adm2":"Antanifotsy",
@@ -65,10 +72,11 @@
         }
     ],
     "wof:id":421184621,
-    "wof:lastmodified":1527716445,
+    "wof:lastmodified":1554488949,
     "wof:name":"Antanifotsy",
     "wof:parent_id":85674043,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

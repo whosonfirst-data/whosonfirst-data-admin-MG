@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014897,
-    "geom:area_square_m":176248300.202826,
+    "geom:area_square_m":176248300.202787,
     "geom:bbox":"49.810390472,-17.104639053,50.022109985,-16.702917099",
     "geom:latitude":-16.895808,
     "geom:longitude":49.912212,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Sainte Marie District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-16.896909,
     "lbl:longitude":49.910445,
     "meso:gadm_adm2":"Nosy-Boraha (St. Marie)",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Sainte Marie",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801203,
-    "wof:lastmodified":1494545210,
+    "wof:lastmodified":1554489521,
     "wof:name":"Sainte Marie",
     "wof:parent_id":85673967,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

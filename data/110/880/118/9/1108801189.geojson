@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309408,
-    "geom:area_square_m":3593034445.595848,
+    "geom:area_square_m":3593034445.596017,
     "geom:bbox":"47.666939775,-20.4618200746,48.3688827986,-19.7090364283",
     "geom:latitude":-20.091928,
     "geom:longitude":47.966788,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Marolambo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-20.10206,
     "lbl:longitude":47.961487,
     "meso:gadm_adm2":"Marolambo",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Marolambo",
     "meso:region":"Atsinanana",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801189,
-    "wof:lastmodified":1494545208,
+    "wof:lastmodified":1554489521,
     "wof:name":"Marolambo",
     "wof:parent_id":85673991,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],

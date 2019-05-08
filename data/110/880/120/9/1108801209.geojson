@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.842777,
-    "geom:area_square_m":9576053631.820242,
+    "geom:area_square_m":9576053631.820738,
     "geom:bbox":"43.270389557,-24.2296475251,44.3444295706,-22.3350744581",
     "geom:latitude":-23.227497,
     "geom:longitude":43.793971,
     "iso:country":"MG",
+    "label:eng_x_preferred_longname":[
+        "Toliara II District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-23.169104,
     "lbl:longitude":43.891595,
     "meso:gadm_adm2":"Toliary",
@@ -17,6 +23,7 @@
     "meso:name_loc":"Toliara II",
     "meso:region":"Atsimo Andrefana",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -38,10 +45,11 @@
         }
     ],
     "wof:id":1108801209,
-    "wof:lastmodified":1494545211,
+    "wof:lastmodified":1554489523,
     "wof:name":"Toliara II",
     "wof:parent_id":85673983,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-mg",
     "wof:superseded_by":[],
     "wof:supersedes":[],
