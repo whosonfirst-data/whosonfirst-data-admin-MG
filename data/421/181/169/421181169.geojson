@@ -16,16 +16,10 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u044f\u0437\u0430\u0443"
     ],
-    "name:dut_x_preferred":[
-        "Belazao"
-    ],
     "name:eng_x_preferred":[
         "Belazao"
     ],
     "name:fra_x_preferred":[
-        "Belazao"
-    ],
-    "name:fre_x_preferred":[
         "Belazao"
     ],
     "name:mlg_x_preferred":[
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":421181169,
-    "wof:lastmodified":1527716321,
+    "wof:lastmodified":1561840724,
     "wof:name":"Belazao",
     "wof:parent_id":421204565,
     "wof:placetype":"locality",

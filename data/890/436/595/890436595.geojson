@@ -15,16 +15,10 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0576\u0561\u056f\u0561\u0580\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7d0d\u5361\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Manakara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Manakara"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +30,7 @@
     "name:fin_x_preferred":[
         "Manakara"
     ],
-    "name:fre_x_preferred":[
-        "Manakara"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Manakara"
     ],
     "name:hrv_x_preferred":[
@@ -63,13 +54,16 @@
     "name:mlg_x_preferred":[
         "Manakara"
     ],
+    "name:nld_x_preferred":[
+        "Manakara"
+    ],
     "name:pol_x_preferred":[
         "Manakara"
     ],
     "name:por_x_preferred":[
         "Manakara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Manakara"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +111,7 @@
         }
     ],
     "wof:id":890436595,
-    "wof:lastmodified":1527735399,
+    "wof:lastmodified":1561840726,
     "wof:name":"Manakara",
     "wof:parent_id":1108801175,
     "wof:placetype":"locality",

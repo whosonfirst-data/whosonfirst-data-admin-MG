@@ -24,10 +24,7 @@
     "name:cat_x_preferred":[
         "Maroantsetra"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u9b6f\u5b89\u91c7\u7279\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Maroantsetra"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +33,7 @@
     "name:est_x_preferred":[
         "Maroantsetra"
     ],
-    "name:fre_x_preferred":[
-        "Maroantsetra"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Maroantsetra"
     ],
     "name:hrv_x_preferred":[
@@ -52,6 +46,9 @@
         "\u30de\u30eb\u30a2\u30f3\u30c4\u30a7\u30c8\u30e9"
     ],
     "name:mlg_x_preferred":[
+        "Maroantsetra"
+    ],
+    "name:nld_x_preferred":[
         "Maroantsetra"
     ],
     "name:oci_x_preferred":[
@@ -71,6 +68,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043e\u0430\u043d\u0442\u0441\u0435\u0440\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u9b6f\u5b89\u91c7\u7279\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1141908915,
-    "wof:lastmodified":1534379379,
+    "wof:lastmodified":1561840747,
     "wof:name":"Maroantsetra",
     "wof:parent_id":890451979,
     "wof:placetype":"locality",

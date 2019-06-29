@@ -34,9 +34,6 @@
     "name:deu_x_preferred":[
         "Morondava"
     ],
-    "name:dut_x_preferred":[
-        "Morondava"
-    ],
     "name:eng_x_preferred":[
         "Morondava"
     ],
@@ -49,7 +46,7 @@
     "name:fra_x_preferred":[
         "Morondava"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Morondava"
     ],
     "name:hbs_x_preferred":[
@@ -153,7 +150,7 @@
         }
     ],
     "wof:id":421190797,
-    "wof:lastmodified":1555220347,
+    "wof:lastmodified":1561840724,
     "wof:name":"Morondava",
     "wof:parent_id":85674035,
     "wof:placetype":"county",

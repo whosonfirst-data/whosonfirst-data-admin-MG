@@ -17,19 +17,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0645\u0628\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u9f8d\u8c9d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Morombe"
     ],
     "name:eng_x_preferred":[
         "Morombe"
     ],
-    "name:fre_x_preferred":[
-        "Morombe"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Morombe"
     ],
     "name:ita_x_preferred":[
@@ -41,11 +35,17 @@
     "name:mlg_x_preferred":[
         "Morombe"
     ],
+    "name:nld_x_preferred":[
+        "Morombe"
+    ],
     "name:por_x_preferred":[
         "Morombe"
     ],
     "name:swe_x_preferred":[
         "Morombe"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u9f8d\u8c9d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1141908919,
-    "wof:lastmodified":1514484663,
+    "wof:lastmodified":1561840747,
     "wof:name":"Morombe",
     "wof:parent_id":890452055,
     "wof:placetype":"locality",

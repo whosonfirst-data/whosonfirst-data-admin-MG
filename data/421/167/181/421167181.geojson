@@ -16,22 +16,10 @@
     "name:deu_x_preferred":[
         "Faratsiho"
     ],
-    "name:dut_x_preferred":[
-        "Faratsiho"
-    ],
     "name:eng_x_preferred":[
         "Faratsiho"
     ],
     "name:fra_x_preferred":[
-        "Faratsiho"
-    ],
-    "name:fre_x_preferred":[
-        "Faratsiho"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10e0\u10d0\u10ea\u10d8\u10f0\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Faratsiho"
     ],
     "name:kat_x_preferred":[
@@ -102,7 +90,7 @@
         }
     ],
     "wof:id":421167181,
-    "wof:lastmodified":1514484657,
+    "wof:lastmodified":1561840723,
     "wof:name":"Faratsiho",
     "wof:parent_id":421200821,
     "wof:placetype":"locality",

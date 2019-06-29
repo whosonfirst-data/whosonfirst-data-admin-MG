@@ -21,10 +21,7 @@
     "name:cat_x_preferred":[
         "Ambilobe"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6bd4\u76e7\u8c9d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ambilobe"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +30,10 @@
     "name:epo_x_preferred":[
         "Ambilobe"
     ],
-    "name:fre_x_preferred":[
-        "Ambilobe"
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u06cc\u0644\u0627\u0628"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ambilobe"
     ],
     "name:hrv_x_preferred":[
@@ -54,11 +51,11 @@
     "name:mlg_x_preferred":[
         "Ambilobe"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ambilobe"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0628\u06cc\u0644\u0627\u0628"
+    "name:nob_x_preferred":[
+        "Ambilobe"
     ],
     "name:pol_x_preferred":[
         "Ambilobe"
@@ -74,6 +71,9 @@
     ],
     "name:swe_x_preferred":[
         "Ambilobe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6bd4\u76e7\u8c9d"
     ],
     "qs:name":"Ambilobe",
     "qs:photos_9r":0,
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":890433579,
-    "wof:lastmodified":1527792958,
+    "wof:lastmodified":1561840727,
     "wof:name":"Ambilobe",
     "wof:parent_id":421180171,
     "wof:placetype":"locality",

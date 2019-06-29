@@ -18,22 +18,19 @@
     "name:cat_x_preferred":[
         "Andapa"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u9054\u5e15"
-    ],
     "name:dan_x_preferred":[
         "Andapa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Andapa"
     ],
     "name:eng_x_preferred":[
         "Andapa"
     ],
-    "name:fre_x_preferred":[
-        "Andapa"
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062f\u0627\u067e\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Andapa"
     ],
     "name:ita_x_preferred":[
@@ -45,11 +42,11 @@
     "name:mlg_x_preferred":[
         "Andapa"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Andapa"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u062f\u0627\u067e\u0627"
+    "name:nob_x_preferred":[
+        "Andapa"
     ],
     "name:pol_x_preferred":[
         "Andapa"
@@ -59,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Andapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u9054\u5e15"
     ],
     "qs:name":"Andapa",
     "qs:photos_9r":0,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890441745,
-    "wof:lastmodified":1527727235,
+    "wof:lastmodified":1561840725,
     "wof:name":"Andapa",
     "wof:parent_id":1108801095,
     "wof:placetype":"locality",

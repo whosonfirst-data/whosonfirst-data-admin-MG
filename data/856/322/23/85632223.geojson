@@ -140,9 +140,6 @@
     "name:cym_x_variant":[
         "Madagascar"
     ],
-    "name:cze_x_preferred":[
-        "Madagaskar"
-    ],
     "name:dan_x_preferred":[
         "Madagaskar"
     ],
@@ -764,8 +761,7 @@
         "\u9a6c\u8fbe\u52a0\u65af\u52a0"
     ],
     "name:zho_x_variant":[
-        "\u99ac\u9054\u52a0\u65af\u52a0",
-        "\u9a6c\u8fbe\u52a0\u65af\u52a0"
+        "\u99ac\u9054\u52a0\u65af\u52a0"
     ],
     "name:zho_yue_x_preferred":[
         "\u99ac\u9054\u52a0\u65af\u52a0"
@@ -929,7 +925,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1544059109,
+    "wof:lastmodified":1561840693,
     "wof:name":"Madagascar",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

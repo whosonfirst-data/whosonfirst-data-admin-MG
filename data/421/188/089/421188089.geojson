@@ -34,9 +34,6 @@
     "name:deu_x_preferred":[
         "Sambava"
     ],
-    "name:dut_x_preferred":[
-        "Sambava"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bc\u03c0\u03ac\u03b2\u03b1"
     ],
@@ -49,7 +46,7 @@
     "name:fra_x_preferred":[
         "Sambava"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "district de Sambava"
     ],
     "name:hbs_x_preferred":[
@@ -144,7 +141,7 @@
         }
     ],
     "wof:id":421188089,
-    "wof:lastmodified":1555220347,
+    "wof:lastmodified":1561840723,
     "wof:name":"Sambava",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

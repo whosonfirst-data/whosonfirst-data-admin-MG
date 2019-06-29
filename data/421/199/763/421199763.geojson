@@ -16,16 +16,10 @@
     "name:bre_x_preferred":[
         "Ambositra"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5e03\u897f\u7279\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Ambositra"
     ],
     "name:deu_x_preferred":[
-        "Ambositra"
-    ],
-    "name:dut_x_preferred":[
         "Ambositra"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
         "Ambositra"
     ],
     "name:fra_x_preferred":[
-        "Ambositra"
-    ],
-    "name:fre_x_preferred":[
-        "Ambositra"
-    ],
-    "name:ger_x_preferred":[
         "Ambositra"
     ],
     "name:hbs_x_preferred":[
@@ -77,9 +65,6 @@
         "Ambositra"
     ],
     "name:ron_x_preferred":[
-        "Ambositra"
-    ],
-    "name:rum_x_preferred":[
         "Ambositra"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":421199763,
-    "wof:lastmodified":1514484650,
+    "wof:lastmodified":1561840724,
     "wof:name":"Ambositra",
     "wof:parent_id":421191749,
     "wof:placetype":"locality",

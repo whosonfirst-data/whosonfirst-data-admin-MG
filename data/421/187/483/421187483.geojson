@@ -29,16 +29,10 @@
     "name:cat_x_preferred":[
         "Mahajanga"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u54c8\u8d5e\u52a0"
-    ],
     "name:dan_x_preferred":[
         "Mahajanga"
     ],
     "name:deu_x_preferred":[
-        "Mahajanga"
-    ],
-    "name:dut_x_preferred":[
         "Mahajanga"
     ],
     "name:ell_x_preferred":[
@@ -55,18 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Mahajanga"
-    ],
-    "name:fre_x_preferred":[
-        "Mahajanga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10f0\u10d0\u10eb\u10d0\u10dc\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Mahajanga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c7\u03b1\u03c4\u03b6\u03ac\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab9\u0abe\u0a9c\u0abe\u0a82\u0a97\u0abe"
@@ -116,19 +98,16 @@
     "name:lit_x_preferred":[
         "Mahadzanga"
     ],
-    "name:mao_x_preferred":[
-        "Mahajanga"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0939\u093e\u091c\u0928\u0917\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Mahajanga"
     ],
     "name:mlg_x_preferred":[
         "Mahajanga"
     ],
     "name:mri_x_preferred":[
+        "Mahajanga"
+    ],
+    "name:msa_x_preferred":[
         "Mahajanga"
     ],
     "name:nld_x_preferred":[
@@ -147,9 +126,6 @@
         "Mahajanga"
     ],
     "name:ron_x_preferred":[
-        "Mahajanga"
-    ],
-    "name:rum_x_preferred":[
         "Mahajanga"
     ],
     "name:rus_x_preferred":[
@@ -340,7 +316,7 @@
         }
     ],
     "wof:id":421187483,
-    "wof:lastmodified":1527716245,
+    "wof:lastmodified":1561840723,
     "wof:name":"Mahajanga",
     "wof:parent_id":1108801167,
     "wof:placetype":"locality",
