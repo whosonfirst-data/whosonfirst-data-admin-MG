@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Sambava"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u5df4\u74e6"
-    ],
     "name:dan_x_preferred":[
         "Sambava"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sambava"
     ],
     "name:ell_x_preferred":[
@@ -37,14 +34,8 @@
     "name:eng_x_preferred":[
         "Sambava"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sambava"
-    ],
-    "name:ger_x_preferred":[
-        "Sambava"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03b2\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Sambava"
@@ -67,13 +58,16 @@
     "name:mlg_x_preferred":[
         "Sambava"
     ],
+    "name:nld_x_preferred":[
+        "Sambava"
+    ],
     "name:pol_x_preferred":[
         "Sambava"
     ],
     "name:por_x_preferred":[
         "Sambava"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sambava"
     ],
     "name:rus_x_preferred":[
@@ -226,7 +220,7 @@
         }
     ],
     "wof:id":890433555,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561840726,
     "wof:name":"Sambava",
     "wof:parent_id":421188089,
     "wof:placetype":"locality",

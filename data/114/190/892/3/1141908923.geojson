@@ -14,23 +14,23 @@
     "lbl:longitude":44.074947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5b89\u5fb7\u9b6f\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Androka"
-    ],
     "name:eng_x_preferred":[
         "Androka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Androka"
     ],
     "name:mlg_x_preferred":[
         "Androka"
     ],
+    "name:nld_x_preferred":[
+        "Androka"
+    ],
     "name:spa_x_preferred":[
         "Androka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5fb7\u9b6f\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1141908923,
-    "wof:lastmodified":1514484651,
+    "wof:lastmodified":1561840747,
     "wof:name":"Androka",
     "wof:parent_id":1108801087,
     "wof:placetype":"locality",

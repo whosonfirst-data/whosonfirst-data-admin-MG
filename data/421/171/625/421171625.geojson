@@ -28,9 +28,6 @@
     "name:deu_x_preferred":[
         "Ambalavao"
     ],
-    "name:dut_x_preferred":[
-        "Ambalavao"
-    ],
     "name:eng_x_preferred":[
         "Ambalavao"
     ],
@@ -49,7 +46,7 @@
     "name:fra_x_preferred":[
         "Ambalavao"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "district d'Ambalavao"
     ],
     "name:hbs_x_preferred":[
@@ -135,7 +132,7 @@
         }
     ],
     "wof:id":421171625,
-    "wof:lastmodified":1555220345,
+    "wof:lastmodified":1561840725,
     "wof:name":"Ambalavao",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

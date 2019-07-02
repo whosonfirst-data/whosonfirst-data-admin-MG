@@ -13,11 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8c9d\u76e7-\u9f4a\u91cc\u6bd4\u5e0c\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Belon'i Tsiribihina"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bb\u03bf\u03bd\u03af \u03a4\u03c3\u03b9\u03c1\u03b9\u03bc\u03c0\u03b9\u03c7\u03b9\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "Belon'i Tsiribihina"
@@ -30,12 +27,6 @@
     ],
     "name:fra_x_variant":[
         "Belo sur Tsiribihina"
-    ],
-    "name:fre_x_preferred":[
-        "Belon'i Tsiribihina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03bb\u03bf\u03bd\u03af \u03a4\u03c3\u03b9\u03c1\u03b9\u03bc\u03c0\u03b9\u03c7\u03b9\u03bd\u03ac"
     ],
     "name:ita_x_preferred":[
         "Belo Sur Tsiribihina"
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421186353,
-    "wof:lastmodified":1514484655,
+    "wof:lastmodified":1561840724,
     "wof:name":"Belo sur Tsiribihina",
     "wof:parent_id":421169785,
     "wof:placetype":"locality",

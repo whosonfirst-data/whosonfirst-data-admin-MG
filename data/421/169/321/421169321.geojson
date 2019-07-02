@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Ikongo"
     ],
-    "name:dut_x_preferred":[
-        "Ikongo"
-    ],
     "name:eng_x_preferred":[
         "Ikongo"
     ],
     "name:fra_x_preferred":[
-        "Ikongo"
-    ],
-    "name:fre_x_preferred":[
-        "Ikongo"
-    ],
-    "name:ger_x_preferred":[
         "Ikongo"
     ],
     "name:mlg_x_preferred":[
@@ -93,7 +84,7 @@
         }
     ],
     "wof:id":421169321,
-    "wof:lastmodified":1514484659,
+    "wof:lastmodified":1561840723,
     "wof:name":"Ikongo",
     "wof:parent_id":421198091,
     "wof:placetype":"locality",

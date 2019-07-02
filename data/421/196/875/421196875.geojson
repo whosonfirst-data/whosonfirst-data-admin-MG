@@ -31,9 +31,6 @@
     "name:deu_x_preferred":[
         "Antalaha"
     ],
-    "name:dut_x_preferred":[
-        "Antalaha"
-    ],
     "name:eng_x_preferred":[
         "Antalaha"
     ],
@@ -43,10 +40,13 @@
     "name:est_x_preferred":[
         "Antalaha ringkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0622\u0646\u062a\u0627\u0644\u0627\u0647\u0627"
+    ],
     "name:fra_x_preferred":[
         "Antalaha"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "district d'Antalaha"
     ],
     "name:hbs_x_preferred":[
@@ -72,9 +72,6 @@
     ],
     "name:nor_x_preferred":[
         "Antalaha"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0622\u0646\u062a\u0627\u0644\u0627\u0647\u0627"
     ],
     "name:pol_x_preferred":[
         "Antalaha"
@@ -138,7 +135,7 @@
         }
     ],
     "wof:id":421196875,
-    "wof:lastmodified":1555220347,
+    "wof:lastmodified":1561840724,
     "wof:name":"Antalaha",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

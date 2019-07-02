@@ -15,13 +15,10 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Mahanoro"
-    ],
     "name:eng_x_preferred":[
         "Mahanoro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mahanoro"
     ],
     "name:hrv_x_preferred":[
@@ -34,6 +31,9 @@
         "\u30de\u30cf\u30ce\u30ed"
     ],
     "name:mlg_x_preferred":[
+        "Mahanoro"
+    ],
+    "name:nld_x_preferred":[
         "Mahanoro"
     ],
     "name:pol_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890436949,
-    "wof:lastmodified":1527735403,
+    "wof:lastmodified":1561840726,
     "wof:name":"Mahanoro",
     "wof:parent_id":1108801169,
     "wof:placetype":"locality",

@@ -18,19 +18,16 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0432\u0435\u043b\u043e\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u54c8\u97cb\u76e7\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Mahavelona"
-    ],
     "name:eng_x_preferred":[
         "Mahavelona"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Foulpointe"
     ],
     "name:hrv_x_preferred":[
+        "Mahavelona"
+    ],
+    "name:nld_x_preferred":[
         "Mahavelona"
     ],
     "name:rus_x_preferred":[
@@ -41,6 +38,9 @@
     ],
     "name:unk_x_variant":[
         "Foulpointe"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u54c8\u97cb\u76e7\u7d0d"
     ],
     "qs:name":"Mahavelona",
     "qs:photos_9r":0,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890422341,
-    "wof:lastmodified":1527727161,
+    "wof:lastmodified":1561840725,
     "wof:name":"Mahavelona",
     "wof:parent_id":890454551,
     "wof:placetype":"locality",

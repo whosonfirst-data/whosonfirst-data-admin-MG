@@ -13,17 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5b89\u5e03\u6587\u8c9d"
-    ],
     "name:dan_x_preferred":[
         "Ambovombe"
     ],
     "name:deu_x_preferred":[
         "Ambovombe"
-    ],
-    "name:dut_x_preferred":[
-        "Ambovombe-Androy"
     ],
     "name:eng_x_preferred":[
         "Ambovombe-Androy"
@@ -32,12 +26,6 @@
         "\u0627\u0645\u0628\u0648\u0648\u0627\u0645\u0628\u06cc-\u0627\u0646\u062f\u0631\u0648\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Ambovombe"
-    ],
-    "name:fre_x_preferred":[
-        "Ambovombe"
-    ],
-    "name:ger_x_preferred":[
         "Ambovombe"
     ],
     "name:hbs_x_preferred":[
@@ -58,14 +46,14 @@
     "name:nld_x_preferred":[
         "Ambovombe"
     ],
+    "name:nld_x_variant":[
+        "Ambovombe-Androy"
+    ],
     "name:nob_x_preferred":[
         "Ambovombe"
     ],
     "name:nor_x_preferred":[
         "Ambovombe"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0628\u0648\u0648\u0627\u0645\u0628\u06cc-\u0627\u0646\u062f\u0631\u0648\u06cc"
     ],
     "name:pol_x_preferred":[
         "Ambovombe"
@@ -74,9 +62,6 @@
         "Ambovombe"
     ],
     "name:ron_x_preferred":[
-        "Ambovombe-Androy"
-    ],
-    "name:rum_x_preferred":[
         "Ambovombe-Androy"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +132,7 @@
         }
     ],
     "wof:id":421188177,
-    "wof:lastmodified":1514484650,
+    "wof:lastmodified":1561840724,
     "wof:name":"Ambovombe",
     "wof:parent_id":1108801085,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:bul_x_preferred":[
         "\u0426\u0438\u043e\u043c\u0431\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Tsihombe"
-    ],
     "name:eng_x_preferred":[
         "Tsiombe"
     ],
     "name:fra_x_preferred":[
-        "Tsihombe"
-    ],
-    "name:fre_x_preferred":[
         "Tsihombe"
     ],
     "name:jpn_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421198531,
-    "wof:lastmodified":1514484667,
+    "wof:lastmodified":1561840724,
     "wof:name":"Tsihombe",
     "wof:parent_id":421184615,
     "wof:placetype":"locality",
