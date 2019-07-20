@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Ranomafana"
     ],
+    "name:ita_x_preferred":[
+        "Ranomafana"
+    ],
     "name:mlg_x_preferred":[
         "Ranomafana"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:pol_x_preferred":[
         "Ranomafana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u0443\u043c\u0430\u0444\u0430\u043d\u0430"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421174097,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580277,
     "wof:name":"Ranomafana",
     "wof:parent_id":421197047,
     "wof:placetype":"locality",

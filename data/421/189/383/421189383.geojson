@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Ranopiso"
     ],
+    "name:ita_x_preferred":[
+        "Ranopiso"
+    ],
     "name:mlg_x_preferred":[
         "Ranopiso"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421189383,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580281,
     "wof:name":"Ranopiso",
     "wof:parent_id":421188095,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0432\u0435\u043b\u043e\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mahavelona"
+    ],
     "name:eng_x_preferred":[
         "Mahavelona"
     ],
@@ -26,6 +29,12 @@
     ],
     "name:hrv_x_preferred":[
         "Mahavelona"
+    ],
+    "name:ind_x_preferred":[
+        "Mahavelona"
+    ],
+    "name:ita_x_preferred":[
+        "Foul Poite"
     ],
     "name:nld_x_preferred":[
         "Mahavelona"
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":890422341,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580313,
     "wof:name":"Mahavelona",
     "wof:parent_id":890454551,
     "wof:placetype":"locality",

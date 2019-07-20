@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ikongo"
+    ],
     "name:deu_x_preferred":[
         "Ikongo"
     ],
@@ -20,6 +23,9 @@
         "Ikongo"
     ],
     "name:fra_x_preferred":[
+        "Ikongo"
+    ],
+    "name:ita_x_preferred":[
         "Ikongo"
     ],
     "name:mlg_x_preferred":[
@@ -34,8 +40,14 @@
     "name:por_x_preferred":[
         "Ikongo"
     ],
+    "name:swe_x_preferred":[
+        "Ikongo"
+    ],
     "name:unk_x_variant":[
         "Fort Carhot"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5b54\u53e4"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":421169321,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580275,
     "wof:name":"Ikongo",
     "wof:parent_id":421198091,
     "wof:placetype":"locality",

@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0442\u0438\u043e\u043a\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Betioky"
+    ],
     "name:deu_x_preferred":[
         "Betioky"
     ],
@@ -22,6 +28,12 @@
     "name:fra_x_preferred":[
         "Betioky"
     ],
+    "name:ita_x_preferred":[
+        "Betioky"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c6\u30a3\u30a6\u30ad"
+    ],
     "name:mlg_x_preferred":[
         "Betioky"
     ],
@@ -30,6 +42,12 @@
     ],
     "name:pol_x_preferred":[
         "Betioky"
+    ],
+    "name:swe_x_preferred":[
+        "Betioky"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u8482\u70cf\u57fa"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -78,7 +96,7 @@
         }
     ],
     "wof:id":421176923,
-    "wof:lastmodified":1505340630,
+    "wof:lastmodified":1563580309,
     "wof:name":"Betioky",
     "wof:parent_id":1108801141,
     "wof:placetype":"locality",

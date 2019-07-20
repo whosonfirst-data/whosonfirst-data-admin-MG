@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Bemanonga"
     ],
+    "name:ita_x_preferred":[
+        "Bemanonga"
+    ],
     "name:mlg_x_preferred":[
         "Bemanonga"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421177717,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580305,
     "wof:name":"Bemanonga",
     "wof:parent_id":421190797,
     "wof:placetype":"locality",

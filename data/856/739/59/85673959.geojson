@@ -26,11 +26,23 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u0648\u0631\u0648\u0646\u064a \u0645\u0627\u0646\u064a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ae\u09b0\u09a8\u09bf \u09ae\u09cd\u09af\u09be\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
     "name:bre_x_preferred":[
         "Amoron'i Mania"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043c\u043e\u0440\u043e\u043d\u0438 \u041c\u0430\u043d\u0438\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Amoron'i Mania"
+    ],
+    "name:ceb_x_preferred":[
+        "Amoron'i Mania Region"
     ],
     "name:dan_x_preferred":[
         "Amoron'i Mania"
@@ -44,25 +56,64 @@
     "name:eng_x_preferred":[
         "Fianarantsoa"
     ],
+    "name:eng_x_variant":[
+        "Amoron'i Mania"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0645\u0648\u0631\u0648\u0646\u0626\u06cc \u0645\u0627\u0646\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Amoron'i Mania"
     ],
     "name:fra_x_preferred":[
         "Amoron'i Mania"
     ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0aae\u0acb\u0ab0\u0acb\u0aa8\u0abf \u0aae\u0ac7\u0aa8\u0abf\u0aaf\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Regija Amoron'i Mania"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u092e\u094b\u0930\u094b\u0928 '\u0908 \u092e\u0947\u0928\u093f\u092f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Amoron'i Mania"
     ],
     "name:ita_x_preferred":[
         "Regione di Amoron'i Mania"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e2\u30ed\u30cb\u30fb\u30de\u30cb\u30a2\u5730\u57df\u570f"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cae\u0cca\u0cb0\u0cca\u0ca8\u0ccd \u0cae\u0cbe\u0ca8\u0cbf\u0caf\u0cbe"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ubaa8\ub85c\ub2c8\ub9c8\ub2c8\uc544 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Amoroni Mania"
+    ],
+    "name:lit_x_preferred":[
+        "Amaroni Manija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u092e\u094b\u0930\u094b\u0928\u0940 \u092e\u093e\u0928\u093f\u092f\u093e"
     ],
     "name:mlg_x_preferred":[
         "Amoron'i Mania"
     ],
+    "name:msa_x_preferred":[
+        "Amoron'i Mania"
+    ],
+    "name:nan_x_preferred":[
+        "Amoron'i Mania Khu"
+    ],
     "name:nld_x_preferred":[
+        "Amoron'i Mania"
+    ],
+    "name:nob_x_preferred":[
         "Amoron'i Mania"
     ],
     "name:nor_x_preferred":[
@@ -77,14 +128,41 @@
     "name:ron_x_preferred":[
         "Regiunea Amoron'i Mania"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0443\u0440\u0443\u043d'\u0438 \u041c\u0430\u043d\u0438\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db8\u0ddc\u0dbb\u0ddd\u0db1\u0dd2 \u0db8\u0db1\u0dd2\u0dba\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Amoron'i Mania"
     ],
     "name:swa_x_preferred":[
         "Amoron'i Mania"
     ],
+    "name:swe_x_preferred":[
+        "Amoron'i Maniaregionen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bae\u0bcb\u0bb0\u0bcb\u0ba9\u0bcd '\u0b87  \u0bae\u0ba3\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c2e\u0c4b\u0c30\u0c4b\u0c28\u0c3f \u0c2e\u0c47\u0c28\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e1b\u0e31\u0e0d\u0e08\u0e32\u0e1a"
+    ],
+    "name:tur_x_preferred":[
+        "Amoron'i Mania"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043c\u043e\u0440\u043e\u043d\u0456-\u041c\u0430\u043d\u0456\u044f"
+    ],
     "name:urd_x_preferred":[
         "\u0622\u0645\u0648\u0631\u0648\u0646\u0626\u06cc \u0645\u0627\u0646\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Amoron'i Mania"
     ],
     "name:zho_x_preferred":[
         "\u963f\u83ab\u7f85\u5c3c\u99ac\u5c3c\u4e9e\u5340"
@@ -206,7 +284,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550448,
+    "wof:lastmodified":1563578383,
     "wof:name":"Amoron'i Mania",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

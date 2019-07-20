@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tsiroanomandidy"
+    ],
     "name:deu_x_preferred":[
         "Tsiroanomandidy"
     ],
@@ -37,6 +40,9 @@
     "name:ltz_x_preferred":[
         "Tsiroanomandidy"
     ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3f\u0d31\u0d4b\u0d2e\u0d3e\u0d7b\u0d21\u0d3f\u0d21\u0d4d"
+    ],
     "name:mlg_x_preferred":[
         "Tsiroanomandidy"
     ],
@@ -52,7 +58,13 @@
     "name:ron_x_preferred":[
         "Tsiroanomandidy"
     ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u0440\u0443\u0430\u043d\u0443\u043c\u0430\u043d\u0434\u0438\u0434\u0438"
+    ],
     "name:spa_x_preferred":[
+        "Tsiroanomandidy"
+    ],
+    "name:swe_x_preferred":[
         "Tsiroanomandidy"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":421168363,
-    "wof:lastmodified":1561840722,
+    "wof:lastmodified":1563580265,
     "wof:name":"Tsiroanomandidy",
     "wof:parent_id":421183937,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Manja"
     ],
+    "name:ita_x_preferred":[
+        "Manja"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u30b8\u30e3"
     ],
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":1141907177,
-    "wof:lastmodified":1561840747,
+    "wof:lastmodified":1563581404,
     "wof:name":"Manja",
     "wof:parent_id":1108801187,
     "wof:placetype":"locality",

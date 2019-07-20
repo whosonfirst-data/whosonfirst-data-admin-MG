@@ -67,6 +67,9 @@
     "name:mlg_x_preferred":[
         "Antalaha"
     ],
+    "name:nan_x_preferred":[
+        "Antalaha Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Antalaha"
     ],
@@ -87,6 +90,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5854\u62c9\u54c8"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5854\u62c9\u54c8\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421196875,
-    "wof:lastmodified":1561840724,
+    "wof:lastmodified":1563580294,
     "wof:name":"Antalaha",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

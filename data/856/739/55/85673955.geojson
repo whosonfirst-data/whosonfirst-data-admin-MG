@@ -26,6 +26,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u0627\u0648\u062a\u0631\u0627 \u0645\u0627\u0646\u063a\u0648\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09b2\u09be\u0993\u09a4\u09cd\u09b0\u09be-\u09ae\u09be\u0999\u09cd\u0997\u09b0\u09cb"
+    ],
     "name:bre_x_preferred":[
         "Alaotra-Mangoro"
     ],
@@ -44,6 +50,9 @@
     "name:eng_x_preferred":[
         "Toamasina"
     ],
+    "name:eng_x_variant":[
+        "Alaotra-Mangoro"
+    ],
     "name:epo_x_preferred":[
         "Alaotra-Mangoro"
     ],
@@ -56,19 +65,55 @@
     "name:fra_x_preferred":[
         "Alaotra-Mangoro"
     ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2\u0abe\u0a93\u0a9f\u0acd\u0ab0\u0abe-\u0aae\u0abe\u0a82\u0a97\u0acb\u0ab0\u0acb"
+    ],
     "name:hbs_x_preferred":[
         "Regija Alaotra-Mangoro"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932\u093e\u0913\u0924\u094d\u0930\u093e-\u092e\u0902\u0917\u094b\u0930\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Alaotra-Mangoro"
     ],
     "name:ita_x_preferred":[
         "Regione di Alaotra Mangoro"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ed\u30c1\u30e3\uff1d\u30de\u30f3\u30b0\u30eb\u5730\u57df\u570f"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb2\u0cbe\u0ca4\u0ccd\u0cb0\u0cbe-\u0cae\u0cbe\u0c82\u0c97\u0ccb\u0cb0\u0cca"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ub77c\uc624\ud2b8\ub77c\ub9dd\uace0\ub85c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Alautra-Mangoro"
+    ],
+    "name:lit_x_preferred":[
+        "Alotra-Mangoras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932\u093e\u0913\u0924\u094d\u0930\u094d\u0930\u093e-\u092e\u0902\u0917\u094b\u0930\u094b"
     ],
     "name:mlg_x_preferred":[
         "Alaotra-Mangoro"
     ],
+    "name:mlg_x_variant":[
+        "Faritra Alaotra-Mangoro"
+    ],
+    "name:msa_x_preferred":[
+        "Alaotra-Mangoro"
+    ],
+    "name:nan_x_preferred":[
+        "Alaotra-Mangoro Khu"
+    ],
     "name:nld_x_preferred":[
+        "Alaotra-Mangoro"
+    ],
+    "name:nob_x_preferred":[
         "Alaotra-Mangoro"
     ],
     "name:nor_x_preferred":[
@@ -83,17 +128,44 @@
     "name:ron_x_preferred":[
         "Regiunea Alaotra-Mangoro"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0443\u0442\u0440\u0430-\u041c\u0430\u043d\u0433\u0443\u0440\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbd\u0ddc\u0da7\u0dca\u200d\u0dbb\u0dcf-\u0db8\u0db1\u0dca\u0d9c\u0ddc\u0dbb\u0ddd"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Alaotra-Mangoro"
     ],
     "name:swa_x_preferred":[
         "Alaotra-Mangoro"
     ],
+    "name:swe_x_preferred":[
+        "Alaotra Mangororegionen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb2\u0bb5\u0bcd\u0b9f\u0bcd\u0bb1\u0bbe-\u0bae\u0b99\u0bcd\u0b95\u0bcb\u0bb0\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c32\u0c35\u0c4b\u0c1f\u0c4d\u0c30\u0c3e-\u0c2e\u0c3e\u0c02\u0c17\u0c4b\u0c30\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e40\u0e25\u0e32\u0e15\u0e23\u0e32 \u0e21\u0e31\u0e07\u0e42\u0e01\u0e42\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "Alaotra-Mangoro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0430\u043e\u0442\u0440\u0430-\u041c\u0430\u043d\u0433\u043e\u0440\u043e"
+    ],
     "name:unk_x_variant":[
         "Alaotra Mangoro"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0627\u0648\u062a\u0631\u0627-\u0645\u0627\u0646\u06af\u0648\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Alaotra-Mangoro"
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u5967\u7279\u62c9-\u66fc\u53e4\u7f85\u5340"
@@ -218,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550472,
+    "wof:lastmodified":1563578388,
     "wof:name":"Alaotra-Mangoro",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

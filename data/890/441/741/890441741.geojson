@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u0633\u0648\u0647\u064a\u0647\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Antsohihy"
+    ],
     "name:dan_x_preferred":[
         "Antsohihy"
     ],
@@ -59,6 +62,9 @@
         "\u0410\u043d\u0446\u0443\u0445\u0438\u0445\u0438"
     ],
     "name:spa_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:sqi_x_preferred":[
         "Antsohihy"
     ],
     "name:swe_x_preferred":[
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":890441741,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580314,
     "wof:name":"Antsohihy",
     "wof:parent_id":1108801119,
     "wof:placetype":"locality",

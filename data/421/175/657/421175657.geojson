@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Ranohira"
     ],
+    "name:ita_x_preferred":[
+        "Ranohira"
+    ],
     "name:mlg_x_preferred":[
         "Ranohira"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421175657,
-    "wof:lastmodified":1561840724,
+    "wof:lastmodified":1563580288,
     "wof:name":"Ranohira",
     "wof:parent_id":421175325,
     "wof:placetype":"locality",

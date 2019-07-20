@@ -25,8 +25,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Antsalova"
+    ],
+    "name:eng_x_preferred":[
+        "Antsalova"
+    ],
     "name:fra_x_preferred":[
         "Besalampy"
+    ],
+    "name:fra_x_variant":[
+        "Antsalova"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b5\u30ed\u30f4\u30a1"
     ],
     "name:mlg_x_preferred":[
         "Antsalova"
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":421199279,
-    "wof:lastmodified":1554489025,
+    "wof:lastmodified":1563580299,
     "wof:name":"Antsalova",
     "wof:parent_id":85674029,
     "wof:placetype":"county",

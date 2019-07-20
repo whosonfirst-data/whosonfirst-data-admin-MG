@@ -25,10 +25,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0418\u0444\u0430\u043d\u0430\u0434\u0438\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ifanadiana"
+    ],
     "name:deu_x_preferred":[
         "Ifanadiana"
     ],
+    "name:eng_x_preferred":[
+        "Ifanadiana"
+    ],
     "name:fra_x_preferred":[
+        "Ifanadiana"
+    ],
+    "name:ita_x_preferred":[
         "Ifanadiana"
     ],
     "name:mlg_x_preferred":[
@@ -38,6 +50,9 @@
         "Ifanadiana"
     ],
     "name:pol_x_preferred":[
+        "Ifanadiana"
+    ],
+    "name:swe_x_preferred":[
         "Ifanadiana"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":421197047,
-    "wof:lastmodified":1554489022,
+    "wof:lastmodified":1563580298,
     "wof:name":"Ifanadiana",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

@@ -15,6 +15,9 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nosy Varika"
+    ],
     "name:deu_x_preferred":[
         "Nosy Varika"
     ],
@@ -23,6 +26,9 @@
     ],
     "name:fra_x_preferred":[
         "Nosy Varika"
+    ],
+    "name:ita_x_preferred":[
+        "Nosy-Varika"
     ],
     "name:mlg_x_preferred":[
         "Nosy Varika"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890436947,
-    "wof:lastmodified":1561840726,
+    "wof:lastmodified":1563580320,
     "wof:name":"Nosy Varika",
     "wof:parent_id":1108801199,
     "wof:placetype":"locality",

@@ -15,8 +15,14 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mananara"
+    ],
     "name:eng_x_preferred":[
         "Mananara"
+    ],
+    "name:eng_x_variant":[
+        "Mananara Nord"
     ],
     "name:fra_x_preferred":[
         "Mananara Nord"
@@ -42,8 +48,14 @@
     "name:por_x_preferred":[
         "Mananara Nord"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u043d\u0430\u0440\u0430"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043d\u0430\u043d\u0430\u0440\u0430 \u041d\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Mananara"
     ],
     "name:unk_x_variant":[
         "Mananara"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":890437927,
-    "wof:lastmodified":1561840726,
+    "wof:lastmodified":1563580318,
     "wof:name":"Mananara Avaratra",
     "wof:parent_id":421189045,
     "wof:placetype":"locality",

@@ -26,11 +26,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u0627\u0646\u0627\u0646\u0627\u0631\u064a\u0641\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Antananarivu"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0646\u062a\u0627\u0646\u0627\u0646\u0627\u0631\u06cc\u0648\u0648"
+    ],
     "name:aze_x_preferred":[
         "Antananarivu"
     ],
+    "name:bak_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u043d\u0430\u043d\u0430\u0440\u0438\u0432\u0443"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043d\u0442\u0430\u043d\u0430\u043d\u0430\u0440\u044b\u0432\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043d\u0442\u0430\u043d\u0430\u043d\u0430\u0440\u044b\u0432\u0443"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u09a4\u09be\u09a8\u09be\u09a8\u09be\u09b0\u09bf\u09ad\u09cb"
@@ -47,7 +59,16 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043d\u0430\u043d\u0430\u0440\u0438\u0432\u0443"
     ],
+    "name:bul_x_variant":[
+        "\u0410\u043d\u0442\u0430\u043d\u0430\u043d\u0430\u0440\u0438\u0432\u043e"
+    ],
     "name:cat_x_preferred":[
+        "Antananarivo"
+    ],
+    "name:cdo_x_preferred":[
+        "Antananarivo"
+    ],
+    "name:ceb_x_preferred":[
         "Antananarivo"
     ],
     "name:ces_x_preferred":[
@@ -69,6 +90,9 @@
         "Antananarivo"
     ],
     "name:deu_x_preferred":[
+        "Antananarivo"
+    ],
+    "name:diq_x_preferred":[
         "Antananarivo"
     ],
     "name:ell_x_preferred":[
@@ -101,6 +125,9 @@
     "name:fra_x_preferred":[
         "Antananarivo"
     ],
+    "name:frr_x_preferred":[
+        "Antananarivo"
+    ],
     "name:fry_x_preferred":[
         "Antananarivo"
     ],
@@ -119,7 +146,13 @@
     "name:guj_x_preferred":[
         "\u0a85\u0aa8\u0acd\u0a9f\u0abe\u0aa8\u0abe\u0aa8\u0ab0\u0abf\u0ab5\u0acb"
     ],
+    "name:hak_x_preferred":[
+        "Antananarivo"
+    ],
     "name:hat_x_preferred":[
+        "Antananarivo"
+    ],
+    "name:hau_x_preferred":[
         "Antananarivo"
     ],
     "name:heb_x_preferred":[
@@ -144,6 +177,9 @@
         "Antananarivo"
     ],
     "name:ile_x_preferred":[
+        "Antananarivo"
+    ],
+    "name:ina_x_preferred":[
         "Antananarivo"
     ],
     "name:ind_x_preferred":[
@@ -173,6 +209,12 @@
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10e2\u10d0\u10dc\u10d0\u10dc\u10d0\u10e0\u10d8\u10d5\u10e3"
     ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u043d\u0430\u043d\u0430\u0440\u0438\u0432\u0443"
+    ],
+    "name:kbp_x_preferred":[
+        "Antananarivo"
+    ],
     "name:kin_x_preferred":[
         "Antananarivo"
     ],
@@ -190,6 +232,12 @@
     ],
     "name:lav_x_preferred":[
         "Antananarivu"
+    ],
+    "name:lfn_x_preferred":[
+        "Antananarivo"
+    ],
+    "name:lij_x_preferred":[
+        "Antananar\u00efvo"
     ],
     "name:lit_x_preferred":[
         "Antananaryvas"
@@ -233,6 +281,9 @@
     "name:nap_x_preferred":[
         "Antananarivo"
     ],
+    "name:nds_x_preferred":[
+        "Antananarivo"
+    ],
     "name:nld_x_preferred":[
         "Antananarivo"
     ],
@@ -257,6 +308,9 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a70\u0a24\u0a3e\u0a28\u0a3e\u0a28\u0a3e\u0a30\u0a40\u0a35\u0a4b"
     ],
+    "name:pap_x_preferred":[
+        "Antananarivo"
+    ],
     "name:pms_x_preferred":[
         "Antananarivo"
     ],
@@ -268,6 +322,9 @@
     ],
     "name:por_x_preferred":[
         "Antananarivo"
+    ],
+    "name:pus_x_preferred":[
+        "\u0622\u0646\u062a\u0627\u0646\u0627\u0646\u0627\u0631\u06cc\u0648\u0648"
     ],
     "name:ron_x_preferred":[
         "Antananarivo"
@@ -317,6 +374,9 @@
     "name:swe_x_preferred":[
         "Antananarivo"
     ],
+    "name:szl_x_preferred":[
+        "Antananarivo"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0ba3\u0bcd\u0b9f\u0ba9\u0bbe\u0ba9\u0bb0\u0bc0\u0bb5\u0bcb"
     ],
@@ -331,6 +391,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e19\u0e15\u0e32\u0e19\u0e32\u0e19\u0e32\u0e23\u0e34\u0e42\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e19\u0e15\u0e32\u0e19\u0e32\u0e19\u0e32\u0e23\u0e35\u0e42\u0e27"
     ],
     "name:tuk_x_preferred":[
         "Antananariwu"
@@ -371,8 +434,17 @@
     "name:wol_x_preferred":[
         "Antananariwo"
     ],
+    "name:wuu_x_preferred":[
+        "\u5854\u90a3\u90a3\u5229\u4f5b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10d0\u10dc\u10d0\u10dc\u10d0\u10e0\u10d8\u10d5\u10e3"
+    ],
     "name:yid_x_preferred":[
         "\u05d0\u05e0\u05d8\u05d0\u05e0\u05d0\u05e0\u05d0\u05e8\u05d9\u05d5\u05d5\u05d0"
+    ],
+    "name:yid_x_variant":[
+        "\u05d0\u05e0\u05d8\u05d0\u05e0\u05d0\u05e0\u05e8\u05d9\u05d5\u05d5\u05d0"
     ],
     "name:yor_x_preferred":[
         "Antananarivo"
@@ -528,7 +600,7 @@
         }
     ],
     "wof:id":421181453,
-    "wof:lastmodified":1561840724,
+    "wof:lastmodified":1563580287,
     "wof:name":"Antananarivo",
     "wof:parent_id":1108801113,
     "wof:placetype":"locality",

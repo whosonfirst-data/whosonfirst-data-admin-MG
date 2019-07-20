@@ -26,11 +26,20 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062a\u0648\u0648\u0627\u0648\u064a-\u0641\u06cc\u062a\u0648\u0648\u06cc\u0646\u0627\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09cd\u09af\u09be\u09a4\u09cb\u09ad\u09be\u09ac\u09bf-\u09ab\u09c0\u099f\u09cb\u09ad\u09bf\u09a8\u09be\u09a8\u09bf"
+    ],
     "name:bre_x_preferred":[
         "Vatovavy-Fitovinany"
     ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0442\u0443\u0432\u0430\u0432\u0438-\u0424\u0438\u0442\u043e\u0432\u0438\u043d\u0430\u043d\u0438"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u0430\u0442\u043e\u0432\u0430\u0432\u0438-\u0424\u0438\u0442\u043e\u0432\u0438\u043d\u0430\u043d\u0438"
     ],
     "name:dan_x_preferred":[
         "Vatovavy-Fitovinany"
@@ -44,25 +53,67 @@
     "name:eng_x_preferred":[
         "Fianarantsoa"
     ],
+    "name:eng_x_variant":[
+        "Vatovavy-Fitovinany"
+    ],
     "name:est_x_preferred":[
         "Vatovavy-Fitovinany piirkond"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u062a\u0648\u0648\u0627\u0648\u06cc-\u0641\u06cc\u062a\u0648\u0648\u06cc\u0646\u0627\u0646\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Vatovavy-Fitovinany"
+    ],
     "name:fra_x_preferred":[
         "Vatovavy-Fitovinany"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0a9f\u0acb\u0ab5\u0ac7\u0ab5\u0abf-\u0aab\u0abf\u0aa4\u0acb\u0ab5\u0abf\u0aa8\u0acd\u0aa8\u0ac0"
     ],
     "name:hbs_x_preferred":[
         "Regija Vatovavi-Fitovinani"
     ],
+    "name:hin_x_preferred":[
+        "\u0935\u091f\u094b\u0935\u093e\u0935\u0940-\u092b\u093c\u093f\u0924\u094b\u0935\u093f\u0928\u0948\u0928\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Vatovavy-Fitovinany"
+    ],
     "name:ita_x_preferred":[
         "Regione di Vatovavy-Fitovinany"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30c8\u30f4\u30a1\u30f4\u30a3\uff1d\u30d5\u30a3\u30c8\u30f4\u30a3\u30ca\u30cb\u30a3\u5730\u57df\u570f"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0c9f\u0cca\u0cb5\u0cb5\u0cbf-\u0cab\u0cbf\u0c9f\u0cca\u0cb5\u0cbf\u0ca8\u0cbf\u0ca8\u0cbf"
     ],
     "name:kor_x_preferred":[
         "\ubc14\ud1a0\ubc14\ube44\ud53c\ud1a0\ube44\ub098\ub2c8 \uad6c"
     ],
+    "name:lav_x_preferred":[
+        "Vatovavi-Fituvinani"
+    ],
+    "name:lit_x_preferred":[
+        "Vatovavi-Fitovinanis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u0945\u091f\u094b\u0935\u0947\u0935\u0940-\u092b\u093f\u091f\u094b\u0935\u093f\u0928\u094d\u0928\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Vatovavy-Fitovinany"
+    ],
+    "name:msa_x_preferred":[
+        "Vatovavy-Fitovinany"
+    ],
+    "name:nan_x_preferred":[
+        "Vatovavy-Fitovinany Khu"
+    ],
     "name:nld_x_preferred":[
+        "Vatovavy-Fitovinany"
+    ],
+    "name:nob_x_preferred":[
         "Vatovavy-Fitovinany"
     ],
     "name:nor_x_preferred":[
@@ -77,17 +128,44 @@
     "name:ron_x_preferred":[
         "Regiunea Vatovavy-Fitovinany"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u043e\u0432\u0430\u0432\u0438-\u0424\u0438\u0442\u043e\u0432\u0438\u043d\u0430\u043d\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0da7\u0ddd\u0dc0\u0dda\u0dc0\u0dd2 \u0dc6\u0dd2\u0da7\u0ddd\u0dc0\u0dd2\u0db1\u0dda"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Vatovavy-Fitovinany"
     ],
     "name:swa_x_preferred":[
         "Vatovavy-Fitovinany"
     ],
+    "name:swe_x_preferred":[
+        "Vatovavy Fitovinanyregionen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0bcd\u0b9f\u0bb5\u0bb5\u0baf -\u0baa\u0bc8\u0b9f\u0bcd\u0b9f\u0bcb\u0bb5\u0bbf\u0ba9\u0bbe\u0ba9\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c1f\u0c4b\u0c35\u0c47\u0c35\u0c40-\u0c2b\u0c3f\u0c1f\u0c4b\u0c35\u0c3f\u0c28\u0c3e\u0c28\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e42\u0e15\u0e27\u0e32\u0e27\u0e35-\u0e1f\u0e34\u0e42\u0e15\u0e27\u0e34\u0e19\u0e32\u0e19\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Vatovavy-Fitovinany"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0442\u043e\u0432\u0430\u0432\u0456-\u0424\u0456\u0442\u043e\u0432\u0456\u043d\u0430\u043d\u0456"
+    ],
     "name:unk_x_variant":[
         "Vatovavy Fitovinany"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u062a\u0648\u0648\u0627\u0648\u06cc-\u0641\u06cc\u062a\u0648\u0648\u06cc\u0646\u0627\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Vatovavy-Fitovinany"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u571f\u6cd5\u97cb-\u975e\u5716\u97cb\u90a3\u5c3c\u5340"
@@ -209,7 +287,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550454,
+    "wof:lastmodified":1563578394,
     "wof:name":"Vatovavy-Fitovinany",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

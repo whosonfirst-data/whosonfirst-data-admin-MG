@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Sakalalina"
     ],
+    "name:ita_x_preferred":[
+        "Sakalalina"
+    ],
     "name:mlg_x_preferred":[
         "Sakalalina"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421193183,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580269,
     "wof:name":"Sakalalina",
     "wof:parent_id":421175325,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0647\u0648\u0633\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Ihosy"
+    ],
     "name:deu_x_preferred":[
         "Ihosy"
     ],
@@ -54,6 +57,12 @@
         "Ihosy"
     ],
     "name:ron_x_preferred":[
+        "Ihosy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0445\u0443\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Ihosy"
     ],
     "name:zho_x_preferred":[
@@ -198,7 +207,7 @@
         }
     ],
     "wof:id":421187051,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580280,
     "wof:name":"Ihosy",
     "wof:parent_id":421175325,
     "wof:placetype":"locality",

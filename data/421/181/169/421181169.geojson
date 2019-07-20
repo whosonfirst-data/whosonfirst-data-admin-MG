@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Belazao"
     ],
+    "name:ita_x_preferred":[
+        "Belazao"
+    ],
     "name:mlg_x_preferred":[
         "Belazao"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421181169,
-    "wof:lastmodified":1561840724,
+    "wof:lastmodified":1563580285,
     "wof:name":"Belazao",
     "wof:parent_id":421204565,
     "wof:placetype":"locality",

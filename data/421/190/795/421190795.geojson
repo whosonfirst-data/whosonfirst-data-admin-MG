@@ -25,10 +25,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Manjakandriana"
+    ],
     "name:deu_x_preferred":[
         "Manjakandriana"
     ],
+    "name:eng_x_preferred":[
+        "Manjakandriana"
+    ],
     "name:fra_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:ita_x_preferred":[
         "Manjakandriana"
     ],
     "name:mlg_x_preferred":[
@@ -40,8 +49,17 @@
     "name:pol_x_preferred":[
         "Manjakandriana"
     ],
+    "name:por_x_preferred":[
+        "Manjakandriana"
+    ],
     "name:spa_x_preferred":[
         "Manjakandriana"
+    ],
+    "name:swe_x_preferred":[
+        "Manjakandriana"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u624e\u574e\u5fb7\u91cc\u4e9e\u7d0d"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -90,7 +108,7 @@
         }
     ],
     "wof:id":421190795,
-    "wof:lastmodified":1554488989,
+    "wof:lastmodified":1563580297,
     "wof:name":"Manjakandriana",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

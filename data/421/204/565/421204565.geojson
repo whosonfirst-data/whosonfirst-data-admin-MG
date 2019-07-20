@@ -28,16 +28,31 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u0633\u064a\u0631\u0627\u0628\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u099f\u09b8\u09be\u09b0\u09be\u09ac\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0446\u0438\u0440\u0430\u0431\u0435"
     ],
     "name:cat_x_preferred":[
         "Antsirabe"
     ],
+    "name:ceb_x_preferred":[
+        "Antsirabe"
+    ],
+    "name:ces_x_preferred":[
+        "Antsirabe"
+    ],
     "name:dan_x_preferred":[
         "Antsirabe"
     ],
     "name:deu_x_preferred":[
+        "Antsirabe"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03c3\u03b9\u03c1\u03ac\u03bc\u03c0\u03b5"
+    ],
+    "name:eng_x_preferred":[
         "Antsirabe"
     ],
     "name:epo_x_preferred":[
@@ -49,13 +64,25 @@
     "name:fra_x_preferred":[
         "Antsirabe"
     ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0a82\u0aa4\u0ab8\u0abe\u0aaf\u0ab0\u0aac\u0ac7"
+    ],
     "name:hbs_x_preferred":[
         "Antsirabe"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e0\u05d8\u05e1\u05d9\u05e8\u05d0\u05d1\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u091f\u0940\u0938\u093f\u0930\u093e\u092c\u0947"
+    ],
     "name:hrv_x_preferred":[
+        "Antsirabe"
+    ],
+    "name:hrv_x_variant":[
+        "Antisrabe"
+    ],
+    "name:ind_x_preferred":[
         "Antsirabe"
     ],
     "name:ita_x_preferred":[
@@ -67,6 +94,9 @@
     "name:kal_x_preferred":[
         "Antsirabe"
     ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c82\u0c9f\u0ccd\u0cb8\u0cbf\u0cb0\u0cbe\u0cac\u0cc6"
+    ],
     "name:kor_x_preferred":[
         "\uc548\uce58\ub77c\ubca0"
     ],
@@ -76,13 +106,22 @@
     "name:lit_x_preferred":[
         "Ancirab\u0117"
     ],
+    "name:mar_x_preferred":[
+        "\u0905\u0902\u0924\u094d\u0938\u093f\u0930\u092c\u0947"
+    ],
     "name:mlg_x_preferred":[
         "Antsirabe"
     ],
     "name:mri_x_preferred":[
         "Antsirabe"
     ],
+    "name:msa_x_preferred":[
+        "Antsirabe"
+    ],
     "name:nld_x_preferred":[
+        "Antsirabe"
+    ],
+    "name:nob_x_preferred":[
         "Antsirabe"
     ],
     "name:nor_x_preferred":[
@@ -100,17 +139,32 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0446\u0438\u0440\u0430\u0431\u0435"
     ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0da7\u0dca\u0dc3\u0dca\u0dbb\u0dcf\u0db6\u0dda"
+    ],
     "name:sna_x_preferred":[
         "Antsirabe"
     ],
     "name:spa_x_preferred":[
         "Antsirabe"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0446\u0438\u0440\u0430\u0431\u0435"
+    ],
     "name:swa_x_preferred":[
         "Antsirabe"
     ],
     "name:swe_x_preferred":[
         "Antsirabe"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bbf\u0bb0\u0baa\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c02\u0c1f\u0c3f\u0c38\u0c3f\u0c30\u0c2c\u0c46"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e19\u0e15\u0e4c\u0e0a\u0e34\u0e23\u0e32\u0e40\u0e1a"
     ],
     "name:tur_x_preferred":[
         "Antsirabe"
@@ -120,6 +174,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u0646\u062a\u0633\u06cc\u0631\u0627\u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Antsirabe"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b89\u9f4a\u62c9\u8c9d"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u9f50\u62c9\u8d1d"
@@ -173,7 +233,7 @@
         }
     ],
     "wof:id":421204565,
-    "wof:lastmodified":1554489051,
+    "wof:lastmodified":1563580275,
     "wof:name":"Antsirabe II",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

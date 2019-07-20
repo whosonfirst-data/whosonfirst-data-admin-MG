@@ -39,6 +39,9 @@
     "name:spa_x_preferred":[
         "Anjozorobe"
     ],
+    "name:zho_x_preferred":[
+        "\u5b89\u7956\u7956\u9b6f\u8c9d"
+    ],
     "qs:name":"Anjozorobe",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890440379,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580312,
     "wof:name":"Anjozorobe",
     "wof:parent_id":1108801101,
     "wof:placetype":"locality",

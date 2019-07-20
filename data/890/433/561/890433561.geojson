@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Antsiranana"
     ],
+    "name:ceb_x_preferred":[
+        "Antsiranana"
+    ],
     "name:ces_x_preferred":[
         "Antsiranana"
     ],
@@ -136,6 +139,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0446\u0435\u0440\u0430\u043d\u0430\u043d\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0446\u0438\u0440\u0430\u043d\u0430\u043d\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0db1\u0dca\u0da7\u0dd2\u0dc3\u0dbb\u0db1\u0db1\u0dcf"
     ],
@@ -177,6 +183,9 @@
     ],
     "name:vie_x_preferred":[
         "Antsiranana"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b89\u9f4a\u62c9\u7d0d\u7d0d"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u9f4a\u62c9\u7d0d\u7d0d"
@@ -306,7 +315,7 @@
         }
     ],
     "wof:id":890433561,
-    "wof:lastmodified":1561840726,
+    "wof:lastmodified":1563580329,
     "wof:name":"Antsiranana",
     "wof:parent_id":421169783,
     "wof:placetype":"locality",

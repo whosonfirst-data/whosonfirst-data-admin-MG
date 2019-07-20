@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Iarintsena"
     ],
+    "name:ita_x_preferred":[
+        "Iarintsena"
+    ],
     "name:mlg_x_preferred":[
         "Iarintsena"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421187471,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580278,
     "wof:name":"Iarintsena",
     "wof:parent_id":421171625,
     "wof:placetype":"locality",

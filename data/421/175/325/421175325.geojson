@@ -25,6 +25,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u0647\u0648\u0633\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Ihosy"
+    ],
+    "name:deu_x_preferred":[
+        "Ihosy"
+    ],
+    "name:eng_x_preferred":[
+        "Ihosy"
+    ],
+    "name:fin_x_preferred":[
+        "Ihosy"
+    ],
+    "name:fra_x_preferred":[
+        "Ihosy"
+    ],
+    "name:hrv_x_preferred":[
+        "Ihosy"
+    ],
+    "name:ita_x_preferred":[
+        "Ihosy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30d5\u30b7"
+    ],
+    "name:mlg_x_preferred":[
+        "Ihosy"
+    ],
+    "name:nld_x_preferred":[
+        "Ihosy"
+    ],
+    "name:pol_x_preferred":[
+        "Ihosy"
+    ],
+    "name:por_x_preferred":[
+        "Ihosy"
+    ],
+    "name:ron_x_preferred":[
+        "Ihosy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0445\u0443\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ihosy"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u80e1\u897f"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -72,7 +123,7 @@
         }
     ],
     "wof:id":421175325,
-    "wof:lastmodified":1554488777,
+    "wof:lastmodified":1563580289,
     "wof:name":"Ihosy",
     "wof:parent_id":85674019,
     "wof:placetype":"county",

@@ -26,11 +26,23 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0623\u062a\u0633\u064a\u0645\u0648-\u0623\u062a\u0633\u064a\u0646\u0627\u0646\u0627\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u099f\u09b8\u09bf\u09ae\u09cb-\u0986\u099f\u09b8\u09bf\u09a8\u09be\u09a8\u09be\u09a8\u09be"
+    ],
     "name:bre_x_preferred":[
         "Atsimo-Atsinanana"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0446\u0438\u043c\u043e-\u0410\u0446\u0438\u043d\u0430\u043d\u0430\u043d\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0410\u0442\u0441\u0438\u043c\u043e-\u0410\u0442\u0441\u0438\u043d\u0430\u043d\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Atsimo-Atsinanana Region"
     ],
     "name:dan_x_preferred":[
         "Atsimo-Atsinanana"
@@ -53,19 +65,58 @@
     "name:fas_x_preferred":[
         "\u0622\u062a\u0633\u06cc\u0645\u0648-\u0622\u062a\u0633\u06cc\u0646\u0627\u0646\u0627\u0646\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
     "name:fra_x_preferred":[
         "Atsimo-Atsinanana"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0aa4\u0acd\u0ab8\u0abf\u0aae\u0acb-\u0a8f\u0aa4\u0acd\u0ab8\u0abf\u0aa8\u0aa8\u0abe\u0aa8\u0abe"
     ],
     "name:hbs_x_preferred":[
         "Regija Atsimo-Atsinanana"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u091f\u094d\u0938\u093f\u092e\u094b-\u090f\u091f\u094d\u0938\u093f\u0928\u093e\u0928\u0928\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
     "name:ita_x_preferred":[
         "Regione di Atsimo-Atsinanana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c3\u30c1\u30e2\uff1d\u30a2\u30c4\u30a3\u30ca\u30ca\u30ca\u5730\u57df\u570f"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0c9f\u0ccd\u0cb8\u0cbf\u0cae\u0cca-\u0c85\u0ca4\u0ccd\u0cb8\u0cbf\u0ca8\u0cbe\u0ca8\u0cbe\u0ca8\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\uc544\uce58\ubaa8\uc544\uce58\ub098\ub098\ub098 \uad6c"
     ],
+    "name:lav_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
+    "name:lit_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0924\u094d\u0938\u0940\u092e\u094b-\u0905\u0924\u094d\u0938\u093f\u0928\u093e\u0928\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
+    "name:msa_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
+    "name:nan_x_preferred":[
+        "Atsimo-Atsinanana Khu"
+    ],
     "name:nld_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
+    "name:nob_x_preferred":[
         "Atsimo-Atsinanana"
     ],
     "name:nor_x_preferred":[
@@ -80,14 +131,41 @@
     "name:ron_x_preferred":[
         "Regiunea Atsimo-Atsinanana"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0437\u0438\u043c\u043e-\u0410\u0442\u0437\u0438\u043d\u0430\u043d\u0430\u043d\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0da7\u0dca\u0dc3\u0dd2\u0db8\u0ddd-\u0d85\u0da7\u0dca\u0dc3\u0dd2\u0db1\u0db1\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Atsimo-Atsinanana"
     ],
     "name:swa_x_preferred":[
         "Atsimo-Atsinanana"
     ],
+    "name:swe_x_preferred":[
+        "Atsimo-Atsinananaregionen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b9f\u0bcd\u0b9f\u0b9a\u0bbf\u0bae\u0bcb -\u0b85\u0b9f\u0bbf\u0b9a\u0bbf\u0ba9\u0ba9\u0bbe\u0ba9"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c1f\u0c4d\u0c38\u0c3f\u0c2e\u0c4b-\u0c05\u0c1f\u0c4d\u0c38\u0c3f\u0c28\u0c3e\u0c28\u0c3e\u0c28\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e17\u0e0b\u0e34\u0e42\u0e21 \u0e41\u0e2d\u0e17\u0e0b\u0e34\u0e19\u0e32\u0e19\u0e32\u0e19\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0446\u0456\u043c\u043e-\u0410\u0446\u0456\u043d\u0430\u043d\u0430\u043d\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0622\u062a\u0633\u06cc\u0645\u0648-\u0622\u062a\u0633\u06cc\u0646\u0627\u0646\u0627\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Atsimo-Atsinanana"
     ],
     "name:zho_x_preferred":[
         "\u963f\u9f4a\u83ab-\u963f\u9f4a\u90a3\u90a3\u90a3\u5340"
@@ -209,7 +287,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550454,
+    "wof:lastmodified":1563578386,
     "wof:name":"Atsimo-Atsinanana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",
