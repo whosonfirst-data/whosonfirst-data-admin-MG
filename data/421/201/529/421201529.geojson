@@ -40,8 +40,14 @@
     "name:mlg_x_preferred":[
         "Ivohibe"
     ],
+    "name:nan_x_preferred":[
+        "Ivohibe Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Ivohibe"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6b66\u5e0c\u8c9d\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421201529,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580302,
     "wof:name":"Ivohibe",
     "wof:parent_id":85674019,
     "wof:placetype":"county",

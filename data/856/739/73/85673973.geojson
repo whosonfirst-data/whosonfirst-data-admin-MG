@@ -26,11 +26,20 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062f\u0631\u0648\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u09a1\u09cd\u09b0\u09af\u09bc"
+    ],
     "name:bre_x_preferred":[
         "Androy"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0434\u0440\u043e\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Androy Region"
     ],
     "name:dan_x_preferred":[
         "Androy"
@@ -44,6 +53,9 @@
     "name:eng_x_preferred":[
         "Toliara"
     ],
+    "name:eng_x_variant":[
+        "Androy"
+    ],
     "name:epo_x_preferred":[
         "Androy"
     ],
@@ -53,11 +65,20 @@
     "name:fas_x_preferred":[
         "\u0622\u0646\u062f\u0631\u0648\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Androy"
+    ],
     "name:fra_x_preferred":[
         "Androy"
     ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0acd\u0aa1\u0acd\u0ab0\u0acb\u0aaf"
+    ],
     "name:hbs_x_preferred":[
         "Regija Androi"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0928\u094d\u0926\u094d\u0930\u0949\u092f"
     ],
     "name:ind_x_preferred":[
         "Androy"
@@ -65,13 +86,37 @@
     "name:ita_x_preferred":[
         "Regione di Androy"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c9\u30ed\u30a3\u5730\u57df\u570f"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0c82\u0ca1\u0ccd\u0cb0\u0cbe\u0caf\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\uc548\ub4dc\ub85c\uc774 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Andrua"
+    ],
+    "name:lit_x_preferred":[
+        "Androjus"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0901\u0921\u094d\u0930\u0949\u092f"
     ],
     "name:mlg_x_preferred":[
         "Androy"
     ],
+    "name:msa_x_preferred":[
+        "Androy"
+    ],
+    "name:nan_x_preferred":[
+        "Androy Khu"
+    ],
     "name:nld_x_preferred":[
+        "Androy"
+    ],
+    "name:nob_x_preferred":[
         "Androy"
     ],
     "name:nor_x_preferred":[
@@ -86,11 +131,41 @@
     "name:ron_x_preferred":[
         "Regiunea Androy"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0443\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d87\u0db1\u0dca\u0da9\u0dca\u0dbb\u0ddd\u0dba\u0dd2"
+    ],
+    "name:spa_x_preferred":[
+        "Androy"
+    ],
     "name:swa_x_preferred":[
         "Androy"
     ],
+    "name:swe_x_preferred":[
+        "Androyregionen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0baf\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c02\u0c21\u0c4d\u0c30\u0c3e\u0c2f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e19\u0e14\u0e2d\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Androy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0443\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0622\u0646\u062f\u0631\u0648\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Androy"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5fb7\u7f85\u4f0a\u5340"
@@ -212,7 +287,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550476,
+    "wof:lastmodified":1563578385,
     "wof:name":"Androy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

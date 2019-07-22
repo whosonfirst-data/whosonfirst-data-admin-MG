@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Morondava"
     ],
+    "name:ceb_x_preferred":[
+        "Morondava"
+    ],
     "name:dan_x_preferred":[
         "Morondava"
     ],
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890443537,
-    "wof:lastmodified":1561840726,
+    "wof:lastmodified":1563580323,
     "wof:name":"Morondava",
     "wof:parent_id":421190797,
     "wof:placetype":"locality",

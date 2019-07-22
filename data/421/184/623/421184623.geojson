@@ -25,6 +25,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Vohipeno"
+    ],
     "name:fin_x_preferred":[
         "Vohipeno"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421184623,
-    "wof:lastmodified":1554488949,
+    "wof:lastmodified":1563580304,
     "wof:name":"Vohipeno",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

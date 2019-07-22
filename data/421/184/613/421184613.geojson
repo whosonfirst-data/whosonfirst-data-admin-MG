@@ -40,8 +40,14 @@
     "name:mlg_x_preferred":[
         "Iakora"
     ],
+    "name:nan_x_preferred":[
+        "Iakora Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Iakora"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u5eab\u62c9\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421184613,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580303,
     "wof:name":"Iakora",
     "wof:parent_id":85674019,
     "wof:placetype":"county",

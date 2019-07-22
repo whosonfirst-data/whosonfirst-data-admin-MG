@@ -15,10 +15,16 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vondrozo"
+    ],
     "name:eng_x_preferred":[
         "Vondrozo"
     ],
     "name:fra_x_preferred":[
+        "Vondrozo"
+    ],
+    "name:ita_x_preferred":[
         "Vondrozo"
     ],
     "name:mlg_x_preferred":[
@@ -28,6 +34,9 @@
         "Vondrozo"
     ],
     "name:pol_x_preferred":[
+        "Vondrozo"
+    ],
+    "name:swe_x_preferred":[
         "Vondrozo"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":890443531,
-    "wof:lastmodified":1561840726,
+    "wof:lastmodified":1563580324,
     "wof:name":"Vondrozo",
     "wof:parent_id":1108801221,
     "wof:placetype":"locality",

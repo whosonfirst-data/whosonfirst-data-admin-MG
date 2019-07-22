@@ -12,8 +12,35 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ampampamena Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Ambanja Airport"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome d'Ampampamena"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Ampampamena"
+    ],
+    "name:ind_x_variant":[
+        "Bandar Udara Ambanja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30d0\u30f3\u30b8\u30e3\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Ampapamena"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ambanja"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Ambanja"
+    ],
+    "name:swe_x_preferred":[
+        "Ampampamena Airport"
     ],
     "oa:elevation_ft":"49",
     "oa:type":"small_airport",
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":102542395,
-    "wof:lastmodified":1543851472,
+    "wof:lastmodified":1563577962,
     "wof:name":"Ampampamena Airport",
     "wof:parent_id":85674009,
     "wof:placetype":"campus",

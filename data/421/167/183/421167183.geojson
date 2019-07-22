@@ -16,10 +16,16 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0434\u043e\u0432\u043e\u0440\u0430\u043d\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Andovoranto"
+    ],
     "name:eng_x_preferred":[
         "Andevoranto"
     ],
     "name:fra_x_preferred":[
+        "Andevoranto"
+    ],
+    "name:ita_x_preferred":[
         "Andevoranto"
     ],
     "name:mlg_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421167183,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580270,
     "wof:name":"Andevoranto",
     "wof:parent_id":1108801145,
     "wof:placetype":"locality",

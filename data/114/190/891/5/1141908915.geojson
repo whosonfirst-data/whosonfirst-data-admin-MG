@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Maroantsetra"
     ],
+    "name:ceb_x_preferred":[
+        "Maroantsetra"
+    ],
     "name:deu_x_preferred":[
         "Maroantsetra"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043e\u0430\u043d\u0442\u0441\u0435\u0440\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0440\u0443\u0430\u043d\u0446\u0435\u0442\u0440\u0430"
     ],
     "name:swe_x_preferred":[
         "Maroantsetra"
@@ -205,7 +211,7 @@
         }
     ],
     "wof:id":1141908915,
-    "wof:lastmodified":1561840747,
+    "wof:lastmodified":1563581404,
     "wof:name":"Maroantsetra",
     "wof:parent_id":890451979,
     "wof:placetype":"locality",

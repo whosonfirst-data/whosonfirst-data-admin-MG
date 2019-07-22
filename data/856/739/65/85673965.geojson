@@ -26,11 +26,26 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u062c\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u0430\u043b\u0430\u043c\u0430\u043d\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u09be\u09b2\u09be\u09ae\u09be\u0982\u0997\u09be"
+    ],
     "name:bre_x_preferred":[
         "Analamanga"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0430\u043b\u0430\u043c\u0430\u043d\u0433\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Analamanga"
+    ],
+    "name:ceb_x_preferred":[
+        "Analamanga Region"
     ],
     "name:dan_x_preferred":[
         "Analamanga"
@@ -44,17 +59,32 @@
     "name:eng_x_preferred":[
         "Antananarivo"
     ],
+    "name:eng_x_variant":[
+        "Analamanga"
+    ],
     "name:epo_x_preferred":[
         "Analamanga"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u06af\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Analamanga"
+    ],
     "name:fra_x_preferred":[
         "Analamanga"
     ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0ab2\u0aae\u0a82\u0a97\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Regija Analamanga"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0928\u093e\u0932\u093e\u092e\u0902\u0917\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Analamanga"
     ],
     "name:ita_x_preferred":[
         "Regione di Analamanga"
@@ -63,14 +93,38 @@
         "\u30a2\u30f3\u30bf\u30ca\u30ca\u30ea\u30dc",
         "\u30a2\u30ca\u30e9\u30de\u30f3\u30ac\u5730\u57df\u570f"
     ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0ca8\u0cbe\u0cb2\u0c82\u0c97\u0cbe"
+    ],
     "name:kor_x_preferred":[
         "\uc548\ud0c0\ub098\ub098\ub9ac\ubcf4",
         "\uc544\ub0a0\ub77c\ub9dd\uac00 \uad6c"
     ],
+    "name:lav_x_preferred":[
+        "Analamanga"
+    ],
+    "name:lit_x_preferred":[
+        "Analamanga"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d28\u0d32\u0d2e\u0d19"
+    ],
+    "name:mar_x_preferred":[
+        "\u0909\u0932\u0932\u093e\u092e\u0902\u0917\u093e"
+    ],
     "name:mlg_x_preferred":[
         "Analamanga"
     ],
+    "name:msa_x_preferred":[
+        "Analamanga"
+    ],
+    "name:nan_x_preferred":[
+        "Analamanga Khu"
+    ],
     "name:nld_x_preferred":[
+        "Analamanga"
+    ],
+    "name:nob_x_preferred":[
         "Analamanga"
     ],
     "name:nor_x_preferred":[
@@ -85,6 +139,12 @@
     "name:ron_x_preferred":[
         "Regiunea Analamanga"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0430\u043b\u0430\u043c\u0430\u043d\u0433\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dbd\u0db8\u0db1\u0dca\u0d9c\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n de Analamanga"
     ],
@@ -95,8 +155,26 @@
         "Tananarive",
         "Analamanga"
     ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba9\u0bb2\u0bbe\u0bae\u0bcd\u0b99\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c28\u0c3e\u0c32\u0c2e\u0c3e\u0c02\u0c17\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e42\u0e04\u0e0a\u0e32\u0e1a\u0e31\u0e21\u0e1a\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Analamanga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0430\u043b\u0430\u043c\u0430\u043d\u0433\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0622\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Analamanga"
     ],
     "name:zho_x_preferred":[
         "\u963f\u90a3\u62c9\u8292\u52a0\u5340"
@@ -221,7 +299,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550473,
+    "wof:lastmodified":1563578387,
     "wof:name":"Analamanga",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

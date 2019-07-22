@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Iharan\u0308a"
+    ],
     "name:deu_x_preferred":[
         "Voh\u00e9mar"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0445\u0435\u043c\u0430\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0443\u0445\u0435\u043c\u0430\u0440"
     ],
     "name:swe_x_preferred":[
         "Iharana"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421189379,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580280,
     "wof:name":"Ihara\u00f0a",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -15,8 +15,14 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u0627\u06a9\u0627\u0626\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0430\u043a\u0430\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Anakao"
     ],
     "name:eng_x_preferred":[
         "Anakao"
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890433565,
-    "wof:lastmodified":1561840726,
+    "wof:lastmodified":1563580332,
     "wof:name":"Anakao",
     "wof:parent_id":1108801209,
     "wof:placetype":"locality",

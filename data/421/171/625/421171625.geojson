@@ -67,6 +67,9 @@
     "name:mlg_x_preferred":[
         "Ambalavao"
     ],
+    "name:nan_x_preferred":[
+        "Ambalavao Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Ambalavao"
     ],
@@ -76,6 +79,9 @@
     "name:pol_x_preferred":[
         "Ambalavao"
     ],
+    "name:pol_x_variant":[
+        "Dystrykt Ambalavao"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0431\u0430\u043b\u0430\u0432\u0430\u043e"
     ],
@@ -84,6 +90,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5df4\u62c9\u6c83"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5df4\u62c9\u6c83\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":421171625,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580312,
     "wof:name":"Ambalavao",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0627\u0641\u064a\u0646\u0627\u0646\u062f\u0631\u064a\u0627\u0646\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u0430\u0432\u0438\u043d\u0430\u043d\u0434\u0440\u0438\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Soavinandriana"
     ],
     "name:eng_x_preferred":[
         "Soavinandriana"
@@ -26,6 +32,9 @@
         "Soavinandriana"
     ],
     "name:hrv_x_preferred":[
+        "Soavinandriana"
+    ],
+    "name:ita_x_preferred":[
         "Soavinandriana"
     ],
     "name:nld_x_preferred":[
@@ -45,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Seavinandriana"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u963f\u7dad\u5357\u5fb7\u91cc\u4e9e\u7d0d"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":421198619,
-    "wof:lastmodified":1561840724,
+    "wof:lastmodified":1563580292,
     "wof:name":"Soavinandriana",
     "wof:parent_id":421171621,
     "wof:placetype":"locality",

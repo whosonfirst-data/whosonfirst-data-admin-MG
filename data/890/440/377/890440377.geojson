@@ -21,6 +21,9 @@
     "name:fra_x_preferred":[
         "Ankazobe"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ab\u30ba\u30d9"
+    ],
     "name:mlg_x_preferred":[
         "Ankazobe"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890440377,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580313,
     "wof:name":"Ankazobe",
     "wof:parent_id":1108801103,
     "wof:placetype":"locality",

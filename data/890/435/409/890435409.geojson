@@ -21,6 +21,9 @@
     "name:fra_x_preferred":[
         "Beroroha"
     ],
+    "name:ita_x_preferred":[
+        "Beroroha"
+    ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30eb\u30cf"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:unk_x_variant":[
         "Beroroka"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u9b6f\u9b6f\u54c8"
     ],
     "qs:name":"Beroroha",
     "qs:photos_9r":0,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890435409,
-    "wof:lastmodified":1561840727,
+    "wof:lastmodified":1563580335,
     "wof:name":"Beroroha",
     "wof:parent_id":1108801137,
     "wof:placetype":"locality",

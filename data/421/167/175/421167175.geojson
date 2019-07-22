@@ -17,10 +17,16 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u064a\u0627\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0644\u06cc\u0627\u0631\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u09b2\u09bf\u09af\u09bc\u09be\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
+        "Toliara"
+    ],
+    "name:ceb_x_preferred":[
         "Toliara"
     ],
     "name:ces_x_preferred":[
@@ -44,6 +50,9 @@
     "name:est_x_preferred":[
         "Toliara"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u06cc\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Toliara"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:hrv_x_preferred":[
         "Toliara"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u056c\u056b\u0561\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Toliara"
@@ -91,6 +103,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091f\u0949\u0932\u093f\u0905\u0930"
+    ],
+    "name:mlg_x_preferred":[
+        "Urbaine Toliara"
     ],
     "name:msa_x_preferred":[
         "Toliara"
@@ -133,6 +148,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c4b\u0c32\u0c3f\u0c2f\u0c3e\u0c30\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Toliara"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e15\u0e25\u0e35\u0e2d\u0e32\u0e23\u0e32"
@@ -300,7 +318,7 @@
         }
     ],
     "wof:id":421167175,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580270,
     "wof:name":"Toliara",
     "wof:parent_id":421188097,
     "wof:placetype":"locality",

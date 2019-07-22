@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u0440\u0430\u0445\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Sakaraha"
+    ],
     "name:eng_x_preferred":[
         "Sakaraha"
     ],
@@ -37,8 +43,14 @@
     "name:pol_x_preferred":[
         "Sakaraha"
     ],
+    "name:swe_x_preferred":[
+        "Sakaraha"
+    ],
     "name:unk_x_variant":[
         "Sakaray"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5361\u62c9\u54c8"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":421183427,
-    "wof:lastmodified":1561840725,
+    "wof:lastmodified":1563580307,
     "wof:name":"Sakaraha",
     "wof:parent_id":421188087,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "name:bre_x_preferred":[
         "Ambositra"
     ],
+    "name:cat_x_preferred":[
+        "Ambositra"
+    ],
+    "name:ceb_x_preferred":[
+        "Ambositra"
+    ],
     "name:dan_x_preferred":[
         "Ambositra"
     ],
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421199763,
-    "wof:lastmodified":1561840724,
+    "wof:lastmodified":1563580299,
     "wof:name":"Ambositra",
     "wof:parent_id":421191749,
     "wof:placetype":"locality",

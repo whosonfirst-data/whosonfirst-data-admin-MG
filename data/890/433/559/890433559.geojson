@@ -15,6 +15,9 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Marolambo"
+    ],
     "name:eng_x_preferred":[
         "Marolambo"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:swe_x_preferred":[
         "Marolambo"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u9b6f\u862d\u5e03"
     ],
     "qs:name":"Marolambo",
     "qs:photos_9r":0,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890433559,
-    "wof:lastmodified":1561840726,
+    "wof:lastmodified":1563580328,
     "wof:name":"Marolambo",
     "wof:parent_id":1108801189,
     "wof:placetype":"locality",

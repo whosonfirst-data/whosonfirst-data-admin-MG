@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Fianarantsoa"
     ],
+    "name:ceb_x_preferred":[
+        "Fianarantsoa"
+    ],
     "name:dan_x_preferred":[
         "Fianarantsoa"
     ],
@@ -134,11 +137,17 @@
     "name:swe_x_preferred":[
         "Fianarantsoa"
     ],
+    "name:szl_x_preferred":[
+        "Fianarantsoa"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0ba3\u0bb0\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcb\u0bb5\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c3f\u0c2f\u0c28\u0c30\u0c3e\u0c28\u0c4d\u0c38"
+    ],
+    "name:tgl_x_preferred":[
+        "Fianarantsoa"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1f\u0e35\u0e22\u0e19\u0e32\u0e23\u0e31\u0e19\u0e15\u0e4c\u0e42\u0e0b\u0e2d\u0e32"
@@ -154,6 +163,12 @@
     ],
     "name:vie_x_preferred":[
         "Fianarantsoa"
+    ],
+    "name:war_x_preferred":[
+        "Fianarantsoa"
+    ],
+    "name:yue_x_preferred":[
+        "\u83f2\u4e9e\u7d0d\u862d\u695a\u963f"
     ],
     "name:zho_x_preferred":[
         "\u83f2\u4e9e\u7d0d\u862d\u695a\u963f"
@@ -297,7 +312,7 @@
         }
     ],
     "wof:id":421204493,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580276,
     "wof:name":"Fianarantsoa",
     "wof:parent_id":421200825,
     "wof:placetype":"locality",

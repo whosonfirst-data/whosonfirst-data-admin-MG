@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Maromiandra"
     ],
+    "name:ita_x_preferred":[
+        "Maromiandra"
+    ],
     "name:mlg_x_preferred":[
         "Maromiandra"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421169687,
-    "wof:lastmodified":1561840723,
+    "wof:lastmodified":1563580271,
     "wof:name":"Maromiandra",
     "wof:parent_id":1108801209,
     "wof:placetype":"locality",
