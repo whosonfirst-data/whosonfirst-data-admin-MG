@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maritampona"
+    ],
+    "name:ita_x_preferred":[
+        "Maritampona"
+    ],
+    "name:mlg_x_preferred":[
+        "Maritampona"
+    ],
+    "name:nld_x_preferred":[
+        "Maritampona"
+    ],
     "name:und_x_variant":[
         "Marotampona",
         "Maritampona"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1310021039,
-    "wof:lastmodified":1537664624,
+    "wof:lastmodified":1564300428,
     "wof:name":"Maritampona",
     "wof:parent_id":421183937,
     "wof:placetype":"locality",

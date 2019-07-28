@@ -26,6 +26,15 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kamaka"
+    ],
+    "name:fra_x_preferred":[
+        "Kamaka"
+    ],
+    "name:swe_x_preferred":[
+        "Kamaka"
+    ],
     "name:und_x_variant":[
         "Komaka",
         "Kamaka"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226253387,
-    "wof:lastmodified":1537664649,
+    "wof:lastmodified":1564301747,
     "wof:name":"Kamaka",
     "wof:parent_id":421175319,
     "wof:placetype":"locality",

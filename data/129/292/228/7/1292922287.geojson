@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Itremo"
+    ],
+    "name:ita_x_preferred":[
+        "Itremo"
+    ],
+    "name:mlg_x_preferred":[
+        "Itremo"
+    ],
+    "name:nld_x_preferred":[
+        "Itremo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1292922287,
-    "wof:lastmodified":1536604738,
+    "wof:lastmodified":1564298747,
     "wof:name":"Itremo",
     "wof:parent_id":1108801219,
     "wof:placetype":"locality",

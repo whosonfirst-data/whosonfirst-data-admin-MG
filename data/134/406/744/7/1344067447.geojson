@@ -25,6 +25,21 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Anjoma"
+    ],
+    "name:ita_x_preferred":[
+        "Anjoma"
+    ],
+    "name:mlg_x_preferred":[
+        "Anjoma"
+    ],
+    "name:nld_x_preferred":[
+        "Anjoma"
+    ],
+    "name:pol_x_preferred":[
+        "Anjoma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344067447,
-    "wof:lastmodified":1536864059,
+    "wof:lastmodified":1564298290,
     "wof:name":"Anjoma",
     "wof:parent_id":421204565,
     "wof:placetype":"locality",

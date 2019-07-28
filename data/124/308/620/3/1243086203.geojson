@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maromokotra"
+    ],
+    "name:ita_x_preferred":[
+        "Maromokotra"
+    ],
+    "name:mlg_x_preferred":[
+        "Maromokotra"
+    ],
+    "name:nld_x_preferred":[
+        "Maromokotra"
+    ],
     "name:und_x_variant":[
         "Marokomokotra",
         "Maromokotra"
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1243086203,
-    "wof:lastmodified":1537664619,
+    "wof:lastmodified":1564300814,
     "wof:name":"Maromokotra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

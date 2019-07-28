@@ -25,6 +25,12 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Farariana"
+    ],
+    "name:swe_x_preferred":[
+        "Farariana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1344167503,
-    "wof:lastmodified":1537568353,
+    "wof:lastmodified":1564298557,
     "wof:name":"Farariana",
     "wof:parent_id":421190795,
     "wof:placetype":"locality",

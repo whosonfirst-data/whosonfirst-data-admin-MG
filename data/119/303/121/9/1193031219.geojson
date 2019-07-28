@@ -25,6 +25,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u062f\u0627\u0644\u0627\u062a\u0627\u0646\u0648\u0633\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062f\u0627\u0644\u0627\u062a\u0627\u0646\u0648\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Andalatanosy"
+    ],
+    "name:ita_x_preferred":[
+        "Andalatanosy"
+    ],
+    "name:mlg_x_preferred":[
+        "Andalatanosy"
+    ],
+    "name:nld_x_preferred":[
+        "Andalatanosy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1193031219,
-    "wof:lastmodified":1537568368,
+    "wof:lastmodified":1564299986,
     "wof:name":"Andalatanosy",
     "wof:parent_id":1108801085,
     "wof:placetype":"locality",

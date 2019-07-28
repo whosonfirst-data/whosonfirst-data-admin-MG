@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ankarimbary"
+    ],
+    "name:ita_x_preferred":[
+        "Ankarimbary"
+    ],
+    "name:mlg_x_preferred":[
+        "Ankarimbary"
+    ],
+    "name:nld_x_preferred":[
+        "Ankarimbary"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293215681,
-    "wof:lastmodified":1536681755,
+    "wof:lastmodified":1564299046,
     "wof:name":"Ankarimbary",
     "wof:parent_id":1108801221,
     "wof:placetype":"locality",

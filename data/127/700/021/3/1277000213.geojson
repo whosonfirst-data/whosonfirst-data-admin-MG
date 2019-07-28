@@ -25,6 +25,54 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0627\u0641\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0442\u0430\u0444\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Betafo"
+    ],
+    "name:deu_x_preferred":[
+        "Betafo"
+    ],
+    "name:fra_x_preferred":[
+        "Betafo"
+    ],
+    "name:ind_x_preferred":[
+        "Betafo"
+    ],
+    "name:ita_x_preferred":[
+        "Betafo"
+    ],
+    "name:mlg_x_preferred":[
+        "Betafo"
+    ],
+    "name:nld_x_preferred":[
+        "Betafo"
+    ],
+    "name:nor_x_preferred":[
+        "Betafo"
+    ],
+    "name:pol_x_preferred":[
+        "Betafo"
+    ],
+    "name:por_x_preferred":[
+        "Betafo"
+    ],
+    "name:sna_x_preferred":[
+        "Betafo"
+    ],
+    "name:spa_x_preferred":[
+        "Betafo"
+    ],
+    "name:swe_x_preferred":[
+        "Betafo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5854\u5bcc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1277000213,
-    "wof:lastmodified":1536879050,
+    "wof:lastmodified":1564299129,
     "wof:name":"Betafo",
     "wof:parent_id":1108801121,
     "wof:placetype":"locality",

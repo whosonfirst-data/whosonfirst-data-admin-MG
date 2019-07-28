@@ -25,6 +25,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u062a\u0646\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u062a\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ambalatany"
+    ],
+    "name:ita_x_preferred":[
+        "Ambalatany"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambalatany"
+    ],
+    "name:nld_x_preferred":[
+        "Ambalatany"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209625737,
-    "wof:lastmodified":1536281360,
+    "wof:lastmodified":1564299513,
     "wof:name":"Ambalatany",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

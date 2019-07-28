@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beforona"
+    ],
+    "name:ita_x_preferred":[
+        "Beforona"
+    ],
+    "name:mlg_x_preferred":[
+        "Beforona"
+    ],
+    "name:nld_x_preferred":[
+        "Beforona"
+    ],
     "name:und_x_variant":[
         "Beforono",
         "Beforona"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1360103701,
-    "wof:lastmodified":1537664696,
+    "wof:lastmodified":1564300579,
     "wof:name":"Beforona",
     "wof:parent_id":421169605,
     "wof:placetype":"locality",

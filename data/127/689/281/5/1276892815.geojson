@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soamahamanina"
+    ],
+    "name:ita_x_preferred":[
+        "Soamahamanina"
+    ],
+    "name:mlg_x_preferred":[
+        "Soamahamanina"
+    ],
+    "name:nld_x_preferred":[
+        "Soamahamanina"
+    ],
     "name:und_x_variant":[
         "Soamhamanina",
         "Soamahamanina"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276892815,
-    "wof:lastmodified":1537664591,
+    "wof:lastmodified":1564299190,
     "wof:name":"Soamahamanina",
     "wof:parent_id":421191751,
     "wof:placetype":"locality",

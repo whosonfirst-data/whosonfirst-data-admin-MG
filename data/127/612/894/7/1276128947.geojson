@@ -25,6 +25,21 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manamisoa"
+    ],
+    "name:ita_x_preferred":[
+        "Manamisoa"
+    ],
+    "name:mlg_x_preferred":[
+        "Manamisoa"
+    ],
+    "name:nld_x_preferred":[
+        "Manamisoa"
+    ],
+    "name:pol_x_preferred":[
+        "Manamisoa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276128947,
-    "wof:lastmodified":1537050281,
+    "wof:lastmodified":1564299391,
     "wof:name":"Manamisoa",
     "wof:parent_id":421171625,
     "wof:placetype":"locality",

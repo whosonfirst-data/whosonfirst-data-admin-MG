@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vohitany"
+    ],
+    "name:ita_x_preferred":[
+        "Vohitany"
+    ],
+    "name:mlg_x_preferred":[
+        "Vohitany"
+    ],
+    "name:nld_x_preferred":[
+        "Vohitany"
+    ],
     "name:und_x_variant":[
         "Vohitana",
         "Vohitany"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276453823,
-    "wof:lastmodified":1537664566,
+    "wof:lastmodified":1564299172,
     "wof:name":"Vohitany",
     "wof:parent_id":1108801131,
     "wof:placetype":"locality",

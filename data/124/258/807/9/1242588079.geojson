@@ -25,6 +25,21 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Miarinarivo"
+    ],
+    "name:ita_x_preferred":[
+        "Miarinarivo"
+    ],
+    "name:mlg_x_preferred":[
+        "Miarinarivo"
+    ],
+    "name:nld_x_preferred":[
+        "Miarinarivo"
+    ],
+    "name:pol_x_preferred":[
+        "Miarinarivo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1242588079,
-    "wof:lastmodified":1537568342,
+    "wof:lastmodified":1564300929,
     "wof:name":"Miarinarivo",
     "wof:parent_id":421171625,
     "wof:placetype":"locality",

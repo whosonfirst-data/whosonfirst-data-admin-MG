@@ -25,6 +25,21 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mananara"
+    ],
+    "name:ita_x_preferred":[
+        "Mananara"
+    ],
+    "name:nld_x_preferred":[
+        "Mananara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u043d\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mananara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326845419,
-    "wof:lastmodified":1537028466,
+    "wof:lastmodified":1564298068,
     "wof:name":"Mananara",
     "wof:parent_id":421188095,
     "wof:placetype":"locality",

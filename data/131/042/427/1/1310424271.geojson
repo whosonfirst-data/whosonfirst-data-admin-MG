@@ -25,6 +25,66 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u12a0\u1236\u1233"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u043e\u0441\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100sosa"
+    ],
+    "name:deu_x_preferred":[
+        "Asosa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03cc\u03c3\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Asosa"
+    ],
+    "name:hrv_x_preferred":[
+        "Asosa"
+    ],
+    "name:ita_x_preferred":[
+        "Asosa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10dd\u10e1\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc18c\uc0ac"
+    ],
+    "name:nld_x_preferred":[
+        "Asosa"
+    ],
+    "name:nno_x_preferred":[
+        "Asosa"
+    ],
+    "name:pol_x_preferred":[
+        "Asosa"
+    ],
+    "name:ron_x_preferred":[
+        "Asosa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u043e\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Asosa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0441\u043e\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Asosa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0648\u0633\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d22\u8428"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +108,7 @@
         }
     ],
     "wof:id":1310424271,
-    "wof:lastmodified":1537032730,
+    "wof:lastmodified":1564300325,
     "wof:name":"Asosa",
     "wof:parent_id":1108801131,
     "wof:placetype":"locality",

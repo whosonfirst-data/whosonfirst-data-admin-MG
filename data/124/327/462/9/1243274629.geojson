@@ -26,6 +26,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u067e\u0627\u0631\u0648\u0641\u0627\u0631\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u067e\u0627\u0631\u0648\u0641\u0627\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Amporoforo"
+    ],
+    "name:ita_x_preferred":[
+        "Amporoforo"
+    ],
+    "name:mlg_x_preferred":[
+        "Amporoforo"
+    ],
+    "name:nld_x_preferred":[
+        "Amporoforo"
+    ],
     "name:und_x_variant":[
         "Porofo",
         "Amporoforo"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1243274629,
-    "wof:lastmodified":1537664773,
+    "wof:lastmodified":1564301164,
     "wof:name":"Amporoforo",
     "wof:parent_id":1108801147,
     "wof:placetype":"locality",

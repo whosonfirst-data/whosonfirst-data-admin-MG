@@ -25,6 +25,33 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Betroka"
+    ],
+    "name:fra_x_preferred":[
+        "Betroka"
+    ],
+    "name:ita_x_preferred":[
+        "Betroka"
+    ],
+    "name:mlg_x_preferred":[
+        "Betroka"
+    ],
+    "name:nld_x_preferred":[
+        "Betroka"
+    ],
+    "name:pol_x_preferred":[
+        "Betroka"
+    ],
+    "name:por_x_preferred":[
+        "Betroka"
+    ],
+    "name:swe_x_preferred":[
+        "Betroka"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u7279\u9b6f\u5361"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1310516705,
-    "wof:lastmodified":1536900704,
+    "wof:lastmodified":1564300478,
     "wof:name":"Betroka",
     "wof:parent_id":1108801131,
     "wof:placetype":"locality",

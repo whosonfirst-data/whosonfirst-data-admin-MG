@@ -25,6 +25,12 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u06af\u0648\u0627\u0646\u0647"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u06af\u0648\u0627\u0646\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225954627,
-    "wof:lastmodified":1536855203,
+    "wof:lastmodified":1564301525,
     "wof:name":"Mangoana",
     "wof:parent_id":1108801199,
     "wof:placetype":"locality",

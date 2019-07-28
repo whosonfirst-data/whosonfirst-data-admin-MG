@@ -24,6 +24,30 @@
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Anjozorobe"
+    ],
+    "name:hrv_x_preferred":[
+        "Anjozorobe"
+    ],
+    "name:mlg_x_preferred":[
+        "Anjozorobe"
+    ],
+    "name:nld_x_preferred":[
+        "Anjozorobe"
+    ],
+    "name:pol_x_preferred":[
+        "Anjozorobe"
+    ],
+    "name:por_x_preferred":[
+        "Anjozorobe"
+    ],
+    "name:spa_x_preferred":[
+        "Anjozorobe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u7956\u7956\u9b6f\u8c9d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +69,7 @@
         }
     ],
     "wof:id":1108801101,
-    "wof:lastmodified":1554489518,
+    "wof:lastmodified":1564300150,
     "wof:name":"Anjozorobe",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

@@ -25,6 +25,15 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Alakamisy"
+    ],
+    "name:ita_x_preferred":[
+        "Alakamisy"
+    ],
+    "name:nld_x_preferred":[
+        "Alakamisy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326740899,
-    "wof:lastmodified":1536683088,
+    "wof:lastmodified":1564297809,
     "wof:name":"Alakamisy",
     "wof:parent_id":1108801101,
     "wof:placetype":"locality",

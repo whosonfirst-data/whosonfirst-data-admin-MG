@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tsararano"
+    ],
+    "name:ita_x_preferred":[
+        "Tsararano"
+    ],
+    "name:mlg_x_preferred":[
+        "Tsararano"
+    ],
+    "name:nld_x_preferred":[
+        "Tsararano"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276563309,
-    "wof:lastmodified":1537568336,
+    "wof:lastmodified":1564299219,
     "wof:name":"Tsararano",
     "wof:parent_id":421183933,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nosy Ambositra"
+    ],
+    "name:ita_x_preferred":[
+        "Nosy Ambositra"
+    ],
+    "name:mlg_x_preferred":[
+        "Nosy Ambositra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209225079,
-    "wof:lastmodified":1537568341,
+    "wof:lastmodified":1564299695,
     "wof:name":"Nosy Ambositra",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

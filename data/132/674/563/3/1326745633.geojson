@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tsinjoarivo"
+    ],
+    "name:ita_x_preferred":[
+        "Tdinjoarivo"
+    ],
+    "name:mlg_x_preferred":[
+        "Tsinjoarivo"
+    ],
+    "name:nld_x_preferred":[
+        "Tsinjoarivo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1326745633,
-    "wof:lastmodified":1537568335,
+    "wof:lastmodified":1564297804,
     "wof:name":"Tsinjoarivo",
     "wof:parent_id":421183937,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beraketa"
+    ],
+    "name:ita_x_preferred":[
+        "Beraketa"
+    ],
+    "name:mlg_x_preferred":[
+        "Beraketa"
+    ],
+    "name:nld_x_preferred":[
+        "Beraketa"
+    ],
     "name:und_x_variant":[
         "Bereketa",
         "Beraketa"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1344072037,
-    "wof:lastmodified":1537664682,
+    "wof:lastmodified":1564298308,
     "wof:name":"Beraketa",
     "wof:parent_id":1108801085,
     "wof:placetype":"locality",

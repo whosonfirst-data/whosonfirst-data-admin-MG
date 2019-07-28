@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lanjarivo"
+    ],
+    "name:ita_x_preferred":[
+        "Lanjarivo"
+    ],
+    "name:mlg_x_preferred":[
+        "Lanjarivo"
+    ],
+    "name:nld_x_preferred":[
+        "Lanjarivo"
+    ],
     "name:und_x_variant":[
         "Lanjarivo",
         "Langarivo"
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209433485,
-    "wof:lastmodified":1537664645,
+    "wof:lastmodified":1564299871,
     "wof:name":"Langarivo",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

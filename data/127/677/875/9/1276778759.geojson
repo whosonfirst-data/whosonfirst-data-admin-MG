@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Anosivelo"
+    ],
+    "name:ita_x_preferred":[
+        "Anosivelo"
+    ],
+    "name:mlg_x_preferred":[
+        "Anosivelo"
+    ],
+    "name:nld_x_preferred":[
+        "Anosivelo"
+    ],
     "name:und_x_variant":[
         "Nosivelo",
         "Anosivelo"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276778759,
-    "wof:lastmodified":1537664726,
+    "wof:lastmodified":1564299420,
     "wof:name":"Anosivelo",
     "wof:parent_id":1108801147,
     "wof:placetype":"locality",

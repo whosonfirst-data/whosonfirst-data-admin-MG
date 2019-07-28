@@ -26,6 +26,30 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u0633\u0648\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Ambalasoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u0633\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambalasoa"
+    ],
+    "name:ita_x_preferred":[
+        "Ambalasoa"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambalasoa"
+    ],
+    "name:nld_x_preferred":[
+        "Ambalasoa"
+    ],
+    "name:swe_x_preferred":[
+        "Ambalasoa"
+    ],
     "name:und_x_variant":[
         "Ambalaoa",
         "Ambalasoa"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1293408613,
-    "wof:lastmodified":1537664824,
+    "wof:lastmodified":1564298831,
     "wof:name":"Ambalasoa",
     "wof:parent_id":421175089,
     "wof:placetype":"locality",

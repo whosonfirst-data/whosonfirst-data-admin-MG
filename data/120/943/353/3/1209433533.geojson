@@ -26,6 +26,21 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Andranofito"
+    ],
+    "name:ita_x_preferred":[
+        "Andranofito"
+    ],
+    "name:mlg_x_preferred":[
+        "Andranofito"
+    ],
+    "name:nld_x_preferred":[
+        "Andranofito"
+    ],
+    "name:pol_x_preferred":[
+        "Andranofito"
+    ],
     "name:und_x_variant":[
         "Andranofito",
         "Ambohimierambe-Andranofito"
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209433533,
-    "wof:lastmodified":1537664794,
+    "wof:lastmodified":1564299861,
     "wof:name":"Ambohimierambe-Andranofito",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

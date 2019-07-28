@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ankijabe"
+    ],
+    "name:ita_x_preferred":[
+        "Ankijabe"
+    ],
+    "name:mlg_x_preferred":[
+        "Ankijabe"
+    ],
+    "name:nld_x_preferred":[
+        "Ankijabe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293798931,
-    "wof:lastmodified":1536834048,
+    "wof:lastmodified":1564298770,
     "wof:name":"Ankijabe",
     "wof:parent_id":421175085,
     "wof:placetype":"locality",

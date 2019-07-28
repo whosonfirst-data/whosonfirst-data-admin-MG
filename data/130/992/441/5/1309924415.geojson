@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Anjahambe"
+    ],
+    "name:ita_x_preferred":[
+        "Anjahambe"
+    ],
+    "name:mlg_x_preferred":[
+        "Anjahambe"
+    ],
+    "name:nld_x_preferred":[
+        "Anjahambe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +56,7 @@
         }
     ],
     "wof:id":1309924415,
-    "wof:lastmodified":1536760329,
+    "wof:lastmodified":1564300657,
     "wof:name":"Anjahambe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

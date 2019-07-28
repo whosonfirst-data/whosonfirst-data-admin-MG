@@ -25,6 +25,39 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0633\u0648\u0627\u0644\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Masoala"
+    ],
+    "name:deu_x_preferred":[
+        "Masoala"
+    ],
+    "name:fra_x_preferred":[
+        "Masoala"
+    ],
+    "name:ita_x_preferred":[
+        "Masoala"
+    ],
+    "name:por_x_preferred":[
+        "Masoala"
+    ],
+    "name:spa_x_preferred":[
+        "Masoala"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0441\u043e\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Masoala"
+    ],
+    "name:vie_x_preferred":[
+        "Masoala"
+    ],
+    "name:war_x_preferred":[
+        "Masoala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1260201979,
-    "wof:lastmodified":1536821719,
+    "wof:lastmodified":1564300099,
     "wof:name":"Masoala",
     "wof:parent_id":421196875,
     "wof:placetype":"locality",

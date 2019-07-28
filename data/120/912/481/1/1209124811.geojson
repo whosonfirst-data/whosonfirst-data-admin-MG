@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belamoty"
+    ],
+    "name:ita_x_preferred":[
+        "Belamoty"
+    ],
+    "name:mlg_x_preferred":[
+        "Belamoty"
+    ],
+    "name:nld_x_preferred":[
+        "Belamoty"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +46,7 @@
         "gn:id":1067748
     },
     "wof:country":"MG",
-    "wof:geomhash":"afcbc75cc7bd4fabf24fc0082cd3892f",
+    "wof:geomhash":"4e86a516ba33a8ce847d56248e7ebb19",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209124811,
-    "wof:lastmodified":1536296986,
+    "wof:lastmodified":1564299636,
     "wof:name":"Belamoty",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +65,9 @@
 },
   "bbox": [
     44.95,
-    -16.883329999999994,
+    -16.88332999999999,
     44.95,
-    -16.883329999999994
+    -16.88332999999999
 ],
   "geometry": {"coordinates":[44.95,-16.88332999999999],"type":"Point"}
 }

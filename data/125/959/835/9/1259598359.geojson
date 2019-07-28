@@ -25,6 +25,15 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morarano"
+    ],
+    "name:mlg_x_preferred":[
+        "Morarano"
+    ],
+    "name:nld_x_preferred":[
+        "Morarano"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259598359,
-    "wof:lastmodified":1537568341,
+    "wof:lastmodified":1564301393,
     "wof:name":"Morarano",
     "wof:parent_id":1108801121,
     "wof:placetype":"locality",

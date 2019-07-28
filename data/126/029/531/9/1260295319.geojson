@@ -25,6 +25,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u0627\u0644\u0627\u0645\u067e\u0627\u0633\u06cc\u0646\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0644\u0627\u0645\u067e\u0627\u0633\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Analampasina"
+    ],
+    "name:ita_x_preferred":[
+        "Analampasina"
+    ],
+    "name:mlg_x_preferred":[
+        "Analampasina"
+    ],
+    "name:nld_x_preferred":[
+        "Analampasina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1260295319,
-    "wof:lastmodified":1537568369,
+    "wof:lastmodified":1564300115,
     "wof:name":"Analampasina",
     "wof:parent_id":421197047,
     "wof:placetype":"locality",

@@ -25,6 +25,126 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062a\u0633\u064a\u0631\u0627\u0646\u0627\u0646\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:cat_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:ceb_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:ces_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:dan_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:deu_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03c3\u03b9\u03c1\u03b1\u03bd\u03ac\u03bd\u03b1"
+    ],
+    "name:est_x_preferred":[
+        "Antsiran\u0308ana"
+    ],
+    "name:eus_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:fin_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:fra_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d8\u05e1\u05d9\u05e8\u05e0\u05e0\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:ind_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:ita_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c4\u30a3\u30e9\u30ca\u30ca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10ea\u10d8\u10e0\u10d0\u10dc\u10d0\u10dc\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\uce58\ub77c\ub098\ub098"
+    ],
+    "name:lit_x_preferred":[
+        "Anciranana"
+    ],
+    "name:mlg_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:nld_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:nno_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:nor_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:oci_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:pol_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:por_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:ron_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0446\u0438\u0440\u0430\u043d\u0430\u043d\u0430"
+    ],
+    "name:sna_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:spa_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:swa_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:swe_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:szl_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba3\u0bcd\u0b9f\u0bcd\u0b9a\u0bbf\u0bb0\u0ba9\u0ba9\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:tur_x_preferred":[
+        "Antsiranana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0446\u0456\u0440\u0430\u043d\u0430\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u062a\u0633\u06cc\u0631\u0627\u0646\u0627\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u9f4a\u62c9\u7d0d\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +168,7 @@
         }
     ],
     "wof:id":1293400455,
-    "wof:lastmodified":1536912781,
+    "wof:lastmodified":1564298847,
     "wof:name":"Antsiranana",
     "wof:parent_id":1108801147,
     "wof:placetype":"locality",

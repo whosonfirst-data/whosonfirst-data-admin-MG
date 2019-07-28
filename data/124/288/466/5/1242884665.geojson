@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vohitany"
+    ],
+    "name:ita_x_preferred":[
+        "Vohitany"
+    ],
+    "name:mlg_x_preferred":[
+        "Vohitany"
+    ],
+    "name:nld_x_preferred":[
+        "Vohitany"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1242884665,
-    "wof:lastmodified":1537568334,
+    "wof:lastmodified":1564300873,
     "wof:name":"Vohitany",
     "wof:parent_id":1108801087,
     "wof:placetype":"locality",

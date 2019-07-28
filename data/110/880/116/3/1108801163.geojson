@@ -24,6 +24,45 @@
     "meso:region":"Betsiboka",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:dan_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:deu_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:fra_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:hrv_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:ita_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:mlg_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:nld_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:pol_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:ron_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:swe_x_preferred":[
+        "Maevatanana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0626\u0648\u0627\u062a\u0627\u0646\u0627\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u57c3\u74e6\u5854\u7d0d\u7d0d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +84,7 @@
         }
     ],
     "wof:id":1108801163,
-    "wof:lastmodified":1554489521,
+    "wof:lastmodified":1564300143,
     "wof:name":"Maevatanana",
     "wof:parent_id":85673995,
     "wof:placetype":"county",

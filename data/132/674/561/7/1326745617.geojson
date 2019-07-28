@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ankarinoro"
+    ],
+    "name:ita_x_preferred":[
+        "Ankarinoro"
+    ],
+    "name:mlg_x_preferred":[
+        "Ankarinoro"
+    ],
+    "name:nld_x_preferred":[
+        "Ankarinoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326745617,
-    "wof:lastmodified":1536676339,
+    "wof:lastmodified":1564297786,
     "wof:name":"Ankarinoro",
     "wof:parent_id":421175089,
     "wof:placetype":"locality",

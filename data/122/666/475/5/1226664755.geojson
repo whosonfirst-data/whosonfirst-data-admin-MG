@@ -25,6 +25,45 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ihosy"
+    ],
+    "name:deu_x_preferred":[
+        "Ihosy"
+    ],
+    "name:fin_x_preferred":[
+        "Ihosy"
+    ],
+    "name:fra_x_preferred":[
+        "Ihosy"
+    ],
+    "name:hrv_x_preferred":[
+        "Ihosy"
+    ],
+    "name:ita_x_preferred":[
+        "Ihosy"
+    ],
+    "name:mlg_x_preferred":[
+        "Ihosy"
+    ],
+    "name:nld_x_preferred":[
+        "Ihosy"
+    ],
+    "name:pol_x_preferred":[
+        "Ihosy"
+    ],
+    "name:por_x_preferred":[
+        "Ihosy"
+    ],
+    "name:ron_x_preferred":[
+        "Ihosy"
+    ],
+    "name:swe_x_preferred":[
+        "Ihosy"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u80e1\u897f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1226664755,
-    "wof:lastmodified":1536831122,
+    "wof:lastmodified":1564301695,
     "wof:name":"Ihosy",
     "wof:parent_id":1108801151,
     "wof:placetype":"locality",

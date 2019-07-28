@@ -26,6 +26,12 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vatolaivy"
+    ],
+    "name:mlg_x_preferred":[
+        "Vatolaivy"
+    ],
     "name:und_x_variant":[
         "Natolevy",
         "Vatolevy",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309916255,
-    "wof:lastmodified":1537664570,
+    "wof:lastmodified":1564300633,
     "wof:name":"Vatolaivy",
     "wof:parent_id":1108801121,
     "wof:placetype":"locality",

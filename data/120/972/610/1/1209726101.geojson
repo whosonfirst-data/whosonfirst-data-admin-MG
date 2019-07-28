@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manambina"
+    ],
+    "name:ita_x_preferred":[
+        "Manambina"
+    ],
+    "name:mlg_x_preferred":[
+        "Manambina"
+    ],
+    "name:nld_x_preferred":[
+        "Manambina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209726101,
-    "wof:lastmodified":1537568346,
+    "wof:lastmodified":1564299885,
     "wof:name":"Manambina",
     "wof:parent_id":421169603,
     "wof:placetype":"locality",

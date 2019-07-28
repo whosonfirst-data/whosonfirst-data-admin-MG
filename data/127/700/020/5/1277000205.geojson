@@ -25,6 +25,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0646\u062f\u0631\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0646\u062f\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ambondro"
+    ],
+    "name:ita_x_preferred":[
+        "Ambondro"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambondro"
+    ],
+    "name:nld_x_preferred":[
+        "Ambondro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1277000205,
-    "wof:lastmodified":1536879060,
+    "wof:lastmodified":1564299125,
     "wof:name":"Ambondro",
     "wof:parent_id":1108801137,
     "wof:placetype":"locality",

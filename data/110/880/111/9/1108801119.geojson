@@ -24,6 +24,60 @@
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:dan_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:deu_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:fra_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:hrv_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:ita_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c4\u30d2\u30d2"
+    ],
+    "name:mlg_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:nld_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:pol_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:por_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:ron_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0446\u0443\u0445\u0438\u0445\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:sqi_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:swe_x_preferred":[
+        "Antsohihy"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0646\u062a\u0633\u0648\u06c1\u06cc\u06c1\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u695a\u5e0c\u5e0c"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +99,7 @@
         }
     ],
     "wof:id":1108801119,
-    "wof:lastmodified":1554489518,
+    "wof:lastmodified":1564300143,
     "wof:name":"Antsohihy",
     "wof:parent_id":85674041,
     "wof:placetype":"county",

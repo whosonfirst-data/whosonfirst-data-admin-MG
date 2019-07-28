@@ -26,6 +26,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u06a9\u06cc\u0631\u0627\u0646\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u06a9\u06cc\u0631\u0627\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ambakirano"
+    ],
+    "name:ita_x_preferred":[
+        "Ambakirano"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambakirano"
+    ],
+    "name:nld_x_preferred":[
+        "Ambakirano"
+    ],
     "name:und_x_variant":[
         "Ambakoana",
         "Ambakirano"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327348689,
-    "wof:lastmodified":1537664828,
+    "wof:lastmodified":1564297954,
     "wof:name":"Ambakirano",
     "wof:parent_id":1108801077,
     "wof:placetype":"locality",

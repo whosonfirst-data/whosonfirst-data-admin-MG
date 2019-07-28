@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soahany"
+    ],
+    "name:mlg_x_preferred":[
+        "Soahany"
+    ],
+    "name:nld_x_preferred":[
+        "Soahany"
+    ],
+    "name:pol_x_preferred":[
+        "Soahany"
+    ],
     "name:und_x_variant":[
         "Vers Soahanina",
         "Soahanina",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226461327,
-    "wof:lastmodified":1537664592,
+    "wof:lastmodified":1564301839,
     "wof:name":"Soahany",
     "wof:parent_id":421199279,
     "wof:placetype":"locality",

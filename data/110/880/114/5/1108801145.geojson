@@ -24,6 +24,33 @@
     "meso:region":"Atsinanana",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ampasimanolotra"
+    ],
+    "name:deu_x_preferred":[
+        "Ampasimanolotra"
+    ],
+    "name:fra_x_preferred":[
+        "Vohibinany"
+    ],
+    "name:ita_x_preferred":[
+        "Brickaville"
+    ],
+    "name:mlg_x_preferred":[
+        "Vohibinany"
+    ],
+    "name:nld_x_preferred":[
+        "Brickaville"
+    ],
+    "name:pol_x_preferred":[
+        "Brickaville"
+    ],
+    "name:por_x_preferred":[
+        "Brickaville"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b66\u5e0c\u5df4\u7d0d\u5c3c"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +72,7 @@
         }
     ],
     "wof:id":1108801145,
-    "wof:lastmodified":1554489519,
+    "wof:lastmodified":1564300161,
     "wof:name":"Brickaville",
     "wof:parent_id":85673991,
     "wof:placetype":"county",

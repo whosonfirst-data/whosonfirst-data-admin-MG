@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bekoratsaka"
+    ],
+    "name:ita_x_preferred":[
+        "Bekoratsaka"
+    ],
+    "name:mlg_x_preferred":[
+        "Bekoratsaka"
+    ],
+    "name:nld_x_preferred":[
+        "Bekoratsaka"
+    ],
     "name:und_x_variant":[
         "Bebakaka",
         "Bekoratsaka"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276134243,
-    "wof:lastmodified":1537664691,
+    "wof:lastmodified":1564299313,
     "wof:name":"Bekoratsaka",
     "wof:parent_id":421183933,
     "wof:placetype":"locality",

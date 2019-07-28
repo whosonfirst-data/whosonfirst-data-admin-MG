@@ -25,6 +25,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u062f\u06cc\u0627\u0645\u067e\u0627\u0646\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u062f\u06cc\u0627\u0645\u067e\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambodiampana"
+    ],
+    "name:ita_x_preferred":[
+        "Ambodiampana"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambodiampana"
+    ],
+    "name:nld_x_preferred":[
+        "Ambodiampana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276238789,
-    "wof:lastmodified":1537568376,
+    "wof:lastmodified":1564299354,
     "wof:name":"Ambodiampana",
     "wof:parent_id":1108801207,
     "wof:placetype":"locality",
