@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belamoty"
+    ],
+    "name:ita_x_preferred":[
+        "Belamoty"
+    ],
+    "name:mlg_x_preferred":[
+        "Belamoty"
+    ],
+    "name:nld_x_preferred":[
+        "Belamoty"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276138155,
-    "wof:lastmodified":1537038509,
+    "wof:lastmodified":1564299324,
     "wof:name":"Belamoty",
     "wof:parent_id":1108801087,
     "wof:placetype":"locality",

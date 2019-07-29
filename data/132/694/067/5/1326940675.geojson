@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kelilalina"
+    ],
+    "name:ita_x_preferred":[
+        "Kelilalina"
+    ],
+    "name:mlg_x_preferred":[
+        "Kelilalina"
+    ],
+    "name:nld_x_preferred":[
+        "Kelilalina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326940675,
-    "wof:lastmodified":1536892207,
+    "wof:lastmodified":1564297861,
     "wof:name":"Kelilalina",
     "wof:parent_id":421183933,
     "wof:placetype":"locality",

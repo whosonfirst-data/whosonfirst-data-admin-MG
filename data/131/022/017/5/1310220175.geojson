@@ -26,9 +26,15 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06af\u0627\u0647"
+    ],
     "name:und_x_variant":[
         "Tangay",
         "Langay"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0646\u06af\u0627\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310220175,
-    "wof:lastmodified":1537664645,
+    "wof:lastmodified":1564300223,
     "wof:name":"Langay",
     "wof:parent_id":421175325,
     "wof:placetype":"locality",

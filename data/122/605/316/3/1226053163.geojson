@@ -26,6 +26,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u0631\u0648\u06a9\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0644\u0627\u0631\u0648\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambalaroka"
+    ],
+    "name:ita_x_preferred":[
+        "Ambalaroka"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambalaroka"
+    ],
+    "name:nld_x_preferred":[
+        "Ambalaroka"
+    ],
     "name:und_x_variant":[
         "Ambalaharaka",
         "Ambalaroka"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1226053163,
-    "wof:lastmodified":1537664824,
+    "wof:lastmodified":1564301638,
     "wof:name":"Ambalaroka",
     "wof:parent_id":1108801175,
     "wof:placetype":"locality",

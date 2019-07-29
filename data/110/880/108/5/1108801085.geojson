@@ -24,6 +24,72 @@
     "meso:region":"Androy",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u0628\u0648\u0641\u0648\u0645\u0628\u064a-\u0623\u0646\u062f\u0631\u0648\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0648\u0627\u0645\u0628\u06cc-\u0627\u0646\u062f\u0631\u0648\u06cc"
+    ],
+    "name:dan_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:deu_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0648\u0627\u0645\u0628\u06cc-\u0627\u0646\u062f\u0631\u0648\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:hrv_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:ita_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30d6\u30d6\u30f3\u30d9"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:nld_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:nor_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:pol_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:por_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:ron_x_preferred":[
+        "Ambovombe-Androy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0431\u0443\u0432\u0443\u043c\u0431\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Ambovombe-Androy"
+    ],
+    "name:swa_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:swe_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:tur_x_preferred":[
+        "Ambovombe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0645\u0628\u0648\u0648\u0645\u0628\u06d2-\u0622\u0646\u062f\u0631\u0648\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5e03\u6587\u8c9d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +111,7 @@
         }
     ],
     "wof:id":1108801085,
-    "wof:lastmodified":1554489516,
+    "wof:lastmodified":1564300156,
     "wof:name":"Ambovombe-Androy",
     "wof:parent_id":85673973,
     "wof:placetype":"county",

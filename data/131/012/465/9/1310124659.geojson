@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Antsahalalina"
+    ],
+    "name:ita_x_preferred":[
+        "Antsahalalina"
+    ],
+    "name:nld_x_preferred":[
+        "Antsahalalina"
+    ],
+    "name:por_x_preferred":[
+        "Antsahalalina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310124659,
-    "wof:lastmodified":1536968558,
+    "wof:lastmodified":1564300170,
     "wof:name":"Antsahalalina",
     "wof:parent_id":1108801077,
     "wof:placetype":"locality",

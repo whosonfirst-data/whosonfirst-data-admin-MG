@@ -24,6 +24,21 @@
     "meso:region":"Vatovavy Fitovinany",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mananjary"
+    ],
+    "name:nld_x_preferred":[
+        "Mananjary"
+    ],
+    "name:pol_x_preferred":[
+        "Mananjary"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u043d\u0434\u0437\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mananjary"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1108801181,
-    "wof:lastmodified":1554489520,
+    "wof:lastmodified":1564300145,
     "wof:name":"Mananjary",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

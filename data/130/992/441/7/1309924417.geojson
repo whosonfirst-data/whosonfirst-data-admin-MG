@@ -25,6 +25,21 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ankiliabo"
+    ],
+    "name:ita_x_preferred":[
+        "Ankiliabo"
+    ],
+    "name:mlg_x_preferred":[
+        "Ankiliabo"
+    ],
+    "name:nld_x_preferred":[
+        "Ankiliabo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u57fa\u5229\u4e9e\u5e03"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1309924417,
-    "wof:lastmodified":1537568363,
+    "wof:lastmodified":1564300656,
     "wof:name":"Ankiliabo",
     "wof:parent_id":1108801087,
     "wof:placetype":"locality",

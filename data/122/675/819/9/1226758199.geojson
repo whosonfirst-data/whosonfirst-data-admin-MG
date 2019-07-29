@@ -25,6 +25,30 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u062f\u06cc\u0631\u06cc\u0627\u0646\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0431\u0443\u0434\u0438\u0440\u0438\u0430\u043d\u0430"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u062f\u06cc\u0631\u06cc\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambodiriana"
+    ],
+    "name:ita_x_preferred":[
+        "Ambodiriana"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambodiriana"
+    ],
+    "name:nld_x_preferred":[
+        "Ambodiriana"
+    ],
+    "name:pol_x_preferred":[
+        "Ambodiriana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1226758199,
-    "wof:lastmodified":1537568375,
+    "wof:lastmodified":1564301546,
     "wof:name":"Ambodiriana",
     "wof:parent_id":421184621,
     "wof:placetype":"locality",

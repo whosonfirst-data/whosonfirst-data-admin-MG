@@ -26,6 +26,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fandrandava"
+    ],
+    "name:fra_x_preferred":[
+        "Fandrandava"
+    ],
+    "name:ita_x_preferred":[
+        "Fandrandava"
+    ],
+    "name:mlg_x_preferred":[
+        "Fandrandava"
+    ],
+    "name:nld_x_preferred":[
+        "Fandrandava"
+    ],
+    "name:swe_x_preferred":[
+        "Fandrandava"
+    ],
     "name:und_x_variant":[
         "Alakamisy-Fandandrave",
         "Alakamisy Fandrandava",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1309741709,
-    "wof:lastmodified":1537664664,
+    "wof:lastmodified":1564300692,
     "wof:name":"Fandrandava",
     "wof:parent_id":1108801159,
     "wof:placetype":"locality",

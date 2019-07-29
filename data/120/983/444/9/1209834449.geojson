@@ -25,6 +25,30 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marolambo"
+    ],
+    "name:fra_x_preferred":[
+        "Marolambo"
+    ],
+    "name:ita_x_preferred":[
+        "Marolambo"
+    ],
+    "name:mlg_x_preferred":[
+        "Marolambo"
+    ],
+    "name:nld_x_preferred":[
+        "Marolambo"
+    ],
+    "name:pol_x_preferred":[
+        "Marolambo"
+    ],
+    "name:swe_x_preferred":[
+        "Marolambo"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u9b6f\u862d\u5e03"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1209834449,
-    "wof:lastmodified":1536395527,
+    "wof:lastmodified":1564299606,
     "wof:name":"Marolambo",
     "wof:parent_id":421183933,
     "wof:placetype":"locality",

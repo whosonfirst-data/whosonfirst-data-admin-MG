@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mantaly"
+    ],
+    "name:ita_x_preferred":[
+        "Mantaly"
+    ],
+    "name:mlg_x_preferred":[
+        "Mantaly"
+    ],
+    "name:nld_x_preferred":[
+        "Mantaly"
+    ],
     "name:und_x_variant":[
         "Mantalia",
         "Mantaly"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243473067,
-    "wof:lastmodified":1537664625,
+    "wof:lastmodified":1564300986,
     "wof:name":"Mantaly",
     "wof:parent_id":421180171,
     "wof:placetype":"locality",

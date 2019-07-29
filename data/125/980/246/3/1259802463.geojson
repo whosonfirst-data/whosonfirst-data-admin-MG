@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tsiamalao"
+    ],
+    "name:ita_x_preferred":[
+        "Tsiamalao"
+    ],
+    "name:mlg_x_preferred":[
+        "Tsiamalao"
+    ],
+    "name:nld_x_preferred":[
+        "Tsiamalao"
+    ],
     "name:und_x_variant":[
         "Antsamalaho",
         "Tsiamalao"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1259802463,
-    "wof:lastmodified":1537664576,
+    "wof:lastmodified":1564301462,
     "wof:name":"Tsiamalao",
     "wof:parent_id":1108801127,
     "wof:placetype":"locality",

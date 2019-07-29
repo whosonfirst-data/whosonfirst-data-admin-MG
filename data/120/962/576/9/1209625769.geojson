@@ -25,6 +25,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ambia"
+    ],
+    "name:deu_x_preferred":[
+        "Ambia"
+    ],
+    "name:fra_x_preferred":[
+        "Ambia"
+    ],
+    "name:nld_x_preferred":[
+        "Ambia"
+    ],
+    "name:por_x_preferred":[
+        "Ambia"
+    ],
+    "name:swe_x_preferred":[
+        "Ambia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +52,7 @@
         "gn:id":1082334
     },
     "wof:country":"MG",
-    "wof:geomhash":"185cbe5297af70dd4b398c8e41c07c8a",
+    "wof:geomhash":"487f8d0d629e1131501d411873e0da14",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209625769,
-    "wof:lastmodified":1536281359,
+    "wof:lastmodified":1564299515,
     "wof:name":"Ambia",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +71,9 @@
 },
   "bbox": [
     45.46667,
-    -16.133329999999994,
+    -16.13332999999999,
     45.46667,
-    -16.133329999999994
+    -16.13332999999999
 ],
   "geometry": {"coordinates":[45.46667,-16.13332999999999],"type":"Point"}
 }

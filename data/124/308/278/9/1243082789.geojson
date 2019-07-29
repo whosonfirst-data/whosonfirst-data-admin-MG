@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manevy"
+    ],
+    "name:ita_x_preferred":[
+        "Manevy"
+    ],
+    "name:mlg_x_preferred":[
+        "Manevy"
+    ],
+    "name:nld_x_preferred":[
+        "Manevy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1243082789,
-    "wof:lastmodified":1536831651,
+    "wof:lastmodified":1564300827,
     "wof:name":"Manevy",
     "wof:parent_id":421175089,
     "wof:placetype":"locality",

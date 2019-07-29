@@ -24,6 +24,21 @@
     "meso:region":"Boeny",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mitsinjo"
+    ],
+    "name:ita_x_preferred":[
+        "Mitsinjo"
+    ],
+    "name:mlg_x_preferred":[
+        "Mitsinjo"
+    ],
+    "name:nld_x_preferred":[
+        "Mitsinjo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u6b3d\u7956"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1108801193,
-    "wof:lastmodified":1554489522,
+    "wof:lastmodified":1564300149,
     "wof:name":"Mitsinjo",
     "wof:parent_id":85674001,
     "wof:placetype":"county",

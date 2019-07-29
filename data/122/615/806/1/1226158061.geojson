@@ -25,6 +25,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0434\u0436\u0430\u043d\u0443\u043c\u0430\u043d\u0435\u043b\u044f\u0447\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Andranomanelatra"
+    ],
+    "name:ita_x_preferred":[
+        "Andranomanelatra"
+    ],
+    "name:mlg_x_preferred":[
+        "Andranomanelatra"
+    ],
+    "name:nld_x_preferred":[
+        "Andranomanelatra"
+    ],
+    "name:pol_x_preferred":[
+        "Andranomanelatra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1226158061,
-    "wof:lastmodified":1537057357,
+    "wof:lastmodified":1564301836,
     "wof:name":"Andranomanelatra",
     "wof:parent_id":421194677,
     "wof:placetype":"locality",

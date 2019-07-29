@@ -25,6 +25,12 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ambohimalaza"
+    ],
+    "name:nld_x_preferred":[
+        "Ambohimalaza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259702387,
-    "wof:lastmodified":1537038171,
+    "wof:lastmodified":1564301300,
     "wof:name":"Ambohimalaza",
     "wof:parent_id":1108801111,
     "wof:placetype":"locality",

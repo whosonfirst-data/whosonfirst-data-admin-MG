@@ -25,6 +25,9 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Andina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226158081,
-    "wof:lastmodified":1537057330,
+    "wof:lastmodified":1564301835,
     "wof:name":"Andina",
     "wof:parent_id":421175319,
     "wof:placetype":"locality",

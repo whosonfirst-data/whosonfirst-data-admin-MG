@@ -26,8 +26,20 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tavia"
+    ],
+    "name:swe_x_preferred":[
+        "Tavia"
+    ],
     "name:und_x_variant":[
         "Itavia",
+        "Tavia"
+    ],
+    "name:vie_x_preferred":[
+        "Tavia"
+    ],
+    "name:war_x_preferred":[
         "Tavia"
     ],
     "src:geom":"geonames",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309920835,
-    "wof:lastmodified":1537664581,
+    "wof:lastmodified":1564300654,
     "wof:name":"Tavia",
     "wof:parent_id":1108801147,
     "wof:placetype":"locality",

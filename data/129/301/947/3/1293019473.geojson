@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Antsampandrano"
+    ],
+    "name:ita_x_preferred":[
+        "Antsampandrano"
+    ],
+    "name:mlg_x_preferred":[
+        "Antsampandrano"
+    ],
+    "name:pol_x_preferred":[
+        "Antsampandrano"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293019473,
-    "wof:lastmodified":1537568359,
+    "wof:lastmodified":1564298708,
     "wof:name":"Antsampandrano",
     "wof:parent_id":421184621,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u06cc\u0646\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u06cc\u0646\u0627\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ambinany"
+    ],
+    "name:ita_x_preferred":[
+        "Ambinany"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambinany"
+    ],
+    "name:nld_x_preferred":[
+        "Ambinany"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6bd4\u7d0d\u5c3c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276558395,
-    "wof:lastmodified":1536973964,
+    "wof:lastmodified":1564299452,
     "wof:name":"Ambinany",
     "wof:parent_id":1108801083,
     "wof:placetype":"locality",

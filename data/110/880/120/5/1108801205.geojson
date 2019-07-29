@@ -24,6 +24,21 @@
     "meso:region":"Boeny",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soalala"
+    ],
+    "name:ita_x_preferred":[
+        "Soalala"
+    ],
+    "name:mlg_x_preferred":[
+        "Soalala"
+    ],
+    "name:nld_x_preferred":[
+        "Soalala"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u963f\u62c9\u62c9"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1108801205,
-    "wof:lastmodified":1554489523,
+    "wof:lastmodified":1564300147,
     "wof:name":"Soalala",
     "wof:parent_id":85674001,
     "wof:placetype":"county",

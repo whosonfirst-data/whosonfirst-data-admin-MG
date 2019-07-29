@@ -26,6 +26,12 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Antanimasaka"
+    ],
+    "name:nld_x_preferred":[
+        "Antanimasaka"
+    ],
     "name:und_x_variant":[
         "Antanimasaka",
         "Antanimasaka-Tsaramiafara"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326640469,
-    "wof:lastmodified":1537664718,
+    "wof:lastmodified":1564298074,
     "wof:name":"Antanimasaka-Tsaramiafara",
     "wof:parent_id":421194677,
     "wof:placetype":"locality",

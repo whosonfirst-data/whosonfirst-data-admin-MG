@@ -25,6 +25,27 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mita"
+    ],
+    "name:ceb_x_preferred":[
+        "Mita"
+    ],
+    "name:deu_x_preferred":[
+        "Mita"
+    ],
+    "name:fra_x_preferred":[
+        "Mita"
+    ],
+    "name:ita_x_preferred":[
+        "Mita"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1309814123,
-    "wof:lastmodified":1536919593,
+    "wof:lastmodified":1564300698,
     "wof:name":"Mita",
     "wof:parent_id":421184623,
     "wof:placetype":"locality",

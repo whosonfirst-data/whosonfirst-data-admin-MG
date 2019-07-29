@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Antonibe"
+    ],
+    "name:ita_x_preferred":[
+        "Antonibe"
+    ],
+    "name:mlg_x_preferred":[
+        "Antonibe"
+    ],
+    "name:nld_x_preferred":[
+        "Antonibe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293011179,
-    "wof:lastmodified":1536976048,
+    "wof:lastmodified":1564298713,
     "wof:name":"Antonibe",
     "wof:parent_id":1108801103,
     "wof:placetype":"locality",

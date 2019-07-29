@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bekapaika"
+    ],
+    "name:ita_x_preferred":[
+        "Bekapaika"
+    ],
+    "name:mlg_x_preferred":[
+        "Bekapaika"
+    ],
+    "name:nld_x_preferred":[
+        "Bekapaika"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1243190909,
-    "wof:lastmodified":1537568357,
+    "wof:lastmodified":1564301206,
     "wof:name":"Bekapaika",
     "wof:parent_id":1108801211,
     "wof:placetype":"locality",

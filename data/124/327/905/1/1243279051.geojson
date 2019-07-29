@@ -26,9 +26,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bereketa"
+    ],
+    "name:ita_x_preferred":[
+        "Bereketa"
+    ],
+    "name:mlg_x_preferred":[
+        "Bereketa"
+    ],
+    "name:nld_x_preferred":[
+        "Bereketa"
+    ],
     "name:und_x_variant":[
         "Bareketa",
         "Bereketa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u8d6b\u84cb\u5854"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1243279051,
-    "wof:lastmodified":1537664682,
+    "wof:lastmodified":1564301171,
     "wof:name":"Bereketa",
     "wof:parent_id":421175325,
     "wof:placetype":"locality",

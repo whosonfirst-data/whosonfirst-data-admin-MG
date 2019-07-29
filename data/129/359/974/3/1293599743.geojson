@@ -25,6 +25,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0641\u0646\u0627\u0631\u06cc\u062a\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0641\u0646\u0627\u0631\u06cc\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Marofinaritra"
+    ],
+    "name:ita_x_preferred":[
+        "Marofinaritra"
+    ],
+    "name:mlg_x_preferred":[
+        "Marofinaritra"
+    ],
+    "name:nld_x_preferred":[
+        "Marofinaritra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293599743,
-    "wof:lastmodified":1536623199,
+    "wof:lastmodified":1564298873,
     "wof:name":"Marofinaritra",
     "wof:parent_id":1108801199,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u062f\u06cc\u0645\u0627\u062a\u0633\u0648-\u0627\u062a\u0633\u06cc\u0645\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u062f\u06cc\u0645\u0627\u062a\u0633\u0648-\u0627\u062a\u0633\u06cc\u0645\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ambodimotso-Atsimo"
+    ],
+    "name:ita_x_preferred":[
+        "Ambodimotso-Atsimo"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambodimotso-Atsimo"
+    ],
+    "name:nld_x_preferred":[
+        "Ambodimotso-Atsimo"
+    ],
     "name:und_x_variant":[
         "Ambodimontso Sud",
         "Ambodimotso",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276673183,
-    "wof:lastmodified":1537664802,
+    "wof:lastmodified":1564299260,
     "wof:name":"Ambodimotso Atsimo",
     "wof:parent_id":1108801127,
     "wof:placetype":"locality",

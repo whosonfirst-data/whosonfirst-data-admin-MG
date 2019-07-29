@@ -25,6 +25,66 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Tsampa"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f62\u0fa9\u0f58\u0f0b\u0f54\u0f0d"
+    ],
+    "name:cat_x_preferred":[
+        "Tsampa"
+    ],
+    "name:ces_x_preferred":[
+        "Campa"
+    ],
+    "name:deu_x_preferred":[
+        "Tsampa"
+    ],
+    "name:epo_x_preferred":[
+        "Tsampa"
+    ],
+    "name:fra_x_preferred":[
+        "Tsampa"
+    ],
+    "name:ind_x_preferred":[
+        "Tsampa"
+    ],
+    "name:ita_x_preferred":[
+        "Tsampa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a1\u30f3\u30d1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc7a0\ubc14"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d02\u0d2c\u0d3e"
+    ],
+    "name:nld_x_preferred":[
+        "Tsampa"
+    ],
+    "name:pol_x_preferred":[
+        "Tsampa"
+    ],
+    "name:por_x_preferred":[
+        "Tsampa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u043c\u043f\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tsampa"
+    ],
+    "name:swe_x_preferred":[
+        "Tsampa"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0b\u0e21\u0e1b\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0430\u043c\u043f\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +108,7 @@
         }
     ],
     "wof:id":1310424385,
-    "wof:lastmodified":1537032575,
+    "wof:lastmodified":1564300315,
     "wof:name":"Tsampa",
     "wof:parent_id":1108801133,
     "wof:placetype":"locality",

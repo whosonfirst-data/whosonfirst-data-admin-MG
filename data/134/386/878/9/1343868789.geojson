@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Masindray"
+    ],
+    "name:ita_x_preferred":[
+        "Masindray"
+    ],
+    "name:mlg_x_preferred":[
+        "Masindray"
+    ],
+    "name:nld_x_preferred":[
+        "Masindray"
+    ],
     "name:und_x_variant":[
         "Masindray",
         "Masindray Mandiavato"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343868789,
-    "wof:lastmodified":1537664615,
+    "wof:lastmodified":1564298652,
     "wof:name":"Masindray Mandiavato",
     "wof:parent_id":421171621,
     "wof:placetype":"locality",

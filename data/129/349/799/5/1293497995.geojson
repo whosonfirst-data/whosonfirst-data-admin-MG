@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Milenaka"
+    ],
+    "name:ita_x_preferred":[
+        "Milenaka"
+    ],
+    "name:mlg_x_preferred":[
+        "Milenaka"
+    ],
+    "name:nld_x_preferred":[
+        "Milenaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293497995,
-    "wof:lastmodified":1537568342,
+    "wof:lastmodified":1564298809,
     "wof:name":"Milenaka",
     "wof:parent_id":1108801209,
     "wof:placetype":"locality",

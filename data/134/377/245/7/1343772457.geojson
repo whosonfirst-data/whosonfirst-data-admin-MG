@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Antanambaobe"
+    ],
+    "name:ita_x_preferred":[
+        "Antanambaobe"
+    ],
+    "name:mlg_x_preferred":[
+        "Antanambaobe"
+    ],
+    "name:nld_x_preferred":[
+        "Antanambaobe"
+    ],
     "name:und_x_variant":[
         "Antanambao",
         "Antanambaobe"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343772457,
-    "wof:lastmodified":1537664722,
+    "wof:lastmodified":1564298347,
     "wof:name":"Antanambaobe",
     "wof:parent_id":1108801127,
     "wof:placetype":"locality",

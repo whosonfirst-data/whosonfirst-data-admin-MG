@@ -25,6 +25,12 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nosifeno"
+    ],
+    "name:nld_x_preferred":[
+        "Nosifeno"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226473863,
-    "wof:lastmodified":1536601836,
+    "wof:lastmodified":1564301810,
     "wof:name":"Nosifeno",
     "wof:parent_id":1108801191,
     "wof:placetype":"locality",

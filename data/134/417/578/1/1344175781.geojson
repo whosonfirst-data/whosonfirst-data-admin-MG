@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beahitse"
+    ],
+    "name:ita_x_preferred":[
+        "Beahitse"
+    ],
+    "name:mlg_x_preferred":[
+        "Beahitse"
+    ],
+    "name:nld_x_preferred":[
+        "Beahitse"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1344175781,
-    "wof:lastmodified":1537568358,
+    "wof:lastmodified":1564298545,
     "wof:name":"Beahitse",
     "wof:parent_id":1108801087,
     "wof:placetype":"locality",

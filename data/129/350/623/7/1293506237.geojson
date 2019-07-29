@@ -25,6 +25,30 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0647\u06cc\u062a\u0631\u0627\u0646\u062f\u0631\u06cc\u0627\u0645\u0627\u0646\u06cc\u062a\u0631\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Ambohitrandriamanitra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0647\u06cc\u062a\u0631\u0627\u0646\u062f\u0631\u06cc\u0627\u0645\u0627\u0646\u06cc\u062a\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambohitrandriamanitra"
+    ],
+    "name:ita_x_preferred":[
+        "Ambohitrandrimanitra"
+    ],
+    "name:nld_x_preferred":[
+        "Ambohitrandriamanitra"
+    ],
+    "name:por_x_preferred":[
+        "Ambohitrandriamanitra"
+    ],
+    "name:swe_x_preferred":[
+        "Ambohitrandriamanitra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293506237,
-    "wof:lastmodified":1536760216,
+    "wof:lastmodified":1564298889,
     "wof:name":"Ambohitrandriamanitra",
     "wof:parent_id":1108801091,
     "wof:placetype":"locality",

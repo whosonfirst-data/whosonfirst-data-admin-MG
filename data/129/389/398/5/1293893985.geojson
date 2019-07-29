@@ -26,6 +26,51 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u064a\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0645\u06cc\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Tamia"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Tamia"
+    ],
+    "name:fra_x_preferred":[
+        "Tamia"
+    ],
+    "name:ita_x_preferred":[
+        "Tamia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30df\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ubbf8\uc544"
+    ],
+    "name:pol_x_preferred":[
+        "Tamia"
+    ],
+    "name:por_x_preferred":[
+        "Tamia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044d\u043c\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Tamia"
+    ],
+    "name:swe_x_preferred":[
+        "Tamia"
+    ],
+    "name:tgl_x_preferred":[
+        "Tamia"
+    ],
     "name:und_x_variant":[
         "Taniha",
         "Tamia"
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1293893985,
-    "wof:lastmodified":1537664585,
+    "wof:lastmodified":1564298994,
     "wof:name":"Tamia",
     "wof:parent_id":421171625,
     "wof:placetype":"locality",

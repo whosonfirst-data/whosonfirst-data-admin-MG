@@ -24,6 +24,60 @@
     "meso:region":"Atsimo Atsinanana",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Farafangana"
+    ],
+    "name:deu_x_preferred":[
+        "Farafangana"
+    ],
+    "name:est_x_preferred":[
+        "Farafangana"
+    ],
+    "name:fin_x_preferred":[
+        "Farafangana"
+    ],
+    "name:fra_x_preferred":[
+        "Farafangana"
+    ],
+    "name:hrv_x_preferred":[
+        "Farafangana"
+    ],
+    "name:ita_x_preferred":[
+        "Farafangana"
+    ],
+    "name:mlg_x_preferred":[
+        "Farafangana"
+    ],
+    "name:nld_x_preferred":[
+        "Farafangana"
+    ],
+    "name:pol_x_preferred":[
+        "Farafangana"
+    ],
+    "name:por_x_preferred":[
+        "Farafangana"
+    ],
+    "name:ron_x_preferred":[
+        "Farafangana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u0444\u0430\u043d\u0433\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Farafangana"
+    ],
+    "name:swe_x_preferred":[
+        "Farafangana"
+    ],
+    "name:tgl_x_preferred":[
+        "Farafangana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0631\u0627\u0641\u0627\u0646\u06af\u0627\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u62c9\u51e1\u52a0\u7d0d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +99,7 @@
         }
     ],
     "wof:id":1108801147,
-    "wof:lastmodified":1554489519,
+    "wof:lastmodified":1564300160,
     "wof:name":"Farafangana",
     "wof:parent_id":85673987,
     "wof:placetype":"county",

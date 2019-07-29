@@ -25,6 +25,21 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jangany"
+    ],
+    "name:ita_x_preferred":[
+        "Jangany"
+    ],
+    "name:mlg_x_preferred":[
+        "Jangany"
+    ],
+    "name:nld_x_preferred":[
+        "Jangany"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u06af\u0646\u0646\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344075663,
-    "wof:lastmodified":1536852548,
+    "wof:lastmodified":1564298299,
     "wof:name":"Jangany",
     "wof:parent_id":421175089,
     "wof:placetype":"locality",

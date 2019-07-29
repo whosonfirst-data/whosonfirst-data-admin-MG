@@ -25,6 +25,27 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Besalampy"
+    ],
+    "name:ita_x_preferred":[
+        "Besalampy"
+    ],
+    "name:mlg_x_preferred":[
+        "Besalampy"
+    ],
+    "name:nld_x_preferred":[
+        "Besalampy"
+    ],
+    "name:pol_x_preferred":[
+        "Besalampy"
+    ],
+    "name:swe_x_preferred":[
+        "Besalampy"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u85a9\u862d\u76ae"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1243464827,
-    "wof:lastmodified":1536779456,
+    "wof:lastmodified":1564300964,
     "wof:name":"Besalampy",
     "wof:parent_id":421199277,
     "wof:placetype":"locality",

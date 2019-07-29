@@ -24,6 +24,33 @@
     "meso:region":"Atsimo Atsinanana",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:fra_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:hrv_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:ita_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:mlg_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:nld_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:pol_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:swe_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u52a0\u56e0\u5fb7\u62c9\u52aa"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +72,7 @@
         }
     ],
     "wof:id":1108801213,
-    "wof:lastmodified":1554489523,
+    "wof:lastmodified":1564300148,
     "wof:name":"Vangaindrano",
     "wof:parent_id":85673987,
     "wof:placetype":"county",

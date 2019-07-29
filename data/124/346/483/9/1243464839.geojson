@@ -25,6 +25,30 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u062f\u06cc\u0648\u0627\u0631\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Ambodivoara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u062f\u06cc\u0648\u0627\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambodivoara"
+    ],
+    "name:ita_x_preferred":[
+        "Ambodivoara"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambodivoara"
+    ],
+    "name:nld_x_preferred":[
+        "Ambodivoara"
+    ],
+    "name:swe_x_preferred":[
+        "Ambodivoara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243464839,
-    "wof:lastmodified":1536779440,
+    "wof:lastmodified":1564300965,
     "wof:name":"Ambodivoara",
     "wof:parent_id":1108801189,
     "wof:placetype":"locality",

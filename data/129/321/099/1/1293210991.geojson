@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Andranovorivato"
+    ],
+    "name:ita_x_preferred":[
+        "Andranovorivato"
+    ],
+    "name:mlg_x_preferred":[
+        "Andranovorivato"
+    ],
+    "name:nld_x_preferred":[
+        "Andranovorivato"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293210991,
-    "wof:lastmodified":1537568366,
+    "wof:lastmodified":1564299050,
     "wof:name":"Andranovorivato",
     "wof:parent_id":1108801219,
     "wof:placetype":"locality",

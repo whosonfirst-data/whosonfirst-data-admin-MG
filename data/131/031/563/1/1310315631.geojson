@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maroamalona"
+    ],
+    "name:ita_x_preferred":[
+        "Maroamalona"
+    ],
+    "name:mlg_x_preferred":[
+        "Maroamalona"
+    ],
+    "name:nld_x_preferred":[
+        "Maroamalona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1310315631,
-    "wof:lastmodified":1537568344,
+    "wof:lastmodified":1564300270,
     "wof:name":"Maroamalona",
     "wof:parent_id":1108801127,
     "wof:placetype":"locality",

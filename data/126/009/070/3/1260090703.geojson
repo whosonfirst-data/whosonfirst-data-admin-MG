@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Firavahana"
+    ],
+    "name:ita_x_preferred":[
+        "Firavahana"
+    ],
+    "name:mlg_x_preferred":[
+        "Firavahana"
+    ],
+    "name:nld_x_preferred":[
+        "Firavahana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1260090703,
-    "wof:lastmodified":1537568352,
+    "wof:lastmodified":1564300023,
     "wof:name":"Firavahana",
     "wof:parent_id":1108801151,
     "wof:placetype":"locality",

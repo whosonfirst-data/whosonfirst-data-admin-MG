@@ -25,6 +25,30 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0647\u06cc\u0645\u0647\u0627\u0648\u0644\u0648\u0646\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Ambohimahavelona"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0647\u06cc\u0645\u0647\u0627\u0648\u0644\u0648\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ambohimahavelona"
+    ],
+    "name:ita_x_preferred":[
+        "Ambohimahavelona"
+    ],
+    "name:mlg_x_preferred":[
+        "Ambohimahavelona"
+    ],
+    "name:nld_x_preferred":[
+        "Ambohimahavelona"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5e03\u5e0c\u99ac\u54c8\u97cb\u76e7\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276996429,
-    "wof:lastmodified":1536884205,
+    "wof:lastmodified":1564299460,
     "wof:name":"Ambohimahavelona",
     "wof:parent_id":421197047,
     "wof:placetype":"locality",

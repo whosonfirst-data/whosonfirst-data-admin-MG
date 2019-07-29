@@ -25,6 +25,78 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u062c\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "Analamanga"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0430\u043b\u0430\u043c\u0430\u043d\u0433\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Analamanga Region"
+    ],
+    "name:dan_x_preferred":[
+        "Analamanga"
+    ],
+    "name:deu_x_preferred":[
+        "Analamanga"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03bb\u03b1\u03bc\u03ac\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Analamanga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Analamanga"
+    ],
+    "name:ind_x_preferred":[
+        "Analamanga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ca\u30e9\u30de\u30f3\u30ac\u5730\u57df\u570f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub0a0\ub77c\ub9dd\uac00 \uad6c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d28\u0d32\u0d2e\u0d19"
+    ],
+    "name:mlg_x_preferred":[
+        "Analamanga"
+    ],
+    "name:nld_x_preferred":[
+        "Analamanga"
+    ],
+    "name:nor_x_preferred":[
+        "Analamanga"
+    ],
+    "name:pol_x_preferred":[
+        "Analamanga"
+    ],
+    "name:por_x_preferred":[
+        "Analamanga"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Analamanga"
+    ],
+    "name:swa_x_preferred":[
+        "Analamanga"
+    ],
+    "name:swe_x_preferred":[
+        "Analamanga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u06af\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u90a3\u62c9\u8292\u52a0\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +120,7 @@
         }
     ],
     "wof:id":1225863537,
-    "wof:lastmodified":1536987224,
+    "wof:lastmodified":1564301712,
     "wof:name":"Analamanga",
     "wof:parent_id":1108801097,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soatanana"
+    ],
+    "name:ita_x_preferred":[
+        "Soatanana"
+    ],
+    "name:mlg_x_preferred":[
+        "Soatanana"
+    ],
+    "name:nld_x_preferred":[
+        "Soatanana"
+    ],
     "name:und_x_variant":[
         "Soatana",
         "Soatanana"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293502503,
-    "wof:lastmodified":1537664588,
+    "wof:lastmodified":1564298880,
     "wof:name":"Soatanana",
     "wof:parent_id":1108801083,
     "wof:placetype":"locality",

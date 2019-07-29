@@ -24,6 +24,9 @@
     "meso:region":"Haute Matsiatra",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u62c9\u862d\u5409\u7d0d\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108801159,
-    "wof:lastmodified":1554489519,
+    "wof:lastmodified":1564300158,
     "wof:name":"Lalangina",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahaly"
+    ],
+    "name:ita_x_preferred":[
+        "Mahaly"
+    ],
+    "name:mlg_x_preferred":[
+        "Mahaly"
+    ],
+    "name:nld_x_preferred":[
+        "Mahaly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276462745,
-    "wof:lastmodified":1536602210,
+    "wof:lastmodified":1564299400,
     "wof:name":"Mahaly",
     "wof:parent_id":1108801213,
     "wof:placetype":"locality",

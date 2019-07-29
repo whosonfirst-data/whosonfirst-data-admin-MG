@@ -26,6 +26,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belobaka"
+    ],
+    "name:ita_x_preferred":[
+        "Belobaka"
+    ],
+    "name:mlg_x_preferred":[
+        "Belobaka"
+    ],
+    "name:nld_x_preferred":[
+        "Belobaka"
+    ],
     "name:und_x_variant":[
         "Belobeka",
         "Belobaka"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242688513,
-    "wof:lastmodified":1537664689,
+    "wof:lastmodified":1564300883,
     "wof:name":"Belobaka",
     "wof:parent_id":421183937,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Irondro"
+    ],
     "name:und_x_variant":[
         "Irondra",
         "Irondro"
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209116519,
-    "wof:lastmodified":1537664652,
+    "wof:lastmodified":1564299802,
     "wof:name":"Irondro",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

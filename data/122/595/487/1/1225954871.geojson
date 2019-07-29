@@ -25,6 +25,21 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mafana"
+    ],
+    "name:por_x_preferred":[
+        "Mafana"
+    ],
+    "name:swe_x_preferred":[
+        "Mafana"
+    ],
+    "name:vie_x_preferred":[
+        "Mafana"
+    ],
+    "name:war_x_preferred":[
+        "Mafana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1225954871,
-    "wof:lastmodified":1536854873,
+    "wof:lastmodified":1564301533,
     "wof:name":"Mafana",
     "wof:parent_id":890442887,
     "wof:placetype":"locality",

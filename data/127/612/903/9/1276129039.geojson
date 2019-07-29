@@ -25,6 +25,18 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bekopaka"
+    ],
+    "name:fra_x_preferred":[
+        "Bekopaka"
+    ],
+    "name:nld_x_preferred":[
+        "Bekopaka"
+    ],
+    "name:pol_x_preferred":[
+        "Bekopaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276129039,
-    "wof:lastmodified":1537050159,
+    "wof:lastmodified":1564299393,
     "wof:name":"Bekopaka",
     "wof:parent_id":421199279,
     "wof:placetype":"locality",

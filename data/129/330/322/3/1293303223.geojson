@@ -25,6 +25,15 @@
     "iso:country":"MG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manalalondo"
+    ],
+    "name:mlg_x_preferred":[
+        "Manalalondo"
+    ],
+    "name:nld_x_preferred":[
+        "Manalalondo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293303223,
-    "wof:lastmodified":1537568346,
+    "wof:lastmodified":1564298680,
     "wof:name":"Manalalondo",
     "wof:parent_id":1108801121,
     "wof:placetype":"locality",
