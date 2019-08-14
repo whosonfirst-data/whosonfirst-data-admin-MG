@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HO"
+    ],
     "lbl:latitude":-22.20984,
     "lbl:longitude":45.977182,
     "meso:name_loc":"Ihorombe",
@@ -281,7 +284,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578395,
+    "wof:lastmodified":1565727437,
     "wof:name":"Ihorombe",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

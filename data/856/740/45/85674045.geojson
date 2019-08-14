@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VF"
+    ],
     "lbl:latitude":-21.316258,
     "lbl:longitude":47.872655,
     "meso:name_loc":"Vatovavy-Fitovinany",
@@ -287,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578394,
+    "wof:lastmodified":1565727437,
     "wof:name":"Vatovavy-Fitovinany",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":-20.614627,
     "lbl:longitude":46.898674,
     "meso:name_loc":"Amoron'i Mania",
@@ -284,7 +287,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578383,
+    "wof:lastmodified":1565727434,
     "wof:name":"Amoron'i Mania",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

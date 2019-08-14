@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":-17.502974,
     "lbl:longitude":44.794016,
     "meso:name_loc":"Melaky",
@@ -281,7 +284,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578393,
+    "wof:lastmodified":1565727436,
     "wof:name":"Melaky",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

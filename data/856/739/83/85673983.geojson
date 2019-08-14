@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AF"
+    ],
     "lbl:latitude":-22.660554,
     "lbl:longitude":44.238102,
     "meso:name_loc":"Atsimo-Andrefana",
@@ -296,7 +299,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578389,
+    "wof:lastmodified":1565727435,
     "wof:name":"Atsimo-Andrefana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

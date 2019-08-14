@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SV"
+    ],
     "lbl:latitude":-14.196894,
     "lbl:longitude":49.698606,
     "meso:name_loc":"Sava",
@@ -329,7 +332,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578399,
+    "wof:lastmodified":1565727438,
     "wof:name":"Sava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

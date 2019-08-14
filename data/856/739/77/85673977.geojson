@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AY"
+    ],
     "lbl:latitude":-23.32683,
     "lbl:longitude":45.905158,
     "meso:name_loc":"Anosy",
@@ -144,7 +147,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550473,
+    "wof:lastmodified":1565727436,
     "wof:name":"Anosy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

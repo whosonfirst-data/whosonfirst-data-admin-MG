@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DI"
+    ],
     "lbl:latitude":-13.729457,
     "lbl:longitude":48.953519,
     "meso:name_loc":"Diana",
@@ -217,9 +220,6 @@
         }
     ],
     "wof:id":85674009,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mlg",
         "fra",
@@ -230,7 +230,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578397,
+    "wof:lastmodified":1565727437,
     "wof:name":"Diana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

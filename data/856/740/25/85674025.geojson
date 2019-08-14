@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IT"
+    ],
     "lbl:latitude":-18.970271,
     "lbl:longitude":46.822667,
     "meso:name_loc":"Itasy",
@@ -156,7 +159,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550472,
+    "wof:lastmodified":1565727438,
     "wof:name":"Itasy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

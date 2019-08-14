@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BE"
+    ],
     "lbl:latitude":-17.243626,
     "lbl:longitude":47.117346,
     "meso:name_loc":"Betsiboka",
@@ -287,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578382,
+    "wof:lastmodified":1565727434,
     "wof:name":"Betsiboka",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

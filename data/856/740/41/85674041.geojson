@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SF"
+    ],
     "lbl:latitude":-15.344724,
     "lbl:longitude":48.270561,
     "meso:name_loc":"Sofia",
@@ -653,9 +656,6 @@
         }
     ],
     "wof:id":85674041,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mlg",
         "fra",
@@ -666,7 +666,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1564298659,
+    "wof:lastmodified":1565727438,
     "wof:name":"Sofia",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":-16.420433,
     "lbl:longitude":46.002977,
     "meso:name_loc":"Boeny",
@@ -281,7 +284,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578400,
+    "wof:lastmodified":1565727438,
     "wof:name":"Boeny",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

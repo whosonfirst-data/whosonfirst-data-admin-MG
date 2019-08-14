@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HM"
+    ],
     "lbl:latitude":-21.411645,
     "lbl:longitude":46.61785,
     "meso:name_loc":"Haute Matsiatra",
@@ -281,9 +284,6 @@
         }
     ],
     "wof:id":85674013,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mlg",
         "fra",
@@ -294,7 +294,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578404,
+    "wof:lastmodified":1565727438,
     "wof:name":"Haute Matsiatra",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

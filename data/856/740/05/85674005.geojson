@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":-18.530863,
     "lbl:longitude":46.065806,
     "meso:name_loc":"Bongolava",
@@ -284,9 +287,6 @@
         }
     ],
     "wof:id":85674005,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mlg",
         "fra",
@@ -297,7 +297,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578392,
+    "wof:lastmodified":1565727436,
     "wof:name":"Bongolava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

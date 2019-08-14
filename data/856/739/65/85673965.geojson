@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AG"
+    ],
     "lbl:latitude":-18.367286,
     "lbl:longitude":47.423282,
     "meso:name_loc":"Analamanga",
@@ -299,7 +302,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578387,
+    "wof:lastmodified":1565727435,
     "wof:name":"Analamanga",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

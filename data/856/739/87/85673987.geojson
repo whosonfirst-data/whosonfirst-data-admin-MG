@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AA"
+    ],
     "lbl:latitude":-23.330594,
     "lbl:longitude":47.311353,
     "meso:name_loc":"Atsimo-Atsinanana",
@@ -287,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578386,
+    "wof:lastmodified":1565727434,
     "wof:name":"Atsimo-Atsinanana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

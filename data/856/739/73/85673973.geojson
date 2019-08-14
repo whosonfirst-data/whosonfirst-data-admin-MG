@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AD"
+    ],
     "lbl:latitude":-24.906739,
     "lbl:longitude":45.50651,
     "meso:name_loc":"Androy",
@@ -287,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578385,
+    "wof:lastmodified":1565727434,
     "wof:name":"Androy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

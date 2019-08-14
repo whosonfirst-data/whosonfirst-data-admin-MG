@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AO"
+    ],
     "lbl:latitude":-17.898344,
     "lbl:longitude":48.314231,
     "meso:name_loc":"Alaotra-Mangoro",
@@ -277,9 +280,6 @@
         }
     ],
     "wof:id":85673955,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mlg",
         "fra",
@@ -290,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578388,
+    "wof:lastmodified":1565727435,
     "wof:name":"Alaotra-Mangoro",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

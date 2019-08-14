@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":-20.360182,
     "lbl:longitude":45.097224,
     "meso:name_loc":"Menabe",
@@ -283,9 +286,6 @@
         }
     ],
     "wof:id":85674035,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mlg",
         "fra",
@@ -296,7 +296,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578391,
+    "wof:lastmodified":1565727436,
     "wof:name":"Menabe",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

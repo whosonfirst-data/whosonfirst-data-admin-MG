@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VA"
+    ],
     "lbl:latitude":-19.739047,
     "lbl:longitude":46.86748,
     "meso:name_loc":"Vakinankaratra",
@@ -304,7 +307,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563578396,
+    "wof:lastmodified":1565727437,
     "wof:name":"Vakinankaratra",
     "wof:parent_id":85632223,
     "wof:placetype":"region",
