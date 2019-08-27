@@ -10,7 +10,12 @@
     "geom:latitude":-12.278785,
     "geom:longitude":49.293937,
     "iso:country":"MG",
+    "lbl:bbox":"49.273937,-12.298785,49.313937,-12.258785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1359355,
-        "qs:id":1115760
+        "qs_pg:id":1115760
     },
     "wof:country":"MG",
     "wof:created":1459009634,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":421189709,
-    "wof:lastmodified":1494545214,
+    "wof:lastmodified":1566604784,
     "wof:name":"Antsira\u00f0ana",
     "wof:parent_id":421169783,
     "wof:placetype":"locality",

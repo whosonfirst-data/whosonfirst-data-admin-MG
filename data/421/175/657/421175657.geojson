@@ -10,8 +10,12 @@
     "geom:latitude":-22.55576,
     "geom:longitude":45.41413,
     "iso:country":"MG",
+    "lbl:bbox":"45.39413,-22.57576,45.43413,-22.53576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ranohira"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1057921,
         "gp:id":1499099,
-        "qs:id":1221118,
+        "qs_pg:id":1221118,
         "wd:id":"Q3113216"
     },
     "wof:country":"MG",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421175657,
-    "wof:lastmodified":1563580288,
+    "wof:lastmodified":1566604787,
     "wof:name":"Ranohira",
     "wof:parent_id":421175325,
     "wof:placetype":"locality",

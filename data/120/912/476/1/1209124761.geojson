@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.94667,-13.55333,48.98667,-13.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsarafasy",
         "Tsaratasy"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209124761,
-    "wof:lastmodified":1537664577,
+    "wof:lastmodified":1566604290,
     "wof:name":"Tsaratasy",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

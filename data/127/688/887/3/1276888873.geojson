@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.16333,-15.03667,48.20333,-14.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Anjalazala"
     ],
@@ -39,8 +43,7 @@
         "Anjalazala"
     ],
     "name:und_x_variant":[
-        "Anjalajala",
-        "Anjalazala"
+        "Anjalajala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1276888873,
-    "wof:lastmodified":1564299136,
+    "wof:lastmodified":1566604071,
     "wof:name":"Anjalazala",
     "wof:parent_id":1108801119,
     "wof:placetype":"locality",

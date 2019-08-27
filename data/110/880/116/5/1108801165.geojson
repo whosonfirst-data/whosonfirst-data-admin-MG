@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-20.647957,
     "lbl:longitude":45.178138,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Mahabo",
     "meso:gaul_adm2":"Mahabo",
     "meso:name_loc":"Mahabo",
     "meso:region":"Menabe",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:fra_x_preferred":[
         "Mahabo"
     ],
@@ -46,7 +49,7 @@
         "\u99ac\u54c8\u5e03"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108801165,
-    "wof:lastmodified":1564300143,
+    "wof:lastmodified":1566604516,
     "wof:name":"Mahabo",
     "wof:parent_id":85674035,
     "wof:placetype":"county",

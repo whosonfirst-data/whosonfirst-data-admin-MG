@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.76333,-19.08667,47.80333,-19.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292918515,
-    "wof:lastmodified":1536610513,
+    "wof:lastmodified":1566603979,
     "wof:name":"Ambohijalovo",
     "wof:parent_id":421190795,
     "wof:placetype":"locality",

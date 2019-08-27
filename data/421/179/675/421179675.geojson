@@ -10,6 +10,9 @@
     "geom:latitude":-16.11064,
     "geom:longitude":46.64383,
     "iso:country":"MG",
+    "lbl:bbox":"46.62383,-16.13064,46.66383,-16.09064",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -48,9 +51,6 @@
         "\u041c\u0430\u0440\u0443\u0432\u0443\u0430\u0439"
     ],
     "name:swe_x_preferred":[
-        "Marovoay"
-    ],
-    "name:unk_x_variant":[
         "Marovoay"
     ],
     "name:zho_x_preferred":[
@@ -178,7 +178,7 @@
     "wof:concordances":{
         "gn:id":1059507,
         "gp:id":1363124,
-        "qs:id":429924,
+        "qs_pg:id":429924,
         "wd:id":"Q1902425",
         "wk:page":"Marovoay"
     },
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":421179675,
-    "wof:lastmodified":1563580307,
+    "wof:lastmodified":1566604792,
     "wof:name":"Marovoaikely",
     "wof:parent_id":421183933,
     "wof:placetype":"locality",

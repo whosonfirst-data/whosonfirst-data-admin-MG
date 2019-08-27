@@ -10,8 +10,12 @@
     "geom:latitude":-19.4,
     "geom:longitude":46.95,
     "iso:country":"MG",
+    "lbl:bbox":"46.93,-19.42,46.97,-19.38",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Faratsiho"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1065140,
         "gp:id":1360935,
-        "qs:id":130426,
+        "qs_pg:id":130426,
         "wd:id":"Q1343729",
         "wk:page":"Faratsiho"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421167181,
-    "wof:lastmodified":1563580269,
+    "wof:lastmodified":1566604782,
     "wof:name":"Faratsiho",
     "wof:parent_id":421200821,
     "wof:placetype":"locality",

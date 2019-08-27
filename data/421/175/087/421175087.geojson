@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-19.937112,
     "lbl:longitude":46.705619,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Betafo",
     "meso:gaul_adm2":"Betafo",
     "meso:name_loc":"Betafo",
     "meso:region":"Vakinankaratra",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0627\u0641\u0648"
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":189,
     "wof:belongsto":[
         102191573,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706606,
-        "qs:id":350774,
+        "qs_pg:id":350774,
         "wd:id":"Q167181"
     },
     "wof:country":"MG",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421175087,
-    "wof:lastmodified":1563580290,
+    "wof:lastmodified":1566604787,
     "wof:name":"Betafo",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

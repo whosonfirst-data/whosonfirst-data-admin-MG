@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-14.196894,
     "lbl:longitude":49.698606,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Sava",
     "mps:latitude":-14.163282,
     "mps:longitude":49.711929,
@@ -289,7 +290,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Sambava",
@@ -309,7 +310,7 @@
     "wof:concordances":{
         "gp:id":2346146,
         "hasc:id":"MG.AS.SV",
-        "qs:id":891445,
+        "qs_pg:id":891445,
         "wd:id":"Q14383"
     },
     "wof:country":"MG",
@@ -332,7 +333,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727438,
+    "wof:lastmodified":1566603848,
     "wof:name":"Sava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

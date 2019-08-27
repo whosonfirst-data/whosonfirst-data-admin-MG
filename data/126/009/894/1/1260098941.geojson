@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.23,-18.62,46.27,-18.58",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Analafisaka",
         "Analatsifaka"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260098941,
-    "wof:lastmodified":1537664770,
+    "wof:lastmodified":1566604466,
     "wof:name":"Analatsifaka",
     "wof:parent_id":421183937,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.46333,-23.47,45.50333,-23.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Anapamofy",
         "Ampamoty"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293902395,
-    "wof:lastmodified":1537664785,
+    "wof:lastmodified":1566603887,
     "wof:name":"Ampamoty",
     "wof:parent_id":421175089,
     "wof:placetype":"locality",

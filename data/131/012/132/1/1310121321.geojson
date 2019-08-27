@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.08,-12.28667,49.12,-12.24667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310121321,
-    "wof:lastmodified":1536973162,
+    "wof:lastmodified":1566604528,
     "wof:name":"Ampasindava",
     "wof:parent_id":1108801117,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.34667,-21.43667,44.38667,-21.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Miary"
     ],
@@ -39,8 +43,7 @@
         "Miary"
     ],
     "name:und_x_variant":[
-        "Mihary",
-        "Miary"
+        "Mihary"
     ],
     "name:zho_x_preferred":[
         "\u7c73\u4e9e\u91cc"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1293210821,
-    "wof:lastmodified":1564299048,
+    "wof:lastmodified":1566604028,
     "wof:name":"Miary",
     "wof:parent_id":1108801187,
     "wof:placetype":"locality",

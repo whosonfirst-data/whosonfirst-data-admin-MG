@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.01333,-21.95333,48.05333,-21.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u062f\u0631\u064a\u0627"
     ],
@@ -231,7 +235,7 @@
         }
     ],
     "wof:id":1225860027,
-    "wof:lastmodified":1564301728,
+    "wof:lastmodified":1566605218,
     "wof:name":"Andria",
     "wof:parent_id":1108801175,
     "wof:placetype":"locality",

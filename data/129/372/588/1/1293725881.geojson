@@ -24,8 +24,12 @@
     "gn:population":8000,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.76333,-19.10333,47.80333,-19.06333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0648\u0647\u06cc\u062a\u0631\u0627\u0646\u062f\u0631\u06cc\u0627\u0645\u0627\u0646\u06cc\u062a\u0631\u0627"
     ],
@@ -51,8 +55,7 @@
         "Ambohitrandriamanitra"
     ],
     "name:und_x_variant":[
-        "Ambohiandriamanitra",
-        "Ambohitrandriamanitra"
+        "Ambohiandriamanitra"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1293725881,
-    "wof:lastmodified":1564299079,
+    "wof:lastmodified":1566604042,
     "wof:name":"Ambohitrandriamanitra",
     "wof:parent_id":421190795,
     "wof:placetype":"locality",

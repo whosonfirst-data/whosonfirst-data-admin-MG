@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.24667,-17.70333,45.28667,-17.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Andramy"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226261311,
-    "wof:lastmodified":1564301564,
+    "wof:lastmodified":1566605151,
     "wof:name":"Andramy",
     "wof:parent_id":1108801079,
     "wof:placetype":"locality",

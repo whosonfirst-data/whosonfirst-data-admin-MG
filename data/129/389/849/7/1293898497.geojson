@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.21333,-22.95333,47.25333,-22.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u062c\u0627"
     ],
@@ -93,8 +97,7 @@
         "Analamanga"
     ],
     "name:und_x_variant":[
-        "Ambalamanga",
-        "Analamanga"
+        "Ambalamanga"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u06af\u0627"
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1293898497,
-    "wof:lastmodified":1564299008,
+    "wof:lastmodified":1566604010,
     "wof:name":"Analamanga",
     "wof:parent_id":1108801221,
     "wof:placetype":"locality",

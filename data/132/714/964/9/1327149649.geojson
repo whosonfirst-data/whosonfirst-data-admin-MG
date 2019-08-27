@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.64667,-17.00333,46.68667,-16.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Anjokozoko",
         "Anjokozoka"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327149649,
-    "wof:lastmodified":1537664744,
+    "wof:lastmodified":1566603479,
     "wof:name":"Anjokozoka",
     "wof:parent_id":1108801163,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"43.19667,-22.27,43.23667,-22.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Antsepako",
         "Antsepoka"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1309818691,
-    "wof:lastmodified":1537664706,
+    "wof:lastmodified":1566604764,
     "wof:name":"Antsepoka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

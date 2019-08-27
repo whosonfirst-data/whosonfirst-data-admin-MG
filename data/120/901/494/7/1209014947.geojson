@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.34667,-21.63667,46.38667,-21.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1074589
     },
     "wof:country":"MG",
-    "wof:geomhash":"2a71fb780eca44c6a3df93a1ca0ae233",
+    "wof:geomhash":"bb346e7ca8f3de0ea579f5858126e3a6",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209014947,
-    "wof:lastmodified":1536300325,
+    "wof:lastmodified":1566604257,
     "wof:name":"Andrareza",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     46.36667,
-    -21.616670000000006,
+    -21.61667000000001,
     46.36667,
-    -21.616670000000006
+    -21.61667000000001
 ],
   "geometry": {"coordinates":[46.36667,-21.61667000000001],"type":"Point"}
 }

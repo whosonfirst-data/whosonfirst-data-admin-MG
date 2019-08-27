@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.58,-18.38667,47.62,-18.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1067721
     },
     "wof:country":"MG",
-    "wof:geomhash":"86f91ddd61da0e919a4c734c8df2c0dd",
+    "wof:geomhash":"b10587674e15392957b1e75ec69fb37f",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209534229,
-    "wof:lastmodified":1536284189,
+    "wof:lastmodified":1566604231,
     "wof:name":"Belanitra",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     47.6,
-    -18.366670000000006,
+    -18.36667000000001,
     47.6,
-    -18.366670000000006
+    -18.36667000000001
 ],
   "geometry": {"coordinates":[47.6,-18.36667000000001],"type":"Point"}
 }

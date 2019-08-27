@@ -10,8 +10,12 @@
     "geom:latitude":-22.33333,
     "geom:longitude":46.48333,
     "iso:country":"MG",
+    "lbl:bbox":"46.46333,-22.35333,46.50333,-22.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sakalalina"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1057172,
         "gp:id":1499249,
-        "qs:id":496849,
+        "qs_pg:id":496849,
         "wd:id":"Q3469351"
     },
     "wof:country":"MG",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421193183,
-    "wof:lastmodified":1563580269,
+    "wof:lastmodified":1566604782,
     "wof:name":"Sakalalina",
     "wof:parent_id":421175325,
     "wof:placetype":"locality",

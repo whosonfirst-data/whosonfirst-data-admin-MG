@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-17.330551,
     "lbl:longitude":46.791075,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Maevatanana",
     "meso:gaul_adm2":"Maevatanana",
     "meso:name_loc":"Maevatanana",
     "meso:region":"Betsiboka",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Maevatanana"
     ],
@@ -64,7 +67,7 @@
         "\u99ac\u57c3\u74e6\u5854\u7d0d\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108801163,
-    "wof:lastmodified":1564300143,
+    "wof:lastmodified":1566604516,
     "wof:name":"Maevatanana",
     "wof:parent_id":85673995,
     "wof:placetype":"county",

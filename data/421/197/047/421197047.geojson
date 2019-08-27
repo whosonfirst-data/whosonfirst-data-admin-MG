@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-21.088068,
     "lbl:longitude":47.617642,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Ifanadiana",
     "meso:gaul_adm2":"Ifanadiana",
     "meso:name_loc":"Ifanadiana",
     "meso:region":"Vatovavy Fitovinany",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0418\u0444\u0430\u043d\u0430\u0434\u0438\u0430\u043d\u0430"
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":138,
     "wof:belongsto":[
         102191573,
@@ -90,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706549,
-        "qs:id":1289563,
+        "qs_pg:id":1289563,
         "wd:id":"Q1099548"
     },
     "wof:country":"MG",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421197047,
-    "wof:lastmodified":1563580298,
+    "wof:lastmodified":1566604789,
     "wof:name":"Ifanadiana",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

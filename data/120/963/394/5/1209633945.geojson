@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.86333,-19.88667,44.90333,-19.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1077431
     },
     "wof:country":"MG",
-    "wof:geomhash":"abc3030095d8862c48b6e698998eabae",
+    "wof:geomhash":"bd224435cc72a82a9eb71491d7a73e50",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209633945,
-    "wof:lastmodified":1536281102,
+    "wof:lastmodified":1566604265,
     "wof:name":"Ampozaloaka",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     44.88333,
-    -19.866670000000006,
+    -19.86667000000001,
     44.88333,
-    -19.866670000000006
+    -19.86667000000001
 ],
   "geometry": {"coordinates":[44.88333,-19.86667000000001],"type":"Point"}
 }

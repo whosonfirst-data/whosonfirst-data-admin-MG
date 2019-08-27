@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.11333,-13.20333,49.15333,-13.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327348561,
-    "wof:lastmodified":1536801824,
+    "wof:lastmodified":1566603517,
     "wof:name":"Makaina",
     "wof:parent_id":421180171,
     "wof:placetype":"locality",

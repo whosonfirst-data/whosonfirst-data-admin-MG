@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.41333,-20.10333,46.45333,-20.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Amboasary"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1310424389,
-    "wof:lastmodified":1564300314,
+    "wof:lastmodified":1566604596,
     "wof:name":"Amboasary",
     "wof:parent_id":421175087,
     "wof:placetype":"locality",

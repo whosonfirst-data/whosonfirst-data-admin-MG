@@ -24,8 +24,12 @@
     "gn:population":32080,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.83,-13.10333,48.87,-13.06333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Antsohimbondrona"
     ],
@@ -45,8 +49,7 @@
         "Antsohimbondrona"
     ],
     "name:und_x_variant":[
-        "Port Saint-Louis",
-        "Antsohimbondrona"
+        "Port Saint-Louis"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1259517801,
-    "wof:lastmodified":1564301452,
+    "wof:lastmodified":1566605106,
     "wof:name":"Antsohimbondrona",
     "wof:parent_id":421180171,
     "wof:placetype":"locality",

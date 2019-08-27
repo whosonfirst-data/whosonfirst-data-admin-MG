@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.69667,-14.78667,47.73667,-14.74667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ambodiadabo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226360967,
-    "wof:lastmodified":1564301931,
+    "wof:lastmodified":1566605297,
     "wof:name":"Ambodiadabo",
     "wof:parent_id":1108801093,
     "wof:placetype":"locality",

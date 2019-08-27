@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-17.432476,
     "lbl:longitude":48.308752,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Amparafaravola",
     "meso:gaul_adm2":"Amparafaravola",
     "meso:name_loc":"Amparafaravola",
     "meso:region":"Alaotra Mangoro",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u067e\u0627\u0631\u0627\u0641\u0627\u0631\u0627\u0648\u0644\u0627"
     ],
@@ -73,7 +76,7 @@
         "\u5b89\u5e15\u62c9\u6cd5\u62c9\u6b66\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108801091,
-    "wof:lastmodified":1564300153,
+    "wof:lastmodified":1566604522,
     "wof:name":"Amparafaravola",
     "wof:parent_id":85673955,
     "wof:placetype":"county",

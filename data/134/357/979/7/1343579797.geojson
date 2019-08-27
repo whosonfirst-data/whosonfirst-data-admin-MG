@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.13,-18.25333,44.17,-18.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ankisatra"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343579797,
-    "wof:lastmodified":1564298446,
+    "wof:lastmodified":1566603742,
     "wof:name":"Ankisatra",
     "wof:parent_id":1108801171,
     "wof:placetype":"locality",

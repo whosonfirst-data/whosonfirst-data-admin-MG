@@ -23,8 +23,12 @@
     "gn:population":16114,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.84667,-13.52,48.88667,-13.48",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0627\u0631\u0627\u06a9\u0627\u0631\u0627\u06a9\u0627"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1260214431,
-    "wof:lastmodified":1564300141,
+    "wof:lastmodified":1566604515,
     "wof:name":"Ambarakaraka",
     "wof:parent_id":421180171,
     "wof:placetype":"locality",

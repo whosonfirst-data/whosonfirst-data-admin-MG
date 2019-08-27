@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.79494,-15.86628,48.83494,-15.82628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243293177,
-    "wof:lastmodified":1537025410,
+    "wof:lastmodified":1566604990,
     "wof:name":"Mandritsara Ambony",
     "wof:parent_id":1108801185,
     "wof:placetype":"locality",

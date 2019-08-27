@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.16333,-17.20333,45.20333,-17.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1074440
     },
     "wof:country":"MG",
-    "wof:geomhash":"d29626d15e12fde55388d73b125fa753",
+    "wof:geomhash":"af15f8a60058d3398b20d2c62a72639d",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209019533,
-    "wof:lastmodified":1536300188,
+    "wof:lastmodified":1566604248,
     "wof:name":"Andriabe",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     45.18333,
-    -17.183329999999998,
+    -17.18333,
     45.18333,
-    -17.183329999999998
+    -17.18333
 ],
   "geometry": {"coordinates":[45.18333,-17.18333],"type":"Point"}
 }

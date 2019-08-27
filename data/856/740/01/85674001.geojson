@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-16.420433,
     "lbl:longitude":46.002977,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Boeny",
     "mps:latitude":-16.438484,
     "mps:longitude":46.030507,
@@ -239,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Mahajanga",
@@ -261,7 +262,7 @@
         "gn:id":7670849,
         "gp:id":2346148,
         "hasc:id":"MG.MA.BO",
-        "qs:id":1288998,
+        "qs_pg:id":1288998,
         "wd:id":"Q740164"
     },
     "wof:country":"MG",
@@ -284,7 +285,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727438,
+    "wof:lastmodified":1566603849,
     "wof:name":"Boeny",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

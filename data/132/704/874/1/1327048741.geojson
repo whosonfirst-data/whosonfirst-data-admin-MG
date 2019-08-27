@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.39667,-19.07,44.43667,-19.03",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambato",
         "Ambato-Sosoa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327048741,
-    "wof:lastmodified":1537664814,
+    "wof:lastmodified":1566603531,
     "wof:name":"Ambato-Sosoa",
     "wof:parent_id":421199279,
     "wof:placetype":"locality",

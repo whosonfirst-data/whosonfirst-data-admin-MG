@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"50.11333,-15.95333,50.15333,-15.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ampotab\u00e9",
         "Fampotabe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310315565,
-    "wof:lastmodified":1537664665,
+    "wof:lastmodified":1566604573,
     "wof:name":"Fampotabe",
     "wof:parent_id":421196875,
     "wof:placetype":"locality",

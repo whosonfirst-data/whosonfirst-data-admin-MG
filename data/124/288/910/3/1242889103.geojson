@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.89667,-20.42,46.93667,-20.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u06cc\u0644\u0627\u0645\u0628"
     ],
@@ -45,8 +49,7 @@
         "Ambilombe"
     ],
     "name:und_x_variant":[
-        "Ambilobe",
-        "Ambilombe"
+        "Ambilobe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242889103,
-    "wof:lastmodified":1564300877,
+    "wof:lastmodified":1566604852,
     "wof:name":"Ambilombe",
     "wof:parent_id":421175319,
     "wof:placetype":"locality",

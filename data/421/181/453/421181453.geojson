@@ -12,6 +12,8 @@
     "iso:country":"MG",
     "lbl:latitude":-18.902964,
     "lbl:longitude":47.522391,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -407,7 +409,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043d\u0430\u043d\u0430\u0440\u0456\u0432\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tananarive"
     ],
     "name:urd_x_preferred":[
@@ -583,7 +585,7 @@
         "gn:id":1070940,
         "gp:id":1358594,
         "loc:id":"n79034322",
-        "qs:id":492814,
+        "qs_pg:id":492814,
         "wd:id":"Q3915",
         "wk:page":"Antananarivo"
     },
@@ -600,7 +602,7 @@
         }
     ],
     "wof:id":421181453,
-    "wof:lastmodified":1563580287,
+    "wof:lastmodified":1566604786,
     "wof:name":"Antananarivo",
     "wof:parent_id":1108801113,
     "wof:placetype":"locality",

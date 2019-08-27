@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-18.628414,
     "lbl:longitude":46.704055,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-18.628414,
     "mps:longitude":46.704055,
     "mz:hierarchy_label":1,
@@ -767,13 +769,8 @@
     "name:ukr_x_variant":[
         "\u041c\u0430\u0434\u0430\u0491\u0430\u0441\u043a\u0430\u0440"
     ],
-    "name:und_x_preferred":[
-        "Madagasikara"
-    ],
     "name:und_x_variant":[
-        "Republika Madagaskar"
-    ],
-    "name:unk_x_variant":[
+        "Republika Madagaskar",
         "\u00cele Rouge"
     ],
     "name:urd_x_preferred":[
@@ -931,7 +928,7 @@
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"261",
     "statoids:ds":"RM",
@@ -976,7 +973,7 @@
         "mzb:id":"madagascar",
         "ne:adm0_a3":"MDG",
         "nyt:id":"N81600106181805803721",
-        "qs:id":555099,
+        "qs_pg:id":555099,
         "uncrt:id":"RM",
         "wd:id":"Q1019",
         "wk:page":"Madagascar",
@@ -1002,7 +999,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727439,
+    "wof:lastmodified":1566603850,
     "wof:name":"Madagascar",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

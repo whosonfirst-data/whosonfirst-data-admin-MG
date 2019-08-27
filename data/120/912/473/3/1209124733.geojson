@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.79667,-21.73667,46.83667,-21.69667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambahamahazotra",
         "Ambalamahazatra",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209124733,
-    "wof:lastmodified":1537664826,
+    "wof:lastmodified":1566604297,
     "wof:name":"Ambalamahazotra",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

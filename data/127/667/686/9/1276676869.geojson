@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.27843,-13.42047,48.31843,-13.38047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambanoro",
         "Marodokana"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276676869,
-    "wof:lastmodified":1537664623,
+    "wof:lastmodified":1566604122,
     "wof:name":"Marodokana",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

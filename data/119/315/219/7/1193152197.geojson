@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.41333,-12.95333,49.45333,-12.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tsaratanana"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1193152197,
-    "wof:lastmodified":1564299943,
+    "wof:lastmodified":1566604426,
     "wof:name":"Tsaratanana",
     "wof:parent_id":1108801117,
     "wof:placetype":"locality",

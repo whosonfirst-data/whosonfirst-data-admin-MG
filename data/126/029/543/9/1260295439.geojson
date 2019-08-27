@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.18,-21.43667,47.22,-21.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mahatsinjony"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1260295439,
-    "wof:lastmodified":1564300110,
+    "wof:lastmodified":1566604501,
     "wof:name":"Mahatsinjony",
     "wof:parent_id":1108801159,
     "wof:placetype":"locality",

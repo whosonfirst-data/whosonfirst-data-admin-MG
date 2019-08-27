@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.88,-17.70333,44.92,-17.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1069578
     },
     "wof:country":"MG",
-    "wof:geomhash":"900071e02ccad5e1fec043fc937a38f2",
+    "wof:geomhash":"347e4deb8c2822efd8084a08f6275a86",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209633881,
-    "wof:lastmodified":1536281104,
+    "wof:lastmodified":1566604270,
     "wof:name":"Antsalovabe",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     44.9,
-    -17.683329999999994,
+    -17.68332999999999,
     44.9,
-    -17.683329999999994
+    -17.68332999999999
 ],
   "geometry": {"coordinates":[44.9,-17.68332999999999],"type":"Point"}
 }

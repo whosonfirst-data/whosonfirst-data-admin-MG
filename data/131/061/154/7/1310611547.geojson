@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.63,-18.48667,46.67,-18.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Soavina"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310611547,
-    "wof:lastmodified":1564300406,
+    "wof:lastmodified":1566604637,
     "wof:name":"Soavina",
     "wof:parent_id":1108801151,
     "wof:placetype":"locality",

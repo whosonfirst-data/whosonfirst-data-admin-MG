@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.03,-17.50333,48.07,-17.46333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043c\u0431\u043e\u0445\u0438\u043c\u0430\u043d\u0433\u0430"
     ],
@@ -105,8 +109,7 @@
         "\u0410\u043c\u0431\u043e\u0433\u0456\u043c\u0430\u043d\u0433\u0430"
     ],
     "name:und_x_variant":[
-        "Ambodimanga",
-        "Ambohimanga"
+        "Ambodimanga"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10db\u10d1\u10dd\u10f0\u10d8\u10db\u10d0\u10dc\u10d2\u10d0"
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1226153507,
-    "wof:lastmodified":1564301826,
+    "wof:lastmodified":1566605257,
     "wof:name":"Ambohimanga",
     "wof:parent_id":1108801091,
     "wof:placetype":"locality",

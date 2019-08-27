@@ -11,10 +11,14 @@
     "geom:longitude":48.57313,
     "gn:country":"MG",
     "gn:fcode":"PPLA2",
-    "gn:pop":19750,
+    "gn:population":19750,
     "iso:country":"MG",
+    "lbl:bbox":"48.55313,-17.03009,48.59313,-16.99009",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Andilamena"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1076194,
         "gp:id":1356512,
-        "qs:id":130458,
+        "qs_pg:id":130458,
         "wd:id":"Q1099525",
         "wk:page":"Andilamena"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890441743,
-    "wof:lastmodified":1563580315,
+    "wof:lastmodified":1566604794,
     "wof:name":"Andilamena",
     "wof:parent_id":1108801097,
     "wof:placetype":"locality",

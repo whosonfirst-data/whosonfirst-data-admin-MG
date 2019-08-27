@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.03,-24.52,47.07,-24.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Anakarany",
         "Enakara"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276458743,
-    "wof:lastmodified":1537664667,
+    "wof:lastmodified":1566604082,
     "wof:name":"Enakara",
     "wof:parent_id":421188095,
     "wof:placetype":"locality",

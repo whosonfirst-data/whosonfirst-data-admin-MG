@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.29667,-17.08667,45.33667,-17.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1066088
     },
     "wof:country":"MG",
-    "wof:geomhash":"8d76e17c3f10ef949d162866d01e944b",
+    "wof:geomhash":"e9dd57ae221c58b6cc8489317a94f05e",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209525953,
-    "wof:lastmodified":1536284430,
+    "wof:lastmodified":1566604271,
     "wof:name":"Betsivaky",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     45.31667,
-    -17.066670000000002,
+    -17.06667,
     45.31667,
-    -17.066670000000002
+    -17.06667
 ],
   "geometry": {"coordinates":[45.31667,-17.06667],"type":"Point"}
 }

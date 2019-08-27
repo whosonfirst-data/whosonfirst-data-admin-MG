@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.59667,-14.17,49.63667,-14.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bealampona"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343976731,
-    "wof:lastmodified":1564298251,
+    "wof:lastmodified":1566603654,
     "wof:name":"Bealampona",
     "wof:parent_id":421188089,
     "wof:placetype":"locality",

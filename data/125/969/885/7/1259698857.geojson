@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.59667,-24.12,46.63667,-24.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u0627\u0646\u064a\u0641\u0648\u062a\u0633\u064a"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1259698857,
-    "wof:lastmodified":1564301445,
+    "wof:lastmodified":1566605103,
     "wof:name":"Antanifotsy",
     "wof:parent_id":1108801083,
     "wof:placetype":"locality",

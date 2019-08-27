@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-18.894742,
     "lbl:longitude":46.024568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Tsiroanomandidy",
     "meso:gaul_adm2":"Tsiroanomandidy",
     "meso:name_loc":"Tsiroanomandidy",
     "meso:region":"Bongolava",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tsiroanomandidy"
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -104,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706583,
-        "qs:id":986235
+        "qs_pg:id":986235
     },
     "wof:country":"MG",
     "wof:created":1459009395,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421183937,
-    "wof:lastmodified":1564300744,
+    "wof:lastmodified":1566604792,
     "wof:name":"Tsiroanomandidy",
     "wof:parent_id":85674005,
     "wof:placetype":"county",

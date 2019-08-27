@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.18,-21.52,45.22,-21.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ankazoabo"
     ],
@@ -42,7 +46,6 @@
         "Ankazoabo"
     ],
     "name:und_x_variant":[
-        "Ankazoabo",
         "Ankazoabokely"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293502569,
-    "wof:lastmodified":1564298885,
+    "wof:lastmodified":1566603953,
     "wof:name":"Ankazoabokely",
     "wof:parent_id":1108801137,
     "wof:placetype":"locality",

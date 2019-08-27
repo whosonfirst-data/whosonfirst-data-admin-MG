@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.99667,-20.52,46.03667,-20.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ankarambe",
         "Ankerambe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293705597,
-    "wof:lastmodified":1537664737,
+    "wof:lastmodified":1566603907,
     "wof:name":"Ankerambe",
     "wof:parent_id":421175319,
     "wof:placetype":"locality",

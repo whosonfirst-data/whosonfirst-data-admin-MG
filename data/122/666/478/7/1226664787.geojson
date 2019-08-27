@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"43.94667,-21.95333,43.98667,-21.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226664787,
-    "wof:lastmodified":1536831076,
+    "wof:lastmodified":1566605200,
     "wof:name":"Anadabo",
     "wof:parent_id":890452055,
     "wof:placetype":"locality",

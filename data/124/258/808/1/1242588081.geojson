@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.21333,-19.08667,46.25333,-19.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Imoronimanga",
         "Amorontmanga-Ambony",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242588081,
-    "wof:lastmodified":1537664786,
+    "wof:lastmodified":1566604876,
     "wof:name":"Amoronimanga Ambony",
     "wof:parent_id":421183937,
     "wof:placetype":"locality",

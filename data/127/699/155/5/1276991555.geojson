@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.99667,-12.92,49.03667,-12.88",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Antsatrabokaka",
         "Antsatraboka",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276991555,
-    "wof:lastmodified":1537664707,
+    "wof:lastmodified":1566604225,
     "wof:name":"Antsatrabonko",
     "wof:parent_id":421180171,
     "wof:placetype":"locality",

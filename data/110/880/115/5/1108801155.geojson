@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-21.369668,
     "lbl:longitude":46.952755,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Fianarantsoa Rural",
     "meso:gaul_adm2":"Isandra",
     "meso:name_loc":"Isandra",
     "meso:region":"Haute Matsiatra",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0627\u0646\u062f\u0631\u0627"
     ],
@@ -37,7 +40,7 @@
         "\u4f0a\u6851\u5fb7\u62c9\u5fb7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108801155,
-    "wof:lastmodified":1564300159,
+    "wof:lastmodified":1566604526,
     "wof:name":"Isandra",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

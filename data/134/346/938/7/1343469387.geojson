@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.94667,-20.47,44.98667,-20.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beronomo",
         "Beronono"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343469387,
-    "wof:lastmodified":1537664680,
+    "wof:lastmodified":1566603689,
     "wof:name":"Beronono",
     "wof:parent_id":1108801165,
     "wof:placetype":"locality",

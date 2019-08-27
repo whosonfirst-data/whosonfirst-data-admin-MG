@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-18.530863,
     "lbl:longitude":46.065806,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Bongolava",
     "mps:latitude":-18.617247,
     "mps:longitude":46.113027,
@@ -252,7 +253,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Tsiroanomandidy",
@@ -274,7 +275,7 @@
         "gn:id":7670853,
         "gp:id":2346150,
         "hasc:id":"MG.AV.BO",
-        "qs:id":362635,
+        "qs_pg:id":362635,
         "wd:id":"Q679739"
     },
     "wof:country":"MG",
@@ -297,7 +298,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727436,
+    "wof:lastmodified":1566603846,
     "wof:name":"Bongolava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

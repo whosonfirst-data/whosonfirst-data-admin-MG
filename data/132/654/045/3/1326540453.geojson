@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.71333,-15.77,48.75333,-15.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kalandy"
     ],
@@ -39,8 +43,7 @@
         "Kalandy"
     ],
     "name:und_x_variant":[
-        "Kalendy",
-        "Kalandy"
+        "Kalendy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1326540453,
-    "wof:lastmodified":1564298133,
+    "wof:lastmodified":1566603598,
     "wof:name":"Kalandy",
     "wof:parent_id":1108801185,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.13,-17.87,48.17,-17.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310223809,
-    "wof:lastmodified":1536824896,
+    "wof:lastmodified":1566604557,
     "wof:name":"Antananangata",
     "wof:parent_id":1108801091,
     "wof:placetype":"locality",

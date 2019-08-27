@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.74667,-18.75333,47.78667,-18.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242596333,
-    "wof:lastmodified":1537035119,
+    "wof:lastmodified":1566604863,
     "wof:name":"Andriampamaky",
     "wof:parent_id":421190795,
     "wof:placetype":"locality",

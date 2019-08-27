@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.64667,-24.75333,45.68667,-24.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Andramoita",
         "Andrambita"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276247683,
-    "wof:lastmodified":1537664760,
+    "wof:lastmodified":1566604185,
     "wof:name":"Andrambita",
     "wof:parent_id":1108801085,
     "wof:placetype":"locality",

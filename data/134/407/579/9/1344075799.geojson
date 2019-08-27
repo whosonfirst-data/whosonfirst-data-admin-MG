@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.39667,-18.38667,46.43667,-18.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambararatakoly",
         "Ambararatakely"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344075799,
-    "wof:lastmodified":1537664820,
+    "wof:lastmodified":1566603688,
     "wof:name":"Ambararatakely",
     "wof:parent_id":1108801151,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.89667,-22.05333,44.93667,-22.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ipetsa Nord",
         "Ipetsa Avaratra"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242892559,
-    "wof:lastmodified":1537664652,
+    "wof:lastmodified":1566604841,
     "wof:name":"Ipetsa Avaratra",
     "wof:parent_id":1108801137,
     "wof:placetype":"locality",

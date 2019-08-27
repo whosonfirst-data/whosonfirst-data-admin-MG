@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.78,-18.42,47.82,-18.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fenoarina",
         "Foroanarina"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293498201,
-    "wof:lastmodified":1537664660,
+    "wof:lastmodified":1566603918,
     "wof:name":"Foroanarina",
     "wof:parent_id":1108801101,
     "wof:placetype":"locality",

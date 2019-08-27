@@ -11,10 +11,14 @@
     "geom:longitude":47.38333,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":31437,
+    "gn:population":31437,
     "iso:country":"MG",
+    "lbl:bbox":"47.36333,-20.25333,47.40333,-20.21333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Fandriana"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Fandriana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ifandriana"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1065222,
         "gp:id":1496742,
-        "qs:id":1029630,
+        "qs_pg:id":1029630,
         "wd:id":"Q1395492",
         "wk:page":"Fandriana"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890443547,
-    "wof:lastmodified":1563580324,
+    "wof:lastmodified":1566604797,
     "wof:name":"Fandriana",
     "wof:parent_id":421171215,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10094579.455504,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.52255,-18.915832,47.52255,-18.915832",
     "geom:latitude":-18.915832,
     "geom:longitude":47.52255,
     "gn:latitude":-18.91667,
     "gn:longitude":47.51667,
     "iso:country":"MG",
+    "lbl:bbox":"47.51755,-18.920832,47.52755,-18.910832",
     "lbl:latitude":-18.915832,
     "lbl:longitude":47.52255,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-18.91538,
     "mps:longitude":47.51204,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Fiadanana"
-    ],
-    "name:unk_x_variant":[
         "Fiadanana"
     ],
     "qs:gn_adm0_cc":"MG",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673965,
         102191573,
         85632223,
-        1108801113,
-        85673965
+        1108801113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1064911,
         "gp:id":1360998,
-        "qs:id":1168036,
         "qs_pg:id":1168036
     },
     "wof:country":"MG",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859475,
+    "wof:lastmodified":1566603842,
     "wof:name":"Fiadanana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

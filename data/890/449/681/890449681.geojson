@@ -12,7 +12,12 @@
     "gn:country":"MG",
     "gp:adm0":23424883,
     "iso:country":"MG",
+    "lbl:bbox":"48.167408,-13.3459435,48.207408,-13.3059435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Dzamandzar",
     "qs:name_adm0":"Madagascar",
     "qs:name_adm1":"Antsiranana",
@@ -33,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1360748,
-        "qs:id":1115762
+        "qs_pg:id":1115762
     },
     "wof:country":"MG",
     "wof:created":1469052702,
@@ -48,7 +53,7 @@
         }
     ],
     "wof:id":890449681,
-    "wof:lastmodified":1494545227,
+    "wof:lastmodified":1566604794,
     "wof:name":"Dzamandzar",
     "wof:parent_id":890452057,
     "wof:placetype":"locality",

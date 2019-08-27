@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.99667,-14.58667,48.03667,-14.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1071589
     },
     "wof:country":"MG",
-    "wof:geomhash":"2506e45df7d148f2fd25493a85ee82e8",
+    "wof:geomhash":"d6504e48fe0ada16d83e222565d1071f",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209225189,
-    "wof:lastmodified":1536293820,
+    "wof:lastmodified":1566604316,
     "wof:name":"Ankotseha",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     48.01667,
-    -14.566670000000002,
+    -14.56667,
     48.01667,
-    -14.566670000000002
+    -14.56667
 ],
   "geometry": {"coordinates":[48.01667,-14.56667],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.16333,-21.38667,48.20333,-21.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1073149
     },
     "wof:country":"MG",
-    "wof:geomhash":"41a3c1b89dcee86f5c36730caf07d6c9",
+    "wof:geomhash":"b3145962c41090c059433641aef5e3c0",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209630441,
-    "wof:lastmodified":1536281206,
+    "wof:lastmodified":1566604266,
     "wof:name":"Ankaramiambana",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     48.18333,
-    -21.366670000000006,
+    -21.36667000000001,
     48.18333,
-    -21.366670000000006
+    -21.36667000000001
 ],
   "geometry": {"coordinates":[48.18333,-21.36667000000001],"type":"Point"}
 }

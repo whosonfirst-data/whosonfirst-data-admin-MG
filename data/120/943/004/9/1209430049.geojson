@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"50.28,-15.83667,50.32,-15.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1076814
     },
     "wof:country":"MG",
-    "wof:geomhash":"45c1ac7735e5489228ef73b896295619",
+    "wof:geomhash":"ccac505f958059c2970dc22cf6ceef53",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209430049,
-    "wof:lastmodified":1536287262,
+    "wof:lastmodified":1566604398,
     "wof:name":"Anaovandrano",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     50.3,
-    -15.816670000000002,
+    -15.81667,
     50.3,
-    -15.816670000000002
+    -15.81667
 ],
   "geometry": {"coordinates":[50.3,-15.81667],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.68,-14.47,47.72,-14.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0627\u0644\u0627\u0647\u0648\u0646\u06a9\u0648"
     ],
@@ -51,8 +55,7 @@
         "Ambalahonko"
     ],
     "name:und_x_variant":[
-        "Ambalahonke",
-        "Ambalahonko"
+        "Ambalahonke"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1243464947,
-    "wof:lastmodified":1564300981,
+    "wof:lastmodified":1566604901,
     "wof:name":"Ambalahonko",
     "wof:parent_id":1108801093,
     "wof:placetype":"locality",

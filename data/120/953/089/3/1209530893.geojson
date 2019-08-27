@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.94667,-19.65333,45.98667,-19.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043d\u0434\u0436\u043e\u043c\u0430 \u0420\u0430\u043c\u0430\u0440\u0442\u0438\u043d\u0430"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1209530893,
-    "wof:lastmodified":1564299493,
+    "wof:lastmodified":1566604236,
     "wof:name":"Anjoma-Ramartina",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

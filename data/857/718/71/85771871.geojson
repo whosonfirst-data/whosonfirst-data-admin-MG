@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4307102.502279,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.538147,-18.916968,47.538147,-18.916968",
     "geom:latitude":-18.916968,
     "geom:longitude":47.538147,
     "gn:latitude":-18.91667,
     "gn:longitude":47.53333,
     "iso:country":"MG",
+    "lbl:bbox":"47.533147,-18.921968,47.543147,-18.911968",
     "lbl:latitude":-18.916968,
     "lbl:longitude":47.538147,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-18.91947,
     "mps:longitude":47.542789,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Ankadinandriana"
-    ],
-    "name:unk_x_variant":[
         "Ankadinandriana"
     ],
     "qs:gn_adm0_cc":"MG",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673965,
         102191573,
         85632223,
-        1108801113,
-        85673965
+        1108801113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1073397,
         "gp:id":1357564,
-        "qs:id":478919,
         "qs_pg:id":478919
     },
     "wof:country":"MG",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859474,
+    "wof:lastmodified":1566603842,
     "wof:name":"Ankadinandriana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.88,-25.32,45.92,-25.28",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0627\u0632\u0648\u0627"
     ],
@@ -45,8 +49,7 @@
         "Ambazoa"
     ],
     "name:und_x_variant":[
-        "Ambazoha",
-        "Ambazoa"
+        "Ambazoha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1260295337,
-    "wof:lastmodified":1564300108,
+    "wof:lastmodified":1566604500,
     "wof:name":"Ambazoa",
     "wof:parent_id":1108801085,
     "wof:placetype":"locality",

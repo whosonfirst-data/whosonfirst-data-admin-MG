@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.11333,-21.63667,45.15333,-21.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1069049
     },
     "wof:country":"MG",
-    "wof:geomhash":"025a8588a7f87ebc163327a8b6456f80",
+    "wof:geomhash":"364eec7f597e8dbfa3b8caf83247cad0",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209023007,
-    "wof:lastmodified":1536300087,
+    "wof:lastmodified":1566604356,
     "wof:name":"Antsoa",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     45.13333,
-    -21.616670000000006,
+    -21.61667000000001,
     45.13333,
-    -21.616670000000006
+    -21.61667000000001
 ],
   "geometry": {"coordinates":[45.13333,-21.61667000000001],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.21333,-17.57,48.25333,-17.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ivohibe"
     ],
@@ -42,8 +46,7 @@
         "Ivohibe"
     ],
     "name:und_x_variant":[
-        "Vohibe",
-        "Ivohibe"
+        "Vohibe"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u6b66\u5e0c\u8c9d"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1293303261,
-    "wof:lastmodified":1564298693,
+    "wof:lastmodified":1566603865,
     "wof:name":"Ivohibe",
     "wof:parent_id":1108801091,
     "wof:placetype":"locality",

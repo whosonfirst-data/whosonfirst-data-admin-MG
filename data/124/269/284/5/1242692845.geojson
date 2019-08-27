@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.98,-13.55333,50.02,-13.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Morafeno"
     ],
@@ -36,8 +40,7 @@
         "Morafeno"
     ],
     "name:und_x_variant":[
-        "Morafano",
-        "Morafeno"
+        "Morafano"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1242692845,
-    "wof:lastmodified":1564300943,
+    "wof:lastmodified":1566604882,
     "wof:name":"Morafeno",
     "wof:parent_id":421183931,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":49.40826,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":21036,
+    "gn:population":21036,
     "iso:country":"MG",
+    "lbl:bbox":"49.38826,-17.40095,49.42826,-17.36095",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Fenoarivo Atsinanana"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Fenoarivo Atsinanana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "F\u00e9n\u00e9rive-Est"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1064980,
         "gp:id":1360971,
-        "qs:id":1029629,
+        "qs_pg:id":1029629,
         "wd:id":"Q1404813",
         "wk:page":"Fenoarivo Atsinanana"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890443545,
-    "wof:lastmodified":1563580323,
+    "wof:lastmodified":1566604796,
     "wof:name":"Fenoarivo Atsinanana",
     "wof:parent_id":1108801149,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.09667,-21.70333,45.13667,-21.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fanjakana"
     ],
@@ -39,7 +43,6 @@
         "Fanjakana"
     ],
     "name:und_x_variant":[
-        "Fanjakana",
         "Mahabo Fanjakana"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293113883,
-    "wof:lastmodified":1564298992,
+    "wof:lastmodified":1566604003,
     "wof:name":"Mahabo Fanjakana",
     "wof:parent_id":1108801137,
     "wof:placetype":"locality",

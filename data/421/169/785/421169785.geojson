@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-19.678704,
     "lbl:longitude":44.854616,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Belon-i Tsiribihina",
     "meso:gaul_adm2":"Belo Sur Tsiribihina",
     "meso:name_loc":"Belo Sur Tsiribihina",
     "meso:region":"Menabe",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Belo sur Tsiribihina"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":182,
     "wof:belongsto":[
         102191573,
@@ -99,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706539,
-        "qs:id":241920,
+        "qs_pg:id":241920,
         "wd:id":"Q2204070"
     },
     "wof:country":"MG",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421169785,
-    "wof:lastmodified":1563580273,
+    "wof:lastmodified":1566604783,
     "wof:name":"Belo Sur Tsiribihina",
     "wof:parent_id":85674035,
     "wof:placetype":"county",

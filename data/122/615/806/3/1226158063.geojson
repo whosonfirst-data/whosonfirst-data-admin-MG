@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.13,-25.03667,44.17,-24.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tanamilihitse",
         "Antanamilihitsa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226158063,
-    "wof:lastmodified":1537664722,
+    "wof:lastmodified":1566605261,
     "wof:name":"Antanamilihitsa",
     "wof:parent_id":1108801087,
     "wof:placetype":"locality",

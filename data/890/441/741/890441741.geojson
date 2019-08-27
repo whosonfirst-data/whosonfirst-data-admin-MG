@@ -11,8 +11,11 @@
     "geom:longitude":47.98751,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":21290,
+    "gn:population":21290,
     "iso:country":"MG",
+    "lbl:bbox":"47.96751,-14.89959,48.00751,-14.85959",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Antsohihy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antsohihi"
     ],
     "name:urd_x_preferred":[
@@ -187,7 +190,7 @@
     "wof:concordances":{
         "gn:id":1068971,
         "gp:id":90874440,
-        "qs:id":130449,
+        "qs_pg:id":130449,
         "wd:id":"Q609567",
         "wk:page":"Antsohihy"
     },
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":890441741,
-    "wof:lastmodified":1563580314,
+    "wof:lastmodified":1566604794,
     "wof:name":"Antsohihy",
     "wof:parent_id":1108801119,
     "wof:placetype":"locality",

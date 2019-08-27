@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.58,-25.50333,45.62,-25.46333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "And\u0101y"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309924361,
-    "wof:lastmodified":1564300663,
+    "wof:lastmodified":1566604749,
     "wof:name":"Anday",
     "wof:parent_id":421184615,
     "wof:placetype":"locality",

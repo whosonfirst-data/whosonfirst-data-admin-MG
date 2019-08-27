@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-24.906739,
     "lbl:longitude":45.50651,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Androy",
     "mps:latitude":-24.856375,
     "mps:longitude":45.527212,
@@ -245,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Ambovombe",
@@ -267,7 +268,7 @@
         "gn:id":7670911,
         "gp:id":2346151,
         "hasc:id":"MG.TL.AD",
-        "qs:id":1086782,
+        "qs_pg:id":1086782,
         "wd:id":"Q218981"
     },
     "wof:country":"MG",
@@ -290,7 +291,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727434,
+    "wof:lastmodified":1566603843,
     "wof:name":"Androy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

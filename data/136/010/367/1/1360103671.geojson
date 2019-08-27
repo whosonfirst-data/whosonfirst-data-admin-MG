@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"50.06333,-15.18667,50.10333,-15.14667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Antakotako"
     ],
@@ -45,8 +49,7 @@
         "Antakotako"
     ],
     "name:und_x_variant":[
-        "Antakotaka",
-        "Antakotako"
+        "Antakotaka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1360103671,
-    "wof:lastmodified":1564300585,
+    "wof:lastmodified":1566604717,
     "wof:name":"Antakotako",
     "wof:parent_id":421196875,
     "wof:placetype":"locality",

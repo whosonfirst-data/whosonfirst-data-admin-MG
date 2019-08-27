@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-16.239763,
     "lbl:longitude":49.482138,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Mananara",
     "meso:gaul_adm2":"Mananara-Avaratra",
     "meso:name_loc":"Mananara-Avaratra",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -56,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706560,
-        "qs:id":1109867
+        "qs_pg:id":1109867
     },
     "wof:country":"MG",
     "wof:created":1459009603,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421189045,
-    "wof:lastmodified":1554488982,
+    "wof:lastmodified":1566604785,
     "wof:name":"Mananara-Avaratra",
     "wof:parent_id":85673967,
     "wof:placetype":"county",

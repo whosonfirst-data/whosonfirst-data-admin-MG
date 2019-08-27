@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.66333,-15.73667,47.70333,-15.69667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambahibe Sud",
         "Ambohibe Atsinanana"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343579907,
-    "wof:lastmodified":1537664798,
+    "wof:lastmodified":1566603736,
     "wof:name":"Ambohibe Atsinanana",
     "wof:parent_id":1108801201,
     "wof:placetype":"locality",

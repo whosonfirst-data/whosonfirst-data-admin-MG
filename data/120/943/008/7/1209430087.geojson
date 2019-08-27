@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.46333,-23.13667,44.50333,-23.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1079312
     },
     "wof:country":"MG",
-    "wof:geomhash":"0141859ece184009076a16f38dee91b9",
+    "wof:geomhash":"0ad424e2c1f67ba6bb8aea320e92b22a",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209430087,
-    "wof:lastmodified":1536287261,
+    "wof:lastmodified":1566604394,
     "wof:name":"Ambondro-Mandeha",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     44.48333,
-    -23.116670000000006,
+    -23.11667000000001,
     44.48333,
-    -23.116670000000006
+    -23.11667000000001
 ],
   "geometry": {"coordinates":[44.48333,-23.11667000000001],"type":"Point"}
 }

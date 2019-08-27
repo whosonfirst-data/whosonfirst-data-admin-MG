@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.94667,-16.37,44.98667,-16.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276677077,
-    "wof:lastmodified":1536814412,
+    "wof:lastmodified":1566604122,
     "wof:name":"Befania",
     "wof:parent_id":1108801205,
     "wof:placetype":"locality",

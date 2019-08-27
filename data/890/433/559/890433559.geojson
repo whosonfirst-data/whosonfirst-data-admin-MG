@@ -11,10 +11,14 @@
     "geom:longitude":48.11667,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":26160,
+    "gn:population":26160,
     "iso:country":"MG",
+    "lbl:bbox":"48.09667,-20.07,48.13667,-20.03",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Marolambo"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1060007,
         "gp:id":1362950,
-        "qs:id":130405,
+        "qs_pg:id":130405,
         "wd:id":"Q3294590",
         "wk:page":"Marolambo"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890433559,
-    "wof:lastmodified":1563580328,
+    "wof:lastmodified":1566604797,
     "wof:name":"Marolambo",
     "wof:parent_id":1108801189,
     "wof:placetype":"locality",

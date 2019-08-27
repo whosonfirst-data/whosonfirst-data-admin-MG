@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.24667,-22.60333,44.28667,-22.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Milia",
         "Mitia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259895097,
-    "wof:lastmodified":1537664610,
+    "wof:lastmodified":1566605123,
     "wof:name":"Mitia",
     "wof:parent_id":421188087,
     "wof:placetype":"locality",

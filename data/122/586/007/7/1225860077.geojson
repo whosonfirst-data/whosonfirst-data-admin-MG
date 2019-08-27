@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.76333,-22.87,45.80333,-22.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Jangany"
     ],
@@ -39,8 +43,7 @@
         "Jangany"
     ],
     "name:und_x_variant":[
-        "Jangana",
-        "Jangany"
+        "Jangana"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u06af\u0646\u0646\u06d2"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1225860077,
-    "wof:lastmodified":1564301715,
+    "wof:lastmodified":1566605213,
     "wof:name":"Jangany",
     "wof:parent_id":421175089,
     "wof:placetype":"locality",

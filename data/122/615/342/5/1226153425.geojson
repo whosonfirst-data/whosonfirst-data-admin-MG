@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.34667,-18.98667,46.38667,-18.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambatomanoakaza",
         "Ambatomanoakazo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226153425,
-    "wof:lastmodified":1537664815,
+    "wof:lastmodified":1566605261,
     "wof:name":"Ambatomanoakazo",
     "wof:parent_id":421183937,
     "wof:placetype":"locality",

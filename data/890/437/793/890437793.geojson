@@ -11,10 +11,14 @@
     "geom:longitude":46.93333,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":28027,
+    "gn:population":28027,
     "iso:country":"MG",
+    "lbl:bbox":"46.91333,-21.85333,46.95333,-21.81333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0627\u0644\u0648\u0627\u0626\u0648"
     ],
@@ -78,7 +82,7 @@
     "name:swe_x_preferred":[
         "Ambalavao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ambalava"
     ],
     "name:zho_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1083968,
         "gp:id":1488930,
-        "qs:id":130488,
+        "qs_pg:id":130488,
         "wd:id":"Q2092364",
         "wk:page":"Ambalavao"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890437793,
-    "wof:lastmodified":1563580317,
+    "wof:lastmodified":1566604795,
     "wof:name":"Ambalavao",
     "wof:parent_id":421171625,
     "wof:placetype":"locality",

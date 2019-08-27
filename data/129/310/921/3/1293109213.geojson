@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.69667,-18.67,47.73667,-18.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293109213,
-    "wof:lastmodified":1536834321,
+    "wof:lastmodified":1566604023,
     "wof:name":"Ambatomiranty",
     "wof:parent_id":421190795,
     "wof:placetype":"locality",

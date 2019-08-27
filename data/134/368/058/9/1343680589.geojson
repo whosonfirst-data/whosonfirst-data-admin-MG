@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.26333,-17.65333,48.30333,-17.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343680589,
-    "wof:lastmodified":1536926719,
+    "wof:lastmodified":1566603733,
     "wof:name":"Ampilahoana",
     "wof:parent_id":1108801091,
     "wof:placetype":"locality",

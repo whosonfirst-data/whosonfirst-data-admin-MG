@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"50.11333,-14.00333,50.15333,-13.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tanambao",
         "Tanambao-Daoud"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260098897,
-    "wof:lastmodified":1537664584,
+    "wof:lastmodified":1566604462,
     "wof:name":"Tanambao-Daoud",
     "wof:parent_id":421188089,
     "wof:placetype":"locality",

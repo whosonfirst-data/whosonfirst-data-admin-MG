@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.73,-16.03667,46.77,-15.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360203481,
-    "wof:lastmodified":1536775506,
+    "wof:lastmodified":1566604699,
     "wof:name":"Andampy",
     "wof:parent_id":421183933,
     "wof:placetype":"locality",
