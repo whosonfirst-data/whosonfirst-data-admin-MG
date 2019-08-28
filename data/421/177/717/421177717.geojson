@@ -10,8 +10,12 @@
     "geom:latitude":-20.28333,
     "geom:longitude":44.35,
     "iso:country":"MG",
+    "lbl:bbox":"44.33,-20.30333,44.37,-20.26333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bemanonga"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1067376,
         "gp:id":1360051,
-        "qs:id":1352759,
+        "qs_pg:id":1352759,
         "wd:id":"Q2895242",
         "wk:page":"Bemanonga"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421177717,
-    "wof:lastmodified":1563580305,
+    "wof:lastmodified":1566604791,
     "wof:name":"Bemanonga",
     "wof:parent_id":421190797,
     "wof:placetype":"locality",

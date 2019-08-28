@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.59667,-18.63667,46.63667,-18.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1079891
     },
     "wof:country":"MG",
-    "wof:geomhash":"078d95e7c420b6eab46cd68a561b478d",
+    "wof:geomhash":"f9b08fbe096778f934b2f15c4062a7ea",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209022961,
-    "wof:lastmodified":1536300088,
+    "wof:lastmodified":1566604360,
     "wof:name":"Ambohitraivo",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     46.61667,
-    -18.616670000000006,
+    -18.61667000000001,
     46.61667,
-    -18.616670000000006
+    -18.61667000000001
 ],
   "geometry": {"coordinates":[46.61667,-18.61667000000001],"type":"Point"}
 }

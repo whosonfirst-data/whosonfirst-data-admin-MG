@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.66333,-23.55333,44.70333,-23.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fenoandala"
     ],
@@ -39,8 +43,7 @@
         "Fenoandala"
     ],
     "name:und_x_variant":[
-        "Fenoadala",
-        "Fenoandala"
+        "Fenoadala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1326945377,
-    "wof:lastmodified":1564297844,
+    "wof:lastmodified":1566603463,
     "wof:name":"Fenoandala",
     "wof:parent_id":1108801141,
     "wof:placetype":"locality",

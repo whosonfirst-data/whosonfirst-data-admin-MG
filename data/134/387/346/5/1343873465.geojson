@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.36829,-19.84268,47.40829,-19.80268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1343873465,
-    "wof:lastmodified":1536647353,
+    "wof:lastmodified":1566603820,
     "wof:name":"Antsampanimahazo Fianarana",
     "wof:parent_id":421204565,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.24667,-12.60333,49.28667,-12.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambavahibe",
         "Ambahivahibe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276558403,
-    "wof:lastmodified":1537664829,
+    "wof:lastmodified":1566604216,
     "wof:name":"Ambahivahibe",
     "wof:parent_id":1108801117,
     "wof:placetype":"locality",

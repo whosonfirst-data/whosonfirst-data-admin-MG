@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-19.404967,
     "lbl:longitude":46.90309,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Faratsiho",
     "meso:gaul_adm2":"Faratsiho",
     "meso:name_loc":"Faratsiho",
     "meso:region":"Vakinankaratra",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Faratsiho"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191573,
@@ -99,7 +102,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706544,
-        "qs:id":897050,
+        "qs_pg:id":897050,
         "wd:id":"Q1343729"
     },
     "wof:country":"MG",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421200821,
-    "wof:lastmodified":1563580300,
+    "wof:lastmodified":1566604790,
     "wof:name":"Faratsiho",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

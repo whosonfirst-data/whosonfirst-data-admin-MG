@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.46333,-23.03667,45.50333,-22.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambararata",
         "Analakazo-Ambararata"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209329669,
-    "wof:lastmodified":1537664772,
+    "wof:lastmodified":1566604345,
     "wof:name":"Analakazo-Ambararata",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

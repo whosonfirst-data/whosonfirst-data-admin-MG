@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"50.09667,-13.78667,50.13667,-13.74667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Masindrano",
         "Masondrono"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259798613,
-    "wof:lastmodified":1537664615,
+    "wof:lastmodified":1566605045,
     "wof:name":"Masondrono",
     "wof:parent_id":421183931,
     "wof:placetype":"locality",

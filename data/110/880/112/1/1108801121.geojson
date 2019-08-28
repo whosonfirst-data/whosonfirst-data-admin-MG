@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-19.105449,
     "lbl:longitude":47.266006,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Arivonimamo",
     "meso:gaul_adm2":"Arivonimamo",
     "meso:name_loc":"Arivonimamo",
     "meso:region":"Itasy",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Arivonimamo"
     ],
@@ -55,7 +58,7 @@
         "\u963f\u91cc\u6b66\u5c3c\u99ac\u7a46"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108801121,
-    "wof:lastmodified":1564300157,
+    "wof:lastmodified":1566604524,
     "wof:name":"Arivonimamo",
     "wof:parent_id":85674025,
     "wof:placetype":"county",

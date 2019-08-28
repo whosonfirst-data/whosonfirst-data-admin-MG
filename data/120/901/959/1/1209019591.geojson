@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.18,-17.65333,48.22,-17.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1080306
     },
     "wof:country":"MG",
-    "wof:geomhash":"07f0da0d60faf16d883bf4524870dd4b",
+    "wof:geomhash":"6d0257230d4a94a3e313e4845970ec8d",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209019591,
-    "wof:lastmodified":1536300185,
+    "wof:lastmodified":1566604255,
     "wof:name":"Ambohimandroso",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     48.2,
-    -17.633329999999994,
+    -17.63332999999999,
     48.2,
-    -17.633329999999994
+    -17.63332999999999
 ],
   "geometry": {"coordinates":[48.2,-17.63332999999999],"type":"Point"}
 }

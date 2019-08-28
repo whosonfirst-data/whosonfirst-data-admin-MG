@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5646223.942958,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.528894,-18.901909,47.528894,-18.901909",
     "geom:latitude":-18.901909,
     "geom:longitude":47.528894,
     "gn:latitude":-18.9,
     "gn:longitude":47.53333,
     "iso:country":"MG",
+    "lbl:bbox":"47.523894,-18.906909,47.533894,-18.896909",
     "lbl:latitude":-18.901909,
     "lbl:longitude":47.528894,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-18.904987,
     "mps:longitude":47.534969,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Ambohimanoro"
-    ],
-    "name:unk_x_variant":[
         "Ambohimanoro"
     ],
     "qs:gn_adm0_cc":"MG",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673965,
         102191573,
         85632223,
-        1108801113,
-        85673965
+        1108801113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1080233,
         "gp:id":1354895,
-        "qs:id":983956,
         "qs_pg:id":983956
     },
     "wof:country":"MG",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859473,
+    "wof:lastmodified":1566603841,
     "wof:name":"Ambohimanoro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

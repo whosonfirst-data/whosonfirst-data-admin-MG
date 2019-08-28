@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.63,-17.17,44.67,-17.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsiametara",
         "Tsimelara",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242792921,
-    "wof:lastmodified":1537664576,
+    "wof:lastmodified":1566604930,
     "wof:name":"Tsiamelara",
     "wof:parent_id":1108801139,
     "wof:placetype":"locality",

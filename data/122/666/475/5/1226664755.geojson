@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.93,-18.58667,46.97,-18.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ihosy"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1226664755,
-    "wof:lastmodified":1564301695,
+    "wof:lastmodified":1566605207,
     "wof:name":"Ihosy",
     "wof:parent_id":1108801151,
     "wof:placetype":"locality",

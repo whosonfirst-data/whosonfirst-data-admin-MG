@@ -10,8 +10,12 @@
     "geom:latitude":-25.3,
     "geom:longitude":45.48333,
     "iso:country":"MG",
+    "lbl:bbox":"45.46333,-25.32,45.50333,-25.28",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0426\u0438\u043e\u043c\u0431\u0435"
@@ -41,9 +45,6 @@
         "Tsiombe"
     ],
     "name:swe_x_preferred":[
-        "Tsiombe"
-    ],
-    "name:unk_x_variant":[
         "Tsiombe"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":1054500,
         "gp:id":1364977,
-        "qs:id":183487,
+        "qs_pg:id":183487,
         "wd:id":"Q3541560",
         "wk:page":"Tsiombe"
     },
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":421198531,
-    "wof:lastmodified":1563580294,
+    "wof:lastmodified":1566604788,
     "wof:name":"Tsihombe",
     "wof:parent_id":421184615,
     "wof:placetype":"locality",

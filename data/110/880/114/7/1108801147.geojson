@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-22.739962,
     "lbl:longitude":47.663339,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Farafangana",
     "meso:gaul_adm2":"Farafangana",
     "meso:name_loc":"Farafangana",
     "meso:region":"Atsimo Atsinanana",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Farafangana"
     ],
@@ -79,7 +82,7 @@
         "\u6cd5\u62c9\u51e1\u52a0\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108801147,
-    "wof:lastmodified":1564300160,
+    "wof:lastmodified":1566604526,
     "wof:name":"Farafangana",
     "wof:parent_id":85673987,
     "wof:placetype":"county",

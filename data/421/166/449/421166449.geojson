@@ -10,8 +10,12 @@
     "geom:latitude":-16.91667,
     "geom:longitude":49.58333,
     "iso:country":"MG",
+    "lbl:bbox":"49.56333,-16.93667,49.60333,-16.89667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Soanierana Ivongo"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Soanierana Ivongo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saanierana"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":1056386,
         "gp:id":1364374,
-        "qs:id":266857,
+        "qs_pg:id":266857,
         "wd:id":"Q2387366",
         "wk:page":"Soanierana Ivongo"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421166449,
-    "wof:lastmodified":1563580266,
+    "wof:lastmodified":1566604781,
     "wof:name":"Soanierana Ivongo",
     "wof:parent_id":1108801207,
     "wof:placetype":"locality",

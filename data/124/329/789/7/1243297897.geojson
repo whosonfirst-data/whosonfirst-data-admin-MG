@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.90073,-13.92558,47.94073,-13.88558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Anorotsangana"
     ],
@@ -45,8 +49,7 @@
     "name:und_x_variant":[
         "Andranto",
         "Anorontsangana",
-        "Anoront S\u00e1nga",
-        "Anorotsangana"
+        "Anoront S\u00e1nga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1243297897,
-    "wof:lastmodified":1564301185,
+    "wof:lastmodified":1566604990,
     "wof:name":"Anorotsangana",
     "wof:parent_id":1108801077,
     "wof:placetype":"locality",

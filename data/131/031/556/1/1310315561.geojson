@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.73,-18.53667,48.77,-18.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310315561,
-    "wof:lastmodified":1536693528,
+    "wof:lastmodified":1566604573,
     "wof:name":"Ambohimiarina",
     "wof:parent_id":1108801145,
     "wof:placetype":"locality",

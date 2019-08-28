@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.31333,-18.85333,47.35333,-18.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Antambolo"
     ],
@@ -40,7 +44,6 @@
     ],
     "name:und_x_variant":[
         "Atambolo",
-        "Antambolo",
         "Amboasary-Antambolo"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293697193,
-    "wof:lastmodified":1564298905,
+    "wof:lastmodified":1566603962,
     "wof:name":"Amboasary-Antambolo",
     "wof:parent_id":1108801121,
     "wof:placetype":"locality",

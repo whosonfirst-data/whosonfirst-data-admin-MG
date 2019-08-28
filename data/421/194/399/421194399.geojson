@@ -10,8 +10,12 @@
     "geom:latitude":-22.28333,
     "geom:longitude":44.51667,
     "iso:country":"MG",
+    "lbl:bbox":"44.49667,-22.30333,44.53667,-22.26333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ankazoabo"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Ankazoabo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ankazoabo Sud"
     ],
     "qs:gn_country":"MG",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1072879,
         "gp:id":1493783,
-        "qs:id":1090543,
+        "qs_pg:id":1090543,
         "wd:id":"Q2850301"
     },
     "wof:country":"MG",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421194399,
-    "wof:lastmodified":1563580267,
+    "wof:lastmodified":1566604781,
     "wof:name":"Ankazoabo",
     "wof:parent_id":421199277,
     "wof:placetype":"locality",

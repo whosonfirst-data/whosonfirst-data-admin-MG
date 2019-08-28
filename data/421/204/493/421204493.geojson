@@ -10,6 +10,9 @@
     "geom:latitude":-21.45267,
     "geom:longitude":47.08569,
     "iso:country":"MG",
+    "lbl:bbox":"47.06569,-21.47267,47.10569,-21.43267",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -295,7 +298,7 @@
     "wof:concordances":{
         "gn:id":1064890,
         "gp:id":1361008,
-        "qs:id":241139,
+        "qs_pg:id":241139,
         "wd:id":"Q527441",
         "wk:page":"Fianarantsoa"
     },
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":421204493,
-    "wof:lastmodified":1563580276,
+    "wof:lastmodified":1566604784,
     "wof:name":"Fianarantsoa",
     "wof:parent_id":421200825,
     "wof:placetype":"locality",

@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-15.033204,
     "lbl:longitude":50.078841,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Antalaha",
     "meso:gaul_adm2":"Antalaha",
     "meso:name_loc":"Antalaha",
     "meso:region":"Sava",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Antalaha"
@@ -116,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":461,
     "wof:belongsto":[
         102191573,
@@ -126,7 +129,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706531,
-        "qs:id":897051,
+        "qs_pg:id":897051,
         "wd:id":"Q368066"
     },
     "wof:country":"MG",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421196875,
-    "wof:lastmodified":1563580294,
+    "wof:lastmodified":1566604788,
     "wof:name":"Antalaha",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

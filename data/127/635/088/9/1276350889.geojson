@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.33,-18.98667,48.37,-18.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ampasimpotsy",
         "Ampasimpotsy-Gara"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276350889,
-    "wof:lastmodified":1537664779,
+    "wof:lastmodified":1566604141,
     "wof:name":"Ampasimpotsy-Gara",
     "wof:parent_id":421169605,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"50.46333,-15.35333,50.50333,-15.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bezavory",
         "Bezavary"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309920801,
-    "wof:lastmodified":1537664670,
+    "wof:lastmodified":1566604751,
     "wof:name":"Bezavary",
     "wof:parent_id":421196875,
     "wof:placetype":"locality",

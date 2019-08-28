@@ -11,8 +11,11 @@
     "geom:longitude":48.45,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":30621,
+    "gn:population":30621,
     "iso:country":"MG",
+    "lbl:bbox":"48.43,-13.70333,48.47,-13.66333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -186,7 +189,7 @@
     "wof:concordances":{
         "gn:id":1083724,
         "gp:id":1489057,
-        "qs:id":130491,
+        "qs_pg:id":130491,
         "wd:id":"Q456642",
         "wk:page":"Ambanja"
     },
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":890433571,
-    "wof:lastmodified":1563580332,
+    "wof:lastmodified":1566604798,
     "wof:name":"Ambanja",
     "wof:parent_id":1108801077,
     "wof:placetype":"locality",

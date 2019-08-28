@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"43.81333,-22.13667,43.85333,-22.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0456\u0445\u0430\u043d\u0430\u043a\u0430"
     ],
@@ -51,8 +55,7 @@
         "Sihanaka"
     ],
     "name:und_x_variant":[
-        "Tsianaka",
-        "Sihanaka"
+        "Tsianaka"
     ],
     "name:zho_x_preferred":[
         "\u897f\u54c8\u7d0d\u5361\u4eba"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1277084857,
-    "wof:lastmodified":1564299085,
+    "wof:lastmodified":1566604046,
     "wof:name":"Sihanaka",
     "wof:parent_id":890452055,
     "wof:placetype":"locality",

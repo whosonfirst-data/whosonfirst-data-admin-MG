@@ -11,10 +11,14 @@
     "geom:longitude":47.63333,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":17543,
+    "gn:population":17543,
     "iso:country":"MG",
+    "lbl:bbox":"47.61333,-21.32,47.65333,-21.28",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0418\u0444\u0430\u043d\u0430\u0434\u0438\u0430\u043d\u0430"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1064366,
         "gp:id":1361232,
-        "qs:id":84090,
+        "qs_pg:id":84090,
         "wd:id":"Q1099548",
         "wk:page":"Ifanadiana"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890450121,
-    "wof:lastmodified":1563580334,
+    "wof:lastmodified":1566604798,
     "wof:name":"Ifanadiana",
     "wof:parent_id":421197047,
     "wof:placetype":"locality",

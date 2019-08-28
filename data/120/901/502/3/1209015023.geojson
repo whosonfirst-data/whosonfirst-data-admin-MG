@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.58,-24.88667,45.62,-24.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1066332
     },
     "wof:country":"MG",
-    "wof:geomhash":"bf3b72ad9a391c8bde445102aace2abd",
+    "wof:geomhash":"4da209fefdee83ba7827b04214611cbd",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209015023,
-    "wof:lastmodified":1536300323,
+    "wof:lastmodified":1566604248,
     "wof:name":"Betena",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     45.6,
-    -24.866670000000006,
+    -24.86667000000001,
     45.6,
-    -24.866670000000006
+    -24.86667000000001
 ],
   "geometry": {"coordinates":[45.6,-24.86667000000001],"type":"Point"}
 }

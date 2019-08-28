@@ -10,10 +10,14 @@
     "geom:latitude":-21.739138,
     "geom:longitude":43.365678,
     "iso:country":"MG",
+    "lbl:bbox":"43.3456776324,-21.759138483,43.3856776324,-21.719138483",
     "lbl:latitude":-21.739138,
     "lbl:longitude":43.365678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0645\u0628\u064a"
     ],
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":1141908919,
-    "wof:lastmodified":1561840747,
+    "wof:lastmodified":1566605310,
     "wof:name":"Morombe",
     "wof:parent_id":890452055,
     "wof:placetype":"locality",

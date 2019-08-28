@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.51333,-21.25333,47.55333,-21.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209924611,
-    "wof:lastmodified":1536395459,
+    "wof:lastmodified":1566604337,
     "wof:name":"Beremby",
     "wof:parent_id":421197047,
     "wof:placetype":"locality",

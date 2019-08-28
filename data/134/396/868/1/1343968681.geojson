@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.16333,-18.93667,47.20333,-18.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0648\u0647\u06cc\u062a\u0631\u0627\u0645\u0628\u0648"
     ],
@@ -42,8 +46,7 @@
         "Ambohitrambo"
     ],
     "name:und_x_variant":[
-        "Alarobia-Ambohitrambo",
-        "Ambohitrambo"
+        "Alarobia-Ambohitrambo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1343968681,
-    "wof:lastmodified":1564298209,
+    "wof:lastmodified":1566603634,
     "wof:name":"Ambohitrambo",
     "wof:parent_id":1108801121,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.63,-19.17,46.67,-19.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mananasy"
     ],
@@ -39,7 +43,6 @@
         "Mananasy"
     ],
     "name:und_x_variant":[
-        "Mananasy",
         "Mananasy-Tsitakondaza"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1293117347,
-    "wof:lastmodified":1564298978,
+    "wof:lastmodified":1566603996,
     "wof:name":"Mananasy-Tsitakondaza",
     "wof:parent_id":421171621,
     "wof:placetype":"locality",

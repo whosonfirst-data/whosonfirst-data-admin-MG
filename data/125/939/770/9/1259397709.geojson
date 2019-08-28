@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.21333,-17.85333,48.25333,-17.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bejofo"
     ],
@@ -39,8 +43,7 @@
         "Bejofo"
     ],
     "name:und_x_variant":[
-        "Befofo",
-        "Bejofo"
+        "Befofo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1259397709,
-    "wof:lastmodified":1564301235,
+    "wof:lastmodified":1566605012,
     "wof:name":"Bejofo",
     "wof:parent_id":1108801081,
     "wof:placetype":"locality",

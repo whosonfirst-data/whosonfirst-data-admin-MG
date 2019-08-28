@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-23.32683,
     "lbl:longitude":45.905158,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Anosy",
     "mps:latitude":-24.630327,
     "mps:longitude":46.512353,
@@ -104,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Tolagnaro",
@@ -125,7 +126,7 @@
         "gn:id":7670910,
         "gp:id":2346151,
         "hasc:id":"MG.TL.AY",
-        "qs:id":1086782
+        "qs_pg:id":1086782
     },
     "wof:country":"MG",
     "wof:geomhash":"644a77a66f5e2dd92b6ccf43fb495220",
@@ -147,7 +148,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727436,
+    "wof:lastmodified":1566603845,
     "wof:name":"Anosy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

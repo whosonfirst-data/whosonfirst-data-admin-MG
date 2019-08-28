@@ -11,8 +11,11 @@
     "geom:longitude":48.34173,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":27686,
+    "gn:population":27686,
     "iso:country":"MG",
+    "lbl:bbox":"48.32173,-21.25034,48.36173,-21.21034",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -169,7 +172,7 @@
     "wof:concordances":{
         "gn:id":1061335,
         "gp:id":1362354,
-        "qs:id":1029604,
+        "qs_pg:id":1029604,
         "wd:id":"Q2423152",
         "wk:page":"Mananjary"
     },
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890443541,
-    "wof:lastmodified":1563580325,
+    "wof:lastmodified":1566604797,
     "wof:name":"Mananjary",
     "wof:parent_id":1108801181,
     "wof:placetype":"locality",

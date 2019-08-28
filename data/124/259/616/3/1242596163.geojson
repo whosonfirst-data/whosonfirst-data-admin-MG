@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.03,-17.83667,49.07,-17.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mahatsinjo",
         "Sahavazina"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242596163,
-    "wof:lastmodified":1537664599,
+    "wof:lastmodified":1566604862,
     "wof:name":"Sahavazina",
     "wof:parent_id":890454551,
     "wof:placetype":"locality",

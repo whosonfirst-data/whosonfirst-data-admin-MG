@@ -10,8 +10,11 @@
     "geom:latitude":-18.9,
     "geom:longitude":47.51667,
     "iso:country":"MG",
+    "lbl:bbox":"47.51167,-18.905,47.52167,-18.895",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":1361420,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85673965,
         102191573,
         85632223,
-        1108801113,
-        85673965
+        1108801113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1063942,
         "gp:id":1361420,
-        "qs:id":1352780
+        "qs_pg:id":1352780
     },
     "wof:country":"MG",
     "wof:created":1459009158,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421177719,
-    "wof:lastmodified":1531858440,
+    "wof:lastmodified":1566604791,
     "wof:name":"Isoraka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

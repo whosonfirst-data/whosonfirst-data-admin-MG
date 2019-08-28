@@ -11,8 +11,11 @@
     "geom:longitude":50.27876,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":34112,
+    "gn:population":34112,
     "iso:country":"MG",
+    "lbl:bbox":"50.25876,-14.92033,50.29876,-14.88033",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -190,7 +193,7 @@
     "wof:concordances":{
         "gn:id":1071296,
         "gp:id":1358479,
-        "qs:id":130451,
+        "qs_pg:id":130451,
         "wd:id":"Q570816",
         "wk:page":"Antalaha"
     },
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":890433563,
-    "wof:lastmodified":1563580331,
+    "wof:lastmodified":1566604798,
     "wof:name":"Antalaha",
     "wof:parent_id":421196875,
     "wof:placetype":"locality",

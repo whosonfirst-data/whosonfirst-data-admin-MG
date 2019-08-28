@@ -10,8 +10,12 @@
     "geom:latitude":-12.23333,
     "geom:longitude":49.35,
     "iso:country":"MG",
+    "lbl:bbox":"49.33,-12.25333,49.37,-12.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u064a\u0646\u0627"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1057969,
         "gp:id":1363669,
-        "qs:id":1083569,
+        "qs_pg:id":1083569,
         "wd:id":"Q3418455",
         "wk:page":"Ramena"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421187475,
-    "wof:lastmodified":1563580279,
+    "wof:lastmodified":1566604784,
     "wof:name":"Ramena",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

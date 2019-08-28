@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.81333,-17.83667,47.85333,-17.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1062925
     },
     "wof:country":"MG",
-    "wof:geomhash":"1d566a66fbc5422c064f29ebb13225c3",
+    "wof:geomhash":"de98e487dabb673600f17129ef68a837",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209530813,
-    "wof:lastmodified":1536284286,
+    "wof:lastmodified":1566604239,
     "wof:name":"Madiorano",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     47.83333,
-    -17.816670000000006,
+    -17.81667000000001,
     47.83333,
-    -17.816670000000006
+    -17.81667000000001
 ],
   "geometry": {"coordinates":[47.83333,-17.81667000000001],"type":"Point"}
 }

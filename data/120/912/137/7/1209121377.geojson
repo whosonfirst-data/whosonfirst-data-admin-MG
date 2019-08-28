@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.69667,-25.13667,46.73667,-25.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1062958
     },
     "wof:country":"MG",
-    "wof:geomhash":"27abbf061e6d209bd8772981f6930f25",
+    "wof:geomhash":"85ae32f7dacfde4c4f67e3bc69399279",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209121377,
-    "wof:lastmodified":1536297087,
+    "wof:lastmodified":1566604295,
     "wof:name":"Lovoky",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     46.71667,
-    -25.116670000000006,
+    -25.11667000000001,
     46.71667,
-    -25.116670000000006
+    -25.11667000000001
 ],
   "geometry": {"coordinates":[46.71667,-25.11667000000001],"type":"Point"}
 }

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-21.411645,
     "lbl:longitude":46.61785,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Haute Matsiatra",
     "mps:latitude":-21.45705,
     "mps:longitude":46.60621,
@@ -249,7 +250,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Fianarantsoa",
@@ -271,7 +272,7 @@
         "gn:id":7670905,
         "gp:id":2346147,
         "hasc:id":"MG.FI.HM",
-        "qs:id":891447,
+        "qs_pg:id":891447,
         "wd:id":"Q1440747"
     },
     "wof:country":"MG",
@@ -294,7 +295,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727438,
+    "wof:lastmodified":1566603850,
     "wof:name":"Haute Matsiatra",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

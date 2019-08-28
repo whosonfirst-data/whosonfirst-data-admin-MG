@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.64667,-18.72,44.68667,-18.68",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Andranovory"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327441911,
-    "wof:lastmodified":1564298165,
+    "wof:lastmodified":1566603614,
     "wof:name":"Andranovory",
     "wof:parent_id":421199279,
     "wof:placetype":"locality",

@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-17.886907,
     "lbl:longitude":44.904312,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Morafanobe",
     "meso:gaul_adm2":"Morafenobe",
     "meso:name_loc":"Morafenobe",
     "meso:region":"Melaky",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:fra_x_preferred":[
         "Morafenobe"
     ],
@@ -43,7 +46,7 @@
         "\u7a46\u62c9\u8cbb\u52aa\u8c9d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108801195,
-    "wof:lastmodified":1564300149,
+    "wof:lastmodified":1566604520,
     "wof:name":"Morafenobe",
     "wof:parent_id":85674029,
     "wof:placetype":"county",

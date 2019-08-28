@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.64667,-20.93667,45.68667,-20.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maropavina",
         "Maroravina",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293011041,
-    "wof:lastmodified":1537664614,
+    "wof:lastmodified":1566603866,
     "wof:name":"Mavoravy",
     "wof:parent_id":1108801165,
     "wof:placetype":"locality",

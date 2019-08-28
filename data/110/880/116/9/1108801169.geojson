@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-20.041133,
     "lbl:longitude":48.525621,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Mahanoro",
     "meso:gaul_adm2":"Mahanoro",
     "meso:name_loc":"Mahanoro",
     "meso:region":"Atsinanana",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:fra_x_preferred":[
         "Mahanoro"
     ],
@@ -49,7 +52,7 @@
         "\u99ac\u54c8\u52aa\u9b6f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108801169,
-    "wof:lastmodified":1564300142,
+    "wof:lastmodified":1566604515,
     "wof:name":"Mahanoro",
     "wof:parent_id":85673991,
     "wof:placetype":"county",

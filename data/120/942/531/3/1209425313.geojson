@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.19667,-23.38667,45.23667,-23.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1058542
     },
     "wof:country":"MG",
-    "wof:geomhash":"10235e0406b42ecdd35119f31837b037",
+    "wof:geomhash":"feed20f7a19bf589231c566847f3040d",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209425313,
-    "wof:lastmodified":1536287399,
+    "wof:lastmodified":1566604388,
     "wof:name":"Morahariva",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     45.21667,
-    -23.366670000000006,
+    -23.36667000000001,
     45.21667,
-    -23.366670000000006
+    -23.36667000000001
 ],
   "geometry": {"coordinates":[45.21667,-23.36667000000001],"type":"Point"}
 }

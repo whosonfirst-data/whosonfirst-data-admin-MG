@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.19667,-17.62,48.23667,-17.58",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Maritampona"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259393093,
-    "wof:lastmodified":1564301227,
+    "wof:lastmodified":1566605008,
     "wof:name":"Maritampona",
     "wof:parent_id":1108801091,
     "wof:placetype":"locality",

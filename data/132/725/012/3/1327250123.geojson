@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.78,-20.88667,46.82,-20.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsihamaliavona",
         "Tsimamaliavona"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327250123,
-    "wof:lastmodified":1537664574,
+    "wof:lastmodified":1566603472,
     "wof:name":"Tsimamaliavona",
     "wof:parent_id":421175319,
     "wof:placetype":"locality",

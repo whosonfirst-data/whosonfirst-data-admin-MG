@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-23.330594,
     "lbl:longitude":47.311353,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Atsimo-Atsinanana",
     "mps:latitude":-23.466142,
     "mps:longitude":47.24442,
@@ -245,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Farafangana",
@@ -267,7 +268,7 @@
         "gn:id":7670908,
         "gp:id":2346147,
         "hasc:id":"MG.FI.AA",
-        "qs:id":891447,
+        "qs_pg:id":891447,
         "wd:id":"Q757782"
     },
     "wof:country":"MG",
@@ -290,7 +291,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727434,
+    "wof:lastmodified":1566603844,
     "wof:name":"Atsimo-Atsinanana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

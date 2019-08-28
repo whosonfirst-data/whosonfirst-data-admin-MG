@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-22.660554,
     "lbl:longitude":44.238102,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Atsimo-Andrefana",
     "mps:latitude":-22.663365,
     "mps:longitude":44.253321,
@@ -254,7 +255,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Toliara",
@@ -276,7 +277,7 @@
         "gn:id":7670913,
         "gp:id":2346151,
         "hasc:id":"MG.TL.AF",
-        "qs:id":1086782,
+        "qs_pg:id":1086782,
         "wd:id":"Q757781"
     },
     "wof:country":"MG",
@@ -299,7 +300,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727435,
+    "wof:lastmodified":1566603845,
     "wof:name":"Atsimo-Andrefana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

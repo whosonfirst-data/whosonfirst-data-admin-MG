@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-13.501145,
     "lbl:longitude":49.70722,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Vohimarina (Iharana)",
     "meso:gaul_adm2":"Vohemar",
     "meso:name_loc":"Vohemar",
     "meso:region":"Sava",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Iharan\u0308a"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -95,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706550,
-        "qs:id":986233
+        "qs_pg:id":986233
     },
     "wof:country":"MG",
     "wof:created":1459009395,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421183931,
-    "wof:lastmodified":1564300744,
+    "wof:lastmodified":1566604792,
     "wof:name":"Vohemar",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

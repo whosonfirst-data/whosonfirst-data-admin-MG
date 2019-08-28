@@ -20,12 +20,15 @@
     ],
     "lbl:latitude":-22.038909,
     "lbl:longitude":43.627012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Manja",
     "meso:gaul_adm2":"Morombe",
     "meso:name_loc":"Morombe",
     "meso:region":"Atsimo Andrefana",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0645\u0628\u064a"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         102191573,
@@ -84,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706571,
-        "qs:id":237812,
+        "qs_pg:id":237812,
         "wd:id":"Q1028252",
         "wk:page":"Morombe"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890452055,
-    "wof:lastmodified":1563580318,
+    "wof:lastmodified":1566604795,
     "wof:name":"Morombe",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

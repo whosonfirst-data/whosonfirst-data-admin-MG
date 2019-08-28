@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.21333,-15.83667,49.25333,-15.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1078513
     },
     "wof:country":"MG",
-    "wof:geomhash":"55dd30fb51697419c65b20388d47107d",
+    "wof:geomhash":"fd12b3067b6b227874da6aef84808ac5",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209329607,
-    "wof:lastmodified":1536290414,
+    "wof:lastmodified":1566604346,
     "wof:name":"Ampanobe",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     49.23333,
-    -15.816670000000002,
+    -15.81667,
     49.23333,
-    -15.816670000000002
+    -15.81667
 ],
   "geometry": {"coordinates":[49.23333,-15.81667],"type":"Point"}
 }

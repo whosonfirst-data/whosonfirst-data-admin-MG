@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.00144,-17.91128,44.04144,-17.87128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rivi\u00e8re de Magomba",
         "Mangomba",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310616113,
-    "wof:lastmodified":1537664626,
+    "wof:lastmodified":1566604634,
     "wof:name":"Manomba",
     "wof:parent_id":1108801171,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":48.53333,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":37152,
+    "gn:population":37152,
     "iso:country":"MG",
+    "lbl:bbox":"48.51333,-20.60333,48.55333,-20.56333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Nosy Varika"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1058080,
         "gp:id":1365196,
-        "qs:id":1029602,
+        "qs_pg:id":1029602,
         "wd:id":"Q736946",
         "wk:page":"Nosy Varika"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890436947,
-    "wof:lastmodified":1563580320,
+    "wof:lastmodified":1566604796,
     "wof:name":"Nosy Varika",
     "wof:parent_id":1108801199,
     "wof:placetype":"locality",

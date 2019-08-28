@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-17.544228,
     "lbl:longitude":44.230853,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Maintirano",
     "meso:gaul_adm2":"Maintirano",
     "meso:name_loc":"Maintirano",
     "meso:region":"Melaky",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Maintirano"
     ],
@@ -73,7 +76,7 @@
         "\u9081\u56e0\u8482\u62c9\u52aa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108801171,
-    "wof:lastmodified":1564300151,
+    "wof:lastmodified":1566604521,
     "wof:name":"Maintirano",
     "wof:parent_id":85674029,
     "wof:placetype":"county",

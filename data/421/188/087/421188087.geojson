@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-22.848721,
     "lbl:longitude":44.512074,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Sakaraha",
     "meso:gaul_adm2":"Sakaraha",
     "meso:name_loc":"Sakaraha",
     "meso:region":"Atsimo Andrefana",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0430\u043a\u0430\u0440\u0430\u0445\u0430"
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":191,
     "wof:belongsto":[
         102191573,
@@ -90,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706574,
-        "qs:id":1087804,
+        "qs_pg:id":1087804,
         "wd:id":"Q2762606"
     },
     "wof:country":"MG",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421188087,
-    "wof:lastmodified":1563580283,
+    "wof:lastmodified":1566604785,
     "wof:name":"Sakaraha",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.09667,-22.38667,46.13667,-22.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1074088
     },
     "wof:country":"MG",
-    "wof:geomhash":"3919b67836343f3385061ef73687de90",
+    "wof:geomhash":"23a632acf61e952952e07a9188cda9d5",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209333157,
-    "wof:lastmodified":1536290308,
+    "wof:lastmodified":1566604362,
     "wof:name":"Androtsy",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     46.11667,
-    -22.366670000000006,
+    -22.36667000000001,
     46.11667,
-    -22.366670000000006
+    -22.36667000000001
 ],
   "geometry": {"coordinates":[46.11667,-22.36667000000001],"type":"Point"}
 }

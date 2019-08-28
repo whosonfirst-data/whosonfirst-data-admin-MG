@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.16333,-22.40333,47.20333,-22.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dinga"
     ],
@@ -42,8 +46,7 @@
         "Dinga"
     ],
     "name:und_x_variant":[
-        "Dingana",
-        "Dinga"
+        "Dingana"
     ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0646\u06af\u0627"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327045259,
-    "wof:lastmodified":1564298026,
+    "wof:lastmodified":1566603549,
     "wof:name":"Dinga",
     "wof:parent_id":421201529,
     "wof:placetype":"locality",

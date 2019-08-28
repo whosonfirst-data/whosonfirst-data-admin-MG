@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.94667,-14.75333,47.98667,-14.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Maroadabo"
     ],
@@ -39,8 +43,7 @@
         "Maroadabo"
     ],
     "name:und_x_variant":[
-        "Maroadaho",
-        "Maroadabo"
+        "Maroadaho"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293210939,
-    "wof:lastmodified":1564299069,
+    "wof:lastmodified":1566604037,
     "wof:name":"Maroadabo",
     "wof:parent_id":1108801093,
     "wof:placetype":"locality",

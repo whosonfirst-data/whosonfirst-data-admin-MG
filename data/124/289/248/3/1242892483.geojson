@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.26333,-15.60333,48.30333,-15.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mahalina"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1242892483,
-    "wof:lastmodified":1564300842,
+    "wof:lastmodified":1566604838,
     "wof:name":"Mahalina",
     "wof:parent_id":1108801127,
     "wof:placetype":"locality",

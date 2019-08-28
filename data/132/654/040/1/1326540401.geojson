@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"43.99667,-24.83667,44.03667,-24.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1326540401,
-    "wof:lastmodified":1536971778,
+    "wof:lastmodified":1566603589,
     "wof:name":"Nisoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

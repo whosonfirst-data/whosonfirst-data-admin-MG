@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.69667,-19.03667,48.73667,-18.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Antanambiery",
         "Tanambiavy"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242788123,
-    "wof:lastmodified":1537664584,
+    "wof:lastmodified":1566604942,
     "wof:name":"Tanambiavy",
     "wof:parent_id":1108801145,
     "wof:placetype":"locality",

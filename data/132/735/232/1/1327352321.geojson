@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.44667,-16.73667,47.48667,-16.69667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327352321,
-    "wof:lastmodified":1536796693,
+    "wof:lastmodified":1566603526,
     "wof:name":"Ambodiharamy",
     "wof:parent_id":1108801211,
     "wof:placetype":"locality",

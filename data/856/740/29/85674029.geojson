@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-17.502974,
     "lbl:longitude":44.794016,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Melaky",
     "mps:latitude":-17.4776,
     "mps:longitude":44.81555,
@@ -239,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Maintirano",
@@ -261,7 +262,7 @@
         "gn:id":7670852,
         "gp:id":2346148,
         "hasc:id":"MG.MA.ME",
-        "qs:id":1288998,
+        "qs_pg:id":1288998,
         "wd:id":"Q1514040"
     },
     "wof:country":"MG",
@@ -284,7 +285,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727436,
+    "wof:lastmodified":1566603846,
     "wof:name":"Melaky",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

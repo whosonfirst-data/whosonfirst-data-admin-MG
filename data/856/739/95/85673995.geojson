@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-17.243626,
     "lbl:longitude":47.117346,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Betsiboka",
     "mps:latitude":-17.192431,
     "mps:longitude":47.127257,
@@ -245,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Maevetanana",
@@ -267,7 +268,7 @@
         "gn:id":7670850,
         "gp:id":2346148,
         "hasc:id":"MG.MA.BE",
-        "qs:id":1288998,
+        "qs_pg:id":1288998,
         "wd:id":"Q832223"
     },
     "wof:country":"MG",
@@ -290,7 +291,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727434,
+    "wof:lastmodified":1566603842,
     "wof:name":"Betsiboka",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

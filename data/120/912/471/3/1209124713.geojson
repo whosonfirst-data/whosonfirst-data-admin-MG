@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.84667,-24.83667,46.88667,-24.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hazoambo",
         "Ezoambo"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209124713,
-    "wof:lastmodified":1537664665,
+    "wof:lastmodified":1566604289,
     "wof:name":"Ezoambo",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

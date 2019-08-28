@@ -24,13 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.13,-20.53667,47.17,-20.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Andina"
     ],
     "name:und_x_variant":[
-        "Andina",
         "Andina-Firaisana"
     ],
     "src:geom":"geonames",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293019693,
-    "wof:lastmodified":1564298719,
+    "wof:lastmodified":1566603877,
     "wof:name":"Andina-Firaisana",
     "wof:parent_id":421191749,
     "wof:placetype":"locality",

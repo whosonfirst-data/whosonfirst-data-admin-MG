@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9945072.363727,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.51338,-18.894707,47.51338,-18.894707",
     "geom:latitude":-18.894707,
     "geom:longitude":47.51338,
     "gn:latitude":-18.9,
     "gn:longitude":47.51667,
     "iso:country":"MG",
+    "lbl:bbox":"47.50838,-18.899707,47.51838,-18.889707",
     "lbl:latitude":-18.894707,
     "lbl:longitude":47.51338,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-18.892268,
     "mps:longitude":47.506066,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Amboasarikely"
-    ],
-    "name:unk_x_variant":[
         "Amboasarikely"
     ],
     "qs:gn_adm0_cc":"MG",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673965,
         102191573,
         85632223,
-        1108801113,
-        85673965
+        1108801113
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1081834,
         "gp:id":1354456,
-        "qs:id":279394,
         "qs_pg:id":279394
     },
     "wof:country":"MG",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859471,
+    "wof:lastmodified":1566603842,
     "wof:name":"Amboasarikely",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.54667,-19.42,47.58667,-19.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Antanimasaka"
     ],
@@ -33,7 +37,6 @@
         "Antanimasaka"
     ],
     "name:und_x_variant":[
-        "Antanimasaka",
         "Antanimasaka-Tsaramiafara"
     ],
     "src:geom":"geonames",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1326640469,
-    "wof:lastmodified":1564298074,
+    "wof:lastmodified":1566603570,
     "wof:name":"Antanimasaka-Tsaramiafara",
     "wof:parent_id":421194677,
     "wof:placetype":"locality",

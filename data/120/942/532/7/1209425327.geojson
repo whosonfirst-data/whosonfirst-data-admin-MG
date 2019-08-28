@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"49.91333,-16.83667,49.95333,-16.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1073908
     },
     "wof:country":"MG",
-    "wof:geomhash":"b393f82f6122acdb354b2d3db5fd7509",
+    "wof:geomhash":"7a84facea9338de9f7fffc807c6a2b31",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209425327,
-    "wof:lastmodified":1536287398,
+    "wof:lastmodified":1566604385,
     "wof:name":"Anivorano",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     49.93333,
-    -16.816670000000002,
+    -16.81667,
     49.93333,
-    -16.816670000000002
+    -16.81667
 ],
   "geometry": {"coordinates":[49.93333,-16.81667],"type":"Point"}
 }

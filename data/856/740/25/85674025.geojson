@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-18.970271,
     "lbl:longitude":46.822667,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Itasy",
     "mps:latitude":-18.978672,
     "mps:longitude":46.830215,
@@ -116,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Miarinarivo",
@@ -137,7 +138,7 @@
         "gn:id":7670855,
         "gp:id":2346150,
         "hasc:id":"MG.AV.IT",
-        "qs:id":362635
+        "qs_pg:id":362635
     },
     "wof:country":"MG",
     "wof:geomhash":"e3fd9c74f9c6c9ac17dafb1dfdb34dbe",
@@ -159,7 +160,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727438,
+    "wof:lastmodified":1566603850,
     "wof:name":"Itasy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

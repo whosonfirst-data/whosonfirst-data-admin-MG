@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.74667,-14.70333,48.78667,-14.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1073532
     },
     "wof:country":"MG",
-    "wof:geomhash":"9571dc5668333f6ef8bf4ce168a9b45a",
+    "wof:geomhash":"9773913afa78967c73163034b1f0cdf2",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209630419,
-    "wof:lastmodified":1536281207,
+    "wof:lastmodified":1566604260,
     "wof:name":"Anjohibe",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     48.76667,
-    -14.683329999999998,
+    -14.68333,
     48.76667,
-    -14.683329999999998
+    -14.68333
 ],
   "geometry": {"coordinates":[48.76667,-14.68333],"type":"Point"}
 }

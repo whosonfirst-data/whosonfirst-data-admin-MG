@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-16.714799,
     "lbl:longitude":49.259675,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Soanierana-Ivongo",
     "meso:gaul_adm2":"Soanierana Ivongo",
     "meso:name_loc":"Soanierana Ivongo",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Soanierana Ivongo"
     ],
@@ -55,7 +58,7 @@
         "\u8607\u963f\u6d85\u62c9\u7d0d\u4f0a\u7fc1\u53e4"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108801207,
-    "wof:lastmodified":1564300146,
+    "wof:lastmodified":1566604518,
     "wof:name":"Soanierana Ivongo",
     "wof:parent_id":85673967,
     "wof:placetype":"county",

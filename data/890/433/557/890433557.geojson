@@ -11,10 +11,14 @@
     "geom:longitude":48.23007,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":29212,
+    "gn:population":29212,
     "iso:country":"MG",
+    "lbl:bbox":"48.21007,-18.96948,48.25007,-18.92948",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Moramanga"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":1058532,
         "gp:id":1363490,
-        "qs:id":130388,
+        "qs_pg:id":130388,
         "wd:id":"Q2423165",
         "wk:page":"Moramanga"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890433557,
-    "wof:lastmodified":1563580330,
+    "wof:lastmodified":1566604798,
     "wof:name":"Moramanga",
     "wof:parent_id":421169605,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":46.38333,
     "gn:country":"MG",
     "gn:fcode":"PPL",
-    "gn:pop":36082,
+    "gn:population":36082,
     "iso:country":"MG",
+    "lbl:bbox":"46.36333,-25.05333,46.40333,-25.01333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Amboasary"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Amboasary"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amboasary Sud"
     ],
     "qs:name":"Amboasary",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1081790,
         "gp:id":1354461,
-        "qs:id":130471,
+        "qs_pg:id":130471,
         "wd:id":"Q988775",
         "wk:page":"Amboasary"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890433577,
-    "wof:lastmodified":1563580333,
+    "wof:lastmodified":1566604798,
     "wof:name":"Amboasary",
     "wof:parent_id":1108801083,
     "wof:placetype":"locality",

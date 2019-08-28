@@ -20,12 +20,15 @@
     ],
     "lbl:latitude":-15.526603,
     "lbl:longitude":49.372996,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Maroansetra",
     "meso:gaul_adm2":"Maroantsetra",
     "meso:name_loc":"Maroantsetra",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0648\u0627\u0646\u062a\u0633\u064a\u062a\u0631\u0627"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191573,
@@ -108,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706564,
-        "qs:id":220265,
+        "qs_pg:id":220265,
         "wd:id":"Q118175",
         "wk:page":"Maroantsetra"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890451979,
-    "wof:lastmodified":1563580327,
+    "wof:lastmodified":1566604797,
     "wof:name":"Maroantsetra",
     "wof:parent_id":85673967,
     "wof:placetype":"county",

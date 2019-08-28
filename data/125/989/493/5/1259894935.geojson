@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.91333,-19.45333,48.95333,-19.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Maintinandry"
     ],
@@ -36,8 +40,7 @@
         "Maintinandry"
     ],
     "name:und_x_variant":[
-        "Maintinandri",
-        "Maintinandry"
+        "Maintinandri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259894935,
-    "wof:lastmodified":1564301504,
+    "wof:lastmodified":1566605127,
     "wof:name":"Maintinandry",
     "wof:parent_id":421184617,
     "wof:placetype":"locality",

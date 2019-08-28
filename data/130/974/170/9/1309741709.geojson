@@ -24,8 +24,12 @@
     "gn:population":9000,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.23,-21.53667,47.27,-21.49667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fandrandava"
     ],
@@ -46,8 +50,7 @@
     ],
     "name:und_x_variant":[
         "Alakamisy-Fandandrave",
-        "Alakamisy Fandrandava",
-        "Fandrandava"
+        "Alakamisy Fandrandava"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1309741709,
-    "wof:lastmodified":1564300692,
+    "wof:lastmodified":1566604760,
     "wof:name":"Fandrandava",
     "wof:parent_id":1108801159,
     "wof:placetype":"locality",

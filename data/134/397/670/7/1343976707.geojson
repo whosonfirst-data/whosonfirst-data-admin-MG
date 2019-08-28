@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.79667,-16.13667,46.83667,-16.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Andangimboay",
         "Andengimboay"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343976707,
-    "wof:lastmodified":1537664764,
+    "wof:lastmodified":1566603661,
     "wof:name":"Andengimboay",
     "wof:parent_id":421183933,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.03,-18.53667,47.07,-18.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fenoario",
         "Fenoarivo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209726075,
-    "wof:lastmodified":1537664662,
+    "wof:lastmodified":1566604405,
     "wof:name":"Fenoarivo",
     "wof:parent_id":1108801103,
     "wof:placetype":"locality",

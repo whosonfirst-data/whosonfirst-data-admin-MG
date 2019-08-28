@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"50.11333,-14.63667,50.15333,-14.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u06cc\u0646\u0627\u0646\u06cc\u0641\u0627\u0647\u0648"
     ],
@@ -45,8 +49,7 @@
         "Ambinanifaho"
     ],
     "name:und_x_variant":[
-        "Ambinanyfaho",
-        "Ambinanifaho"
+        "Ambinanyfaho"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1344267631,
-    "wof:lastmodified":1564298499,
+    "wof:lastmodified":1566603767,
     "wof:name":"Ambinanifaho",
     "wof:parent_id":421196875,
     "wof:placetype":"locality",

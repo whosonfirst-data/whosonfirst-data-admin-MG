@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-18.367286,
     "lbl:longitude":47.423282,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Analamanga",
     "mps:latitude":-18.401426,
     "mps:longitude":47.518107,
@@ -257,7 +258,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Antananarivo",
@@ -279,7 +280,7 @@
         "gn:id":7670856,
         "gp:id":2346150,
         "hasc:id":"MG.AV.AG",
-        "qs:id":362635,
+        "qs_pg:id":362635,
         "wd:id":"Q484625"
     },
     "wof:country":"MG",
@@ -302,7 +303,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727435,
+    "wof:lastmodified":1566603844,
     "wof:name":"Analamanga",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -11,10 +11,14 @@
     "geom:longitude":48.22391,
     "gn:country":"MG",
     "gn:fcode":"PPLA2",
-    "gn:pop":51519,
+    "gn:population":51519,
     "iso:country":"MG",
+    "lbl:bbox":"48.20391,-17.6076,48.24391,-17.5676",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u067e\u0627\u0631\u0627\u0641\u0627\u0631\u0627\u0648\u0644\u0627"
     ],
@@ -69,7 +73,7 @@
     "name:tur_x_preferred":[
         "Amparafaravola"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amparafarovola"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":1078446,
         "gp:id":1355643,
-        "qs:id":130466,
+        "qs_pg:id":130466,
         "wd:id":"Q474396",
         "wk:page":"Amparafaravola"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890433573,
-    "wof:lastmodified":1563580330,
+    "wof:lastmodified":1566604798,
     "wof:name":"Amparafaravola",
     "wof:parent_id":1108801091,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"43.73,-22.12,43.77,-22.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0648\u0647\u06cc\u0645\u0647\u0627\u0648\u0644\u0648\u0646\u0627"
     ],
@@ -48,8 +52,7 @@
         "Ambohimahavelona"
     ],
     "name:und_x_variant":[
-        "Ambohimahavelo",
-        "Ambohimahavelona"
+        "Ambohimahavelo"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5e03\u5e0c\u99ac\u54c8\u97cb\u76e7\u7d0d"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1259802325,
-    "wof:lastmodified":1564301460,
+    "wof:lastmodified":1566605109,
     "wof:name":"Ambohimahavelona",
     "wof:parent_id":890452055,
     "wof:placetype":"locality",

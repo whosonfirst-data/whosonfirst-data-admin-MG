@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.91333,-21.33667,46.95333,-21.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Isorana"
     ],
@@ -39,8 +43,7 @@
         "Isorana"
     ],
     "name:und_x_variant":[
-        "Alakamisy Isorana",
-        "Isorana"
+        "Alakamisy Isorana"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u8607\u62c9\u7d0d"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209525919,
-    "wof:lastmodified":1564299584,
+    "wof:lastmodified":1566604274,
     "wof:name":"Isorana",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",

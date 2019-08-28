@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"50.23,-14.83667,50.27,-14.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Manambato"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1292913815,
-    "wof:lastmodified":1564298962,
+    "wof:lastmodified":1566603989,
     "wof:name":"Manambato",
     "wof:parent_id":421196875,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-16.466451,
     "lbl:longitude":49.486483,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Analanjirofo",
     "mps:latitude":-16.456358,
     "mps:longitude":49.503532,
@@ -245,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -267,7 +268,7 @@
         "gn:id":7670848,
         "gp:id":2346149,
         "hasc:id":"MG.TM.AN",
-        "qs:id":1208166,
+        "qs_pg:id":1208166,
         "wd:id":"Q178449"
     },
     "wof:country":"MG",
@@ -290,7 +291,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727434,
+    "wof:lastmodified":1566603843,
     "wof:name":"Analanjirofo",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

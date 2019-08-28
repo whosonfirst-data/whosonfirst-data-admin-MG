@@ -10,8 +10,12 @@
     "geom:latitude":-12.73333,
     "geom:longitude":49.23333,
     "iso:country":"MG",
+    "lbl:bbox":"49.21333,-12.75333,49.25333,-12.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Anivorano Avaratra"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Anivorano Avaratra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anivorano-du-Nord"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1073851,
         "gp:id":1357366,
-        "qs:id":1040689,
+        "qs_pg:id":1040689,
         "wd:id":"Q2850203",
         "wk:page":"Anivorano Nord"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421176047,
-    "wof:lastmodified":1563580309,
+    "wof:lastmodified":1566604793,
     "wof:name":"Anivorano Avaratra",
     "wof:parent_id":1108801117,
     "wof:placetype":"locality",

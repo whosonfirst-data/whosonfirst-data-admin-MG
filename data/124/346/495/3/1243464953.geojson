@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.53,-15.70333,48.57,-15.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Antsahabe"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243464953,
-    "wof:lastmodified":1564300981,
+    "wof:lastmodified":1566604901,
     "wof:name":"Antsahabe",
     "wof:parent_id":1108801185,
     "wof:placetype":"locality",

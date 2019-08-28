@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.68,-18.17,47.72,-18.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259493951,
-    "wof:lastmodified":1536842606,
+    "wof:lastmodified":1566605065,
     "wof:name":"Ampany",
     "wof:parent_id":1108801101,
     "wof:placetype":"locality",

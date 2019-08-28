@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.79667,-20.23667,44.83667,-20.19667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Andranomena"
     ],
@@ -36,8 +40,7 @@
         "Andranomena"
     ],
     "name:und_x_variant":[
-        "Andronomena",
-        "Andranomena"
+        "Andronomena"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1309924363,
-    "wof:lastmodified":1564300663,
+    "wof:lastmodified":1566604749,
     "wof:name":"Andranomena",
     "wof:parent_id":1108801165,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.19667,-24.05333,46.23667,-24.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Elonty"
     ],
@@ -39,8 +43,7 @@
         "Elonty"
     ],
     "name:und_x_variant":[
-        "Eloty",
-        "Elonty"
+        "Eloty"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1276563469,
-    "wof:lastmodified":1564299222,
+    "wof:lastmodified":1566604112,
     "wof:name":"Elonty",
     "wof:parent_id":1108801083,
     "wof:placetype":"locality",

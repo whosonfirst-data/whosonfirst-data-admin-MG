@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"47.59667,-16.90333,47.63667,-16.86333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mahaboboka"
     ],
@@ -42,8 +46,7 @@
         "Mahaboboka"
     ],
     "name:und_x_variant":[
-        "Mahaboka",
-        "Mahaboboka"
+        "Mahaboka"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u54c8\u5e03\u5e03\u5361"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1310416369,
-    "wof:lastmodified":1564300201,
+    "wof:lastmodified":1566604546,
     "wof:name":"Mahaboboka",
     "wof:parent_id":1108801211,
     "wof:placetype":"locality",

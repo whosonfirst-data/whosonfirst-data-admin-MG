@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-24.683394,
     "lbl:longitude":46.967552,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Taolagnaro",
     "meso:gaul_adm2":"Taolagnaro",
     "meso:name_loc":"Taolagnaro",
     "meso:region":"Anosy",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u0627\u0646\u0627\u0631\u0648"
@@ -179,7 +182,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-25.033333,
     "wd:longitude":46.983333,
     "wd:wordcount":5355,
@@ -191,7 +194,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706580,
-        "qs:id":1087808,
+        "qs_pg:id":1087808,
         "wd:id":"Q526568"
     },
     "wof:country":"MG",
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421188095,
-    "wof:lastmodified":1563580283,
+    "wof:lastmodified":1566604786,
     "wof:name":"Taolagnaro",
     "wof:parent_id":85673977,
     "wof:placetype":"county",

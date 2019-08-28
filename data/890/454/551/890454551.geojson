@@ -11,7 +11,7 @@
     "geom:longitude":49.141513,
     "gn:country":"MG",
     "gn:fcode":"ADM2",
-    "gn:pop":168388,
+    "gn:population":168388,
     "iso:country":"MG",
     "label:eng_x_preferred_longname":[
         "Toamasina II District"
@@ -21,12 +21,15 @@
     ],
     "lbl:latitude":-18.01962,
     "lbl:longitude":49.141395,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Toamasina Rural",
     "meso:gaul_adm2":"Toamasina II",
     "meso:name_loc":"Toamasina II",
     "meso:region":"Atsinanana",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "qs:name":"Toamasina II",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -45,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7670945,
-        "qs:id":696920
+        "qs_pg:id":696920
     },
     "wof:country":"MG",
     "wof:created":1469052904,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890454551,
-    "wof:lastmodified":1554489063,
+    "wof:lastmodified":1566604796,
     "wof:name":"Toamasina II",
     "wof:parent_id":85673991,
     "wof:placetype":"county",

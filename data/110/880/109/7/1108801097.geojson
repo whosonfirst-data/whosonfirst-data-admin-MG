@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-16.681442,
     "lbl:longitude":48.288903,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Andilamena",
     "meso:gaul_adm2":"Andilamena",
     "meso:name_loc":"Andilamena",
     "meso:region":"Alaotra Mangoro",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Andilamena"
     ],
@@ -49,7 +52,7 @@
         "\u5b89\u8fea\u62c9\u6885\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108801097,
-    "wof:lastmodified":1564300152,
+    "wof:lastmodified":1566604522,
     "wof:name":"Andilamena",
     "wof:parent_id":85673955,
     "wof:placetype":"county",

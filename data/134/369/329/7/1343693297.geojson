@@ -24,8 +24,12 @@
     "gn:population":13000,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.94667,-25.32,44.98667,-25.28",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Tranovaho"
     ],
@@ -46,8 +50,7 @@
     ],
     "name:und_x_variant":[
         "Tranovako",
-        "Tranovoa",
-        "Tranovaho"
+        "Tranovoa"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343693297,
-    "wof:lastmodified":1564298470,
+    "wof:lastmodified":1566603752,
     "wof:name":"Tranovaho",
     "wof:parent_id":1108801133,
     "wof:placetype":"locality",

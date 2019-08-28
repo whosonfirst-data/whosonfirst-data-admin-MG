@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.94667,-24.48667,44.98667,-24.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ankilimivory"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1360199823,
-    "wof:lastmodified":1564300607,
+    "wof:lastmodified":1566604726,
     "wof:name":"Ankilimivory",
     "wof:parent_id":1108801087,
     "wof:placetype":"locality",

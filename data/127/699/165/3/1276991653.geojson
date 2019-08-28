@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"46.48,-19.82,46.52,-19.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambalamarina",
         "Ambalamasina"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276991653,
-    "wof:lastmodified":1537664825,
+    "wof:lastmodified":1566604225,
     "wof:name":"Ambalamasina",
     "wof:parent_id":421175087,
     "wof:placetype":"locality",

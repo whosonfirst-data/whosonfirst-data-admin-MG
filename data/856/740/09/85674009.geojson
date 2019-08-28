@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-13.729457,
     "lbl:longitude":48.953519,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"Diana",
     "mps:latitude":-13.643844,
     "mps:longitude":49.02324,
@@ -187,7 +188,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Antsiranana",
@@ -207,7 +208,7 @@
     "wof:concordances":{
         "gp:id":2346146,
         "hasc:id":"MG.AS.DI",
-        "qs:id":891445,
+        "qs_pg:id":891445,
         "wd:id":"Q218592"
     },
     "wof:country":"MG",
@@ -230,7 +231,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565727437,
+    "wof:lastmodified":1566603848,
     "wof:name":"Diana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

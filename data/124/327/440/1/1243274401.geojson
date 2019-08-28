@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.06333,-21.12,45.10333,-21.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Belambo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243274401,
-    "wof:lastmodified":1564301156,
+    "wof:lastmodified":1566604977,
     "wof:name":"Belambo",
     "wof:parent_id":1108801165,
     "wof:placetype":"locality",

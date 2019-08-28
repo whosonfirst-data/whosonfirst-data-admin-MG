@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.81333,-15.08667,48.85333,-15.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambalakofafa",
         "Ambalakofafa Avaratra"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326845499,
-    "wof:lastmodified":1537664826,
+    "wof:lastmodified":1566603565,
     "wof:name":"Ambalakofafa Avaratra",
     "wof:parent_id":1108801127,
     "wof:placetype":"locality",

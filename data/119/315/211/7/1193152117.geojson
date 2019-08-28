@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"44.93,-22.72,44.97,-22.68",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bevoay"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1193152117,
-    "wof:lastmodified":1564299941,
+    "wof:lastmodified":1566604426,
     "wof:name":"Bevoay",
     "wof:parent_id":421188087,
     "wof:placetype":"locality",

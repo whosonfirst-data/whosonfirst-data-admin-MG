@@ -18,12 +18,15 @@
     ],
     "lbl:latitude":-19.030448,
     "lbl:longitude":47.516943,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:gadm_adm2":"Antananarivo-Sud",
     "meso:gaul_adm2":"Antananarivo Atsimondrano",
     "meso:name_loc":"Antananarivo Atsimondrano",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223,
@@ -56,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706533,
-        "qs:id":897052
+        "qs_pg:id":897052
     },
     "wof:country":"MG",
     "wof:created":1459010042,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421200823,
-    "wof:lastmodified":1554489030,
+    "wof:lastmodified":1566604790,
     "wof:name":"Antananarivo Atsimondrano",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

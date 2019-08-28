@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"48.17161,-13.38945,48.21161,-13.34945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1226457721,
-    "wof:lastmodified":1536626311,
+    "wof:lastmodified":1566605165,
     "wof:name":"Belle-Vue",
     "wof:parent_id":890452057,
     "wof:placetype":"locality",

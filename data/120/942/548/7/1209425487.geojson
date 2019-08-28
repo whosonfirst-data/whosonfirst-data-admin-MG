@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Antananarivo",
     "iso:country":"MG",
+    "lbl:bbox":"45.33,-16.13667,45.37,-16.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632223
@@ -34,7 +38,7 @@
         "gn:id":1068059
     },
     "wof:country":"MG",
-    "wof:geomhash":"fb9ebe7b6b2549ffe5f9215c54d256cb",
+    "wof:geomhash":"b5f3cc43794bf8521ce86ebea792957c",
     "wof:hierarchy":[
         {
             "country_id":85632223,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209425487,
-    "wof:lastmodified":1536287393,
+    "wof:lastmodified":1566604390,
     "wof:name":"Bekapika",
     "wof:parent_id":85632223,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     45.35,
-    -16.116670000000006,
+    -16.11667000000001,
     45.35,
-    -16.116670000000006
+    -16.11667000000001
 ],
   "geometry": {"coordinates":[45.35,-16.11667000000001],"type":"Point"}
 }
