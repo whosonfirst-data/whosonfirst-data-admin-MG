@@ -95,6 +95,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009984,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01f68dacbe2966f5dd84885ce0a87cfd",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421199279,
-    "wof:lastmodified":1566604790,
+    "wof:lastmodified":1582393282,
     "wof:name":"Antsalova",
     "wof:parent_id":85674029,
     "wof:placetype":"county",

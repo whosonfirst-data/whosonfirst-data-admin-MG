@@ -217,6 +217,9 @@
     },
     "wof:country":"MG",
     "wof:created":1469052428,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f5498942cf4212d80a086a4eb3a0eb9",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":890443537,
-    "wof:lastmodified":1566604796,
+    "wof:lastmodified":1582393284,
     "wof:name":"Morondava",
     "wof:parent_id":421190797,
     "wof:placetype":"locality",

@@ -138,6 +138,9 @@
     },
     "wof:country":"MG",
     "wof:created":1469052802,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8fa44516c49ab024b9e029f4a967d88",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":890452057,
-    "wof:lastmodified":1566604795,
+    "wof:lastmodified":1582393284,
     "wof:name":"Nosy-Be",
     "wof:parent_id":85674009,
     "wof:placetype":"county",

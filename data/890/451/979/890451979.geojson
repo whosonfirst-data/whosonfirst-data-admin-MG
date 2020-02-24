@@ -117,6 +117,9 @@
     },
     "wof:country":"MG",
     "wof:created":1469052800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1790e8ed26a92ec67f78eb8a54259aa3",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890451979,
-    "wof:lastmodified":1566604797,
+    "wof:lastmodified":1582393285,
     "wof:name":"Maroantsetra",
     "wof:parent_id":85673967,
     "wof:placetype":"county",

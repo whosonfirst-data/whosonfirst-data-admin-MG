@@ -591,6 +591,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009296,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5805ab55a8a9bf3441e4c57d99c166b2",
     "wof:hierarchy":[
         {
@@ -602,7 +605,7 @@
         }
     ],
     "wof:id":421181453,
-    "wof:lastmodified":1566604786,
+    "wof:lastmodified":1582393281,
     "wof:name":"Antananarivo",
     "wof:parent_id":1108801113,
     "wof:placetype":"locality",

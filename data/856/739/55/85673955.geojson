@@ -269,6 +269,9 @@
         "wd:id":"Q1352996"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9843d3a20786b7301dfdacd5ed568bb2",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603845,
+    "wof:lastmodified":1582393256,
     "wof:name":"Alaotra-Mangoro",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

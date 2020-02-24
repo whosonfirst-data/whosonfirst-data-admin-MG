@@ -218,6 +218,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459010043,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee783eab3edfce4201b1fc36f87845a4",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421200825,
-    "wof:lastmodified":1566604790,
+    "wof:lastmodified":1582393283,
     "wof:name":"Fianarantsoa I",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

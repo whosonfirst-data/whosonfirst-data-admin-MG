@@ -134,6 +134,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009247,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24f1ed6dd3c2874796bd428044b1a29d",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421180171,
-    "wof:lastmodified":1566604784,
+    "wof:lastmodified":1582393280,
     "wof:name":"Ambilobe",
     "wof:parent_id":85674009,
     "wof:placetype":"county",

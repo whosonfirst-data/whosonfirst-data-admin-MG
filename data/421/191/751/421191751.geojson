@@ -118,6 +118,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009704,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47ad025e169bbcdfd11aa2f1ad2cc052",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421191751,
-    "wof:lastmodified":1566604788,
+    "wof:lastmodified":1582393282,
     "wof:name":"Miarinarivo",
     "wof:parent_id":85674025,
     "wof:placetype":"county",

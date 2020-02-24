@@ -73,6 +73,10 @@
         "qs_pg:id":279394
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42ef2a48c7b221e34a940df3307a1359",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566603842,
+    "wof:lastmodified":1582393254,
     "wof:name":"Amboasarikely",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

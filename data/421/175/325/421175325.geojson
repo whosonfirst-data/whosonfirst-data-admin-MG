@@ -116,6 +116,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009063,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2037a009e50403f76a224e17d595c4b8",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421175325,
-    "wof:lastmodified":1566604787,
+    "wof:lastmodified":1582393281,
     "wof:name":"Ihosy",
     "wof:parent_id":85674019,
     "wof:placetype":"county",

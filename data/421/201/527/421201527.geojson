@@ -95,6 +95,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459010075,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76cf7c88a0c3282f4d24c249a9e49a57",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421201527,
-    "wof:lastmodified":1566604790,
+    "wof:lastmodified":1582393283,
     "wof:name":"Ambohidratrimo",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

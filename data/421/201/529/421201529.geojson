@@ -89,6 +89,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459010075,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2a87adf9d8914e5ac8070d05bbbd822",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421201529,
-    "wof:lastmodified":1566604790,
+    "wof:lastmodified":1582393283,
     "wof:name":"Ivohibe",
     "wof:parent_id":85674019,
     "wof:placetype":"county",

@@ -102,6 +102,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009395,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"635e656d4c33e7353c72bc22a50ead70",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421183931,
-    "wof:lastmodified":1566604792,
+    "wof:lastmodified":1582393283,
     "wof:name":"Vohemar",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

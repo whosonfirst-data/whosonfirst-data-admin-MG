@@ -104,6 +104,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459008900,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9fe4e2e6d9763c091f7b100ec18da330",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421171621,
-    "wof:lastmodified":1566604793,
+    "wof:lastmodified":1582393284,
     "wof:name":"Soavinandriana",
     "wof:parent_id":85674025,
     "wof:placetype":"county",

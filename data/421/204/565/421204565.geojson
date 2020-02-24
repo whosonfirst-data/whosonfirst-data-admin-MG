@@ -226,6 +226,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459010190,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"75e268a3618ec0a39459e39cd38d29e3",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421204565,
-    "wof:lastmodified":1566604783,
+    "wof:lastmodified":1582393280,
     "wof:name":"Antsirabe II",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

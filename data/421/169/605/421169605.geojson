@@ -131,6 +131,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459008817,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ac322b5cc5215ef0f6f9a828c8b8da4",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421169605,
-    "wof:lastmodified":1566604782,
+    "wof:lastmodified":1582393279,
     "wof:name":"Moramanga",
     "wof:parent_id":85673955,
     "wof:placetype":"county",

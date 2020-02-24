@@ -119,6 +119,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009417,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"677449b97c8b71a91e1af40e71b81549",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421184621,
-    "wof:lastmodified":1566604791,
+    "wof:lastmodified":1582393283,
     "wof:name":"Antanifotsy",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

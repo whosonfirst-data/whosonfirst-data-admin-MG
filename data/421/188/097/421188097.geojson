@@ -63,6 +63,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009534,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9273a0ffdcc9740a42d78996a2f3ec0d",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421188097,
-    "wof:lastmodified":1566604785,
+    "wof:lastmodified":1582393280,
     "wof:name":"Toliary I",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

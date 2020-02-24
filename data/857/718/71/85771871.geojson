@@ -73,6 +73,10 @@
         "qs_pg:id":478919
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6310616df65b2672524e2ae4259a49be",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566603842,
+    "wof:lastmodified":1582393254,
     "wof:name":"Ankadinandriana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

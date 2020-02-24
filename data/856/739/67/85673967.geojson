@@ -272,6 +272,9 @@
         "wd:id":"Q178449"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec9eea16df4a7eccb5a266b7d4639429",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603843,
+    "wof:lastmodified":1582393255,
     "wof:name":"Analanjirofo",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

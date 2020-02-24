@@ -107,6 +107,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459008824,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aab6609f1eb6ddd90b42de084f880014",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421169785,
-    "wof:lastmodified":1566604783,
+    "wof:lastmodified":1582393280,
     "wof:name":"Belo Sur Tsiribihina",
     "wof:parent_id":85674035,
     "wof:placetype":"county",

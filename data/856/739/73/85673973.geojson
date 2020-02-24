@@ -272,6 +272,9 @@
         "wd:id":"Q218981"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4bd1a465c890f523ce089d887c5c5d3d",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603843,
+    "wof:lastmodified":1582393255,
     "wof:name":"Androy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

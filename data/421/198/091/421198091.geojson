@@ -98,6 +98,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009936,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f057db72230efc1bfbd080ff32f0af7",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421198091,
-    "wof:lastmodified":1566604788,
+    "wof:lastmodified":1582393281,
     "wof:name":"Ikongo",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

@@ -86,6 +86,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009984,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2acd202da11600ef65154a6111c0ca83",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421199277,
-    "wof:lastmodified":1566604789,
+    "wof:lastmodified":1582393282,
     "wof:name":"Ankazoabo",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

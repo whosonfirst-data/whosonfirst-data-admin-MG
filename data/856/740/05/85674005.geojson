@@ -279,6 +279,9 @@
         "wd:id":"Q679739"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dbec6dea4bea67a074d4cd2dbca71bce",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603846,
+    "wof:lastmodified":1582393257,
     "wof:name":"Bongolava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -175,6 +175,9 @@
     },
     "wof:country":"MG",
     "wof:created":1469051773,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6334c1aebeeec4621ee83ff3d331489d",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890428803,
-    "wof:lastmodified":1566604796,
+    "wof:lastmodified":1582393284,
     "wof:name":"Miandrivazo",
     "wof:parent_id":421169603,
     "wof:placetype":"locality",

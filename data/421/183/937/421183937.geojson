@@ -111,6 +111,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009395,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69a68db9fdb06be828d4591a4d6ff8ff",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421183937,
-    "wof:lastmodified":1566604792,
+    "wof:lastmodified":1582393283,
     "wof:name":"Tsiroanomandidy",
     "wof:parent_id":85674005,
     "wof:placetype":"county",

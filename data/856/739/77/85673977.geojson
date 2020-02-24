@@ -129,6 +129,9 @@
         "qs_pg:id":1086782
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"644a77a66f5e2dd92b6ccf43fb495220",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603845,
+    "wof:lastmodified":1582393256,
     "wof:name":"Anosy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

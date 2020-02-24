@@ -98,6 +98,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009055,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb709abb62b55f95516f459a6fe8d7ee",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421175085,
-    "wof:lastmodified":1566604786,
+    "wof:lastmodified":1582393281,
     "wof:name":"Ambato Boeni",
     "wof:parent_id":85674001,
     "wof:placetype":"county",
