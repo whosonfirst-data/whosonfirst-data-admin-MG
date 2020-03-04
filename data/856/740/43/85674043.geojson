@@ -289,6 +289,9 @@
         "wd:id":"Q1463029"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a1ce19c02c69981c95ce3eafa11611e",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603847,
+    "wof:lastmodified":1582393258,
     "wof:name":"Vakinankaratra",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

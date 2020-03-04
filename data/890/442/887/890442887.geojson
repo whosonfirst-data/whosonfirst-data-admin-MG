@@ -216,6 +216,9 @@
     },
     "wof:country":"MG",
     "wof:created":1469052385,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"188175751483da73380907dfb64b4a4a",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":890442887,
-    "wof:lastmodified":1566604797,
+    "wof:lastmodified":1582393285,
     "wof:name":"Mahajanga II",
     "wof:parent_id":85674001,
     "wof:placetype":"county",

@@ -98,6 +98,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009533,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bedbf16cec2e4684003b06df4bf0a87f",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421188087,
-    "wof:lastmodified":1566604785,
+    "wof:lastmodified":1582393280,
     "wof:name":"Sakaraha",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

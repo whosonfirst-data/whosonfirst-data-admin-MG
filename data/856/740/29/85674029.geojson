@@ -266,6 +266,9 @@
         "wd:id":"Q1514040"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4babde7a90bd549e6b3f28a1123c8952",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603846,
+    "wof:lastmodified":1582393257,
     "wof:name":"Melaky",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

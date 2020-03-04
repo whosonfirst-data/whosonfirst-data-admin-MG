@@ -89,6 +89,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009417,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f174db4701ecab0b26e012ce0c44a6f",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421184613,
-    "wof:lastmodified":1566604791,
+    "wof:lastmodified":1582393283,
     "wof:name":"Iakora",
     "wof:parent_id":85674019,
     "wof:placetype":"county",

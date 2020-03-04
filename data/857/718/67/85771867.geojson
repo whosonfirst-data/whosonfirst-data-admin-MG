@@ -73,6 +73,10 @@
         "qs_pg:id":1040687
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebb6359ddf890e84277046b3be069500",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566603842,
+    "wof:lastmodified":1582393253,
     "wof:name":"Andohalo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

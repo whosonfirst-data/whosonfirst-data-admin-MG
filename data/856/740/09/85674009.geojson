@@ -212,6 +212,9 @@
         "wd:id":"Q218592"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"688d4e536047fa1a924490233c6b047d",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603848,
+    "wof:lastmodified":1582393258,
     "wof:name":"Diana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

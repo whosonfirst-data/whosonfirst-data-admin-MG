@@ -269,6 +269,9 @@
         "wd:id":"Q474134"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b4fedc23caa6808817dfd2bb1c3284c",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603842,
+    "wof:lastmodified":1582393254,
     "wof:name":"Amoron'i Mania",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

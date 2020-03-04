@@ -52,6 +52,9 @@
     },
     "wof:country":"MG",
     "wof:created":1469052904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d9163e9559b07739318b1ec4fee943f",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890454551,
-    "wof:lastmodified":1566604796,
+    "wof:lastmodified":1582393284,
     "wof:name":"Toamasina II",
     "wof:parent_id":85673991,
     "wof:placetype":"county",

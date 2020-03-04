@@ -276,6 +276,9 @@
         "wd:id":"Q1440747"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d8bb8315d009661d84a780f58559f35",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603850,
+    "wof:lastmodified":1582393259,
     "wof:name":"Haute Matsiatra",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

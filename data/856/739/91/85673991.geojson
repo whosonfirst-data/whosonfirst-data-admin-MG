@@ -272,6 +272,9 @@
         "wd:id":"Q757783"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ad1e630390f5de4827b6eb8acdab6a3c",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603844,
+    "wof:lastmodified":1582393255,
     "wof:name":"Atsinana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -143,6 +143,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009533,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e72b7093bb7a6f6d12f2c3037ccad5be",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421188089,
-    "wof:lastmodified":1566604785,
+    "wof:lastmodified":1582393280,
     "wof:name":"Sambava",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

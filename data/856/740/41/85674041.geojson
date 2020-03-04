@@ -648,6 +648,9 @@
         "qs_pg:id":1288998
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd2b44bdbd63f6fe0ea88a530331d3f3",
     "wof:hierarchy":[
         {
@@ -667,7 +670,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603849,
+    "wof:lastmodified":1582393259,
     "wof:name":"Sofia",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

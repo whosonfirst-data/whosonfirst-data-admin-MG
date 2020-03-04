@@ -98,6 +98,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ca718503694332ce7b83babd015be93",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421197047,
-    "wof:lastmodified":1566604789,
+    "wof:lastmodified":1582393282,
     "wof:name":"Ifanadiana",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

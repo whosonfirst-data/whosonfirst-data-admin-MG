@@ -63,6 +63,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459010042,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"280b6978b130f869eac3d78ed523f5ed",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421200823,
-    "wof:lastmodified":1566604790,
+    "wof:lastmodified":1582393283,
     "wof:name":"Antananarivo Atsimondrano",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

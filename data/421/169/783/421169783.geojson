@@ -230,6 +230,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459008824,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f4fea359c1c9b4bd335e56fe9e24660",
     "wof:hierarchy":[
         {
@@ -240,7 +243,7 @@
         }
     ],
     "wof:id":421169783,
-    "wof:lastmodified":1566604783,
+    "wof:lastmodified":1582393280,
     "wof:name":"Antsiranana I",
     "wof:parent_id":85674009,
     "wof:placetype":"county",

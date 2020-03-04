@@ -272,6 +272,9 @@
         "wd:id":"Q757782"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9c6bd247af3aec9b4c80bfd91c12d5e",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603844,
+    "wof:lastmodified":1582393255,
     "wof:name":"Atsimo-Atsinanana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -95,6 +95,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459008900,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"05604c109973e5c7bf5f0232f40bc0c8",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421171619,
-    "wof:lastmodified":1566604793,
+    "wof:lastmodified":1582393284,
     "wof:name":"Ambohimahasoa",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

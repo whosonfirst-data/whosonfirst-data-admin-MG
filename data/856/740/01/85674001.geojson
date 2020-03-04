@@ -266,6 +266,9 @@
         "wd:id":"Q740164"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cd73260da83fcb59a48dcdbc402484dd",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603849,
+    "wof:lastmodified":1582393259,
     "wof:name":"Boeny",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -131,6 +131,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009704,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"627159c96290be662e03613a24e7ec44",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421191749,
-    "wof:lastmodified":1566604788,
+    "wof:lastmodified":1582393282,
     "wof:name":"Ambositra",
     "wof:parent_id":85673959,
     "wof:placetype":"county",

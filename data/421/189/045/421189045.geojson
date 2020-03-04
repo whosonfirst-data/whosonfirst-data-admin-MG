@@ -63,6 +63,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009603,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c190469c1d72eef7ce5e18cc6f12509c",
     "wof:hierarchy":[
         {
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421189045,
-    "wof:lastmodified":1566604785,
+    "wof:lastmodified":1582393280,
     "wof:name":"Mananara-Avaratra",
     "wof:parent_id":85673967,
     "wof:placetype":"county",

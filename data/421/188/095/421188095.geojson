@@ -199,6 +199,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009534,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ef4fe706618a3d992c3818df735fe9f",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421188095,
-    "wof:lastmodified":1566604786,
+    "wof:lastmodified":1582393281,
     "wof:name":"Taolagnaro",
     "wof:parent_id":85673977,
     "wof:placetype":"county",

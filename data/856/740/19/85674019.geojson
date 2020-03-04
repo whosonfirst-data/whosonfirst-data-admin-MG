@@ -266,6 +266,9 @@
         "wd:id":"Q1513970"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d0c762af3bfe86545e294bec875322b",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603847,
+    "wof:lastmodified":1582393258,
     "wof:name":"Ihorombe",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

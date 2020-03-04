@@ -110,6 +110,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009417,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0b32e66d946daa0423483712e5cc207",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421184617,
-    "wof:lastmodified":1566604791,
+    "wof:lastmodified":1582393283,
     "wof:name":"Vatomandry",
     "wof:parent_id":85673991,
     "wof:placetype":"county",

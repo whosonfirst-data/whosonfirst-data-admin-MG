@@ -272,6 +272,9 @@
         "wd:id":"Q832223"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3bb2064f17948a9f2b9fea5636e471b",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603842,
+    "wof:lastmodified":1582393254,
     "wof:name":"Betsiboka",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

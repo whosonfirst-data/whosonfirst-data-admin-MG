@@ -73,6 +73,10 @@
         "qs_pg:id":1168036
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7dc93890eb76c9199852de624301cc9b",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566603842,
+    "wof:lastmodified":1582393253,
     "wof:name":"Fiadanana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

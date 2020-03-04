@@ -269,6 +269,9 @@
         "wd:id":"Q1462671"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e3d267658255107e6af65a837c2935a4",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603847,
+    "wof:lastmodified":1582393258,
     "wof:name":"Vatovavy-Fitovinany",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

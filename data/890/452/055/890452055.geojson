@@ -93,6 +93,9 @@
     },
     "wof:country":"MG",
     "wof:created":1469052802,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c14683dfd5692269333a6fff8289ac0",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":890452055,
-    "wof:lastmodified":1566604795,
+    "wof:lastmodified":1582393284,
     "wof:name":"Morombe",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

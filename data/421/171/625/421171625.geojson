@@ -134,6 +134,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459008900,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"88dd8609346d2cfe2a48a7ed29f2dc2b",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421171625,
-    "wof:lastmodified":1566604793,
+    "wof:lastmodified":1582393284,
     "wof:name":"Ambalavao",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

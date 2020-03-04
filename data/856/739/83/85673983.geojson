@@ -281,6 +281,9 @@
         "wd:id":"Q757781"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0fa72ee9a2ca06ab724a6dfe1611e986",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603845,
+    "wof:lastmodified":1582393256,
     "wof:name":"Atsimo-Andrefana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

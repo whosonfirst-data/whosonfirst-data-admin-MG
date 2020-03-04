@@ -128,6 +128,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459009816,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d6f21c4d79f1ba273649fdc3f2530fd4",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421194677,
-    "wof:lastmodified":1566604781,
+    "wof:lastmodified":1582393279,
     "wof:name":"Ambatolampy",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

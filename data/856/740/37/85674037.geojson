@@ -314,6 +314,9 @@
         "wd:id":"Q14383"
     },
     "wof:country":"MG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c5437b04dbba7b50372bd64c09058a7",
     "wof:hierarchy":[
         {
@@ -333,7 +336,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566603848,
+    "wof:lastmodified":1582393259,
     "wof:name":"Sava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

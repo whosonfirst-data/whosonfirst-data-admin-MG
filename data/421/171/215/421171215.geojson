@@ -93,6 +93,9 @@
     },
     "wof:country":"MG",
     "wof:created":1459008885,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c818080bc8c61248cfec5a39bbfdf634",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421171215,
-    "wof:lastmodified":1566604793,
+    "wof:lastmodified":1582393284,
     "wof:name":"Fandriana",
     "wof:parent_id":85673959,
     "wof:placetype":"county",
