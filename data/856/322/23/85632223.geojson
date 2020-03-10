@@ -957,9 +957,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Madagascar",
-        "digitalenvoy:country_code":[
-            450
-        ],
+        "digitalenvoy:country_code":450,
         "fb:id":"en.madagascar",
         "fifa:id":"MAD",
         "fips:code":"MA",
@@ -1008,7 +1006,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1583529177,
+    "wof:lastmodified":1583797384,
     "wof:name":"Madagascar",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
