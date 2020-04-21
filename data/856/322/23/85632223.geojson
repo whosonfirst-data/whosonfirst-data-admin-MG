@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":50.917062,
-    "geom:area_square_m":592999081808.257202,
+    "geom:area_square_m":592999081979.136841,
     "geom:bbox":"43.221222,-25.607111,50.483749,-11.95125",
     "geom:latitude":-19.378359,
     "geom:longitude":46.700647,
@@ -55,8 +55,14 @@
     "name:arg_x_preferred":[
         "Madagascar"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0627\u062f\u0627\u06ad\u0627\u0633\u0643\u0627\u0631"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0627\u062f\u062c\u0627\u0633\u0643\u0627\u0631"
+    ],
+    "name:asm_x_preferred":[
+        "\u09ae\u09be\u09a6\u09be\u0997\u09be\u09b8\u09cd\u0995\u09be\u09f0"
     ],
     "name:ast_x_preferred":[
         "Madagascar"
@@ -75,6 +81,9 @@
     ],
     "name:bam_x_variant":[
         "Madagasikari"
+    ],
+    "name:ban_x_preferred":[
+        "Madagaskar"
     ],
     "name:bcl_x_preferred":[
         "Madagaskar"
@@ -145,6 +154,9 @@
     "name:crh_x_preferred":[
         "Madagaskar"
     ],
+    "name:csb_x_preferred":[
+        "Madagaskar"
+    ],
     "name:cym_x_preferred":[
         "Madagasgar"
     ],
@@ -156,6 +168,12 @@
     ],
     "name:dan_x_variant":[
         "Madagascar"
+    ],
+    "name:deu_at_x_preferred":[
+        "Madagaskar"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Madagaskar"
     ],
     "name:deu_x_preferred":[
         "Madagaskar"
@@ -180,6 +198,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03b4\u03b1\u03b3\u03b1\u03c3\u03ba\u03ac\u03c1\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Madagascar"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Madagascar"
     ],
     "name:eng_x_preferred":[
         "Madagascar"
@@ -243,6 +267,9 @@
         "Madagaskaar"
     ],
     "name:gag_x_preferred":[
+        "Madagaskar"
+    ],
+    "name:gcr_x_preferred":[
         "Madagaskar"
     ],
     "name:gla_x_preferred":[
@@ -600,6 +627,9 @@
     "name:pol_x_preferred":[
         "Madagaskar"
     ],
+    "name:por_br_x_preferred":[
+        "Madagascar"
+    ],
     "name:por_x_preferred":[
         "Madag\u00e1scar"
     ],
@@ -663,6 +693,9 @@
     "name:sna_x_preferred":[
         "Madagascar"
     ],
+    "name:snd_x_preferred":[
+        "\u0645\u068a\u06af\u0627\u0633\u06aa\u0631"
+    ],
     "name:som_x_preferred":[
         "Madagaskar"
     ],
@@ -681,6 +714,12 @@
     ],
     "name:srd_x_preferred":[
         "Madagasc\u00e0r"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
+    ],
+    "name:srp_el_x_preferred":[
+        "Madagaskar"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
@@ -705,6 +744,9 @@
     ],
     "name:szl_x_preferred":[
         "Madagaskar"
+    ],
+    "name:szy_x_preferred":[
+        "Madagascar"
     ],
     "name:tah_x_preferred":[
         "Matatatihata"
@@ -801,6 +843,9 @@
     "name:war_x_preferred":[
         "Madagascar"
     ],
+    "name:wln_x_preferred":[
+        "Madagascar"
+    ],
     "name:wol_x_preferred":[
         "Madagaskaar"
     ],
@@ -831,8 +876,26 @@
     "name:zha_x_preferred":[
         "Madagascar"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u8fbe\u52a0\u65af\u52a0"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u99ac\u9054\u52a0\u65af\u52a0"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Madagasikara"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u9a6c\u8fbe\u52a0\u65af\u52a0"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u9a6c\u8fbe\u52a0\u65af\u52a0"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u9a6c\u8fbe\u52a0\u65af\u52a0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u9054\u52a0\u65af\u52a0"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u8fbe\u52a0\u65af\u52a0"
@@ -1006,7 +1069,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1583797384,
+    "wof:lastmodified":1587428702,
     "wof:name":"Madagascar",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
