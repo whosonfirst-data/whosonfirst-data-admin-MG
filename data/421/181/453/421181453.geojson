@@ -587,6 +587,7 @@
         "gn:id":1070940,
         "gp:id":1358594,
         "loc:id":"n79034322",
+        "ne:id":1159150835,
         "qs_pg:id":492814,
         "wd:id":"Q3915",
         "wk:page":"Antananarivo"
@@ -607,7 +608,8 @@
         }
     ],
     "wof:id":421181453,
-    "wof:lastmodified":1607390885,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"Antananarivo",
     "wof:parent_id":1108801113,
     "wof:placetype":"locality",
