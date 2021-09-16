@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.9558333333,-25.0380555556,46.9558333333,-25.0380555556",
+    "geom:bbox":"46.955833,-25.038056,46.955833,-25.038056",
     "geom:latitude":-25.038056,
     "geom:longitude":46.955833,
     "iso:country":"MG",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "T\u00f4lanaro Airport"
+    ],
+    "name:eng_x_variant":[
+        "FTU",
+        "FMSD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u0644\u0646\u0627\u0631\u0648"
@@ -66,7 +70,7 @@
         "wd:id":"Q939516"
     },
     "wof:country":"MG",
-    "wof:geomhash":"08e8b996857a03fce241d6f6a3d31b03",
+    "wof:geomhash":"fe1e00415da89faa20ffb7891557063b",
     "wof:hierarchy":[
         {
             "campus_id":102542343,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102542343,
-    "wof:lastmodified":1566603626,
+    "wof:lastmodified":1631757136,
     "wof:name":"Tolagnaro Airport",
     "wof:parent_id":85673977,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    46.955833333333,
-    -25.038055555556,
-    46.955833333333,
-    -25.038055555556
+    46.955833,
+    -25.038056,
+    46.955833,
+    -25.038056
 ],
-  "geometry": {"coordinates":[46.955833333333,-25.038055555556],"type":"Point"}
+  "geometry": {"coordinates":[46.955833,-25.038056],"type":"Point"}
 }
