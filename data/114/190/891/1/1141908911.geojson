@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.0332942289,-19.8500170707,47.0332942289,-19.8500170707",
+    "geom:bbox":"47.033294,-19.850017,47.033294,-19.850017",
     "geom:latitude":-19.850017,
     "geom:longitude":47.033294,
     "iso:country":"MG",
@@ -68,6 +68,9 @@
     ],
     "name:hrv_x_preferred":[
         "Antisrabe"
+    ],
+    "name:hun_x_preferred":[
+        "Antsirabe"
     ],
     "name:ind_x_preferred":[
         "Antsirabe"
@@ -276,7 +279,7 @@
     },
     "wof:country":"MG",
     "wof:created":1499130997,
-    "wof:geomhash":"7e06cc1fb47baca8dfb0bc0b17904982",
+    "wof:geomhash":"90255fe5f26502b5b845d7818ee36860",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":1141908911,
-    "wof:lastmodified":1566605310,
+    "wof:lastmodified":1636506407,
     "wof:name":"Antsirabe",
     "wof:parent_id":1108801115,
     "wof:placetype":"locality",
@@ -297,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.03329422891676,
-    -19.85001707070103,
-    47.03329422891676,
-    -19.85001707070103
+    47.033294,
+    -19.850017,
+    47.033294,
+    -19.850017
 ],
-  "geometry": {"coordinates":[47.03329422891676,-19.85001707070103],"type":"Point"}
+  "geometry": {"coordinates":[47.033294,-19.850017],"type":"Point"}
 }

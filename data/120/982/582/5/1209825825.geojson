@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Antsirabe"
     ],
+    "name:hun_x_preferred":[
+        "Antsirabe"
+    ],
     "name:ita_x_preferred":[
         "Antsirabe"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1209825825,
-    "wof:lastmodified":1566604310,
+    "wof:lastmodified":1636506387,
     "wof:name":"Antsirabe",
     "wof:parent_id":1108801077,
     "wof:placetype":"locality",

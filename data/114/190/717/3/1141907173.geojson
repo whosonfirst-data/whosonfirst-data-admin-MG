@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"45.3166031482,-24.216158835,45.3166031482,-24.216158835",
+    "geom:bbox":"45.316603,-24.216159,45.316603,-24.216159",
     "geom:latitude":-24.216159,
     "geom:longitude":45.316603,
     "iso:country":"MG",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0643\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u0995\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Bekily"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03ba\u03b9\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Bekily"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Bekily"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e7\u05d0\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0915\u0940\u092f"
+    ],
+    "name:hun_x_preferred":[
+        "Bekiy"
+    ],
+    "name:ind_x_preferred":[
+        "Bekiy"
+    ],
+    "name:ita_x_preferred":[
+        "Bekily"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ad\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ud0a4"
+    ],
+    "name:nld_x_preferred":[
+        "Bekiy"
+    ],
+    "name:pol_x_preferred":[
+        "Bekiy"
+    ],
+    "name:por_x_preferred":[
+        "Bekily"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u0438\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Bekiy"
+    ],
+    "name:swe_x_preferred":[
+        "Bekiy"
+    ],
+    "name:tur_x_preferred":[
+        "Bekiy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043a\u0456\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u06a9\u0627\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Bekiy"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d1d\u57fa"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c9d\u57fa"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
     "ne:ADM0_A3":"MDG",
@@ -124,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1499130691,
-    "wof:geomhash":"726bca25b59a6c1e9937515d76aab9a7",
+    "wof:geomhash":"011e3e9b93e67a5b0b8e8bfb9c27edcd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +213,7 @@
         }
     ],
     "wof:id":1141907173,
-    "wof:lastmodified":1566605311,
+    "wof:lastmodified":1636506408,
     "wof:name":"Bekiy",
     "wof:parent_id":1108801131,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.31660314818077,
-    -24.21615883504137,
-    45.31660314818077,
-    -24.21615883504137
+    45.316603,
+    -24.216159,
+    45.316603,
+    -24.216159
 ],
-  "geometry": {"coordinates":[45.31660314818077,-24.21615883504137],"type":"Point"}
+  "geometry": {"coordinates":[45.316603,-24.216159],"type":"Point"}
 }

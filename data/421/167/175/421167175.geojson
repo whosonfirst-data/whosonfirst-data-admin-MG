@@ -77,6 +77,9 @@
     "name:hrv_x_preferred":[
         "Toliara"
     ],
+    "name:hun_x_preferred":[
+        "Toliara"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u0582\u056c\u056b\u0561\u0580\u0561"
     ],
@@ -321,7 +324,7 @@
         }
     ],
     "wof:id":421167175,
-    "wof:lastmodified":1566604782,
+    "wof:lastmodified":1636506395,
     "wof:name":"Toliara",
     "wof:parent_id":421188097,
     "wof:placetype":"locality",

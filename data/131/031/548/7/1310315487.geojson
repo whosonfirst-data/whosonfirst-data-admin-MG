@@ -94,7 +94,19 @@
         "Boina"
     ],
     "name:urd_x_preferred":[
+        "\u0628\u0648\u0626\u06cc\u0646\u06cc"
+    ],
+    "name:urd_x_variant":[
         "\u0628\u0648\u0626\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Boeny"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u535a\u7231\u5c3c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u535a\u5c3c"
     ],
     "name:zho_x_preferred":[
         "\u535a\u611b\u5c3c\u5340"
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1310315487,
-    "wof:lastmodified":1566604578,
+    "wof:lastmodified":1636506392,
     "wof:name":"Boeny",
     "wof:parent_id":1108801193,
     "wof:placetype":"locality",

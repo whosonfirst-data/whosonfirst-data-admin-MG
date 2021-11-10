@@ -53,6 +53,9 @@
     "name:epo_x_preferred":[
         "Mahajanga"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0647\u0627\u0647\u0627\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mahajanga"
     ],
@@ -75,6 +78,9 @@
         "\u092e\u0939\u093e\u091c\u0902\u0917\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Mahajanga"
+    ],
+    "name:hun_x_preferred":[
         "Mahajanga"
     ],
     "name:ind_x_preferred":[
@@ -331,7 +337,7 @@
         }
     ],
     "wof:id":421187483,
-    "wof:lastmodified":1566604784,
+    "wof:lastmodified":1636506396,
     "wof:name":"Mahajanga",
     "wof:parent_id":1108801167,
     "wof:placetype":"locality",

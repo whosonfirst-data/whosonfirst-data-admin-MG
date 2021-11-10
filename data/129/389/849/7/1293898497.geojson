@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u062c\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09be\u09b2\u09be\u09ae\u09be\u0982\u0997\u09be"
+    ],
     "name:bre_x_preferred":[
         "Analamanga"
     ],
@@ -59,6 +62,12 @@
     ],
     "name:fra_x_preferred":[
         "Analamanga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d0\u05dc\u05de\u05d0\u05e0\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0928\u093e\u0932\u092e\u0902\u0917\u093e"
     ],
     "name:ind_x_preferred":[
         "Analamanga"
@@ -96,11 +105,17 @@
     "name:swe_x_preferred":[
         "Analamanga"
     ],
+    "name:tur_x_preferred":[
+        "Analamanga"
+    ],
     "name:und_x_variant":[
         "Ambalamanga"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0646\u0627\u0644\u0627\u0645\u0627\u0646\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Analamanga"
     ],
     "name:zho_x_preferred":[
         "\u963f\u90a3\u62c9\u8292\u52a0\u5340"
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":1293898497,
-    "wof:lastmodified":1566604010,
+    "wof:lastmodified":1636506385,
     "wof:name":"Analamanga",
     "wof:parent_id":1108801221,
     "wof:placetype":"locality",

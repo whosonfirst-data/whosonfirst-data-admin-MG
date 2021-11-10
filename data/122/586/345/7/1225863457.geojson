@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09b0\u09cb\u09a8\u09a6\u09be\u09ad\u09be"
+    ],
     "name:cat_x_preferred":[
         "Morondava"
     ],
@@ -42,13 +45,31 @@
     "name:deu_x_preferred":[
         "Morondava"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03bf\u03bd\u03c4\u03ac\u03b2\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646\u062f\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Morondava"
     ],
     "name:fra_x_preferred":[
         "Morondava"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d5\u05e0\u05d3\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0930\u094b\u0902\u0926\u093e\u0935\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Morondava"
+    ],
+    "name:hun_x_preferred":[
+        "Morondava"
+    ],
+    "name:ind_x_preferred":[
         "Morondava"
     ],
     "name:ita_x_preferred":[
@@ -96,11 +117,20 @@
     "name:swe_x_preferred":[
         "Morondava"
     ],
+    "name:tur_x_preferred":[
+        "Morondava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u043d\u0434\u0430\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Marohazo"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0646\u062f\u0627\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Morondava"
     ],
     "name:zho_x_preferred":[
         "\u7a46\u9f99\u8fbe\u74e6"
@@ -117,7 +147,7 @@
         "gn:id":1058380
     },
     "wof:country":"MG",
-    "wof:geomhash":"faaccd267959f2f9afe46c9ec28411df",
+    "wof:geomhash":"ef99945f2bfd4692e061db00637bf061",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +158,7 @@
         }
     ],
     "wof:id":1225863457,
-    "wof:lastmodified":1566605218,
+    "wof:lastmodified":1636506405,
     "wof:name":"Morondava",
     "wof:parent_id":1108801191,
     "wof:placetype":"locality",
@@ -139,9 +169,9 @@
 },
   "bbox": [
     47.0,
-    -23.61667000000001,
+    -23.61667,
     47.0,
-    -23.61667000000001
+    -23.61667
 ],
-  "geometry": {"coordinates":[47.0,-23.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.0,-23.61667],"type":"Point"}
 }

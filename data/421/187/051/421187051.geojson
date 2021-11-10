@@ -20,14 +20,23 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0647\u0648\u0633\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09b9\u09cb\u09b8\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Ihosy"
     ],
     "name:deu_x_preferred":[
         "Ihosy"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c7\u03cc\u03c3\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Ihosy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0647\u06cc"
     ],
     "name:fin_x_preferred":[
         "Ihosy"
@@ -38,7 +47,19 @@
     "name:hbs_x_preferred":[
         "Ihosi"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05d4\u05d5\u05e1\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0939\u094b\u0938\u0940"
+    ],
     "name:hrv_x_preferred":[
+        "Ihosy"
+    ],
+    "name:hun_x_preferred":[
+        "Ihosy"
+    ],
+    "name:ind_x_preferred":[
         "Ihosy"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30d5\u30b7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ud638\uc2dc"
     ],
     "name:mlg_x_preferred":[
         "Ihosy"
@@ -65,7 +89,22 @@
     "name:rus_x_preferred":[
         "\u0418\u0445\u0443\u0441\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Ihosy"
+    ],
     "name:swe_x_preferred":[
+        "Ihosy"
+    ],
+    "name:tur_x_preferred":[
+        "Ihosy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043e\u0441\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u0633\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Ihosy"
     ],
     "name:zho_x_preferred":[
@@ -210,7 +249,7 @@
         }
     ],
     "wof:id":421187051,
-    "wof:lastmodified":1566604784,
+    "wof:lastmodified":1636506396,
     "wof:name":"Ihosy",
     "wof:parent_id":421175325,
     "wof:placetype":"locality",

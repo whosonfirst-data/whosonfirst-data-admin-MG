@@ -87,7 +87,19 @@
         "Ihoromberegionen"
     ],
     "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u06c1\u0648\u0631\u0648\u0645\u0628\u06d2"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u06cc\u06c1\u0648\u0631\u0648\u0645\u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Ihorombe"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4f0a\u970d\u7f57\u8d1d"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f0a\u970d\u7f85\u8c9d"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u970d\u7f85\u8c9d\u5340"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1343877077,
-    "wof:lastmodified":1566603817,
+    "wof:lastmodified":1636506377,
     "wof:name":"Ihorombe",
     "wof:parent_id":1108801153,
     "wof:placetype":"locality",

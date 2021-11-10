@@ -30,11 +30,20 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
+    "name:ben_x_preferred":[
+        "\u0987\u09a4\u09be\u09b8\u09bf"
+    ],
     "name:eng_x_preferred":[
         "Antananarivo"
     ],
     "name:fra_x_preferred":[
         "Itasy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d8\u05d0\u05e1\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u091f\u093e\u0938\u094d\u092f"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30bf\u30ca\u30ca\u30ea\u30dc"
@@ -44,6 +53,12 @@
     ],
     "name:swe_x_preferred":[
         "Tananarive"
+    ],
+    "name:tur_x_preferred":[
+        "Itasy"
+    ],
+    "name:vie_x_preferred":[
+        "Itasy"
     ],
     "name:zho_x_preferred":[
         "\u5854\u90a3\u90a3\u5229\u4f5b"
@@ -166,7 +181,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1614895085,
+    "wof:lastmodified":1636506383,
     "wof:name":"Itasy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

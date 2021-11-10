@@ -68,6 +68,9 @@
     "name:hin_x_preferred":[
         "\u0905\u092e\u094d\u092c\u093e\u0932\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Ambala"
+    ],
     "name:ita_x_preferred":[
         "Ambala"
     ],
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":1226550295,
-    "wof:lastmodified":1566605280,
+    "wof:lastmodified":1636506406,
     "wof:name":"Ambala",
     "wof:parent_id":421169603,
     "wof:placetype":"locality",

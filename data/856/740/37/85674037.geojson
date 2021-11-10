@@ -276,6 +276,12 @@
     "name:vie_x_preferred":[
         "Sava"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u74e6\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u85a9\u74e6"
+    ],
     "name:zho_x_preferred":[
         "\u85a9\u74e6\u6cb3"
     ],
@@ -339,7 +345,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1614895085,
+    "wof:lastmodified":1636506382,
     "wof:name":"Sava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

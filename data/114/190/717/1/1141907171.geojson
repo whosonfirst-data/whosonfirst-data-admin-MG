@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.4833206775,-16.7495344861,44.4833206775,-16.7495344861",
+    "geom:bbox":"44.483321,-16.749534,44.483321,-16.749534",
     "geom:latitude":-16.749534,
     "geom:longitude":44.483321,
     "iso:country":"MG",
@@ -21,10 +21,31 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0627\u0644\u0627\u0645\u0628\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b8\u09be\u09b2\u09be\u09ae\u09cd\u09aa\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Besalampy"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c3\u03b1\u03bb\u03b1\u03bc\u03c0\u03af"
+    ],
     "name:eng_x_preferred":[
         "Besalampy"
     ],
     "name:fra_x_preferred":[
+        "Besalampy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e1\u05d0\u05dc\u05de\u05e4\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0938\u093e\u0932\u093e\u092e\u094d\u092a\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Besalampy"
+    ],
+    "name:ind_x_preferred":[
         "Besalampy"
     ],
     "name:ita_x_preferred":[
@@ -32,6 +53,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30b5\u30e9\u30f3\u30d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc0b4\ub78c\ud53c"
     ],
     "name:mlg_x_preferred":[
         "Besalampy"
@@ -45,7 +69,25 @@
     "name:por_x_preferred":[
         "Besalampy"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u0430\u043b\u0430\u043c\u043f\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Besalampy"
+    ],
     "name:swe_x_preferred":[
+        "Besalampy"
+    ],
+    "name:tur_x_preferred":[
+        "Besalampy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0441\u0430\u043b\u0430\u043c\u043f\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0633\u0627\u0644\u0627\u0645\u067e\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Besalampy"
     ],
     "name:zho_x_preferred":[
@@ -159,7 +201,7 @@
     },
     "wof:country":"MG",
     "wof:created":1499130691,
-    "wof:geomhash":"c29cf3b67686e976cd78f6128983fa18",
+    "wof:geomhash":"e7f8cf4a10ae8915350619872496caf7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -170,7 +212,7 @@
         }
     ],
     "wof:id":1141907171,
-    "wof:lastmodified":1566605311,
+    "wof:lastmodified":1636506407,
     "wof:name":"Besalampy",
     "wof:parent_id":1108801139,
     "wof:placetype":"locality",
@@ -180,10 +222,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.48332067747435,
-    -16.74953448605316,
-    44.48332067747435,
-    -16.74953448605316
+    44.483321,
+    -16.749534,
+    44.483321,
+    -16.749534
 ],
-  "geometry": {"coordinates":[44.48332067747435,-16.74953448605316],"type":"Point"}
+  "geometry": {"coordinates":[44.483321,-16.749534],"type":"Point"}
 }

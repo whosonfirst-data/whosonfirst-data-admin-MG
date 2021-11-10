@@ -47,7 +47,13 @@
     "name:fra_x_preferred":[
         "Asosa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d5\u05e1\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Asosa"
+    ],
+    "name:hun_x_preferred":[
         "Asosa"
     ],
     "name:ita_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1310424271,
-    "wof:lastmodified":1566604600,
+    "wof:lastmodified":1636506393,
     "wof:name":"Asosa",
     "wof:parent_id":1108801131,
     "wof:placetype":"locality",

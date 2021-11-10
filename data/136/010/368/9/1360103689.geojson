@@ -84,7 +84,19 @@
         "Betsibokaregionen"
     ],
     "name:urd_x_preferred":[
+        "\u0628\u06cc\u0679\u0633\u06cc\u0628\u0648\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0628\u06cc\u062a\u0633\u06cc\u0628\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Betsiboka"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d1d\u9f50\u5e03\u5361\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c9d\u5947\u6ce2\u52a0"
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u9f4a\u535a\u5361\u5340"
@@ -101,7 +113,7 @@
         "gn:id":1066214
     },
     "wof:country":"MG",
-    "wof:geomhash":"73e6bc4946014939f7ccc2c29cbf24c1",
+    "wof:geomhash":"178afac34fbc49683282113e2789ed0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":1360103689,
-    "wof:lastmodified":1566604716,
+    "wof:lastmodified":1636506394,
     "wof:name":"Betsiboka",
     "wof:parent_id":1108801163,
     "wof:placetype":"locality",
@@ -123,9 +135,9 @@
 },
   "bbox": [
     46.95,
-    -16.86667000000001,
+    -16.86667,
     46.95,
-    -16.86667000000001
+    -16.86667
 ],
-  "geometry": {"coordinates":[46.95,-16.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.95,-16.86667],"type":"Point"}
 }

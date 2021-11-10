@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.7333361397,-15.4333357556,49.7333361397,-15.4333357556",
+    "geom:bbox":"49.733336,-15.433336,49.733336,-15.433336",
     "geom:latitude":-15.433336,
     "geom:longitude":49.733336,
     "gn:country":"MG",
@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0648\u0627\u0646\u062a\u0633\u064a\u062a\u0631\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09cb\u09df\u09be\u09a8\u09cd\u09a4\u09b8\u09c7\u09a4\u09cd\u09b0\u09be"
+    ],
     "name:cat_x_preferred":[
         "Maroantsetra"
     ],
@@ -33,16 +36,34 @@
     "name:deu_x_preferred":[
         "Maroantsetra"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03bf\u03b1\u03bd\u03c4\u03c3\u03ad\u03c4\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Maroantsetra"
     ],
     "name:est_x_preferred":[
         "Maroantsetra"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0627\u0646\u062a\u0633\u062a\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "Maroantsetra"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d5\u05d0\u05e0\u05d8\u05e1\u05d8\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094b\u090f\u0902\u091f\u0938\u0947\u0924\u094d\u0930\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Maroantsetra"
+    ],
+    "name:hun_x_preferred":[
+        "Maroantsetra"
+    ],
+    "name:ind_x_preferred":[
         "Maroantsetra"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +71,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30eb\u30a2\u30f3\u30c4\u30a7\u30c8\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub85c\uc548\uccb4\ud2b8\ub77c"
     ],
     "name:mlg_x_preferred":[
         "Maroantsetra"
@@ -72,11 +96,23 @@
     "name:rus_x_variant":[
         "\u041c\u0430\u0440\u0443\u0430\u043d\u0446\u0435\u0442\u0440\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Maroantsetra"
+    ],
     "name:swe_x_preferred":[
+        "Maroantsetra"
+    ],
+    "name:tur_x_preferred":[
         "Maroantsetra"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043e\u0430\u043d\u0442\u0441\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0627\u0646\u0679\u0633\u0631\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Maroantsetra"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u9b6f\u5b89\u91c7\u7279\u62c9"
@@ -203,7 +239,7 @@
     },
     "wof:country":"MG",
     "wof:created":1499130997,
-    "wof:geomhash":"1a5e0eb51066e76af06542f0b37bc70b",
+    "wof:geomhash":"6d5950cdf3783155b04dbd83c5ab166f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -214,7 +250,7 @@
         }
     ],
     "wof:id":1141908915,
-    "wof:lastmodified":1566605310,
+    "wof:lastmodified":1636506407,
     "wof:name":"Maroantsetra",
     "wof:parent_id":890451979,
     "wof:placetype":"locality",
@@ -228,10 +264,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.73333613973477,
-    -15.43333575557921,
-    49.73333613973477,
-    -15.43333575557921
+    49.733336,
+    -15.433336,
+    49.733336,
+    -15.433336
 ],
-  "geometry": {"coordinates":[49.73333613973477,-15.43333575557921],"type":"Point"}
+  "geometry": {"coordinates":[49.733336,-15.433336],"type":"Point"}
 }

@@ -71,6 +71,9 @@
     "name:hrv_x_preferred":[
         "Antsiranana"
     ],
+    "name:hun_x_preferred":[
+        "Antsiranana"
+    ],
     "name:ind_x_preferred":[
         "Antsiranana"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1293400455,
-    "wof:lastmodified":1566603934,
+    "wof:lastmodified":1636506385,
     "wof:name":"Antsiranana",
     "wof:parent_id":1108801147,
     "wof:placetype":"locality",

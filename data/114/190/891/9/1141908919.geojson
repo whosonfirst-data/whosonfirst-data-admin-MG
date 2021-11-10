@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.3656776324,-21.739138483,43.3656776324,-21.739138483",
+    "geom:bbox":"43.365678,-21.739138,43.365678,-21.739138",
     "geom:latitude":-21.739138,
     "geom:longitude":43.365678,
     "iso:country":"MG",
@@ -21,13 +21,34 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0645\u0628\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09b0\u09cb\u09ae\u09cd\u09ac\u09c7"
+    ],
     "name:deu_x_preferred":[
         "Morombe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03cc\u03bc\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Morombe"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0645\u0628"
+    ],
     "name:fra_x_preferred":[
+        "Morombe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d5\u05de\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0930\u094b\u0902\u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Morombe"
+    ],
+    "name:ind_x_preferred":[
         "Morombe"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +56,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30eb\u30f3\u30d9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub86c\ubca0"
     ],
     "name:mlg_x_preferred":[
         "Morombe"
@@ -45,7 +69,25 @@
     "name:por_x_preferred":[
         "Morombe"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u043c\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Morombe"
+    ],
     "name:swe_x_preferred":[
+        "Morombe"
+    ],
+    "name:tur_x_preferred":[
+        "Morombe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u043c\u0431\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0645\u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
         "Morombe"
     ],
     "name:zho_x_preferred":[
@@ -159,7 +201,7 @@
     },
     "wof:country":"MG",
     "wof:created":1499130998,
-    "wof:geomhash":"4dc008eb230dda28b28396decdc22ba6",
+    "wof:geomhash":"6f3c8ea1a615175595a8b7d3c4cdc3ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -170,7 +212,7 @@
         }
     ],
     "wof:id":1141908919,
-    "wof:lastmodified":1566605310,
+    "wof:lastmodified":1636506407,
     "wof:name":"Morombe",
     "wof:parent_id":890452055,
     "wof:placetype":"locality",
@@ -180,10 +222,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.36567763235996,
-    -21.73913848298719,
-    43.36567763235996,
-    -21.73913848298719
+    43.365678,
+    -21.739138,
+    43.365678,
+    -21.739138
 ],
-  "geometry": {"coordinates":[43.36567763235996,-21.73913848298719],"type":"Point"}
+  "geometry": {"coordinates":[43.365678,-21.739138],"type":"Point"}
 }
