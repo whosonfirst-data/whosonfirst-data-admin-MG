@@ -99,6 +99,9 @@
     "name:zho_x_preferred":[
         "\u66fc\u624e"
     ],
+    "name:zul_x_preferred":[
+        "Manja"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
     "ne:ADM0_A3":"MDG",
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":1141907177,
-    "wof:lastmodified":1636506407,
+    "wof:lastmodified":1690939426,
     "wof:name":"Manja",
     "wof:parent_id":1108801187,
     "wof:placetype":"locality",

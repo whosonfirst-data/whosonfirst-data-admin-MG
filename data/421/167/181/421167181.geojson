@@ -56,11 +56,17 @@
     "name:spa_x_preferred":[
         "Faratsiho"
     ],
+    "name:swa_x_preferred":[
+        "Faratsiho"
+    ],
     "name:swe_x_preferred":[
         "Faratsiho"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u62c9\u9f4a\u80e1"
+    ],
+    "name:zul_x_preferred":[
+        "Faratsiho"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421167181,
-    "wof:lastmodified":1566604782,
+    "wof:lastmodified":1690939392,
     "wof:name":"Faratsiho",
     "wof:parent_id":421200821,
     "wof:placetype":"locality",

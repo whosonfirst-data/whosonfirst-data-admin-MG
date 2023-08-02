@@ -45,6 +45,9 @@
     "name:ceb_x_preferred":[
         "Bongolava Region"
     ],
+    "name:ces_x_preferred":[
+        "Bongolava"
+    ],
     "name:dan_x_preferred":[
         "Bongolava"
     ],
@@ -67,6 +70,9 @@
         "Bongolava"
     ],
     "name:fra_x_preferred":[
+        "Bongolava"
+    ],
+    "name:frr_x_preferred":[
         "Bongolava"
     ],
     "name:guj_x_preferred":[
@@ -99,6 +105,9 @@
     "name:kor_x_preferred":[
         "\uc548\ud0c0\ub098\ub098\ub9ac\ubcf4",
         "\ubd09\uace8\ub77c\ubc14 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubd09\uace8\ub77c\ubc14\uad6c"
     ],
     "name:lav_x_preferred":[
         "Bongolava"
@@ -182,7 +191,11 @@
         "\u90a6\u53e4\u62c9\u6cd5\u5340"
     ],
     "name:zho_x_variant":[
-        "\u5854\u90a3\u90a3\u5229\u4f5b"
+        "\u5854\u90a3\u90a3\u5229\u4f5b",
+        "\u90a6\u53e4\u62c9\u74e6\u5927\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Bongolava Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -304,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506381,
+    "wof:lastmodified":1690939379,
     "wof:name":"Bongolava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

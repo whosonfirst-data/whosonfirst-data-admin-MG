@@ -38,6 +38,9 @@
     "name:ita_x_preferred":[
         "Andoany"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c9\u30a5\u30a2\u30cb"
+    ],
     "name:mlg_x_preferred":[
         "Hell-Ville"
     ],
@@ -57,6 +60,9 @@
         "\u0410\u043d\u0434\u0443\u0430\u043d\u0438"
     ],
     "name:swe_x_preferred":[
+        "Andoany"
+    ],
+    "name:zul_x_preferred":[
         "Andoany"
     ],
     "ne:ADM0CAP":0.0,
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":421167185,
-    "wof:lastmodified":1566604782,
+    "wof:lastmodified":1690939392,
     "wof:name":"Doany",
     "wof:parent_id":890452057,
     "wof:placetype":"locality",

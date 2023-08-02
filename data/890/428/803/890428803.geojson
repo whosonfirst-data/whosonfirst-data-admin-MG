@@ -100,6 +100,9 @@
     "name:zho_x_preferred":[
         "\u7c73\u5b89\u5fb7\u91cc\u74e6\u7956"
     ],
+    "name:zul_x_preferred":[
+        "Miandrivazo"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
     "ne:ADM0_A3":"MDG",
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":890428803,
-    "wof:lastmodified":1636506398,
+    "wof:lastmodified":1690939414,
     "wof:name":"Miandrivazo",
     "wof:parent_id":421169603,
     "wof:placetype":"locality",

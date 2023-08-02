@@ -36,6 +36,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0627\u0646\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Diana"
+    ],
+    "name:ast_x_preferred":[
+        "Diana"
+    ],
     "name:aze_x_preferred":[
         "Diana"
     ],
@@ -60,6 +66,9 @@
     "name:ckb_x_preferred":[
         "\u062f\u06cc\u0627\u0646\u0627"
     ],
+    "name:cos_x_preferred":[
+        "Diana"
+    ],
     "name:cym_x_preferred":[
         "Diana"
     ],
@@ -73,6 +82,9 @@
         "Antsiranana"
     ],
     "name:eng_x_variant":[
+        "Diana"
+    ],
+    "name:eus_x_preferred":[
         "Diana"
     ],
     "name:fas_x_preferred":[
@@ -96,6 +108,9 @@
     "name:hun_x_preferred":[
         "Diana"
     ],
+    "name:ind_x_preferred":[
+        "Diana"
+    ],
     "name:isl_x_preferred":[
         "D\u00edana"
     ],
@@ -114,13 +129,22 @@
     "name:lat_x_preferred":[
         "Diana"
     ],
+    "name:lav_x_preferred":[
+        "Di\u0101na"
+    ],
     "name:lit_x_preferred":[
         "Diana"
     ],
     "name:mar_x_preferred":[
         "\u0921\u093e\u092f\u0928\u093e"
     ],
+    "name:nds_x_preferred":[
+        "Diana"
+    ],
     "name:nld_x_preferred":[
+        "Diana"
+    ],
+    "name:nno_x_preferred":[
         "Diana"
     ],
     "name:nob_x_preferred":[
@@ -150,10 +174,19 @@
     "name:slv_x_preferred":[
         "Diana"
     ],
+    "name:sme_x_preferred":[
+        "Diana"
+    ],
     "name:spa_x_preferred":[
         "Diana"
     ],
+    "name:sqi_x_preferred":[
+        "Diana"
+    ],
     "name:swe_x_preferred":[
+        "Diana"
+    ],
+    "name:tah_x_preferred":[
         "Diana"
     ],
     "name:tha_x_preferred":[
@@ -176,6 +209,9 @@
     ],
     "name:vol_x_preferred":[
         "Diana"
+    ],
+    "name:yue_x_preferred":[
+        "\u6234\u5b89\u5a1c"
     ],
     "name:zho_cn_x_preferred":[
         "\u9edb\u5b89\u5a1c"
@@ -246,7 +282,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506382,
+    "wof:lastmodified":1690939380,
     "wof:name":"Diana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

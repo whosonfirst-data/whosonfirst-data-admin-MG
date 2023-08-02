@@ -46,6 +46,9 @@
     "name:zho_x_preferred":[
         "\u99ac\u9b6f\u862d\u5e03"
     ],
+    "name:zul_x_preferred":[
+        "Marolambo"
+    ],
     "qs:name":"Marolambo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890433559,
-    "wof:lastmodified":1566604797,
+    "wof:lastmodified":1690939417,
     "wof:name":"Marolambo",
     "wof:parent_id":1108801189,
     "wof:placetype":"locality",

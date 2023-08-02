@@ -21,7 +21,8 @@
     ],
     "name:eng_x_variant":[
         "IVA",
-        "FMNZ"
+        "FMNZ",
+        "Ampapamena Airport"
     ],
     "name:fra_x_preferred":[
         "a\u00e9rodrome d'Ampampamena"
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":102542395,
-    "wof:lastmodified":1631757136,
+    "wof:lastmodified":1690939373,
     "wof:name":"Ampampamena Airport",
     "wof:parent_id":85674009,
     "wof:placetype":"campus",

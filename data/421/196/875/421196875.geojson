@@ -82,6 +82,9 @@
     "name:mlg_x_preferred":[
         "Antalaha"
     ],
+    "name:mlg_x_variant":[
+        "Distrikan'Antalaha"
+    ],
     "name:nan_x_preferred":[
         "Antalaha Ko\u0101n"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:zho_x_variant":[
         "\u5b89\u5854\u62c9\u54c8\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Antalaha District"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":421196875,
-    "wof:lastmodified":1636506397,
+    "wof:lastmodified":1690939402,
     "wof:name":"Antalaha",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

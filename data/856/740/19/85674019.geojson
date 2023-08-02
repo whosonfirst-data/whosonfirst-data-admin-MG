@@ -69,6 +69,9 @@
     "name:fra_x_preferred":[
         "Ihorombe"
     ],
+    "name:frr_x_preferred":[
+        "Ihorombe"
+    ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab9\u0acb\u0ab0\u0acb\u0aae\u0acd\u0aac\u0ac7"
     ],
@@ -92,6 +95,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\ud638\ub86c\ubca0 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\ud638\ub86c\ubca0\uad6c"
     ],
     "name:lav_x_preferred":[
         "Ihorumbe"
@@ -176,6 +182,12 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u970d\u7f85\u8c9d\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u80e1\u9f99\u8d1d\u5927\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Ihorombe Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -297,7 +309,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506381,
+    "wof:lastmodified":1690939380,
     "wof:name":"Ihorombe",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

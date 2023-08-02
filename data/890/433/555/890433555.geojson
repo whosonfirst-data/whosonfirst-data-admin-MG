@@ -124,6 +124,9 @@
     "name:zho_x_preferred":[
         "\u6851\u5df4\u74e6"
     ],
+    "name:zul_x_preferred":[
+        "Sambava"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
     "ne:ADM0_A3":"MDG",
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":890433555,
-    "wof:lastmodified":1636506399,
+    "wof:lastmodified":1690939418,
     "wof:name":"Sambava",
     "wof:parent_id":421188089,
     "wof:placetype":"locality",

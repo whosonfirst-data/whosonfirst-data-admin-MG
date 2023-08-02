@@ -75,6 +75,9 @@
     "name:fra_x_preferred":[
         "Androy"
     ],
+    "name:frr_x_preferred":[
+        "Androy"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0aa1\u0acd\u0ab0\u0acb\u0aaf"
     ],
@@ -98,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc548\ub4dc\ub85c\uc774 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc548\ub4dc\ub85c\uc774\uad6c"
     ],
     "name:lav_x_preferred":[
         "Andrua"
@@ -150,6 +156,9 @@
     "name:swe_x_preferred":[
         "Androyregionen"
     ],
+    "name:swe_x_variant":[
+        "Androy"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0baf\u0bcd"
     ],
@@ -182,6 +191,12 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5fb7\u7f85\u4f0a\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5fb7\u9c81\u4f0a\u5927\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Androy Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -303,7 +318,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506379,
+    "wof:lastmodified":1690939376,
     "wof:name":"Androy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

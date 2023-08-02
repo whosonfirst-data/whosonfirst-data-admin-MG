@@ -75,6 +75,9 @@
     "name:fra_x_preferred":[
         "Betsiboka"
     ],
+    "name:frr_x_preferred":[
+        "Betsiboka"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9f\u0acd\u0ab8\u0ac0\u0aac\u0acb\u0a95\u0abe"
     ],
@@ -99,6 +102,9 @@
     "name:kor_x_preferred":[
         "\ubca0\uce58\ubcf4\uce74 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubca0\uce58\ubcf4\uce74\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Becibuka"
     ],
@@ -107,6 +113,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u091f\u094d\u0938\u0940\u092c\u094b\u0915\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Betsiboka"
     ],
     "name:msa_x_preferred":[
         "Betsiboka"
@@ -182,6 +191,12 @@
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u9f4a\u535a\u5361\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u8c9d\u9f4a\u5e03\u5361\u5927\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Betsiboka Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -303,7 +318,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506378,
+    "wof:lastmodified":1690939375,
     "wof:name":"Betsiboka",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -72,6 +72,9 @@
     "name:fra_x_preferred":[
         "Analanjirofo"
     ],
+    "name:frr_x_preferred":[
+        "Analanjirofo"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0abe\u0ab2\u0aa8\u0acd\u0a9c\u0ac0\u0ab0\u0acb\u0aab\u0acb"
     ],
@@ -101,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub0a0\ub780\uc9c0\ub85c\ud3ec \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub0a0\ub780\uc9c0\ub85c\ud3ec\uad6c"
     ],
     "name:lav_x_preferred":[
         "Analand\u017eirufu"
@@ -156,6 +162,9 @@
     "name:swe_x_preferred":[
         "Analanjiroforegionen"
     ],
+    "name:swe_x_variant":[
+        "Analanjirofo"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0ba9\u0bb2\u0ba9\u0bcd\u0b9c\u0bbf\u0bb0\u0bcb\u0baa\u0bcb"
     ],
@@ -179,6 +188,12 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u90a3\u62c9\u862d\u57fa\u7f85\u5bcc\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u7d0d\u862d\u5409\u9b6f\u5bcc\u5927\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Analanjirofo Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -300,7 +315,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506378,
+    "wof:lastmodified":1690939376,
     "wof:name":"Analanjirofo",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

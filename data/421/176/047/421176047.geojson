@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Anivorano Nord"
     ],
+    "name:mlg_x_preferred":[
+        "Anivorano Nord"
+    ],
     "name:nld_x_preferred":[
         "Anivorano Nord"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421176047,
-    "wof:lastmodified":1566604793,
+    "wof:lastmodified":1690939409,
     "wof:name":"Anivorano Avaratra",
     "wof:parent_id":1108801117,
     "wof:placetype":"locality",

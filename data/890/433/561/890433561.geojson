@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u0633\u064a\u0631\u0627\u0646\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0646\u062a\u0633\u064a\u0631\u0627\u0646\u0627\u0646\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u09a4\u09b8\u09bf\u09b0\u09be\u09a8\u09be\u09a8\u09be"
     ],
@@ -64,6 +67,9 @@
     "name:eus_x_preferred":[
         "Antsiranana"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u0633\u06cc\u0631\u0627\u0646\u0627\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Antsiranana"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e0\u05d8\u05e1\u05d9\u05e8\u05e0\u05e0\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e0\u05e6\u05d9\u05e8\u05e0\u05e0\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0902\u0924\u0938\u0940\u0930\u093e\u0928\u093e\u0928\u093e"
@@ -166,11 +175,17 @@
     "name:swe_x_preferred":[
         "Antsiranana"
     ],
+    "name:szl_x_preferred":[
+        "Antsiranana"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0ba3\u0bcd\u0b9f\u0bcd\u0b9a\u0bbf\u0bb0\u0ba9\u0ba9\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c02\u0c1f\u0c4d\u0c38\u0c40\u0c30\u0c28\u0c28"
+    ],
+    "name:tgl_x_preferred":[
+        "Antsiranana"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e19\u0e17\u0e4c\u0e0b\u0e34\u0e23\u0e32\u0e19\u0e32\u0e19\u0e32"
@@ -195,6 +210,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u9f4a\u62c9\u7d0d\u7d0d"
+    ],
+    "name:zul_x_preferred":[
+        "Antsiranana"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -321,7 +339,7 @@
         }
     ],
     "wof:id":890433561,
-    "wof:lastmodified":1636506399,
+    "wof:lastmodified":1690939417,
     "wof:name":"Antsiranana",
     "wof:parent_id":421169783,
     "wof:placetype":"locality",

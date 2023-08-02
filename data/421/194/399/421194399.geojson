@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ankazoabo"
+    ],
     "name:eng_x_preferred":[
         "Ankazoabo"
     ],
@@ -38,8 +41,14 @@
     "name:pol_x_preferred":[
         "Ankazoabo"
     ],
+    "name:swe_x_preferred":[
+        "Ankazoabo"
+    ],
     "name:und_x_variant":[
         "Ankazoabo Sud"
+    ],
+    "name:zul_x_preferred":[
+        "Ankazoabo"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":421194399,
-    "wof:lastmodified":1566604781,
+    "wof:lastmodified":1690939391,
     "wof:name":"Ankazoabo",
     "wof:parent_id":421199277,
     "wof:placetype":"locality",

@@ -66,6 +66,9 @@
     "name:nld_x_preferred":[
         "Morombe"
     ],
+    "name:pol_x_preferred":[
+        "Morombe"
+    ],
     "name:por_x_preferred":[
         "Morombe"
     ],
@@ -92,6 +95,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u9f8d\u8c9d"
+    ],
+    "name:zul_x_preferred":[
+        "Morombe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -212,7 +218,7 @@
         }
     ],
     "wof:id":1141908919,
-    "wof:lastmodified":1636506407,
+    "wof:lastmodified":1690939425,
     "wof:name":"Morombe",
     "wof:parent_id":890452055,
     "wof:placetype":"locality",

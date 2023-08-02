@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Fianarantsoa"
     ],
+    "name:ces_x_preferred":[
+        "Fianarantsoa"
+    ],
     "name:dan_x_preferred":[
         "Fianarantsoa"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u06cc\u0627\u0646\u0627\u0631\u0627\u0646\u0633\u0648\u0622"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u06cc\u0627\u0646\u0627\u0631\u0627\u0646\u062a\u0633\u0648\u0622"
     ],
     "name:fin_x_preferred":[
         "Fianarantsoa"
@@ -134,6 +140,9 @@
     "name:sin_x_preferred":[
         "\u0dc6\u0dd2\u0dba\u0dcf\u0db1\u0dcf\u0dbb\u0db1\u0dca\u0da7\u0dca\u0dc3\u0ddc\u0dc0\u0dcf"
     ],
+    "name:slk_x_preferred":[
+        "Fianarantsoa"
+    ],
     "name:sna_x_preferred":[
         "Fianarantsoa"
     ],
@@ -181,6 +190,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83f2\u4e9e\u7d0d\u862d\u695a\u963f"
+    ],
+    "name:zul_x_preferred":[
+        "Fianarantsoa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -321,7 +333,7 @@
         }
     ],
     "wof:id":421204493,
-    "wof:lastmodified":1636506396,
+    "wof:lastmodified":1690939395,
     "wof:name":"Fianarantsoa",
     "wof:parent_id":421200825,
     "wof:placetype":"locality",

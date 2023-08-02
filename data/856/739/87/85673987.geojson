@@ -75,6 +75,9 @@
     "name:fra_x_preferred":[
         "Atsimo-Atsinanana"
     ],
+    "name:frr_x_preferred":[
+        "Atsimo-Atsinanana"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa4\u0acd\u0ab8\u0abf\u0aae\u0acb-\u0a8f\u0aa4\u0acd\u0ab8\u0abf\u0aa8\u0aa8\u0abe\u0aa8\u0abe"
     ],
@@ -98,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uce58\ubaa8\uc544\uce58\ub098\ub098\ub098 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uce58\ubaa8\uc544\uce58\ub098\ub098\ub098\uad6c"
     ],
     "name:lav_x_preferred":[
         "Atsimo-Atsinanana"
@@ -182,6 +188,12 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u9f4a\u83ab-\u963f\u9f4a\u90a3\u90a3\u90a3\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u9f50\u7a46-\u963f\u9f50\u7eb3\u7eb3\u7eb3\u5927\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Atsimo-Atsinanana Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -303,7 +315,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506379,
+    "wof:lastmodified":1690939376,
     "wof:name":"Atsimo-Atsinanana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Sainte-Marie Aerodrome"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Sainte Marie"
+    ],
     "name:deu_x_preferred":[
         "Sainte Marie Airport"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30c8\u30fb\u30de\u30ea\u30fc\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "Sent Mari oro uostas"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Sainte-Marie"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":102542341,
-    "wof:lastmodified":1566603626,
+    "wof:lastmodified":1690939373,
     "wof:name":"Sainte Marie Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
