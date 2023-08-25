@@ -46,11 +46,17 @@
     "name:pol_x_preferred":[
         "Vangaindrano"
     ],
+    "name:ron_x_preferred":[
+        "Vangaindrano"
+    ],
     "name:swe_x_preferred":[
         "Vangaindrano"
     ],
     "name:zho_x_preferred":[
         "\u842c\u52a0\u56e0\u5fb7\u62c9\u52aa"
+    ],
+    "name:zul_x_preferred":[
+        "Vangaindrano"
     ],
     "qs:name":"Vangaindrano",
     "qs:photos_9r":0,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890420411,
-    "wof:lastmodified":1566604797,
+    "wof:lastmodified":1690939416,
     "wof:name":"Vangaindrano",
     "wof:parent_id":1108801213,
     "wof:placetype":"locality",

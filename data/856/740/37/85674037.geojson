@@ -42,6 +42,12 @@
     "name:arg_x_preferred":[
         "R\u00edo Sava"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0647\u0631 \u0633\u0627\u0641\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "R\u00edu Sava"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0648\u0627 \u0686\u0627\u06cc\u06cc"
     ],
@@ -120,6 +126,9 @@
     "name:fry_x_preferred":[
         "Sava"
     ],
+    "name:gle_x_preferred":[
+        "Sava"
+    ],
     "name:glg_x_preferred":[
         "R\u00edo Sava"
     ],
@@ -140,6 +149,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u057e\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Rivero Sava"
     ],
     "name:ind_x_preferred":[
         "Sava"
@@ -180,8 +192,14 @@
     "name:lit_x_preferred":[
         "Sava"
     ],
+    "name:lld_x_preferred":[
+        "Sava"
+    ],
     "name:lmo_x_preferred":[
         "Sava"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d35"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0935\u093e \u0928\u0926\u0940"
@@ -255,6 +273,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e27\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e21\u0e48\u0e19\u0e49\u0e33\u0e0b\u0e32\u0e27\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Sava"
     ],
@@ -275,6 +296,15 @@
     ],
     "name:vie_x_preferred":[
         "Sava"
+    ],
+    "name:vls_x_preferred":[
+        "Sava"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u74e6\u6cb3"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10d5\u10d0"
     ],
     "name:zho_cn_x_preferred":[
         "\u8428\u74e6\u6cb3"
@@ -345,7 +375,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506382,
+    "wof:lastmodified":1690939381,
     "wof:name":"Sava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

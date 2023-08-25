@@ -76,6 +76,9 @@
     "name:fra_x_preferred":[
         "Haute Matsiatra"
     ],
+    "name:frr_x_preferred":[
+        "Matsiatra-Ambony"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acc\u0a9f \u0aae\u0ac7\u0a9f\u0ab8\u0abf\u0a85\u0a9f\u0acd\u0ab0\u0abe"
     ],
@@ -99,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ud2b8\ub9c8\uce58\uc544\ud2b8\ub77c \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ud2b8\ub9c8\uce58\uc544\ud2b8\ub77c\uad6c"
     ],
     "name:lav_x_preferred":[
         "Hote Maciatra"
@@ -154,6 +160,9 @@
     "name:swe_x_preferred":[
         "Haute Matsiatraregionen"
     ],
+    "name:swe_x_variant":[
+        "Haute Matsiatra"
+    ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bc2\u0b9f\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0bb8\u0bcd\u0baf\u0bbe\u0bb1\u0bcd\u0bb1\u0bbe"
     ],
@@ -186,6 +195,12 @@
     ],
     "name:zho_x_preferred":[
         "\u4e0a\u99ac\u9f4a\u4e9e\u7279\u62c9\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u9a6c\u9f50\u4e9a\u7279\u62c9\u5927\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Haute Matsiatra Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -307,7 +322,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506383,
+    "wof:lastmodified":1690939382,
     "wof:name":"Haute Matsiatra",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

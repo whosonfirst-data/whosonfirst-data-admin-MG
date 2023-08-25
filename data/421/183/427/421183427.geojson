@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Sakaraha"
     ],
+    "name:deu_x_preferred":[
+        "Sakaraha"
+    ],
     "name:eng_x_preferred":[
         "Sakaraha"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:zho_x_preferred":[
         "\u85a9\u5361\u62c9\u54c8"
+    ],
+    "name:zul_x_preferred":[
+        "Sakaraha"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421183427,
-    "wof:lastmodified":1566604792,
+    "wof:lastmodified":1690939408,
     "wof:name":"Sakaraha",
     "wof:parent_id":421188087,
     "wof:placetype":"locality",

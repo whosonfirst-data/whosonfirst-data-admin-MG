@@ -42,6 +42,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u062f\u0631\u06cc\u062a\u0633\u0627\u0631\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0646\u062f\u0631\u06cc\u062a\u0633\u0627\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "Mandritsara"
     ],
@@ -72,6 +75,9 @@
     "name:nld_x_preferred":[
         "Mandritsara"
     ],
+    "name:pol_x_preferred":[
+        "Mandritsara"
+    ],
     "name:por_x_preferred":[
         "Mandritsara"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:zho_x_preferred":[
         "\u66fc\u5fb7\u91cc\u5bdf\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mandritsara"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -218,7 +227,7 @@
         }
     ],
     "wof:id":1141907169,
-    "wof:lastmodified":1636506408,
+    "wof:lastmodified":1690939426,
     "wof:name":"Mandritsara",
     "wof:parent_id":1108801185,
     "wof:placetype":"locality",

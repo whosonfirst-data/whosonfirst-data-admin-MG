@@ -43,6 +43,9 @@
     "name:swe_x_preferred":[
         "Anakao"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d0d\u8003"
+    ],
     "qs:name":"Anakao",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890433565,
-    "wof:lastmodified":1566604798,
+    "wof:lastmodified":1690939418,
     "wof:name":"Anakao",
     "wof:parent_id":1108801209,
     "wof:placetype":"locality",

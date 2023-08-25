@@ -61,6 +61,9 @@
     "name:hun_x_preferred":[
         "Antalaha"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0569\u0561\u056c\u0561\u0570\u0561"
+    ],
     "name:ind_x_preferred":[
         "Antalaha"
     ],
@@ -97,6 +100,9 @@
     "name:spa_x_preferred":[
         "Antalaha"
     ],
+    "name:swa_x_preferred":[
+        "Antalaha"
+    ],
     "name:swe_x_preferred":[
         "Antalaha"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5854\u62c9\u54c8"
+    ],
+    "name:zul_x_preferred":[
+        "Antalaha"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -240,7 +249,7 @@
         }
     ],
     "wof:id":890433563,
-    "wof:lastmodified":1636506399,
+    "wof:lastmodified":1690939418,
     "wof:name":"Antalaha",
     "wof:parent_id":421196875,
     "wof:placetype":"locality",

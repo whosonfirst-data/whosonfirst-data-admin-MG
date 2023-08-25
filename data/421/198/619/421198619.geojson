@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u0641\u064a\u0646\u0627\u0646\u062f\u0631\u064a\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0627\u0641\u064a\u0646\u0627\u0646\u062f\u0631\u064a\u0627\u0646\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u0430\u0432\u0438\u043d\u0430\u043d\u0434\u0440\u0438\u0430\u043d\u0430"
     ],
     "name:ceb_x_preferred":[
         "Soavinandriana"
     ],
+    "name:ces_x_preferred":[
+        "Soavinandriana"
+    ],
+    "name:deu_x_preferred":[
+        "Soavinandriana"
+    ],
     "name:eng_x_preferred":[
         "Soavinandriana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0622\u0646\u0627\u0646\u062f\u0631\u06cc\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Soavinandriana"
@@ -50,7 +62,13 @@
     "name:por_x_preferred":[
         "Soavinandriana"
     ],
+    "name:slk_x_preferred":[
+        "Soavinandriana"
+    ],
     "name:spa_x_preferred":[
+        "Soavinandriana"
+    ],
+    "name:swa_x_preferred":[
         "Soavinandriana"
     ],
     "name:swe_x_preferred":[
@@ -61,6 +79,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8607\u963f\u7dad\u5357\u5fb7\u91cc\u4e9e\u7d0d"
+    ],
+    "name:zul_x_preferred":[
+        "Soavinandriana"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -109,7 +130,7 @@
         }
     ],
     "wof:id":421198619,
-    "wof:lastmodified":1566604787,
+    "wof:lastmodified":1690939401,
     "wof:name":"Soavinandriana",
     "wof:parent_id":421171621,
     "wof:placetype":"locality",

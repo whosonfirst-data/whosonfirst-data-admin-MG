@@ -43,6 +43,9 @@
     "name:spa_x_preferred":[
         "Amboasary"
     ],
+    "name:swa_x_preferred":[
+        "Amboasary"
+    ],
     "name:swe_x_preferred":[
         "Amboasary"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890433577,
-    "wof:lastmodified":1566604798,
+    "wof:lastmodified":1690939419,
     "wof:name":"Amboasary",
     "wof:parent_id":1108801083,
     "wof:placetype":"locality",

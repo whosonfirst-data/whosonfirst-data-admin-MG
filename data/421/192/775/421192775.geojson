@@ -50,6 +50,9 @@
     "name:zho_x_preferred":[
         "\u5b89\u5e03\u5e0c\u5fb7\u62c9\u7279\u91cc\u7a46"
     ],
+    "name:zul_x_preferred":[
+        "Ambohidratrimo"
+    ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1080522,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421192775,
-    "wof:lastmodified":1566604781,
+    "wof:lastmodified":1690939391,
     "wof:name":"Ambohidratrimo",
     "wof:parent_id":421201527,
     "wof:placetype":"locality",

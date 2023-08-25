@@ -51,6 +51,9 @@
     "name:ceb_x_preferred":[
         "Analamanga Region"
     ],
+    "name:ces_x_preferred":[
+        "Analamanga"
+    ],
     "name:dan_x_preferred":[
         "Analamanga"
     ],
@@ -76,6 +79,9 @@
         "Analamanga"
     ],
     "name:fra_x_preferred":[
+        "Analamanga"
+    ],
+    "name:frr_x_preferred":[
         "Analamanga"
     ],
     "name:guj_x_preferred":[
@@ -106,6 +112,9 @@
     "name:kor_x_preferred":[
         "\uc548\ud0c0\ub098\ub098\ub9ac\ubcf4",
         "\uc544\ub0a0\ub77c\ub9dd\uac00 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub0a0\ub77c\ub9dd\uac00\uad6c"
     ],
     "name:lav_x_preferred":[
         "Analamanga"
@@ -188,6 +197,9 @@
     ],
     "name:zho_x_variant":[
         "\u5854\u90a3\u90a3\u5229\u4f5b"
+    ],
+    "name:zul_x_preferred":[
+        "Analamanga Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -309,7 +321,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506379,
+    "wof:lastmodified":1690939377,
     "wof:name":"Analamanga",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

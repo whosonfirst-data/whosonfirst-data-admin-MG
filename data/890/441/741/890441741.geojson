@@ -43,6 +43,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0646\u062a\u0633\u0648\u0647\u0647\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0622\u0646\u062a\u0633\u0648\u0647\u06cc\u0647\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Antsohihy"
     ],
@@ -114,6 +117,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u695a\u5e0c\u5e0c"
+    ],
+    "name:zul_x_preferred":[
+        "Antsohihy"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Madagascar",
@@ -240,7 +246,7 @@
         }
     ],
     "wof:id":890441741,
-    "wof:lastmodified":1636506397,
+    "wof:lastmodified":1690939411,
     "wof:name":"Antsohihy",
     "wof:parent_id":1108801119,
     "wof:placetype":"locality",

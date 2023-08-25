@@ -28,8 +28,20 @@
     "mz:is_current":1,
     "mz:max_zoom":7.0,
     "mz:min_zoom":2.0,
+    "name:aar_x_preferred":[
+        "Madagascar"
+    ],
+    "name:abk_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
+    ],
     "name:ace_x_preferred":[
         "Madagaskar"
+    ],
+    "name:ady_x_preferred":[
+        "Madagascar"
+    ],
+    "name:aeb_x_preferred":[
+        "Madagascar"
     ],
     "name:afr_x_preferred":[
         "Madagaskar"
@@ -37,11 +49,20 @@
     "name:aka_x_preferred":[
         "Madagaska"
     ],
+    "name:aka_x_variant":[
+        "Madagascar"
+    ],
+    "name:aln_x_preferred":[
+        "Madagascar"
+    ],
     "name:als_x_preferred":[
         "Madagaskar"
     ],
     "name:amh_x_preferred":[
         "\u121b\u12f3\u130b\u1235\u12ab\u122d"
+    ],
+    "name:ami_x_preferred":[
+        "Madagascar"
     ],
     "name:ang_x_preferred":[
         "Madagascar"
@@ -49,10 +70,22 @@
     "name:ang_x_variant":[
         "Mada\u021dascar"
     ],
+    "name:anp_x_preferred":[
+        "\u092e\u093e\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u093e\u0930"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u062f\u063a\u0634\u0642\u0631"
     ],
+    "name:arc_x_preferred":[
+        "Madagascar"
+    ],
     "name:arg_x_preferred":[
+        "Madagascar"
+    ],
+    "name:arn_x_preferred":[
+        "Madagascar"
+    ],
+    "name:arq_x_preferred":[
         "Madagascar"
     ],
     "name:ary_x_preferred":[
@@ -65,6 +98,21 @@
         "\u09ae\u09be\u09a6\u09be\u0997\u09be\u09b8\u09cd\u0995\u09be\u09f0"
     ],
     "name:ast_x_preferred":[
+        "Madagascar"
+    ],
+    "name:atj_x_preferred":[
+        "Madagascar"
+    ],
+    "name:ava_x_preferred":[
+        "Madagascar"
+    ],
+    "name:avk_x_preferred":[
+        "Madagasikara"
+    ],
+    "name:awa_x_preferred":[
+        "Madagascar"
+    ],
+    "name:aym_x_preferred":[
         "Madagascar"
     ],
     "name:azb_x_preferred":[
@@ -85,6 +133,15 @@
     "name:ban_x_preferred":[
         "Madagaskar"
     ],
+    "name:bar_x_preferred":[
+        "Madagaskar"
+    ],
+    "name:bbc_x_preferred":[
+        "Madagascar"
+    ],
+    "name:bcc_x_preferred":[
+        "Madagascar"
+    ],
     "name:bcl_x_preferred":[
         "Madagaskar"
     ],
@@ -93,6 +150,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a6\u09be\u0997\u09be\u09b8\u09cd\u0995\u09be\u09b0"
+    ],
+    "name:bgn_x_preferred":[
+        "Madagascar"
     ],
     "name:bho_x_preferred":[
         "\u092e\u0947\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
@@ -115,8 +175,20 @@
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09a6\u09be\u0997\u09be\u09b8\u09cd\u0995\u09be\u09b0"
     ],
+    "name:bqi_x_preferred":[
+        "Madagascar"
+    ],
     "name:bre_x_preferred":[
         "Madagaskar"
+    ],
+    "name:brh_x_preferred":[
+        "Madagascar"
+    ],
+    "name:bto_x_preferred":[
+        "Madagascar"
+    ],
+    "name:bug_x_preferred":[
+        "Madagascar"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
@@ -136,8 +208,20 @@
     "name:ces_x_preferred":[
         "Madagaskar"
     ],
+    "name:cha_x_preferred":[
+        "Madagascar"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
+    ],
+    "name:cho_x_preferred":[
+        "Madagascar"
+    ],
+    "name:chr_x_preferred":[
+        "Madagascar"
+    ],
+    "name:chu_x_preferred":[
+        "Madagascar"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
@@ -151,6 +235,15 @@
     "name:cor_x_preferred":[
         "Madagaskar"
     ],
+    "name:cos_x_preferred":[
+        "Madagascara"
+    ],
+    "name:cps_x_preferred":[
+        "Madagascar"
+    ],
+    "name:cre_x_preferred":[
+        "Madagascar"
+    ],
     "name:crh_x_preferred":[
         "Madagaskar"
     ],
@@ -161,6 +254,9 @@
         "Madagasgar"
     ],
     "name:cym_x_variant":[
+        "Madagascar"
+    ],
+    "name:dag_x_preferred":[
         "Madagascar"
     ],
     "name:dan_x_preferred":[
@@ -193,11 +289,23 @@
     "name:dsb_x_preferred":[
         "Madagaskar"
     ],
+    "name:dtp_x_preferred":[
+        "Madagascar"
+    ],
     "name:dty_x_preferred":[
         "\u092e\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
+    "name:dzo_x_preferred":[
+        "Madagascar"
+    ],
+    "name:egl_x_preferred":[
+        "Madagascar"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03b4\u03b1\u03b3\u03b1\u03c3\u03ba\u03ac\u03c1\u03b7"
+    ],
+    "name:eml_x_preferred":[
+        "Madagascar"
     ],
     "name:eng_ca_x_preferred":[
         "Madagascar"
@@ -248,11 +356,17 @@
     "name:fin_x_preferred":[
         "Madagaskar"
     ],
+    "name:fit_x_preferred":[
+        "Madagascar"
+    ],
     "name:fra_x_preferred":[
         "Madagascar"
     ],
     "name:fra_x_variant":[
         "R\u00e9publique de Madagascar"
+    ],
+    "name:frc_x_preferred":[
+        "Madagascar"
     ],
     "name:frp_x_preferred":[
         "Madagasc\u00e2r"
@@ -266,8 +380,17 @@
     "name:ful_x_preferred":[
         "Madagaskaar"
     ],
+    "name:ful_x_variant":[
+        "Madagaskar"
+    ],
+    "name:fur_x_preferred":[
+        "Madagascar"
+    ],
     "name:gag_x_preferred":[
         "Madagaskar"
+    ],
+    "name:gan_x_preferred":[
+        "Madagascar"
     ],
     "name:gcr_x_preferred":[
         "Madagaskar"
@@ -281,7 +404,25 @@
     "name:glg_x_preferred":[
         "Madagascar"
     ],
+    "name:glk_x_preferred":[
+        "Madagascar"
+    ],
     "name:glv_x_preferred":[
+        "Madagascar"
+    ],
+    "name:gom_x_preferred":[
+        "Madagascar"
+    ],
+    "name:gor_x_preferred":[
+        "Madagascar"
+    ],
+    "name:got_x_preferred":[
+        "Madagascar"
+    ],
+    "name:gpe_x_preferred":[
+        "Madagascar"
+    ],
+    "name:grc_x_preferred":[
         "Madagascar"
     ],
     "name:grn_x_preferred":[
@@ -305,13 +446,22 @@
     "name:hau_x_preferred":[
         "Madagaskar"
     ],
+    "name:haw_x_preferred":[
+        "Madagascar"
+    ],
     "name:hbs_x_preferred":[
         "Madagaskar"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d3\u05d2\u05e1\u05e7\u05e8"
     ],
+    "name:her_x_preferred":[
+        "Madagascar"
+    ],
     "name:hif_x_preferred":[
+        "Madagascar"
+    ],
+    "name:hil_x_preferred":[
         "Madagascar"
     ],
     "name:hin_x_preferred":[
@@ -320,8 +470,14 @@
     "name:hin_x_variant":[
         "\u092e\u0926\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
+    "name:hmo_x_preferred":[
+        "Madagascar"
+    ],
     "name:hrv_x_preferred":[
         "Madagaskar"
+    ],
+    "name:hrx_x_preferred":[
+        "Madagascar"
     ],
     "name:hsb_x_preferred":[
         "Madagaskar"
@@ -332,11 +488,20 @@
     "name:hye_x_preferred":[
         "\u0544\u0561\u0564\u0561\u0563\u0561\u057d\u056f\u0561\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u057f\u0561\u056f\u0561\u057d\u0584\u0561\u0580"
+    ],
     "name:ibo_x_preferred":[
         "Madagascar"
     ],
     "name:ido_x_preferred":[
         "Madagaskar"
+    ],
+    "name:iii_x_preferred":[
+        "Madagascar"
+    ],
+    "name:iku_x_preferred":[
+        "Madagascar"
     ],
     "name:ile_x_preferred":[
         "Madagascar"
@@ -350,6 +515,12 @@
     "name:ind_x_preferred":[
         "Madagaskar"
     ],
+    "name:inh_x_preferred":[
+        "Madagascar"
+    ],
+    "name:ipk_x_preferred":[
+        "Madagascar"
+    ],
     "name:isl_x_preferred":[
         "Madagaskar"
     ],
@@ -362,11 +533,17 @@
     "name:jav_x_preferred":[
         "Madagaskar"
     ],
+    "name:jbo_x_preferred":[
+        "Madagascar"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb"
     ],
     "name:jpn_x_variant":[
         "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb\u5171\u548c\u56fd"
+    ],
+    "name:jut_x_preferred":[
+        "Madagascar"
     ],
     "name:kaa_x_preferred":[
         "Madagaskar"
@@ -386,17 +563,38 @@
     "name:kas_x_preferred":[
         "\u092e\u0921\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
+    "name:kas_x_variant":[
+        "Madagascar"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d3\u10d0\u10d2\u10d0\u10e1\u10d9\u10d0\u10e0\u10d8"
+    ],
+    "name:kau_x_preferred":[
+        "Madagascar"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
+    "name:kbd_x_preferred":[
+        "Madagascar"
+    ],
     "name:kbp_x_preferred":[
         "Madakas\u0269kar\u0269"
     ],
+    "name:kcg_x_preferred":[
+        "Mada\u0331ga\u0331si\u0331ka"
+    ],
+    "name:kea_x_preferred":[
+        "Madagascar"
+    ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17b6\u178a\u17b6\u17a0\u17d2\u1780\u17b6\u179f\u17d2\u1780\u17b6\u179a"
+    ],
+    "name:khm_x_variant":[
+        "\u1798\u17c9\u17b6\u178a\u17b6\u17a0\u17d2\u1782\u17b6\u179f\u17d2\u1780\u17b6\u179a"
+    ],
+    "name:khw_x_preferred":[
+        "Madagascar"
     ],
     "name:kik_x_preferred":[
         "Madagascar"
@@ -410,6 +608,15 @@
     "name:kir_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
+    "name:kiu_x_preferred":[
+        "Madagascar"
+    ],
+    "name:koi_x_preferred":[
+        "Madagascar"
+    ],
+    "name:kom_x_preferred":[
+        "Madagascar"
+    ],
     "name:kon_x_preferred":[
         "Malagasi"
     ],
@@ -419,8 +626,26 @@
     "name:kor_x_variant":[
         "\ub9c8\ub2e4\uce74\uc2a4\uce74\ub974"
     ],
+    "name:krc_x_preferred":[
+        "Madagascar"
+    ],
+    "name:kri_x_preferred":[
+        "Madagascar"
+    ],
+    "name:krj_x_preferred":[
+        "Madagascar"
+    ],
+    "name:krl_x_preferred":[
+        "Madagascar"
+    ],
     "name:ksh_x_preferred":[
         "Maddaja\u00dfka"
+    ],
+    "name:ksh_x_variant":[
+        "Madagascar"
+    ],
+    "name:kua_x_preferred":[
+        "Madagascar"
     ],
     "name:kur_x_preferred":[
         "Madagaskar"
@@ -434,11 +659,20 @@
     "name:lao_x_preferred":[
         "\u0ea1\u0eb2\u0e84\u0eb2\u0e81\u0eb1\u0eaa\u0e81\u0eb2"
     ],
+    "name:lao_x_variant":[
+        "Madagascar"
+    ],
     "name:lat_x_preferred":[
         "Madagascaria"
     ],
     "name:lav_x_preferred":[
         "Madagaskara"
+    ],
+    "name:lbe_x_preferred":[
+        "Madagascar"
+    ],
+    "name:lez_x_preferred":[
+        "Madagascar"
     ],
     "name:lfn_x_preferred":[
         "Madagasicara"
@@ -455,7 +689,19 @@
     "name:lit_x_preferred":[
         "Madagaskaras"
     ],
+    "name:liv_x_preferred":[
+        "Madagascar"
+    ],
+    "name:lki_x_preferred":[
+        "Madagascar"
+    ],
+    "name:lld_x_preferred":[
+        "Madagascar"
+    ],
     "name:lmo_x_preferred":[
+        "Madagascar"
+    ],
+    "name:loz_x_preferred":[
         "Madagascar"
     ],
     "name:lrc_x_preferred":[
@@ -476,8 +722,23 @@
     "name:lug_x_variant":[
         "Madagascar"
     ],
+    "name:lus_x_preferred":[
+        "Madagascar"
+    ],
+    "name:luz_x_preferred":[
+        "Madagascar"
+    ],
     "name:lzh_x_preferred":[
         "\u99ac\u9054\u52a0\u65af\u52a0"
+    ],
+    "name:lzz_x_preferred":[
+        "Madagascar"
+    ],
+    "name:mah_x_preferred":[
+        "Madagascar"
+    ],
+    "name:mai_x_preferred":[
+        "Madagascar"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d21\u0d17\u0d3e\u0d38\u0d4d\u0d15\u0d7c"
@@ -487,6 +748,12 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0926\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
     "name:min_x_preferred":[
         "Madagaskar"
@@ -503,6 +770,12 @@
     "name:mlt_x_preferred":[
         "Madagaskar"
     ],
+    "name:mlt_x_variant":[
+        "Madagascar"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabe6\uabd7\uabd2\uabe5\uabc1\uabed\uabc0\uabd4"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
@@ -518,11 +791,20 @@
     "name:msa_x_variant":[
         "Madagascar"
     ],
+    "name:mus_x_preferred":[
+        "Madagascar"
+    ],
+    "name:mwl_x_preferred":[
+        "Madagascar"
+    ],
     "name:mya_x_preferred":[
         "\u1019\u1012\u102b\u1002\u1010\u103a\u1005\u1000\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:mya_x_variant":[
         "\u1019\u1012\u1002\u1010\u103a\u1005\u1000\u102c"
+    ],
+    "name:myv_x_preferred":[
+        "Madagascar"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631"
@@ -533,11 +815,20 @@
     "name:nan_x_preferred":[
         "Madagascar"
     ],
+    "name:nap_x_preferred":[
+        "Madagascar"
+    ],
+    "name:nau_x_preferred":[
+        "Madagascar"
+    ],
     "name:nav_x_preferred":[
         "Mada\u02bcg\u00e9\u00e9sg\u00e1\u00e1"
     ],
     "name:nde_x_preferred":[
         "Madagaska"
+    ],
+    "name:ndo_x_preferred":[
+        "Madagascar"
     ],
     "name:nds_nld_x_preferred":[
         "Madagaskar"
@@ -557,6 +848,9 @@
     "name:new_x_variant":[
         "\u092e\u093e\u0921\u093e\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
+    "name:niu_x_preferred":[
+        "Madagascar"
+    ],
     "name:nld_x_preferred":[
         "Madagaskar"
     ],
@@ -566,13 +860,25 @@
     "name:nob_x_preferred":[
         "Madagaskar"
     ],
+    "name:nod_x_preferred":[
+        "Madagascar"
+    ],
     "name:nor_x_preferred":[
         "Madagaskar"
     ],
     "name:nov_x_preferred":[
         "Madagaskar"
     ],
+    "name:nrm_x_preferred":[
+        "Madagascar"
+    ],
     "name:nso_x_preferred":[
+        "Madagascar"
+    ],
+    "name:nya_x_preferred":[
+        "Madagascar"
+    ],
+    "name:nys_x_preferred":[
         "Madagascar"
     ],
     "name:oci_x_preferred":[
@@ -597,6 +903,12 @@
     "name:oss_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
+    "name:ota_x_preferred":[
+        "Madagascar"
+    ],
+    "name:pag_x_preferred":[
+        "Madagascar"
+    ],
     "name:pam_x_preferred":[
         "Madagascar"
     ],
@@ -606,7 +918,16 @@
     "name:pap_x_preferred":[
         "Madagascar"
     ],
+    "name:pcd_x_preferred":[
+        "Madagascar"
+    ],
     "name:pdc_x_preferred":[
+        "Madagascar"
+    ],
+    "name:pdt_x_preferred":[
+        "Madagascar"
+    ],
+    "name:pfl_x_preferred":[
         "Madagascar"
     ],
     "name:pih_x_preferred":[
@@ -636,11 +957,26 @@
     "name:por_x_variant":[
         "Madagascar"
     ],
+    "name:prg_x_preferred":[
+        "Madagascar"
+    ],
     "name:pus_x_preferred":[
         "\u0645\u0627\u062f\u063a\u0627\u0633\u06a9\u0631"
     ],
     "name:que_x_preferred":[
         "Madagaskar"
+    ],
+    "name:qug_x_preferred":[
+        "Madagascar"
+    ],
+    "name:rgn_x_preferred":[
+        "Madagascar"
+    ],
+    "name:rif_x_preferred":[
+        "Madagascar"
+    ],
+    "name:rmy_x_preferred":[
+        "Madagascar"
     ],
     "name:roh_x_preferred":[
         "Madagascar"
@@ -648,14 +984,29 @@
     "name:ron_x_preferred":[
         "Madagascar"
     ],
+    "name:rue_x_preferred":[
+        "Madagascar"
+    ],
     "name:run_x_preferred":[
         "Madagasikari"
+    ],
+    "name:run_x_variant":[
+        "Madagascar"
+    ],
+    "name:rup_x_preferred":[
+        "Madagascar"
+    ],
+    "name:ruq_x_preferred":[
+        "Madagascar"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
     "name:rus_x_variant":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
+    ],
+    "name:rwr_x_preferred":[
+        "Madagascar"
     ],
     "name:sag_x_preferred":[
         "Madagask\u00e4ra"
@@ -666,17 +1017,44 @@
     "name:san_x_preferred":[
         "\u092e\u0921\u0917\u093e\u0938\u094d\u0915\u0930"
     ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5f\u1c6b\u1c5f\u1c5c\u1c5f\u1c65\u1c60\u1c5f\u1c68"
+    ],
     "name:scn_x_preferred":[
         "Madagascar"
     ],
     "name:sco_x_preferred":[
         "Madagascar"
     ],
+    "name:sdc_x_preferred":[
+        "Madagascar"
+    ],
+    "name:sdh_x_preferred":[
+        "Madagascar"
+    ],
+    "name:sei_x_preferred":[
+        "Madagascar"
+    ],
+    "name:ses_x_preferred":[
+        "Madagascar"
+    ],
     "name:sgs_x_preferred":[
         "Madagaskars"
     ],
+    "name:shi_x_preferred":[
+        "Mada\u0263acqar"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u1062\u1010\u103a\u1088\u1010\u1083\u1087\u1075\u1062\u1010\u103a\u1088\u101e\u1075\u1083\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd0\u0da9\u0d9c\u0dc3\u0dca\u0d9a\u0dbb\u0dba"
+    ],
+    "name:sje_x_preferred":[
+        "Madagascar"
+    ],
+    "name:sli_x_preferred":[
+        "Madagascar"
     ],
     "name:slk_x_preferred":[
         "Madagaskar"
@@ -684,11 +1062,23 @@
     "name:slv_x_preferred":[
         "Madagaskar"
     ],
+    "name:sma_x_preferred":[
+        "Madagascar"
+    ],
     "name:sme_x_preferred":[
+        "Madagaskar"
+    ],
+    "name:smj_x_preferred":[
+        "Madagascar"
+    ],
+    "name:smn_x_preferred":[
         "Madagaskar"
     ],
     "name:smo_x_preferred":[
         "Madagascar"
+    ],
+    "name:sms_x_preferred":[
+        "Madagaskar"
     ],
     "name:sna_x_preferred":[
         "Madagascar"
@@ -715,6 +1105,9 @@
     "name:srd_x_preferred":[
         "Madagasc\u00e0r"
     ],
+    "name:srn_x_preferred":[
+        "Madagascar"
+    ],
     "name:srp_ec_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
@@ -723,6 +1116,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
+    ],
+    "name:srq_x_preferred":[
+        "Madagascar"
     ],
     "name:ssw_x_preferred":[
         "IMadagasikha"
@@ -763,11 +1159,20 @@
     "name:tat_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
     ],
+    "name:tay_x_preferred":[
+        "Madagascar"
+    ],
+    "name:tcy_x_preferred":[
+        "Madagascar"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c21\u0c17\u0c3e\u0c38\u0c4d\u0c15\u0c30\u0c4d"
     ],
     "name:tel_x_variant":[
         "\u0c2e\u0c3e\u0c21\u0c4d\u0c17\u0c3e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c4d"
+    ],
+    "name:tet_x_preferred":[
+        "Madagascar"
     ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
@@ -787,8 +1192,29 @@
     "name:tir_x_preferred":[
         "\u121b\u12f3\u130b\u1235\u12ab\u122d"
     ],
+    "name:tly_x_preferred":[
+        "Madagascar"
+    ],
+    "name:tok_x_preferred":[
+        "ma Malakasi"
+    ],
     "name:ton_x_preferred":[
         "Matakasika"
+    ],
+    "name:ton_x_variant":[
+        "Madagascar"
+    ],
+    "name:tpi_x_preferred":[
+        "Madagascar"
+    ],
+    "name:tru_x_preferred":[
+        "Madagascar"
+    ],
+    "name:trv_x_preferred":[
+        "Madagascar"
+    ],
+    "name:tsn_x_preferred":[
+        "Madagascar"
     ],
     "name:tso_x_preferred":[
         "Madagascar"
@@ -796,8 +1222,17 @@
     "name:tuk_x_preferred":[
         "Madagaskar"
     ],
+    "name:tum_x_preferred":[
+        "Madagascar"
+    ],
     "name:tur_x_preferred":[
         "Madagaskar"
+    ],
+    "name:twi_x_preferred":[
+        "Madagascar"
+    ],
+    "name:tyv_x_preferred":[
+        "Madagascar"
     ],
     "name:udm_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
@@ -824,6 +1259,9 @@
     "name:vec_x_preferred":[
         "Madagascar"
     ],
+    "name:ven_x_preferred":[
+        "Madagascar"
+    ],
     "name:vep_x_preferred":[
         "Madagaskar"
     ],
@@ -834,8 +1272,17 @@
         "Ma-\u0111a-g\u00e1t-xca",
         "Ma-\u0111a-g\u00e1t-xca (Madagascar)"
     ],
+    "name:vls_x_preferred":[
+        "Madagaskar"
+    ],
+    "name:vmf_x_preferred":[
+        "Madagascar"
+    ],
     "name:vol_x_preferred":[
         "Malagase\u00e4n"
+    ],
+    "name:vot_x_preferred":[
+        "Madagascar"
     ],
     "name:vro_x_preferred":[
         "Madagaskar"
@@ -854,6 +1301,9 @@
     ],
     "name:xal_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440\u043c\u0443\u0434\u0438\u043d \u041e\u0440\u043d"
+    ],
+    "name:xho_x_preferred":[
+        "Madagascar"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d3\u10d0\u10d2\u10d0\u10e1\u10d9\u10d0\u10e0\u10d8"
@@ -1134,7 +1584,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1617827727,
+    "wof:lastmodified":1690939383,
     "wof:name":"Madagascar",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Betioky"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062a\u06cc\u0648\u06a9\u06cc \u0633\u0648\u062f"
+    ],
     "name:fra_x_preferred":[
         "Betioky"
     ],
@@ -47,11 +50,17 @@
     "name:pol_x_preferred":[
         "Betioky"
     ],
+    "name:swa_x_preferred":[
+        "Betioky"
+    ],
     "name:swe_x_preferred":[
         "Betioky"
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u8482\u70cf\u57fa"
+    ],
+    "name:zul_x_preferred":[
+        "Betioky"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421176923,
-    "wof:lastmodified":1566604793,
+    "wof:lastmodified":1690939409,
     "wof:name":"Betioky",
     "wof:parent_id":1108801141,
     "wof:placetype":"locality",

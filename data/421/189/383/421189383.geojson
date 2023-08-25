@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Ranopiso"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0646\u0648\u067e\u06cc\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
         "Ranopiso"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421189383,
-    "wof:lastmodified":1566604785,
+    "wof:lastmodified":1690939397,
     "wof:name":"Ranopiso",
     "wof:parent_id":421188095,
     "wof:placetype":"locality",

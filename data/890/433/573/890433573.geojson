@@ -22,6 +22,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0645\u067e\u0627\u0631\u0627\u0641\u0627\u0631\u0627\u0648\u0644\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Amparafaravola"
+    ],
     "name:ceb_x_preferred":[
         "Amparafaravola"
     ],
@@ -79,6 +82,9 @@
     "name:zho_x_preferred":[
         "\u5b89\u5e15\u62c9\u6cd5\u62c9\u6b66\u62c9"
     ],
+    "name:zul_x_preferred":[
+        "Amparafaravola"
+    ],
     "qs:name":"Amparafaravola",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":890433573,
-    "wof:lastmodified":1566604798,
+    "wof:lastmodified":1690939418,
     "wof:name":"Amparafaravola",
     "wof:parent_id":1108801091,
     "wof:placetype":"locality",

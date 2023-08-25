@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ikongo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u0648\u0646\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
         "Ikongo"
     ],
@@ -44,6 +47,9 @@
     "name:por_x_preferred":[
         "Ikongo"
     ],
+    "name:swa_x_preferred":[
+        "Ikongo"
+    ],
     "name:swe_x_preferred":[
         "Ikongo"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u5b54\u53e4"
+    ],
+    "name:zul_x_preferred":[
+        "Ikongo"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421169321,
-    "wof:lastmodified":1566604783,
+    "wof:lastmodified":1690939394,
     "wof:name":"Ikongo",
     "wof:parent_id":421198091,
     "wof:placetype":"locality",

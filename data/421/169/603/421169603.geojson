@@ -109,6 +109,9 @@
     "name:zho_x_preferred":[
         "\u7c73\u5b89\u5fb7\u91cc\u74e6\u7956"
     ],
+    "name:zul_x_preferred":[
+        "Miandrivazo"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421169603,
-    "wof:lastmodified":1636506396,
+    "wof:lastmodified":1690939393,
     "wof:name":"Miandrivazo",
     "wof:parent_id":85674035,
     "wof:placetype":"county",

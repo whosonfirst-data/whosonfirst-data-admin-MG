@@ -42,6 +42,9 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0430\u043e\u0442\u0440\u0430-\u041c\u0430\u043d\u0433\u043e\u0440\u043e"
     ],
+    "name:ces_x_preferred":[
+        "Alaotra Mangoro"
+    ],
     "name:dan_x_preferred":[
         "Alaotra-Mangoro"
     ],
@@ -67,6 +70,9 @@
         "Alaotra-Mangoro"
     ],
     "name:fra_x_preferred":[
+        "Alaotra-Mangoro"
+    ],
+    "name:frr_x_preferred":[
         "Alaotra-Mangoro"
     ],
     "name:guj_x_preferred":[
@@ -98,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\ub77c\uc624\ud2b8\ub77c\ub9dd\uace0\ub85c \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\ub77c\uc624\ud2b8\ub77c\ub9dd\uace0\ub85c\uad6c"
     ],
     "name:lav_x_preferred":[
         "Alautra-Mangoro"
@@ -153,6 +162,9 @@
     "name:swe_x_preferred":[
         "Alaotra Mangororegionen"
     ],
+    "name:swe_x_variant":[
+        "Alaotra-Mangoro"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb2\u0bb5\u0bcd\u0b9f\u0bcd\u0bb1\u0bbe-\u0bae\u0b99\u0bcd\u0b95\u0bcb\u0bb0\u0bbe"
     ],
@@ -176,6 +188,12 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u5967\u7279\u62c9-\u66fc\u53e4\u7f85\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u52b3\u7279\u62c9-\u66fc\u53e4\u9c81\u5927\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Alaotra-Mangoro Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDG",
@@ -297,7 +315,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506379,
+    "wof:lastmodified":1690939377,
     "wof:name":"Alaotra-Mangoro",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

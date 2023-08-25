@@ -85,6 +85,9 @@
     "name:mlg_x_preferred":[
         "Sambava"
     ],
+    "name:mlg_x_variant":[
+        "Distrikan'i Sambava"
+    ],
     "name:nan_x_preferred":[
         "Sambava Ko\u0101n"
     ],
@@ -99,6 +102,9 @@
     ],
     "name:ron_x_preferred":[
         "Sambava"
+    ],
+    "name:ron_x_variant":[
+        "Districtul Sambava"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u0431\u0430\u0432\u0430"
@@ -129,6 +135,9 @@
     ],
     "name:zho_x_variant":[
         "\u6851\u5df4\u74e6\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Sambava District"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -180,7 +189,7 @@
         }
     ],
     "wof:id":421188089,
-    "wof:lastmodified":1636506396,
+    "wof:lastmodified":1690939397,
     "wof:name":"Sambava",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

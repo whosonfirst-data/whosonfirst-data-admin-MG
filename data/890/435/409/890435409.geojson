@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Beroroha"
+    ],
+    "name:deu_x_preferred":[
+        "Beroroha"
+    ],
     "name:eng_x_preferred":[
         "Beroroha"
     ],
@@ -40,7 +46,13 @@
     "name:pol_x_preferred":[
         "Beroroha"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043e\u0440\u043e\u0445\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Beroroha"
+    ],
+    "name:swe_x_preferred":[
         "Beroroha"
     ],
     "name:und_x_variant":[
@@ -48,6 +60,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u9b6f\u9b6f\u54c8"
+    ],
+    "name:zul_x_preferred":[
+        "Beroroha"
     ],
     "qs:name":"Beroroha",
     "qs:photos_9r":0,
@@ -82,7 +97,7 @@
         }
     ],
     "wof:id":890435409,
-    "wof:lastmodified":1566604798,
+    "wof:lastmodified":1690939420,
     "wof:name":"Beroroha",
     "wof:parent_id":1108801137,
     "wof:placetype":"locality",

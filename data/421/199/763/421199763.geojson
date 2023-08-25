@@ -32,8 +32,17 @@
     "name:deu_x_preferred":[
         "Ambositra"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03bf\u03cd\u03c3\u03b9\u03c4\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ambositra"
+    ],
+    "name:eus_x_preferred":[
+        "Ambositra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0628\u0648\u0633\u06cc\u062a\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Ambositra"
@@ -41,11 +50,17 @@
     "name:fra_x_preferred":[
         "Ambositra"
     ],
+    "name:frr_x_preferred":[
+        "Ambositra"
+    ],
     "name:hbs_x_preferred":[
         "Ambositra"
     ],
     "name:hrv_x_preferred":[
         "Ambositra"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0562\u0578\u0582\u057d\u056b\u057f\u0580\u0561"
     ],
     "name:ita_x_preferred":[
         "Ambositra"
@@ -83,11 +98,17 @@
     "name:spa_x_preferred":[
         "Ambositra"
     ],
+    "name:swa_x_preferred":[
+        "Ambositra"
+    ],
     "name:swe_x_preferred":[
         "Ambositra"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5e03\u897f\u7279\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Ambositra"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -136,7 +157,7 @@
         }
     ],
     "wof:id":421199763,
-    "wof:lastmodified":1566604789,
+    "wof:lastmodified":1690939404,
     "wof:name":"Ambositra",
     "wof:parent_id":421191749,
     "wof:placetype":"locality",

@@ -88,6 +88,9 @@
     "name:zho_x_preferred":[
         "\u5b89\u6bd4\u76e7\u8c9d"
     ],
+    "name:zul_x_preferred":[
+        "Ambilobe"
+    ],
     "qs:name":"Ambilobe",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890433579,
-    "wof:lastmodified":1566604798,
+    "wof:lastmodified":1690939419,
     "wof:name":"Ambilobe",
     "wof:parent_id":421180171,
     "wof:placetype":"locality",

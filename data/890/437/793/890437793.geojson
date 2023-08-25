@@ -73,6 +73,9 @@
     "name:pol_x_preferred":[
         "Ambalavao"
     ],
+    "name:ron_x_preferred":[
+        "Ambalavao"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0431\u0430\u043b\u0430\u0432\u0430\u0443"
     ],
@@ -87,6 +90,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5df4\u62c9\u6c83"
+    ],
+    "name:zul_x_preferred":[
+        "Ambalavao"
     ],
     "qs:name":"Ambalavao",
     "qs:photos_9r":0,
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":890437793,
-    "wof:lastmodified":1566604795,
+    "wof:lastmodified":1690939412,
     "wof:name":"Ambalavao",
     "wof:parent_id":421171625,
     "wof:placetype":"locality",

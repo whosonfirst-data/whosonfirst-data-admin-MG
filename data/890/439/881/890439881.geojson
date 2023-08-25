@@ -76,6 +76,9 @@
     "name:zho_x_preferred":[
         "\u5b89\u5df4\u5716\u862d\u76ae"
     ],
+    "name:zul_x_preferred":[
+        "Ambatolampy"
+    ],
     "qs:name":"Ambatolampy",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890439881,
-    "wof:lastmodified":1566604794,
+    "wof:lastmodified":1690939412,
     "wof:name":"Ambatolampy",
     "wof:parent_id":421194677,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:zho_x_preferred":[
         "\u5b89\u5e03\u5e0c\u99ac\u54c8\u8607\u963f"
     ],
+    "name:zul_x_preferred":[
+        "Ambohimahasoa"
+    ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1080438,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421195231,
-    "wof:lastmodified":1566604781,
+    "wof:lastmodified":1690939391,
     "wof:name":"Ambohimahasoa",
     "wof:parent_id":421171619,
     "wof:placetype":"locality",

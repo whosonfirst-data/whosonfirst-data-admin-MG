@@ -56,6 +56,9 @@
     "name:zho_x_preferred":[
         "\u5b89\u5df4\u5716\u5e03\u57c3\u5c3c"
     ],
+    "name:zul_x_preferred":[
+        "Ambatoboeny"
+    ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1083257,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421198529,
-    "wof:lastmodified":1566604788,
+    "wof:lastmodified":1690939401,
     "wof:name":"Ambato Boeny",
     "wof:parent_id":421175085,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Tsiombe"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0648\u0645\u0628\u0647"
+    ],
     "name:fra_x_preferred":[
         "Tsihombe"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9f4a\u6d2a\u8c9d"
+    ],
+    "name:zul_x_preferred":[
+        "Tsiombe"
     ],
     "qs:gn_country":"MG",
     "qs:gn_fcode":"PPL",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421198531,
-    "wof:lastmodified":1566604788,
+    "wof:lastmodified":1690939402,
     "wof:name":"Tsihombe",
     "wof:parent_id":421184615,
     "wof:placetype":"locality",

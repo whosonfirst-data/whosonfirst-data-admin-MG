@@ -46,6 +46,9 @@
     "name:zho_x_preferred":[
         "\u7fc1\u5fb7\u9b6f\u7956"
     ],
+    "name:zul_x_preferred":[
+        "Vondrozo"
+    ],
     "qs:name":"Vondrozo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890443531,
-    "wof:lastmodified":1566604796,
+    "wof:lastmodified":1690939415,
     "wof:name":"Vondrozo",
     "wof:parent_id":1108801221,
     "wof:placetype":"locality",
