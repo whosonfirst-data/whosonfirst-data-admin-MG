@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.645608,
-    "geom:area_square_m":7580510660.72988,
+    "geom:area_square_m":7580510660.730201,
     "geom:bbox":"45.729773054,-18.7443491343,47.0923556698,-17.7420942979",
     "geom:latitude":-18.271648,
     "geom:longitude":46.361775,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Fenoarivobe",
     "meso:region":"Bongolava",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Fenoarivobe"
+    ],
     "name:fra_x_preferred":[
         "Fenoarivobe"
     ],
@@ -59,7 +62,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697015,
-    "wof:geomhash":"35c444ba69f576ba132410c802637b43",
+    "wof:geomhash":"1a29ef1e085d4b7ea7149e4e4dae2178",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108801151,
-    "wof:lastmodified":1566604526,
+    "wof:lastmodified":1694492293,
     "wof:name":"Fenoarivobe",
     "wof:parent_id":85674005,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.462181,
-    "geom:area_square_m":5577549059.211338,
+    "geom:area_square_m":5577548926.257882,
     "geom:bbox":"48.72039,-13.043674,49.663776,-11.95125",
     "geom:latitude":-12.587823,
     "geom:longitude":49.238048,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Antsiranana II",
     "meso:region":"Diana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Antsiranana II"
+    ],
     "name:fra_x_preferred":[
         "Antsiranana II"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696995,
-    "wof:geomhash":"e135bd072482bc08786a217414f8f97d",
+    "wof:geomhash":"134f483dcca346a8e0622c307fd2ab16",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801117,
-    "wof:lastmodified":1628266621,
+    "wof:lastmodified":1694492300,
     "wof:name":"Antsiranana II",
     "wof:parent_id":85674009,
     "wof:placetype":"county",

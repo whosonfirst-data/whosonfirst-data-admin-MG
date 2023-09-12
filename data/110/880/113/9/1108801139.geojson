@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.013421,
-    "geom:area_square_m":11989528401.343748,
+    "geom:area_square_m":11989528494.82188,
     "geom:bbox":"44.292675,-17.530124,45.595101,-16.175444",
     "geom:latitude":-16.903712,
     "geom:longitude":44.912849,
@@ -25,7 +25,7 @@
     "meso:name_loc":"Besalampy",
     "meso:region":"Melaky",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b8\u09be\u09b2\u09be\u09ae\u09cd\u09aa\u09bf"
@@ -35,6 +35,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03c3\u03b1\u03bb\u03b1\u03bc\u03c0\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Besalampy"
     ],
     "name:fra_x_preferred":[
         "Besalampy"
@@ -101,7 +104,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697007,
-    "wof:geomhash":"b10398574defda20e69ca424c8d5b4a3",
+    "wof:geomhash":"fb076347eceea7b35044e500e9a9f5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108801139,
-    "wof:lastmodified":1636506392,
+    "wof:lastmodified":1694492303,
     "wof:name":"Besalampy",
     "wof:parent_id":85674029,
     "wof:placetype":"county",

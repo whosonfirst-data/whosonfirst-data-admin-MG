@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003705,
-    "geom:area_square_m":44098991.816833,
+    "geom:area_square_m":44098885.818355,
     "geom:bbox":"46.305389,-15.732139,46.392839,-15.638551",
     "geom:latitude":-15.700381,
     "geom:longitude":46.348088,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Mahajanga I",
     "meso:region":"Boeny",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mahajanga I"
+    ],
     "name:fra_x_preferred":[
         "Majunga"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697027,
-    "wof:geomhash":"e927a0fa7657f9b26dcf67905853c50f",
+    "wof:geomhash":"ab3d4311cc8bcac8142dbcd702fe9d15",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801167,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492301,
     "wof:name":"Mahajanga I",
     "wof:parent_id":85674001,
     "wof:placetype":"county",

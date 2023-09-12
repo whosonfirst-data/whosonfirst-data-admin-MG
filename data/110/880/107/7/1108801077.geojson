@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.498611,
-    "geom:area_square_m":5985627753.010921,
+    "geom:area_square_m":5985627338.499198,
     "geom:bbox":"47.859585,-14.264584,48.987691,-13.367139",
     "geom:latitude":-13.869855,
     "geom:longitude":48.468904,
@@ -25,7 +25,7 @@
     "meso:name_loc":"Ambanja",
     "meso:region":"Diana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0627\u0646\u062c\u0627"
@@ -41,6 +41,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03c0\u03ac\u03bd\u03c4\u03b6\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ambanja"
     ],
     "name:epo_x_preferred":[
         "Ambanja"
@@ -119,7 +122,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696964,
-    "wof:geomhash":"9879fd6fda6ddbaff0d0d3d7a1632f6c",
+    "wof:geomhash":"51c7d6be399ce7c82ad15c654c8f8d39",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108801077,
-    "wof:lastmodified":1636506391,
+    "wof:lastmodified":1694492303,
     "wof:name":"Ambanja",
     "wof:parent_id":85674009,
     "wof:placetype":"county",

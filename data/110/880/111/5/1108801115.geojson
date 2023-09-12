@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011576,
-    "geom:area_square_m":134607219.471942,
+    "geom:area_square_m":134607093.642957,
     "geom:bbox":"46.961843,-19.951636,47.098199,-19.810977",
     "geom:latitude":-19.881877,
     "geom:longitude":47.031661,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Antsirabe I",
     "meso:region":"Vakinankaratra",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Antsirabe I"
+    ],
     "name:fra_x_preferred":[
         "Antsirabe I"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696993,
-    "wof:geomhash":"3bbe94afb4afa447d00e5a5b9cbf6b81",
+    "wof:geomhash":"255635ce0b66eeaa17b446efc2f45532",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801115,
-    "wof:lastmodified":1628266621,
+    "wof:lastmodified":1694492300,
     "wof:name":"Antsirabe I",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

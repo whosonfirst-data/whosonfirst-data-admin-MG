@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.378627,
-    "geom:area_square_m":4495119932.670733,
+    "geom:area_square_m":4495120144.767048,
     "geom:bbox":"49.136193,-16.617945,49.866249,-15.85243",
     "geom:latitude":-16.232968,
     "geom:longitude":49.511622,
@@ -25,9 +25,12 @@
     "meso:name_loc":"Mananara-Avaratra",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Mananara-Avaratra"
+    ],
     "name:fra_x_preferred":[
         "Mananara Avaratra"
     ],
@@ -69,7 +72,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42c8b3e85fd037fda1f673c3d10a6e54",
+    "wof:geomhash":"a9b66e30724df60f2d8a86e6f6bb0bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421189045,
-    "wof:lastmodified":1628266682,
+    "wof:lastmodified":1694492301,
     "wof:name":"Mananara-Avaratra",
     "wof:parent_id":85673967,
     "wof:placetype":"county",

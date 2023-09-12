@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.456968,
-    "geom:area_square_m":5151784186.087236,
+    "geom:area_square_m":5151784533.102174,
     "geom:bbox":"45.049267,-24.776013,45.837124,-23.762614",
     "geom:latitude":-24.252102,
     "geom:longitude":45.394997,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Bekily",
     "meso:region":"Androy",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Bekily"
+    ],
     "name:fra_x_preferred":[
         "Bekily"
     ],
@@ -44,7 +47,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697001,
-    "wof:geomhash":"7a768ad50fdc1108d234f298cffae777",
+    "wof:geomhash":"fd0e923008df24922044412f055bf662",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108801131,
-    "wof:lastmodified":1628266626,
+    "wof:lastmodified":1694492300,
     "wof:name":"Bekily",
     "wof:parent_id":85673973,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.428801,
-    "geom:area_square_m":4801846040.426201,
+    "geom:area_square_m":4801846040.426588,
     "geom:bbox":"44.4969506426,-25.5376568962,45.3807357763,-24.5622414392",
     "geom:latitude":-25.090684,
     "geom:longitude":45.021652,
@@ -25,9 +25,12 @@
     "meso:name_loc":"Beloha",
     "meso:region":"Androy",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Beloha"
+    ],
+    "name:eng_x_preferred":[
         "Beloha"
     ],
     "name:fra_x_preferred":[
@@ -62,7 +65,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697003,
-    "wof:geomhash":"d1ee3b07e4d572436c60f0dbcf733ad9",
+    "wof:geomhash":"a0eb71f14d4101c585d3dfaade59fd65",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108801133,
-    "wof:lastmodified":1566604528,
+    "wof:lastmodified":1694492294,
     "wof:name":"Beloha",
     "wof:parent_id":85673973,
     "wof:placetype":"county",

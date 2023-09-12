@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.904992,
-    "geom:area_square_m":10590619313.118935,
+    "geom:area_square_m":10590619313.120272,
     "geom:bbox":"45.4669850851,-19.4543609589,46.5722495156,-17.999547617",
     "geom:latitude":-18.841553,
     "geom:longitude":45.970454,
@@ -25,13 +25,16 @@
     "meso:name_loc":"Tsiroanomandidy",
     "meso:region":"Bongolava",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tsiroanomandidy"
     ],
     "name:deu_x_preferred":[
+        "Tsiroanomandidy"
+    ],
+    "name:eng_x_preferred":[
         "Tsiroanomandidy"
     ],
     "name:fra_x_preferred":[
@@ -114,7 +117,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"69a68db9fdb06be828d4591a4d6ff8ff",
+    "wof:geomhash":"5cfc37e5dd0d9079b6240f63645d6ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421183937,
-    "wof:lastmodified":1582393283,
+    "wof:lastmodified":1694492294,
     "wof:name":"Tsiroanomandidy",
     "wof:parent_id":85674005,
     "wof:placetype":"county",

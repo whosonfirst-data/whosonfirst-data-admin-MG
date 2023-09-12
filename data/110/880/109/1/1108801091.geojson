@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.393164,
-    "geom:area_square_m":4638015442.400881,
+    "geom:area_square_m":4638015442.400885,
     "geom:bbox":"47.9197001902,-17.9197614506,48.9109833893,-17.0043014461",
     "geom:latitude":-17.441032,
     "geom:longitude":48.342469,
@@ -25,7 +25,7 @@
     "meso:name_loc":"Amparafaravola",
     "meso:region":"Alaotra Mangoro",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0645\u067e\u0627\u0631\u0627\u0641\u0627\u0631\u0627\u0648\u0644\u0627"
@@ -34,6 +34,9 @@
         "Amparafaravola"
     ],
     "name:deu_x_preferred":[
+        "Amparafaravola"
+    ],
+    "name:eng_x_preferred":[
         "Amparafaravola"
     ],
     "name:fas_x_preferred":[
@@ -86,7 +89,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696976,
-    "wof:geomhash":"90d97d752612cfa30466c9268361dd6c",
+    "wof:geomhash":"75abe9e2d67c7e0621be457337852be5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108801091,
-    "wof:lastmodified":1566604522,
+    "wof:lastmodified":1694492292,
     "wof:name":"Amparafaravola",
     "wof:parent_id":85673955,
     "wof:placetype":"county",

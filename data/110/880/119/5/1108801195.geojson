@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.632041,
-    "geom:area_square_m":7435491392.476989,
+    "geom:area_square_m":7435491392.476684,
     "geom:bbox":"44.4640023158,-18.3649864012,45.5615073977,-17.4631502021",
     "geom:latitude":-17.934671,
     "geom:longitude":44.9592,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Morafenobe",
     "meso:region":"Melaky",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Morafenobe"
+    ],
     "name:fra_x_preferred":[
         "Morafenobe"
     ],
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697046,
-    "wof:geomhash":"0b639b8e8fec7d4a1d382b931f71839f",
+    "wof:geomhash":"6fd75d59ec37aa1445a4fe696f6a1304",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108801195,
-    "wof:lastmodified":1566604520,
+    "wof:lastmodified":1694492292,
     "wof:name":"Morafenobe",
     "wof:parent_id":85674029,
     "wof:placetype":"county",

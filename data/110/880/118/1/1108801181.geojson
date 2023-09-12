@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.488313,
-    "geom:area_square_m":5629391671.426971,
+    "geom:area_square_m":5629391676.919951,
     "geom:bbox":"47.73388,-21.723645,48.481842,-20.746709",
     "geom:latitude":-21.200083,
     "geom:longitude":48.09368,
@@ -25,7 +25,7 @@
     "meso:name_loc":"Mananjary",
     "meso:region":"Vatovavy Fitovinany",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u09a8\u099c\u09be\u09b0\u09bf"
@@ -35,6 +35,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bd\u03b1\u03bd\u03c4\u03b6\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Mananjary"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0627\u0646\u062c\u0631\u06cc"
@@ -95,7 +98,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697035,
-    "wof:geomhash":"3ba594a2856740fb66ad61da7116265a",
+    "wof:geomhash":"9ab4795ce994b3af69293cd2394f7967",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108801181,
-    "wof:lastmodified":1636506390,
+    "wof:lastmodified":1694492302,
     "wof:name":"Mananjary",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

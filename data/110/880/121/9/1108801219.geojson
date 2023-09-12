@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15953,
-    "geom:area_square_m":1833268052.307429,
+    "geom:area_square_m":1833268277.798518,
     "geom:bbox":"46.709059,-21.879693,47.39763,-21.46217",
     "geom:latitude":-21.665194,
     "geom:longitude":47.087646,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Vohibato",
     "meso:region":"Haute Matsiatra",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Vohibato"
+    ],
     "name:fra_x_preferred":[
         "Vohibato"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697070,
-    "wof:geomhash":"e5d31702f3c0608290ebf12e5de3cce3",
+    "wof:geomhash":"04c38ff9f0456b69a8a0178ee63d65fc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801219,
-    "wof:lastmodified":1628266742,
+    "wof:lastmodified":1694492302,
     "wof:name":"Vohibato",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.386377,
-    "geom:area_square_m":4384566969.761284,
+    "geom:area_square_m":4384566969.761496,
     "geom:bbox":"44.6617878775,-23.9114185949,45.4590436173,-22.99380746",
     "geom:latitude":-23.402876,
     "geom:longitude":45.086766,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Benenitra",
     "meso:region":"Atsimo Andrefana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Benenitra"
+    ],
     "name:fra_x_preferred":[
         "Benenitra"
     ],
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697005,
-    "wof:geomhash":"83f75e50debd1f416232b2bcc1dd711b",
+    "wof:geomhash":"6821e4694c16230bc2b188c0e09483bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108801135,
-    "wof:lastmodified":1566604528,
+    "wof:lastmodified":1694492294,
     "wof:name":"Benenitra",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

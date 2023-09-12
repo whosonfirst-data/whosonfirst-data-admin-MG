@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049925,
-    "geom:area_square_m":584046392.845143,
+    "geom:area_square_m":584046374.990535,
     "geom:bbox":"47.508958,-19.14521,47.744547,-18.688266",
     "geom:latitude":-18.90172,
     "geom:longitude":47.62585,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Antananarivo Avaradrano",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Antananarivo Avaradrano"
+    ],
     "name:fra_x_preferred":[
         "Antananarivo Avaradrano"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696988,
-    "wof:geomhash":"1c1a4f4a8f2a8dbe5f0e8dd1219100da",
+    "wof:geomhash":"9bd9c55ff8459b8d66af32906be84a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801111,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492300,
     "wof:name":"Antananarivo Avaradrano",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

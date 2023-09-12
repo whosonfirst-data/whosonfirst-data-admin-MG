@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.842777,
-    "geom:area_square_m":9576053631.820738,
+    "geom:area_square_m":9576052802.083281,
     "geom:bbox":"43.27039,-24.229648,44.34443,-22.335074",
     "geom:latitude":-23.227497,
     "geom:longitude":43.793971,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Toliara II",
     "meso:region":"Atsimo Andrefana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Toliara II"
+    ],
     "name:fra_x_preferred":[
         "Toliara II"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697062,
-    "wof:geomhash":"d6181fc45d3424c7c55e83f556ca4f52",
+    "wof:geomhash":"7a6e6937b19211321c1c03c9cb85ac20",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801209,
-    "wof:lastmodified":1628266726,
+    "wof:lastmodified":1694492301,
     "wof:name":"Toliara II",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

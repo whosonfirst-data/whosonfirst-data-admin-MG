@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.852568,
-    "geom:area_square_m":9822730883.633739,
+    "geom:area_square_m":9822730883.634045,
     "geom:bbox":"45.5224499871,-21.7618341469,46.8854037966,-20.6918969608",
     "geom:latitude":-21.288467,
     "geom:longitude":46.218911,
@@ -25,9 +25,12 @@
     "meso:name_loc":"Ikalamavony",
     "meso:region":"Haute Matsiatra",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Ikalamavony"
+    ],
+    "name:eng_x_preferred":[
         "Ikalamavony"
     ],
     "name:fra_x_preferred":[
@@ -62,7 +65,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697020,
-    "wof:geomhash":"2f538f28fbf6338939f25945f24839c0",
+    "wof:geomhash":"b83b8001b54a893782f2995a9ea82a37",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108801153,
-    "wof:lastmodified":1566604526,
+    "wof:lastmodified":1694492293,
     "wof:name":"Ikalamavony",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

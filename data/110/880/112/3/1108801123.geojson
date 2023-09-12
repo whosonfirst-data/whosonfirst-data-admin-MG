@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572741,
-    "geom:area_square_m":6854790861.27404,
+    "geom:area_square_m":6854790861.273561,
     "geom:bbox":"48.3258573942,-14.9723272823,49.4376239076,-14.1477081248",
     "geom:latitude":-14.553133,
     "geom:longitude":48.835072,
@@ -25,9 +25,12 @@
     "meso:name_loc":"Bealanana",
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Bealanana"
+    ],
+    "name:eng_x_preferred":[
         "Bealanana"
     ],
     "name:fra_x_preferred":[
@@ -65,7 +68,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696998,
-    "wof:geomhash":"65a58a028a0249cfbeff97d71a048c37",
+    "wof:geomhash":"755465071b2e2b5c0634a6ea5b30f450",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108801123,
-    "wof:lastmodified":1566604525,
+    "wof:lastmodified":1694492293,
     "wof:name":"Bealanana",
     "wof:parent_id":85674041,
     "wof:placetype":"county",

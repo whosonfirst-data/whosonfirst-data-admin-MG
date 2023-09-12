@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.339711,
-    "geom:area_square_m":3932855527.775326,
+    "geom:area_square_m":3932855927.77226,
     "geom:bbox":"47.646543,-20.853257,48.618752,-20.212379",
     "geom:latitude":-20.566367,
     "geom:longitude":48.182397,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Nosy-Varika",
     "meso:region":"Vatovavy Fitovinany",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nosy-Varika"
+    ],
     "name:fra_x_preferred":[
         "Nosy Varika"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697051,
-    "wof:geomhash":"bdb77535ce4f4e377b58358fb5bfd398",
+    "wof:geomhash":"270ddb10df290c57c46290a433abbb43",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801199,
-    "wof:lastmodified":1628266692,
+    "wof:lastmodified":1694492301,
     "wof:name":"Nosy-Varika",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

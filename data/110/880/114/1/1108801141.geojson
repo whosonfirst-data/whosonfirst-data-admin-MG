@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.681357,
-    "geom:area_square_m":7715788543.35168,
+    "geom:area_square_m":7715788722.969089,
     "geom:bbox":"43.932873,-24.192671,45.14024,-23.19404",
     "geom:latitude":-23.678142,
     "geom:longitude":44.493668,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Betioky Atsimo",
     "meso:region":"Atsimo Andrefana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Betioky Atsimo"
+    ],
     "name:fra_x_preferred":[
         "Betioky-Atsimo"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697009,
-    "wof:geomhash":"f93d8fd6cb46da613edf89696ca98c8f",
+    "wof:geomhash":"5828a2548a41e59eae95210e728e853d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801141,
-    "wof:lastmodified":1628266627,
+    "wof:lastmodified":1694492300,
     "wof:name":"Betioky Atsimo",
     "wof:parent_id":85673983,
     "wof:placetype":"county",
