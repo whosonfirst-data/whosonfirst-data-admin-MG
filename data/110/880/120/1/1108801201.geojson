@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Port-Berge"
     ],
+    "name:eng_x_variant":[
+        "Port-Berge (Boriziny-Vaovao)"
+    ],
     "name:fra_x_preferred":[
         "Boriziny / Port-Berg\u00e9"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108801201,
-    "wof:lastmodified":1694492301,
+    "wof:lastmodified":1694639681,
     "wof:name":"Port-Berge",
     "wof:parent_id":85674041,
     "wof:placetype":"county",

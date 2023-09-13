@@ -1510,7 +1510,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"261",
     "statoids:ds":"RM",
     "statoids:fifa":"MAD",
@@ -1588,7 +1588,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1694492119,
+    "wof:lastmodified":1694639572,
     "wof:name":"Madagascar",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
