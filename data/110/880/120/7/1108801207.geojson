@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.369777,
-    "geom:area_square_m":4378962549.32535,
+    "geom:area_square_m":4378962549.325326,
     "geom:bbox":"48.818926113,-17.0847290611,49.837081909,-16.2709751041",
     "geom:latitude":-16.723324,
     "geom:longitude":49.309512,
@@ -25,9 +25,12 @@
     "meso:name_loc":"Soanierana Ivongo",
     "meso:region":"Analanjirofo",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Soanierana Ivongo"
+    ],
+    "name:eng_x_preferred":[
         "Soanierana Ivongo"
     ],
     "name:fra_x_preferred":[
@@ -68,7 +71,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697057,
-    "wof:geomhash":"f13e99ef9ccc6a781ed65aade48ed917",
+    "wof:geomhash":"e281bfcc2001a62c34f8c9949fbc8514",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108801207,
-    "wof:lastmodified":1566604518,
+    "wof:lastmodified":1694492292,
     "wof:name":"Soanierana Ivongo",
     "wof:parent_id":85673967,
     "wof:placetype":"county",

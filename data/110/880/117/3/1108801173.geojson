@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.386486,
-    "geom:area_square_m":4590094022.817956,
+    "geom:area_square_m":4590094022.818018,
     "geom:bbox":"47.161078427,-16.5823636898,48.2296340412,-15.7769089124",
     "geom:latitude":-16.161875,
     "geom:longitude":47.673437,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Mampikony",
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mampikony"
+    ],
     "name:fra_x_preferred":[
         "Mampikony"
     ],
@@ -53,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697031,
-    "wof:geomhash":"e81d01e86f55dae78ece179b1b63369a",
+    "wof:geomhash":"0de276b0f19b43c541acef07464c2f90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108801173,
-    "wof:lastmodified":1566604521,
+    "wof:lastmodified":1694492292,
     "wof:name":"Mampikony",
     "wof:parent_id":85674041,
     "wof:placetype":"county",

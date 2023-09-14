@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.378443,
-    "geom:area_square_m":4496066323.587461,
+    "geom:area_square_m":4496066323.587498,
     "geom:bbox":"45.5643824957,-16.5922944496,46.2856238087,-15.703749657",
     "geom:latitude":-16.095465,
     "geom:longitude":45.922256,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Mitsinjo",
     "meso:region":"Boeny",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mitsinjo"
+    ],
     "name:fra_x_preferred":[
         "Mitsinjo"
     ],
@@ -53,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697045,
-    "wof:geomhash":"48c1f07c1c1e79d8b49111c09dec995d",
+    "wof:geomhash":"6f0e28547749db12e2d876dbff771715",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108801193,
-    "wof:lastmodified":1566604520,
+    "wof:lastmodified":1694492292,
     "wof:name":"Mitsinjo",
     "wof:parent_id":85674001,
     "wof:placetype":"county",

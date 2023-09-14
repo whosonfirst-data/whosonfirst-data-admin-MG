@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327313,
-    "geom:area_square_m":3802369913.467642,
+    "geom:area_square_m":3802369913.467046,
     "geom:bbox":"48.1561073877,-20.4313336791,48.8456235337,-19.6577087174",
     "geom:latitude":-20.033718,
     "geom:longitude":48.51908,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Mahanoro",
     "meso:region":"Atsinanana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mahanoro"
+    ],
     "name:fra_x_preferred":[
         "Mahanoro"
     ],
@@ -62,7 +65,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697029,
-    "wof:geomhash":"1259866e6d867c9cc2be24ba14baa718",
+    "wof:geomhash":"932c2e5859b6fe519338b1dce19a12b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108801169,
-    "wof:lastmodified":1566604515,
+    "wof:lastmodified":1694492291,
     "wof:name":"Mahanoro",
     "wof:parent_id":85673991,
     "wof:placetype":"county",

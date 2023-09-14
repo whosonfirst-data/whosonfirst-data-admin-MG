@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.423018,
-    "geom:area_square_m":4794811031.443864,
+    "geom:area_square_m":4794811031.443709,
     "geom:bbox":"47.1196681596,-24.1388671566,47.736251831,-23.0350943853",
     "geom:latitude":-23.555029,
     "geom:longitude":47.398337,
@@ -25,9 +25,12 @@
     "meso:name_loc":"Vangaindrano",
     "meso:region":"Atsimo Atsinanana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Vangaindrano"
+    ],
+    "name:eng_x_preferred":[
         "Vangaindrano"
     ],
     "name:fra_x_preferred":[
@@ -65,7 +68,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697067,
-    "wof:geomhash":"8fe95fc6ef2f093e9f14bce8921b8b89",
+    "wof:geomhash":"73cc999894265bab1974694034f34fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108801213,
-    "wof:lastmodified":1566604519,
+    "wof:lastmodified":1694492292,
     "wof:name":"Vangaindrano",
     "wof:parent_id":85673987,
     "wof:placetype":"county",

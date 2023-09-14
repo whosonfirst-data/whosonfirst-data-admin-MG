@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.518893,
-    "geom:area_square_m":6122252455.096845,
+    "geom:area_square_m":6122251555.966946,
     "geom:bbox":"45.571637,-17.939188,46.482396,-16.917178",
     "geom:latitude":-17.409113,
     "geom:longitude":46.051587,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Kandreho",
     "meso:region":"Betsiboka",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kandreho"
+    ],
     "name:fra_x_preferred":[
         "Kandreho"
     ],
@@ -44,7 +47,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697024,
-    "wof:geomhash":"bd35d8b276447784e1f5a310163fc927",
+    "wof:geomhash":"ce8e836b1ef0a92351c8ab7f946fd6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108801157,
-    "wof:lastmodified":1628266663,
+    "wof:lastmodified":1694492300,
     "wof:name":"Kandreho",
     "wof:parent_id":85673995,
     "wof:placetype":"county",

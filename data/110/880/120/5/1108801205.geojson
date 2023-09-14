@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.654634,
-    "geom:area_square_m":7761393409.375841,
+    "geom:area_square_m":7761393409.37713,
     "geom:bbox":"44.867916107,-17.3628044723,45.9181097411,-15.931249619",
     "geom:latitude":-16.495805,
     "geom:longitude":45.408859,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Soalala",
     "meso:region":"Boeny",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Soalala"
+    ],
     "name:fra_x_preferred":[
         "Soalala"
     ],
@@ -53,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697056,
-    "wof:geomhash":"17dcf48af41b449fc7f9054d4abcc944",
+    "wof:geomhash":"e20ee8efaf6eba329f4e63db73bac829",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108801205,
-    "wof:lastmodified":1566604518,
+    "wof:lastmodified":1694492291,
     "wof:name":"Soalala",
     "wof:parent_id":85674001,
     "wof:placetype":"county",

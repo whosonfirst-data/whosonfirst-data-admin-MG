@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120805,
-    "geom:area_square_m":1409829315.795886,
+    "geom:area_square_m":1409829315.796016,
     "geom:bbox":"47.5064316825,-19.5559484488,47.9555494253,-19.1142751339",
     "geom:latitude":-19.300281,
     "geom:longitude":47.74637,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Andramasina",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Andramasina"
+    ],
     "name:fra_x_preferred":[
         "Andramasina"
     ],
@@ -59,7 +62,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696981,
-    "wof:geomhash":"e59273021242f6931cb58e5bf51a2e4a",
+    "wof:geomhash":"20d573fcf95919ab6478450f831da0d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108801099,
-    "wof:lastmodified":1566604521,
+    "wof:lastmodified":1694492292,
     "wof:name":"Andramasina",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

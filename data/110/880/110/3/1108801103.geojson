@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.627947,
-    "geom:area_square_m":7377776052.377892,
+    "geom:area_square_m":7377776052.378057,
     "geom:bbox":"46.4972874488,-18.7576244466,47.5102702518,-17.7099502695",
     "geom:latitude":-18.162122,
     "geom:longitude":47.054892,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Ankazobe",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ankazobe"
+    ],
     "name:fra_x_preferred":[
         "Ankazobe"
     ],
@@ -56,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696983,
-    "wof:geomhash":"6e76a3319372af84ee4f3f9a9b3c1703",
+    "wof:geomhash":"ab3b7346d7f4c9e9563c56d411baf8a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108801103,
-    "wof:lastmodified":1566604521,
+    "wof:lastmodified":1694492292,
     "wof:name":"Ankazobe",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

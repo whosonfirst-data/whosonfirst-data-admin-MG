@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085491,
-    "geom:area_square_m":988536206.171257,
+    "geom:area_square_m":988536510.848564,
     "geom:bbox":"46.856809,-21.016446,47.170046,-20.48024",
     "geom:latitude":-20.750147,
     "geom:longitude":47.019428,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Manandriana",
     "meso:region":"Amoron I Mania",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Manandriana"
+    ],
     "name:fra_x_preferred":[
         "Manandriana"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697034,
-    "wof:geomhash":"350f27d57e32ad24678c2493732e1e2a",
+    "wof:geomhash":"6bd3ac36999fff61f6965126150f6ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801177,
-    "wof:lastmodified":1628266682,
+    "wof:lastmodified":1694492301,
     "wof:name":"Manandriana",
     "wof:parent_id":85673959,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281446,
-    "geom:area_square_m":3228622960.930892,
+    "geom:area_square_m":3228623258.224989,
     "geom:bbox":"47.592883,-22.337186,48.226457,-21.591967",
     "geom:latitude":-21.915861,
     "geom:longitude":47.876965,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Manakara Atsimo",
     "meso:region":"Vatovavy Fitovinany",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Manakara Atsimo"
+    ],
     "name:fra_x_preferred":[
         "Manakara"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697032,
-    "wof:geomhash":"1b91e29bcee7ca59efdc3a166a22c09c",
+    "wof:geomhash":"216760781f31fc3893d1114eabb6cc8b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801175,
-    "wof:lastmodified":1628266682,
+    "wof:lastmodified":1694492301,
     "wof:name":"Manakara Atsimo",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

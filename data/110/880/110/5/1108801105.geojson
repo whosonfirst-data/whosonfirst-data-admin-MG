@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245991,
-    "geom:area_square_m":2867011093.265265,
+    "geom:area_square_m":2867010743.467173,
     "geom:bbox":"47.836975,-19.810612,48.406696,-19.191812",
     "geom:latitude":-19.513682,
     "geom:longitude":48.124567,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Anosibe-An'ala",
     "meso:region":"Alaotra Mangoro",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Anosibe-An'ala"
+    ],
     "name:fra_x_preferred":[
         "Anosibe An'ala"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696984,
-    "wof:geomhash":"f3a6b1a2a173cc23381b14413f64f03a",
+    "wof:geomhash":"e06755fbb7ed49d48088a82919821e12",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801105,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492300,
     "wof:name":"Anosibe-An'ala",
     "wof:parent_id":85673955,
     "wof:placetype":"county",

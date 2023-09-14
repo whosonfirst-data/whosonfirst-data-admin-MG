@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309408,
-    "geom:area_square_m":3593034445.596017,
+    "geom:area_square_m":3593034445.595848,
     "geom:bbox":"47.666939775,-20.4618200746,48.3688827986,-19.7090364283",
     "geom:latitude":-20.091928,
     "geom:longitude":47.966788,
@@ -25,9 +25,12 @@
     "meso:name_loc":"Marolambo",
     "meso:region":"Atsinanana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Marolambo"
+    ],
+    "name:eng_x_preferred":[
         "Marolambo"
     ],
     "name:fra_x_preferred":[
@@ -62,7 +65,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697040,
-    "wof:geomhash":"c0f0ac27a478feadf10869745df62e1c",
+    "wof:geomhash":"2851c9d4bc0446f60ed3d33fc247ef07",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108801189,
-    "wof:lastmodified":1566604517,
+    "wof:lastmodified":1694492291,
     "wof:name":"Marolambo",
     "wof:parent_id":85673991,
     "wof:placetype":"county",

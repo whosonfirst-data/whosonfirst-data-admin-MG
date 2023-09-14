@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364952,
-    "geom:area_square_m":4286853494.279559,
+    "geom:area_square_m":4286853494.279713,
     "geom:bbox":"47.4112902744,-18.6397261686,48.036867946,-17.7514621402",
     "geom:latitude":-18.202512,
     "geom:longitude":47.751457,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Anjozorobe",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Anjozorobe"
+    ],
     "name:fra_x_preferred":[
         "Anjozorobe"
     ],
@@ -62,7 +65,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696982,
-    "wof:geomhash":"64a9228344c7945ab65472bed4956aa5",
+    "wof:geomhash":"326c6e1681f60cc20f6345329f4b43ff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108801101,
-    "wof:lastmodified":1566604520,
+    "wof:lastmodified":1694492292,
     "wof:name":"Anjozorobe",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

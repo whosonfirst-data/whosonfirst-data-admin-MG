@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.729562,
-    "geom:area_square_m":8724621895.861084,
+    "geom:area_square_m":8724621895.860573,
     "geom:bbox":"47.038696289,-15.4608425231,48.4837757838,-13.8743267493",
     "geom:latitude":-14.725631,
     "geom:longitude":47.781476,
@@ -25,12 +25,15 @@
     "meso:name_loc":"Analalava",
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0646\u0627\u0644\u0627\u0644\u0627\u0648\u0627"
     ],
     "name:deu_x_preferred":[
+        "Analalava"
+    ],
+    "name:eng_x_preferred":[
         "Analalava"
     ],
     "name:fas_x_preferred":[
@@ -62,7 +65,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696977,
-    "wof:geomhash":"c8769244631ac6939e246af3c7e766bc",
+    "wof:geomhash":"fc1d6c60c78f820d3921a28ada08e32b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108801093,
-    "wof:lastmodified":1566604522,
+    "wof:lastmodified":1694492292,
     "wof:name":"Analalava",
     "wof:parent_id":85674041,
     "wof:placetype":"county",

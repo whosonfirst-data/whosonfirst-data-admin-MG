@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.339933,
-    "geom:area_square_m":4068169151.035743,
+    "geom:area_square_m":4068169151.035298,
     "geom:bbox":"49.105309268,-15.0920574702,49.8872702837,-14.1336797877",
     "geom:latitude":-14.567656,
     "geom:longitude":49.553504,
@@ -25,7 +25,7 @@
     "meso:name_loc":"Andapa",
     "meso:region":"Sava",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0646\u062f\u0627\u067e\u0627"
@@ -40,6 +40,9 @@
         "Andapa"
     ],
     "name:deu_x_preferred":[
+        "Andapa"
+    ],
+    "name:eng_x_preferred":[
         "Andapa"
     ],
     "name:fas_x_preferred":[
@@ -83,7 +86,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696979,
-    "wof:geomhash":"8340b685831f993a65ddfdf085c903c5",
+    "wof:geomhash":"ede718fcbf5d2fe0861c2f524ddc431c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108801095,
-    "wof:lastmodified":1566604523,
+    "wof:lastmodified":1694492293,
     "wof:name":"Andapa",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

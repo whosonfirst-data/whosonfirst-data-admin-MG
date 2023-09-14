@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007273,
-    "geom:area_square_m":85089528.824426,
+    "geom:area_square_m":85089635.540388,
     "geom:bbox":"47.471021,-18.95367,47.57376,-18.840977",
     "geom:latitude":-18.897227,
     "geom:longitude":47.523305,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Antananarivo Renivohitra",
     "meso:region":"Analamanga",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Antananarivo Renivohitra"
+    ],
     "name:fra_x_preferred":[
         "Antananarivo Renivohitra"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696989,
-    "wof:geomhash":"e100929fcca076f961885850e489b7ca",
+    "wof:geomhash":"761cb8c6ff2b4fa5ef15c64bcc1ace3f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801113,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492300,
     "wof:name":"Antananarivo Renivohitra",
     "wof:parent_id":85673965,
     "wof:placetype":"county",

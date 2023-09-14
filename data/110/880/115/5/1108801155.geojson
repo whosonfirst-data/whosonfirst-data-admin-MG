@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117035,
-    "geom:area_square_m":1348475637.795986,
+    "geom:area_square_m":1348475776.851193,
     "geom:bbox":"46.680548,-21.544695,47.135157,-20.953071",
     "geom:latitude":-21.280622,
     "geom:longitude":46.896029,
@@ -25,10 +25,13 @@
     "meso:name_loc":"Isandra",
     "meso:region":"Haute Matsiatra",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0627\u0646\u062f\u0631\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Isandra"
     ],
     "name:fra_x_preferred":[
         "Isandra"
@@ -53,7 +56,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697022,
-    "wof:geomhash":"4df9a93ecb885c9ee4b47a0c57e506fc",
+    "wof:geomhash":"61e42da70b023338e09d394b0b6f2cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108801155,
-    "wof:lastmodified":1627522350,
+    "wof:lastmodified":1694492297,
     "wof:name":"Isandra",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

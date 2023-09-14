@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.211806,
-    "geom:area_square_m":13632567253.407305,
+    "geom:area_square_m":13632566692.127039,
     "geom:bbox":"43.705387,-25.290445,45.186256,-23.886346",
     "geom:latitude":-24.521117,
     "geom:longitude":44.490778,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Ampanihy Ouest",
     "meso:region":"Atsimo Andrefana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ampanihy Ouest"
+    ],
     "name:fra_x_preferred":[
         "Ampanihy"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696975,
-    "wof:geomhash":"dc42caa09f72256f2776ea0c9be52b8a",
+    "wof:geomhash":"eaea46fbd84211c6c5ab26985868fe51",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801087,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492299,
     "wof:name":"Ampanihy Ouest",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

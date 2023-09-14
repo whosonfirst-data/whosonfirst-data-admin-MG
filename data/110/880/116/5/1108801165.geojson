@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.188397,
-    "geom:area_square_m":13751680088.633167,
+    "geom:area_square_m":13751680088.633408,
     "geom:bbox":"44.5310673861,-21.2961079933,45.8414162004,-20.0770364092",
     "geom:latitude":-20.636612,
     "geom:longitude":45.165644,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Mahabo",
     "meso:region":"Menabe",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mahabo"
+    ],
     "name:fra_x_preferred":[
         "Mahabo"
     ],
@@ -59,7 +62,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697026,
-    "wof:geomhash":"c66440d65ebf80e5a703265291b6f25c",
+    "wof:geomhash":"e7bf42ec70822e9f7a735ca0c96434f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108801165,
-    "wof:lastmodified":1566604516,
+    "wof:lastmodified":1694492291,
     "wof:name":"Mahabo",
     "wof:parent_id":85674035,
     "wof:placetype":"county",

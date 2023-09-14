@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111744,
-    "geom:area_square_m":1302005942.506124,
+    "geom:area_square_m":1302006026.961653,
     "geom:bbox":"48.284629,-19.845477,48.6492,-19.287576",
     "geom:latitude":-19.558464,
     "geom:longitude":48.470273,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Antanambao Manampontsy",
     "meso:region":"Atsinanana",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Antanambao Manampontsy"
+    ],
     "name:fra_x_preferred":[
         "Antanambao Manampotsy"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696986,
-    "wof:geomhash":"af274529900c1aa879a85dd9186e037c",
+    "wof:geomhash":"689a80e91692d9b8b1f362d22340e4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801109,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492300,
     "wof:name":"Antanambao Manampontsy",
     "wof:parent_id":85673991,
     "wof:placetype":"county",

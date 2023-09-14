@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401292,
-    "geom:area_square_m":4793092133.280724,
+    "geom:area_square_m":4793092001.576031,
     "geom:bbox":"47.688779,-15.439199,48.469209,-14.507143",
     "geom:latitude":-14.993259,
     "geom:longitude":48.054096,
@@ -25,7 +25,7 @@
     "meso:name_loc":"Antsohihy",
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09b8\u09cb\u09b9\u09bf\u09b9\u09be\u0987"
@@ -41,6 +41,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03c4\u03c3\u03bf\u03c7\u03af\u03c7\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Antsohihy"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0646\u062a\u0633\u0648\u0647\u0647\u06cc"
@@ -125,7 +128,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696996,
-    "wof:geomhash":"211bf223076db6ecbec07be0d7d483b5",
+    "wof:geomhash":"353bc38177c4992298c8294580a6ff7a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1108801119,
-    "wof:lastmodified":1636506390,
+    "wof:lastmodified":1694492302,
     "wof:name":"Antsohihy",
     "wof:parent_id":85674041,
     "wof:placetype":"county",

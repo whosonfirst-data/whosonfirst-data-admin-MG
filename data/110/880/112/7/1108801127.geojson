@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.732985,
-    "geom:area_square_m":8747846631.472921,
+    "geom:area_square_m":8747846496.36982,
     "geom:bbox":"48.039218,-15.648326,49.48052,-14.654909",
     "geom:latitude":-15.164438,
     "geom:longitude":48.772094,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Befandriana Nord",
     "meso:region":"Sofia",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Befandriana Nord"
+    ],
     "name:fra_x_preferred":[
         "Befandriana Avaratra"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696999,
-    "wof:geomhash":"60ccc3c7817bc71131cd58bdb5636949",
+    "wof:geomhash":"fbc7ce142bacdb0b4b7fb90993512ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801127,
-    "wof:lastmodified":1628266626,
+    "wof:lastmodified":1694492300,
     "wof:name":"Befandriana Nord",
     "wof:parent_id":85674041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.880007,
-    "geom:area_square_m":9907529453.378632,
+    "geom:area_square_m":9907529380.25305,
     "geom:bbox":"45.817282,-25.210109,46.899951,-23.812436",
     "geom:latitude":-24.423932,
     "geom:longitude":46.354147,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Amboasary-Atsimo",
     "meso:region":"Anosy",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Amboasary-Atsimo"
+    ],
     "name:fra_x_preferred":[
         "Amboasary-Atsimo"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484696970,
-    "wof:geomhash":"d9fbf8de3a6ab53e35aca173a0d27d01",
+    "wof:geomhash":"4fb86e3e228dd2c27d3c2e23a01ca56c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108801083,
-    "wof:lastmodified":1628266619,
+    "wof:lastmodified":1694492299,
     "wof:name":"Amboasary-Atsimo",
     "wof:parent_id":85673977,
     "wof:placetype":"county",

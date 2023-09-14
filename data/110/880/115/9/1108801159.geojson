@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091746,
-    "geom:area_square_m":1056164180.961626,
+    "geom:area_square_m":1056164252.657264,
     "geom:bbox":"47.064433,-21.606576,47.427436,-21.226959",
     "geom:latitude":-21.410072,
     "geom:longitude":47.266151,
@@ -25,8 +25,11 @@
     "meso:name_loc":"Lalangina",
     "meso:region":"Haute Matsiatra",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Lalangina"
+    ],
     "name:fra_x_preferred":[
         "Lalangina"
     ],
@@ -44,7 +47,7 @@
     "wof:concordances":{},
     "wof:country":"MG",
     "wof:created":1484697025,
-    "wof:geomhash":"db9a8292bba3c5e535a4ef98a9a52bc5",
+    "wof:geomhash":"9f74a9252918f22ea6583a6d663a5b11",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108801159,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694492300,
     "wof:name":"Lalangina",
     "wof:parent_id":85674013,
     "wof:placetype":"county",
