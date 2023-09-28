@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.570432,
-    "geom:area_square_m":6805894557.702439,
+    "geom:area_square_m":6805895220.74304,
     "geom:bbox":"49.789733,-15.996278,50.483749,-14.520117",
     "geom:latitude":-15.222064,
     "geom:longitude":50.141939,
@@ -164,7 +164,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbd57b46cb897372d7b2a3edb8c383ba",
+    "wof:geomhash":"37a0ababe87db369c58b90a1932371fe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":421196875,
-    "wof:lastmodified":1690939402,
+    "wof:lastmodified":1695886198,
     "wof:name":"Antalaha",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

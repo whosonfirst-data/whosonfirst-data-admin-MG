@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212985,
-    "geom:area_square_m":2476607007.403215,
+    "geom:area_square_m":2476607276.386825,
     "geom:bbox":"46.920325,-20.220648,47.484771,-19.457451",
     "geom:latitude":-19.882309,
     "geom:longitude":47.158516,
@@ -262,7 +262,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2ffda24fb558db0e3900cf8f8497e9a9",
+    "wof:geomhash":"07d8aed26d2dc3c5ff3ab0a836416d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -272,7 +272,7 @@
         }
     ],
     "wof:id":421204565,
-    "wof:lastmodified":1690939394,
+    "wof:lastmodified":1695887128,
     "wof:name":"Antsirabe II",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.392912,
-    "geom:area_square_m":4709489643.579753,
+    "geom:area_square_m":4709490005.218202,
     "geom:bbox":"49.149134,-14.661596,50.20211,-13.830373",
     "geom:latitude":-14.222424,
     "geom:longitude":49.786552,
@@ -179,7 +179,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6540af6d2170b42fee32d01e3e16ee47",
+    "wof:geomhash":"479571bfc6b6a48ab4e841555ac24cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":421188089,
-    "wof:lastmodified":1690939397,
+    "wof:lastmodified":1695886198,
     "wof:name":"Sambava",
     "wof:parent_id":85674037,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.612786,
-    "geom:area_square_m":7172628872.126281,
+    "geom:area_square_m":7172628588.021138,
     "geom:bbox":"47.894532,-19.350867,48.71555,-18.09999",
     "geom:latitude":-18.805794,
     "geom:longitude":48.265861,
@@ -143,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"189d147c01e4be77912277b5c358a4c3",
+    "wof:geomhash":"e1d717887e8bd8cf4b31dbc89baf70ce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":421169605,
-    "wof:lastmodified":1690939393,
+    "wof:lastmodified":1695886201,
     "wof:name":"Moramanga",
     "wof:parent_id":85673955,
     "wof:placetype":"county",

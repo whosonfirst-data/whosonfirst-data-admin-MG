@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345017,
-    "geom:area_square_m":3980336888.829462,
+    "geom:area_square_m":3980336578.373085,
     "geom:bbox":"47.333143,-21.644188,47.890549,-20.491042",
     "geom:latitude":-21.092113,
     "geom:longitude":47.636644,
@@ -107,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9fb2a82d4b9138d75c7ed48c01f5678",
+    "wof:geomhash":"c82a1c633b551d3ca8497251eb332a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":421197047,
-    "wof:lastmodified":1690939403,
+    "wof:lastmodified":1695887128,
     "wof:name":"Ifanadiana",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

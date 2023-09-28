@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.058785,
-    "geom:area_square_m":12366049794.802362,
+    "geom:area_square_m":12366051157.802258,
     "geom:bbox":"44.802251,-20.227224,45.837254,-18.186531",
     "geom:latitude":-19.162826,
     "geom:longitude":45.36918,
@@ -152,7 +152,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"071880628848b168234d39aef772285e",
+    "wof:geomhash":"3e07c2372ba5c2e4daf581f3e9b211ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":421169603,
-    "wof:lastmodified":1690939393,
+    "wof:lastmodified":1695887149,
     "wof:name":"Miandrivazo",
     "wof:parent_id":85674035,
     "wof:placetype":"county",

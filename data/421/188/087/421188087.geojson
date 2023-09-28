@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.754041,
-    "geom:area_square_m":8596133080.138124,
+    "geom:area_square_m":8596133195.36981,
     "geom:bbox":"43.659903,-23.249438,45.07747,-22.404192",
     "geom:latitude":-22.786446,
     "geom:longitude":44.441217,
@@ -107,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7e5108ebd34af5bc5be73ddb441dc99",
+    "wof:geomhash":"17de53079f5bfe7764f195675f5162af",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":421188087,
-    "wof:lastmodified":1690939397,
+    "wof:lastmodified":1695887128,
     "wof:name":"Sakaraha",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

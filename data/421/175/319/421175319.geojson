@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.893162,
-    "geom:area_square_m":10344469966.397226,
+    "geom:area_square_m":10344469736.345016,
     "geom:bbox":"45.746682,-21.029044,47.03454,-19.880563",
     "geom:latitude":-20.502153,
     "geom:longitude":46.309194,
@@ -116,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0bddc87c3759d8063c5ed0daea7008b",
+    "wof:geomhash":"8be9f17e643966d256d2624e6ce64a69",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":421175319,
-    "wof:lastmodified":1690939401,
+    "wof:lastmodified":1695886202,
     "wof:name":"Ambatofinandrahana",
     "wof:parent_id":85673959,
     "wof:placetype":"county",

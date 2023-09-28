@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10124,
-    "geom:area_square_m":1157869928.302249,
+    "geom:area_square_m":1157869902.564397,
     "geom:bbox":"47.417322,-22.500547,47.948264,-22.183966",
     "geom:latitude":-22.3428,
     "geom:longitude":47.707075,
@@ -95,7 +95,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"979a35af4f79faebc335f52d712a4398",
+    "wof:geomhash":"a30f0de276519a9d1379c18b81c70e64",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":421184623,
-    "wof:lastmodified":1690939407,
+    "wof:lastmodified":1695887129,
     "wof:name":"Vohipeno",
     "wof:parent_id":85674045,
     "wof:placetype":"county",

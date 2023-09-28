@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.665503,
-    "geom:area_square_m":8002056302.463907,
+    "geom:area_square_m":8002057341.51663,
     "geom:bbox":"48.576974,-14.205714,49.474256,-12.846934",
     "geom:latitude":-13.485704,
     "geom:longitude":49.080212,
@@ -140,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9c221d49e9ab5dfd363491b9e44103a5",
+    "wof:geomhash":"6d9cca4dae01a1aefc84cb1643648899",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":421180171,
-    "wof:lastmodified":1690939395,
+    "wof:lastmodified":1695887127,
     "wof:name":"Ambilobe",
     "wof:parent_id":85674009,
     "wof:placetype":"county",

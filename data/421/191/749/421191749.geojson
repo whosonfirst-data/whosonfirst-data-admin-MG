@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252263,
-    "geom:area_square_m":2920286754.324751,
+    "geom:area_square_m":2920286841.771315,
     "geom:bbox":"46.965559,-20.963497,47.679455,-20.158002",
     "geom:latitude":-20.575575,
     "geom:longitude":47.299931,
@@ -155,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"255dbe57b988cf8c1608eda1adbeb52c",
+    "wof:geomhash":"ce55420b6d04c285ca1f135267a81e69",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":421191749,
-    "wof:lastmodified":1690939402,
+    "wof:lastmodified":1695887128,
     "wof:name":"Ambositra",
     "wof:parent_id":85673959,
     "wof:placetype":"county",

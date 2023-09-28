@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167869,
-    "geom:area_square_m":1936968775.152509,
+    "geom:area_square_m":1936968791.368158,
     "geom:bbox":"46.845255,-21.322277,47.448649,-20.788786",
     "geom:latitude":-21.068734,
     "geom:longitude":47.16888,
@@ -101,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d7bc4e73c9f29dbae0fd6f149580b1d6",
+    "wof:geomhash":"ff1000d7ec9a35b3e97209e1e413607a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421171619,
-    "wof:lastmodified":1690939410,
+    "wof:lastmodified":1695887129,
     "wof:name":"Ambohimahasoa",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

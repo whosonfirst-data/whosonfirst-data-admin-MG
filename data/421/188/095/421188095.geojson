@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.528789,
-    "geom:area_square_m":5943566325.693578,
+    "geom:area_square_m":5943566254.042214,
     "geom:bbox":"46.482684,-25.200445,47.416222,-23.974678",
     "geom:latitude":-24.630786,
     "geom:longitude":46.960557,
@@ -223,7 +223,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3aad2612430660ca9e125c1685265fda",
+    "wof:geomhash":"47204305ce9447f7805781eb19e86edb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -233,7 +233,7 @@
         }
     ],
     "wof:id":421188095,
-    "wof:lastmodified":1690939397,
+    "wof:lastmodified":1695887128,
     "wof:name":"Taolagnaro",
     "wof:parent_id":85673977,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221192,
-    "geom:area_square_m":2587509305.243097,
+    "geom:area_square_m":2587509282.589417,
     "geom:bbox":"46.486241,-19.208132,47.117313,-18.6558",
     "geom:latitude":-18.906684,
     "geom:longitude":46.830894,
@@ -130,7 +130,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b24688724234421a36735c511c92008c",
+    "wof:geomhash":"c069d9955f24f5b5f4ca223dc568f198",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421191751,
-    "wof:lastmodified":1690939402,
+    "wof:lastmodified":1695887128,
     "wof:name":"Miarinarivo",
     "wof:parent_id":85674025,
     "wof:placetype":"county",

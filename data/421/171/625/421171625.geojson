@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.419262,
-    "geom:area_square_m":4810915725.341919,
+    "geom:area_square_m":4810916037.606438,
     "geom:bbox":"46.156064,-22.204505,47.321492,-21.462091",
     "geom:latitude":-21.876616,
     "geom:longitude":46.72223,
@@ -146,7 +146,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40f6caf8b677d3b4423077094101f845",
+    "wof:geomhash":"b0b82ac28ba0aba66dbecb1ab9d49670",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":421171625,
-    "wof:lastmodified":1690939410,
+    "wof:lastmodified":1695886202,
     "wof:name":"Ambalavao",
     "wof:parent_id":85674013,
     "wof:placetype":"county",

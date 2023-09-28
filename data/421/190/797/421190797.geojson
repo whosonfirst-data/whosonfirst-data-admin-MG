@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.489381,
-    "geom:area_square_m":5664999482.836185,
+    "geom:area_square_m":5664999546.248713,
     "geom:bbox":"43.870419,-21.108607,44.822785,-19.924791",
     "geom:latitude":-20.580983,
     "geom:longitude":44.381258,
@@ -197,7 +197,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"942766012e11a86eea1aaf342fd3c94e",
+    "wof:geomhash":"4729f07c338cd0bb35b6f6a7666f1425",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":421190797,
-    "wof:lastmodified":1690939403,
+    "wof:lastmodified":1695886198,
     "wof:name":"Morondava",
     "wof:parent_id":85674035,
     "wof:placetype":"county",

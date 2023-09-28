@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15412,
-    "geom:area_square_m":1803745666.264702,
+    "geom:area_square_m":1803745556.820289,
     "geom:bbox":"47.598318,-19.180279,47.948065,-18.464421",
     "geom:latitude":-18.828303,
     "geom:longitude":47.790775,
@@ -113,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81eaa8c5a577e8de226e170cf86e0594",
+    "wof:geomhash":"f2ed02bbd0451531ff288fd952c24a0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":421190795,
-    "wof:lastmodified":1690939403,
+    "wof:lastmodified":1695887128,
     "wof:name":"Manjakandriana",
     "wof:parent_id":85673965,
     "wof:placetype":"county",
