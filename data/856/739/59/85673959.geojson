@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.427769,
-    "geom:area_square_m":16536730633.588568,
+    "geom:area_square_m":16536730604.778858,
     "geom:bbox":"45.746682,-21.029044,47.715049,-19.880563",
     "geom:latitude":-20.49745,
     "geom:longitude":46.683061,
@@ -292,14 +292,16 @@
         "gn:id":7670904,
         "gp:id":2346147,
         "hasc:id":"MG.FI.AM",
+        "hasc:id_pseudo":"MG.AM",
         "qs_pg:id":891447,
         "wd:id":"Q474134"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5bfaf6c49271e80b37cce3d51a2f9f0",
+    "wof:geomhash":"f05da6abf408cc86496dcb0db979eaaf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939375,
+    "wof:lastmodified":1695884969,
     "wof:name":"Amoron'i Mania",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.464823,
-    "geom:area_square_m":16635862350.826569,
+    "geom:area_square_m":16635861815.210108,
     "geom:bbox":"46.393422,-24.297688,47.894611,-22.137142",
     "geom:latitude":-23.293172,
     "geom:longitude":47.24888,
@@ -289,14 +289,16 @@
         "gn:id":7670908,
         "gp:id":2346147,
         "hasc:id":"MG.FI.AA",
+        "hasc:id_pseudo":"MG.AA",
         "qs_pg:id":891447,
         "wd:id":"Q757782"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0059da936d5d5beee49ea7dd4f5d11ca",
+    "wof:geomhash":"98389ad8bddaba71f7b3da6470feca29",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939376,
+    "wof:lastmodified":1695884970,
     "wof:name":"Atsimo-Atsinanana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

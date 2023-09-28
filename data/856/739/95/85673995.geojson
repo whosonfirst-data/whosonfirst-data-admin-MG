@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.462982,
-    "geom:area_square_m":29087085284.996471,
+    "geom:area_square_m":29087085140.193939,
     "geom:bbox":"45.571637,-17.939586,48.196129,-16.336204",
     "geom:latitude":-17.235617,
     "geom:longitude":47.028287,
@@ -292,14 +292,16 @@
         "gn:id":7670850,
         "gp:id":2346148,
         "hasc:id":"MG.MA.BE",
+        "hasc:id_pseudo":"MG.BE",
         "qs_pg:id":1288998,
         "wd:id":"Q832223"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b33a21315705794be2959a4f2161ad44",
+    "wof:geomhash":"3c4bdc68c480aa86c6c07144cca8b923",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939375,
+    "wof:lastmodified":1695884969,
     "wof:name":"Betsiboka",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

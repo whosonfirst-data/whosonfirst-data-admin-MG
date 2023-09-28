@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.542628,
-    "geom:area_square_m":17954398633.611485,
+    "geom:area_square_m":17954399059.349854,
     "geom:bbox":"45.772293,-20.277706,47.889831,-19.116532",
     "geom:latitude":-19.734695,
     "geom:longitude":46.847435,
@@ -303,14 +303,16 @@
         "gn:id":7670854,
         "gp:id":2346150,
         "hasc:id":"MG.AV.VA",
+        "hasc:id_pseudo":"MG.VA",
         "qs_pg:id":362635,
         "wd:id":"Q1463029"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c826570b478d91f2c95693f9f3d3f3d2",
+    "wof:geomhash":"1ace9ccca7715ff541a5e39ecf8b782a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +331,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939380,
+    "wof:lastmodified":1695884971,
     "wof:name":"Vakinankaratra",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

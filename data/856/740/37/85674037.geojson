@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.993836,
-    "geom:area_square_m":23886940907.254642,
+    "geom:area_square_m":23886941278.159344,
     "geom:bbox":"49.105309,-15.996278,50.483749,-12.737111",
     "geom:latitude":-14.311635,
     "geom:longitude":49.823739,
@@ -349,14 +349,16 @@
     "wof:concordances":{
         "gp:id":2346146,
         "hasc:id":"MG.AS.SV",
+        "hasc:id_pseudo":"MG.SV",
         "qs_pg:id":891445,
         "wd:id":"Q14383"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f829652126599d1ad68f43b425c071be",
+    "wof:geomhash":"a1cf0143550d6ccfc7b822d554b1f46b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -375,7 +377,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939381,
+    "wof:lastmodified":1695884971,
     "wof:name":"Sava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

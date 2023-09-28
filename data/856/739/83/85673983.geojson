@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.843183,
-    "geom:area_square_m":66469968622.24559,
+    "geom:area_square_m":66469967159.509415,
     "geom:bbox":"43.221222,-25.290445,45.79417,-20.9077",
     "geom:latitude":-23.055722,
     "geom:longitude":44.431965,
@@ -307,14 +307,16 @@
         "gn:id":7670913,
         "gp:id":2346151,
         "hasc:id":"MG.TL.AF",
+        "hasc:id_pseudo":"MG.AF",
         "qs_pg:id":1086782,
         "wd:id":"Q757781"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1eddf4655d0e3d234726a299613da220",
+    "wof:geomhash":"760988545fd0d22485a4e68e4cd122d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939378,
+    "wof:lastmodified":1695884970,
     "wof:name":"Atsimo-Andrefana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

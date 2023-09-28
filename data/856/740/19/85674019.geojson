@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.287654,
-    "geom:area_square_m":26130462220.457664,
+    "geom:area_square_m":26130461878.848579,
     "geom:bbox":"44.979631,-23.661885,47.22347,-21.613971",
     "geom:latitude":-22.515062,
     "geom:longitude":46.146761,
@@ -283,14 +283,16 @@
         "gn:id":7670907,
         "gp:id":2346147,
         "hasc:id":"MG.FI.HO",
+        "hasc:id_pseudo":"MG.HO",
         "qs_pg:id":891447,
         "wd:id":"Q1513970"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db6e55c86d91827618bf86708476aa52",
+    "wof:geomhash":"4cd127f27aec7358565a1942b147aeff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939380,
+    "wof:lastmodified":1695884971,
     "wof:name":"Ihorombe",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

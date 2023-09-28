@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.831404,
-    "geom:area_square_m":21091290592.602692,
+    "geom:area_square_m":21091290503.215527,
     "geom:bbox":"47.094559,-22.500547,48.618752,-20.212379",
     "geom:latitude":-21.344604,
     "geom:longitude":47.872495,
@@ -289,14 +289,16 @@
         "gn:id":7670906,
         "gp:id":2346147,
         "hasc:id":"MG.FI.VF",
+        "hasc:id_pseudo":"MG.VF",
         "qs_pg:id":891447,
         "wd:id":"Q1462671"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ad7baf677d4bb750da4172b57a80f335",
+    "wof:geomhash":"c0ad1376ed00320366bc0476013b9167",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939379,
+    "wof:lastmodified":1695884971,
     "wof:name":"Vatovavy-Fitovinany",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

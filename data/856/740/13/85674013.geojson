@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.815559,
-    "geom:area_square_m":20895401284.807686,
+    "geom:area_square_m":20895401924.085361,
     "geom:bbox":"45.52245,-22.204505,47.448649,-20.691897",
     "geom:latitude":-21.443399,
     "geom:longitude":46.599491,
@@ -296,14 +296,16 @@
         "gn:id":7670905,
         "gp:id":2346147,
         "hasc:id":"MG.FI.HM",
+        "hasc:id_pseudo":"MG.HM",
         "qs_pg:id":891447,
         "wd:id":"Q1440747"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ca266cdbf71112e675db758ca833e9eb",
+    "wof:geomhash":"e7432a06203790fa257df3ccb5f7c662",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -322,7 +324,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939382,
+    "wof:lastmodified":1695884972,
     "wof:name":"Haute Matsiatra",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

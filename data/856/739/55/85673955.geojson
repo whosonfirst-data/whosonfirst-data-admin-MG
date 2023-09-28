@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.375347,
-    "geom:area_square_m":27944999125.056602,
+    "geom:area_square_m":27944999022.058372,
     "geom:bbox":"47.698584,-19.810612,48.925065,-16.238265",
     "geom:latitude":-17.905188,
     "geom:longitude":48.323594,
@@ -289,14 +289,16 @@
         "gn:id":7670851,
         "gp:id":2346149,
         "hasc:id":"MG.TM.AO",
+        "hasc:id_pseudo":"MG.AO",
         "qs_pg:id":1208166,
         "wd:id":"Q1352996"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03833d71c809b4f90f667d974e155a1c",
+    "wof:geomhash":"4dcc3248bf502c20c23550c3a0fee056",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939377,
+    "wof:lastmodified":1695884969,
     "wof:name":"Alaotra-Mangoro",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

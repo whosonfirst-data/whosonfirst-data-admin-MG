@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.828394,
-    "geom:area_square_m":21689060984.444134,
+    "geom:area_square_m":21689061292.097061,
     "geom:bbox":"48.687759,-17.776585,50.067872,-14.81632",
     "geom:latitude":-16.378586,
     "geom:longitude":49.365793,
@@ -289,14 +289,16 @@
         "gn:id":7670848,
         "gp:id":2346149,
         "hasc:id":"MG.TM.AN",
+        "hasc:id_pseudo":"MG.AN",
         "qs_pg:id":1208166,
         "wd:id":"Q178449"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"618fcaf5ab7201fcad69b1260c18133a",
+    "wof:geomhash":"6c3898a399f2b5fa5137684cc0cda643",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939376,
+    "wof:lastmodified":1695884969,
     "wof:name":"Analanjirofo",
     "wof:parent_id":85632223,
     "wof:placetype":"region",
