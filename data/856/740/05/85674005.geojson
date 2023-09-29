@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.5506,
-    "geom:area_square_m":18171129973.848454,
+    "geom:area_square_m":18171129499.959621,
     "geom:bbox":"45.466985,-19.454361,47.092356,-17.742094",
     "geom:latitude":-18.604267,
     "geom:longitude":46.133384,
@@ -291,14 +291,16 @@
         "gn:id":7670853,
         "gp:id":2346150,
         "hasc:id":"MG.AV.BO",
+        "hasc:id_pseudo":"MG.BV",
         "qs_pg:id":362635,
         "wd:id":"Q679739"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"51a55d920e2891b5c820049aa66b0763",
+    "wof:geomhash":"dad2bbe963b7bf6f567b62c40a0e6c0e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -317,7 +319,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939379,
+    "wof:lastmodified":1695884970,
     "wof:name":"Bongolava",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

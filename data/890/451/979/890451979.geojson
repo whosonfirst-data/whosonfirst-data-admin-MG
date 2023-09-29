@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.583694,
-    "geom:area_square_m":6956243399.579408,
+    "geom:area_square_m":6956243053.524371,
     "geom:bbox":"49.001725,-15.930431,50.067872,-14.81632",
     "geom:latitude":-15.460754,
     "geom:longitude":49.498123,
@@ -168,7 +168,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6f6633ac587cc8011447435735ce9c39",
+    "wof:geomhash":"386c34d57bc34d32be4fb70b28c7852b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":890451979,
-    "wof:lastmodified":1690939416,
+    "wof:lastmodified":1695887150,
     "wof:name":"Maroantsetra",
     "wof:parent_id":85673967,
     "wof:placetype":"county",

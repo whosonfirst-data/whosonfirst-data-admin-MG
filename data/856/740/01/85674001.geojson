@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.60302,
-    "geom:area_square_m":30892148215.58931,
+    "geom:area_square_m":30892148480.071129,
     "geom:bbox":"44.867916,-17.362804,47.437292,-15.201278",
     "geom:latitude":-16.300955,
     "geom:longitude":46.197096,
@@ -286,14 +286,16 @@
         "gn:id":7670849,
         "gp:id":2346148,
         "hasc:id":"MG.MA.BO",
+        "hasc:id_pseudo":"MG.BO",
         "qs_pg:id":1288998,
         "wd:id":"Q740164"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d9eb83b1e1253459f6dc1a1522d87ac7",
+    "wof:geomhash":"21579668e294946f9d21346ef41af74e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -312,7 +314,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939381,
+    "wof:lastmodified":1695884972,
     "wof:name":"Boeny",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.590302,
-    "geom:area_square_m":6908457854.998646,
+    "geom:area_square_m":6908457228.413673,
     "geom:bbox":"44.132757,-19.314,45.115557,-18.317312",
     "geom:latitude":-18.830792,
     "geom:longitude":44.629719,
@@ -104,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"792772f96c61bd55613f4240d21fa937",
+    "wof:geomhash":"e3c869d10b943d7e72a987299f565110",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":421199279,
-    "wof:lastmodified":1690939404,
+    "wof:lastmodified":1695887129,
     "wof:name":"Antsalova",
     "wof:parent_id":85674029,
     "wof:placetype":"county",

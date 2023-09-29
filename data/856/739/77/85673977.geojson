@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.61575,
-    "geom:area_square_m":29550503191.894737,
+    "geom:area_square_m":29550503000.919437,
     "geom:bbox":"45.20065,-25.210109,47.416222,-22.675564",
     "geom:latitude":-23.980511,
     "geom:longitude":46.2566,
@@ -186,13 +186,15 @@
         "gn:id":7670910,
         "gp:id":2346151,
         "hasc:id":"MG.TL.AY",
+        "hasc:id_pseudo":"MG.AY",
         "qs_pg:id":1086782
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d2e8098832ef744ba3da36af955b4d2a",
+    "wof:geomhash":"ed802e444b2e300da71384ec2107670e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +213,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506380,
+    "wof:lastmodified":1695884970,
     "wof:name":"Anosy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

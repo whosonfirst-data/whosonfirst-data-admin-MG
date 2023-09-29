@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005951,
-    "geom:area_square_m":71896240.153025,
+    "geom:area_square_m":71896174.380741,
     "geom:bbox":"49.217331,-12.350184,49.313721,-12.230416",
     "geom:latitude":-12.291204,
     "geom:longitude":49.265524,
@@ -251,7 +251,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df432e95192ee895b5899bb8ff22e8b1",
+    "wof:geomhash":"f1d30cd0ff65c658e5c7e2163a484f13",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -261,7 +261,7 @@
         }
     ],
     "wof:id":421169783,
-    "wof:lastmodified":1690939394,
+    "wof:lastmodified":1695887127,
     "wof:name":"Antsiranana I",
     "wof:parent_id":85674009,
     "wof:placetype":"county",

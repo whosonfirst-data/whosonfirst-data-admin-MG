@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.672865,
-    "geom:area_square_m":7713012606.232762,
+    "geom:area_square_m":7713012461.519143,
     "geom:bbox":"43.221222,-22.446214,44.300303,-21.30961",
     "geom:latitude":-22.021745,
     "geom:longitude":43.708653,
@@ -144,7 +144,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40690e9b3f7a9b4f281f405ed73b1c98",
+    "wof:geomhash":"e0e5019b90f2cf7d364f5bdbbabb55c6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":890452055,
-    "wof:lastmodified":1690939413,
+    "wof:lastmodified":1695887150,
     "wof:name":"Morombe",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

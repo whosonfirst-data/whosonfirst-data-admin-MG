@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.239744,
-    "geom:area_square_m":2790163557.149172,
+    "geom:area_square_m":2790163824.534949,
     "geom:bbox":"47.174391,-20.097129,47.889831,-19.401761",
     "geom:latitude":-19.745686,
     "geom:longitude":47.498615,
@@ -128,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3747e7e31042099e5bcd391c846c6664",
+    "wof:geomhash":"3d91b0234c6be68aa7001e16316b685e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":421184621,
-    "wof:lastmodified":1690939406,
+    "wof:lastmodified":1695887129,
     "wof:name":"Antanifotsy",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

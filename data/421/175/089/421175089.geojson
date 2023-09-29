@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.206955,
-    "geom:area_square_m":13699407412.821024,
+    "geom:area_square_m":13699407366.627348,
     "geom:bbox":"45.20065,-24.150946,46.500883,-22.675564",
     "geom:latitude":-23.37231,
     "geom:longitude":45.877061,
@@ -113,7 +113,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bb190caef6c05ed766eab1557d660ee5",
+    "wof:geomhash":"4b44254ce361dd16ff35b8c1f433d363",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":421175089,
-    "wof:lastmodified":1690939399,
+    "wof:lastmodified":1695887128,
     "wof:name":"Betroka",
     "wof:parent_id":85673977,
     "wof:placetype":"county",

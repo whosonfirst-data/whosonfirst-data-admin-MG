@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.653089,
-    "geom:area_square_m":7478514999.157227,
+    "geom:area_square_m":7478514690.277349,
     "geom:bbox":"44.095987,-22.557122,45.303523,-21.707847",
     "geom:latitude":-22.169491,
     "geom:longitude":44.679032,
@@ -98,7 +98,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc2559a0cf6afd1a383cb5b1c25194f4",
+    "wof:geomhash":"37f06da32044a6fb16bae5034fdf6ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":421199277,
-    "wof:lastmodified":1690939404,
+    "wof:lastmodified":1695887128,
     "wof:name":"Ankazoabo",
     "wof:parent_id":85673983,
     "wof:placetype":"county",

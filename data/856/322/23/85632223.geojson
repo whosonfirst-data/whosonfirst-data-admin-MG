@@ -1548,6 +1548,7 @@
         "hasc:id":"MG",
         "icao:code":"5R",
         "ioc:id":"MAD",
+        "iso:code":"MG",
         "itu:id":"MDG",
         "loc:id":"n80087494",
         "m49:code":"450",
@@ -1562,6 +1563,7 @@
         "wk:page":"Madagascar",
         "wmo:id":"MG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MG",
     "wof:country_alpha3":"MDG",
     "wof:geom_alt":[
@@ -1588,7 +1590,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1694639572,
+    "wof:lastmodified":1695881232,
     "wof:name":"Madagascar",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.565138,
-    "geom:area_square_m":6605267409.389109,
+    "geom:area_square_m":6605267833.720642,
     "geom:bbox":"46.166475,-19.428242,47.467939,-18.6558",
     "geom:latitude":-19.050808,
     "geom:longitude":46.886568,
@@ -156,13 +156,15 @@
         "gn:id":7670855,
         "gp:id":2346150,
         "hasc:id":"MG.AV.IT",
+        "hasc:id_pseudo":"MG.IT",
         "qs_pg:id":362635
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0d984e8e6fa68867677d2ba9498eb5b",
+    "wof:geomhash":"41647d222d28e5da573837f1a55c6d73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -181,7 +183,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636506383,
+    "wof:lastmodified":1695884972,
     "wof:name":"Itasy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

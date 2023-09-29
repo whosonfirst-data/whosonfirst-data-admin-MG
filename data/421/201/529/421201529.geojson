@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37888,
-    "geom:area_square_m":4327635132.217398,
+    "geom:area_square_m":4327635193.68342,
     "geom:bbox":"46.525335,-23.012589,47.22347,-22.07835",
     "geom:latitude":-22.520592,
     "geom:longitude":46.915657,
@@ -101,7 +101,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b3548a9a373c554bbea3af2be5cb5c8",
+    "wof:geomhash":"7b726b40ebeeb31f0e3fd4c255058f4e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421201529,
-    "wof:lastmodified":1690939405,
+    "wof:lastmodified":1695886202,
     "wof:name":"Ivohibe",
     "wof:parent_id":85674019,
     "wof:placetype":"county",

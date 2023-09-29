@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.209965,
-    "geom:area_square_m":48835857626.406921,
+    "geom:area_square_m":48835858752.035416,
     "geom:bbox":"43.582863,-21.907839,45.841416,-18.186531",
     "geom:latitude":-20.24243,
     "geom:longitude":44.892468,
@@ -293,14 +293,16 @@
         "gn:id":7670902,
         "gp:id":2346151,
         "hasc:id":"MG.TL.ME",
+        "hasc:id_pseudo":"MG.MT",
         "qs_pg:id":1086782,
         "wd:id":"Q1344087"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9eece1b10d2a48266de1552274b1eff7",
+    "wof:geomhash":"557a1d543fc4c3743c14f81188171fec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -319,7 +321,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939378,
+    "wof:lastmodified":1695884970,
     "wof:name":"Menabe",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

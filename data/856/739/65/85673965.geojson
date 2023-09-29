@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.484262,
-    "geom:area_square_m":17411865254.042431,
+    "geom:area_square_m":17411864314.877563,
     "geom:bbox":"46.497287,-19.555948,48.036868,-17.70995",
     "geom:latitude":-18.425194,
     "geom:longitude":47.423255,
@@ -295,14 +295,16 @@
         "gn:id":7670856,
         "gp:id":2346150,
         "hasc:id":"MG.AV.AG",
+        "hasc:id_pseudo":"MG.AG",
         "qs_pg:id":362635,
         "wd:id":"Q484625"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4683d1036d5ddd2872b68e5642c4aa3e",
+    "wof:geomhash":"80b93c939fede48667480acdf381c624",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -321,7 +323,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939377,
+    "wof:lastmodified":1695884969,
     "wof:name":"Analamanga",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

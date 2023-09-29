@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160643,
-    "geom:area_square_m":1875578159.798366,
+    "geom:area_square_m":1875578645.251067,
     "geom:bbox":"46.166475,-19.428242,46.923777,-19.010527",
     "geom:latitude":-19.226985,
     "geom:longitude":46.559507,
@@ -128,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac24b7622c2280389acfed1cb73af036",
+    "wof:geomhash":"5a594f65ad302c55a25e94164bec699f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":421171621,
-    "wof:lastmodified":1690939410,
+    "wof:lastmodified":1695887129,
     "wof:name":"Soavinandriana",
     "wof:parent_id":85674025,
     "wof:placetype":"county",

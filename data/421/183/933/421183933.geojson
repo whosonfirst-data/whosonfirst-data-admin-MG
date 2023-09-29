@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.46945,
-    "geom:area_square_m":5575433565.844097,
+    "geom:area_square_m":5575433841.750094,
     "geom:bbox":"46.052663,-16.595653,47.265497,-15.863038",
     "geom:latitude":-16.160994,
     "geom:longitude":46.626309,
@@ -155,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f72e20a61c2a7170761ff0a197657942",
+    "wof:geomhash":"190a6a8e1e1c52f8f881b055fee20757",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":421183933,
-    "wof:lastmodified":1690939408,
+    "wof:lastmodified":1695887149,
     "wof:name":"Marovoay",
     "wof:parent_id":85674001,
     "wof:placetype":"county",

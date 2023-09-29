@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159883,
-    "geom:area_square_m":1864594020.48615,
+    "geom:area_square_m":1864593656.557919,
     "geom:bbox":"46.569863,-19.644647,47.223284,-19.19168",
     "geom:latitude":-19.412196,
     "geom:longitude":46.90314,
@@ -116,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a766c4db8a598d93ea6aa2b3a4e2eaf",
+    "wof:geomhash":"45d113be84787a9c9d30e9dcd124d1e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":421200821,
-    "wof:lastmodified":1690939404,
+    "wof:lastmodified":1695887129,
     "wof:name":"Faratsiho",
     "wof:parent_id":85674043,
     "wof:placetype":"county",

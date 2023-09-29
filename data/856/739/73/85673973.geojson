@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.696079,
-    "geom:area_square_m":19034181899.903683,
+    "geom:area_square_m":19034182363.512032,
     "geom:bbox":"44.496951,-25.607111,46.286801,-23.762614",
     "geom:latitude":-24.822649,
     "geom:longitude":45.445541,
@@ -292,14 +292,16 @@
         "gn:id":7670911,
         "gp:id":2346151,
         "hasc:id":"MG.TL.AD",
+        "hasc:id_pseudo":"MG.AD",
         "qs_pg:id":1086782,
         "wd:id":"Q218981"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bb619184736b47a88878a420215f939d",
+    "wof:geomhash":"73b3804a173cf26788795d170985c6de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939376,
+    "wof:lastmodified":1695884970,
     "wof:name":"Androy",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

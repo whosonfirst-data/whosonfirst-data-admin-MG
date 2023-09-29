@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024039,
-    "geom:area_square_m":289246814.161686,
+    "geom:area_square_m":289247273.206453,
     "geom:bbox":"48.172863,-13.424583,48.360416,-13.197945",
     "geom:latitude":-13.322721,
     "geom:longitude":48.267057,
@@ -156,7 +156,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30306cd614def39a04d7b8ab3bf7eb84",
+    "wof:geomhash":"de32f075721db349afbd3a09fa74879a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":890452057,
-    "wof:lastmodified":1690939413,
+    "wof:lastmodified":1695887129,
     "wof:name":"Nosy-Be",
     "wof:parent_id":85674009,
     "wof:placetype":"county",

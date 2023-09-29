@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.897973,
-    "geom:area_square_m":22174002968.049187,
+    "geom:area_square_m":22174003268.234341,
     "geom:bbox":"47.66694,-20.46182,49.522057,-17.549058",
     "geom:latitude":-19.103421,
     "geom:longitude":48.687134,
@@ -286,14 +286,16 @@
         "gn:id":7670857,
         "gp:id":2346149,
         "hasc:id":"MG.TM.AI",
+        "hasc:id_pseudo":"MG.AI",
         "qs_pg:id":1208166,
         "wd:id":"Q757783"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"888b4c02b759487e0d6900f174c7e9c3",
+    "wof:geomhash":"b9b2098477bfda17e2c4a9367ec3efae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -312,7 +314,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939377,
+    "wof:lastmodified":1695884383,
     "wof:name":"Atsinana",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

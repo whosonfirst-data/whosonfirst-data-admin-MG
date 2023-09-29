@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.478217,
-    "geom:area_square_m":40966050420.457031,
+    "geom:area_square_m":40966050162.509499,
     "geom:bbox":"43.925388,-19.314,45.970993,-16.175444",
     "geom:latitude":-17.715964,
     "geom:longitude":44.809535,
@@ -283,14 +283,16 @@
         "gn:id":7670852,
         "gp:id":2346148,
         "hasc:id":"MG.MA.ME",
+        "hasc:id_pseudo":"MG.ME",
         "qs_pg:id":1288998,
         "wd:id":"Q1514040"
     },
+    "wof:concordances_official":"hasc:id_pseudo",
     "wof:country":"MG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b911ae1406e7e1bb815e15444308193",
+    "wof:geomhash":"f3d456a8fba4888010ae96954b7e7a7c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690939379,
+    "wof:lastmodified":1695884971,
     "wof:name":"Melaky",
     "wof:parent_id":85632223,
     "wof:placetype":"region",

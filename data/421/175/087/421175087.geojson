@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358618,
-    "geom:area_square_m":4168327835.004612,
+    "geom:area_square_m":4168327782.941026,
     "geom:bbox":"46.250372,-20.277706,47.011238,-19.510848",
     "geom:latitude":-19.947142,
     "geom:longitude":46.667611,
@@ -125,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"967be1eb234d33fced235d35222ec34c",
+    "wof:geomhash":"c14f6ab52d301378e81347e7f477b915",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":421175087,
-    "wof:lastmodified":1690939399,
+    "wof:lastmodified":1695887128,
     "wof:name":"Betafo",
     "wof:parent_id":85674043,
     "wof:placetype":"county",
